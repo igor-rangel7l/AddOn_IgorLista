@@ -1,0 +1,88 @@
+
+<meta http-equiv="refresh" content="5; url=https://www.facebook.com/groups/igor.lista.iptv">
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<items> 
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]GLOBO NEWS[/COLOR] [COLOR gray]Master[/COLOR]</title>
+<link>$doregex[getFile]|User-Agent=iPad</link>
+<regex>
+<name>getFile</name>
+<expres>file:"(.*?)"</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-encrypted</name>
+<expres><![CDATA[(?s)</div>\s+\n\s+<script type="text/javascript">;eval\(function\(w,i,s,e\).*}\((.*?)\)]]></expres>
+<page>http://megadash.xyz/hls_nm.php?id=30324&width=468&height=380</page>
+<referer>http://tv-aovivo.nl/</referer>
+<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3</agent>
+</regex>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjMfYGm-cyjFFEI6QxKLO0goAkQtD1IW3fXPvfoqQBlPcVA5nRUYK6ebXR</fanart>
+<thumbnail>http://goo.gl/QCdPkl</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]GLOBO NEWS[/COLOR] [COLOR gray] aovivonatv[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-globo-news-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>source: 'http://(.*)/loa</expres>
+<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)'</expres>
+<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjMfYGm-cyjFFEI6QxKLO0goAkQtD1IW3fXPvfoqQBlPcVA5nRUYK6ebXR</fanart>
+<thumbnail>http://goo.gl/QCdPkl</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]RECOR NEWS[/COLOR] [COLOR gray] aovivonatv[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-record-news/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>source: 'http://(.*)/loa</expres>
+<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)'</expres>
+<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjMfYGm-cyjFFEI6QxKLO0goAkQtD1IW3fXPvfoqQBlPcVA5nRUYK6ebXR</fanart>
+<thumbnail>http://goo.gl/QCdPkl</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]BH NEWS[/COLOR]</title>
+<link>http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8</link>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_nHOgnKBXrvj0UE0tS1cyb4gaUz_DGNFVqmA-5ls3VpNJ51MN3P1AF36C</fanart>
+<thumbnail>http://goo.gl/Dmcbs2</thumbnail>
+</item>
+
+
+
+
+
+
+
+</channel>  
