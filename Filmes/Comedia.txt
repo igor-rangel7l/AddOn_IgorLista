@@ -221,4 +221,32 @@
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9p3BjtXwi4pXYE3owEU9_0wTda1Nxt4_i5h3MCLuHYqiUuZvl</thumbnail>
 </item>
 
+<item>
+<title>Gênios do Crime (Dublado) - 2016 </title>
+<link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Comédia e Policial</genre>
+<info>A história gira em torno de Dave Ghantt, um guarda noturno de uma companhia de carros blindados no sul dos Estados Unidos que organiza um dos mais ousados assaltos a banco da história norte-americana.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/B7KJPMhezLe6zAdVqmArZ4qlSmd_vbjsKSWsIAXzC6iOYBOoY_PiRHU5sPM3L5WQBqbM9gY-_55-rvJBTR7Xn0kIoT7YQfOQOAzmoQ=w512-h288-nc</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_ZFvtFAH3SQLoaIJX_r7x-JlBpiRkoFf-Sw1nFj0PJFitqESvEBUilKxi</thumbnail>
+</item>
+
+<item>
+<title>Truque de Mestre: O Segundo Ato (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Um ano após despistar o FBI e ganhar a adulação do público com seus números de mágica ao estilo Robin Hood, os Quatro Cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco e Lizzy Caplan) ressurgem em um espetáculo que pretende expor as práticas sem ética de um magnata da tecnologia, mas ao final do número, são desmascarados e raptados por um inimigo desconhecido. O homem por trás do ato de desaparecimento dos ilusionistas é nada menos que Walter Mabry (Daniel Radcliffe), um prodígio que ameaça os mágicos e os obriga a fazer um roubo dos mais espetaculares e impossíveis. A única esperança é conseguir produzir um golpe sem precedentes para limpar seus nomes e revelar o real mandante por trás de tudo.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSojLryWak5OPW3Nlg2pTBk41tHsz3vhf6DbMuq3rijNluVhIqUYfPnf52EsQ</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE3EoJQur69G_SwWjwQUhCeqFdavbXQ4unIu3c75xaHqk0QnY5MQFy8HONWw</thumbnail>
+</item>
+
  

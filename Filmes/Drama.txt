@@ -390,3 +390,45 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYtvK0wG-xBIKtt3cKvlNKsUeJo_TH9PlePD-In5NLGNB9zBdb</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj-CHbYImv4vjvh63rHcW-oGBbIiaOJV1cmEdgkKlnd04seP0OaA</thumbnail>
 </item>
+
+<item>
+<title>Esquadrão de Elite (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Buren é um velho policial tempo que não joga pelas regras. No submundo Paris a sua equipa nunca tem medo de usar seus músculos e armas para fazer cumprir a lei. Com todos os seus movimentos sob o escrutínio de Lenoir seu novo patrão, Buren sabe que seu tempo está se esgotando. Quando um assalto se transforma em assassinato, Buren segue suas entranhas e invade a casa de ex-presidiário Kasper um. Mas Kasper tem um álibi sólido e Buren tem que deixá-lo ir. Marginalizado, Buren e seu esquadrão desobedecer as ordens de Lenoir para tentar impedir um assalto a banco em curso. A operação é um banho de sangue e Buren leva a queda para ele. Mas, quando ele percebe que os assaltos são parte de uma operação maior, Buren com nada a perder, decide entrar em ação.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/29me8EsNWvFQQcQwmyxBJx9QmOYoodNlP-sYS57coXAT1E6ZZJjawWDmAZrpXEWTbJiObATq=w512-h287-nc</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY2wAkaPeYFAB4z9CoNg6Xn6d3csWNAefPQBjSOogWYI7CE-usrw</thumbnail>
+</item>
+
+<item>
+<title>Inferno (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]INFRNO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Drama e Policia</genre>
+<info>O renomado professor de simbologia de Harvard, Robert Langdon (Tom Hanks), visita a Itália e se envolve em mais uma aventura envolvendo símbolos ocultos e corporações secretas. Ele se vê em uma jornada em que procura desvendar os mistérios do clássico da literatura "A Divina Comédia", de Dante Alighieri.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7jouGQGKf5Iek1H_VdNIT3hPjfbOvxDfLukQDSX9A3N89x_OK7YVksTQpgw</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv7nJ84k4YMNB3fy1UzbKOMtdDvQ0MMfyWBCBThfQmw8J_oshIRQ</thumbnail>
+</item>
+
+<item>
+<title>Uma Canção (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Uma arqueóloga (Anne Hathaway) está de volta aos Estados Unidos após um período de escavações no Marrocos, onde seu irmão sofreu um acidente. Ao retornar, ela se envolve com um astro do rock (Johnny Flynn), que vem a ser o músico preferido de seu irmão.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjo10J4kfEhc4EPJRNpQwKw27U6w9mLt-mpaya81CD_3B5IScA</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuoOpyjhgyWGsWoXPM4Ivyd-qCH4y5yFnx2nGYZykgZsQAAAdj</thumbnail>
+</item>

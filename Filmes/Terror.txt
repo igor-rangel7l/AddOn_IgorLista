@@ -13,6 +13,20 @@
 
 
 <item>
+<title>Ouija Exorcismo (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>O filme é novamente inspirado no antigo tabuleiro Ouija – superfície plana feita em madeira que possibilita a comunicação com espíritos. De volta aos anos 1960, uma jovem menina se encontra com forças sobrenaturais que se apossam do tabuleiro Ouija usado pela família.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/ouija-2_t121099.jpg</thumbnail>
+</item>
+
+<item>
 <title>Ouija: Onde Tudo Começo (Dublado) - 2011.</title>
 <link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4</link>
 <regex>
@@ -150,4 +164,18 @@
 <info>Um grupo de amigos muda-se para uma casa de com um passado sinistro em Fall River, Massachusetts. O proprietário da casa, Taryn sente uma forte ligação com a casa e encontram-se no centro de um dos poltergeists mais mortais da história americana.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojBukow2fXifjOfbw-ncCp7TNsdCppPJJnMgSe0K7zdt1IFISKB0RG5jK</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
+</item>
+
+<item>
+<title>Quando as Luzes se Apagam (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]QNDASLZSAPGM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Desde que era pequena, Rebecca tinha uma porção de medos, especialmente quando as luzes se apagavam. Ela acreditava ser perseguida pela figura de uma mulher e anos mais tarde seu irmão mais novo começa a sofrer do mesmo problema. Juntos eles descobrem que a aparição está ligada à mãe deles, Rebecca começa a investigar o caso e chega perto de conhecer a terrível verdade.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFhcs_VTvlGtUrPmOGgw5emT9FsA_Aga4LXrwr645jzao-rVaNXITXon4Hng</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5bSUPfpYq-d_QU3m5XEV0N7tT-f8itAnLqnRrW-cPTylVjjhL7g</thumbnail>
 </item>

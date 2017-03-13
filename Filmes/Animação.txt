@@ -66,3 +66,45 @@
 fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8i4Kl5HSsopDta8xykDM1C7WJdD9GMIgVvTOeVjk</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJR-SVo68LaB09vGYnXMlArJwzT9VmzaKboeAG5HaKZxS7ZRf</thumbnail>
 </item>
+
+<item>
+<title>Liga da Justiça Sombria (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Um grupo de anti-heróis sobrenaturais se unem para enfrentar ameaças ocultas, ameaças sobrenaturais, ameaças que talvez Batman, Superman e companhia não conseguiriam vencer. O clã é formado por personagens como John Constantine, Zatanna, o Monstro do Pântano, Etrigan, o Demônio, e a Orquídea Negra.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmluTkLc5KRd5xW65JirlmDK_DOt6hpo7WQDJhuRRk4tU0CvyMjGKKxVRqCw</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStwHLqsSJgl3PZ0uZuHw4K1AACPRi505n61PqXaYbEk_PViU10-9KwAxFuAw</thumbnail>
+</item>
+
+<item>
+<title>Abril e o Mundo Extraordinário (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura,Animação e Ficção Científica</genre>
+<info>Ambientado em 1941, numa França Steampunk que parou no Século 19, repleta de máquinas a vapor, duas torres Eiffel e governada por Napoleão VI, os cientistas desaparecem misteriosamente. Uma garota chamada Avril (Marion Cotillard), vai em busca de seus pais cientistas desaparecidos.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/uKIpuco6CSyh0BPwrfFVgHAPr2je0ItAP8747L2Cy4fI3nBSbUFowhjs4Dl0CKmYk2bwBG6ovi4ChMhIaxyayW15n6Q77MLQW8oD0i2jgWp0breUhQPH0w_r7A=w512-h287-nc</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSNTxAUT1HqvrYYzFfvLm8fATGEiCFD3uuyinB56n0E6Jvc2xXA</thumbnail>
+</item>
+
+<item>
+<title>Truque de Mestre: O Segundo Ato (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Um ano após despistar o FBI e ganhar a adulação do público com seus números de mágica ao estilo Robin Hood, os Quatro Cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco e Lizzy Caplan) ressurgem em um espetáculo que pretende expor as práticas sem ética de um magnata da tecnologia, mas ao final do número, são desmascarados e raptados por um inimigo desconhecido. O homem por trás do ato de desaparecimento dos ilusionistas é nada menos que Walter Mabry (Daniel Radcliffe), um prodígio que ameaça os mágicos e os obriga a fazer um roubo dos mais espetaculares e impossíveis. A única esperança é conseguir produzir um golpe sem precedentes para limpar seus nomes e revelar o real mandante por trás de tudo.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSojLryWak5OPW3Nlg2pTBk41tHsz3vhf6DbMuq3rijNluVhIqUYfPnf52EsQ</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE3EoJQur69G_SwWjwQUhCeqFdavbXQ4unIu3c75xaHqk0QnY5MQFy8HONWw</thumbnail>
+</item>

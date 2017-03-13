@@ -53,3 +53,45 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoziRs9W-7RQdeGCndYEVjLeVuWMHUxu8y59Yf5TxyUETXmO4IBNqV2VMS</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx20ZzTKcLFX41aOYBqKzuloyrqUfx1sDi0eC7TDZ0Iu3y0ujkNQ</thumbnail>
 </item>
+
+<item>
+<title>Inferno (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]INFRNO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Drama e Policia</genre>
+<info>O renomado professor de simbologia de Harvard, Robert Langdon (Tom Hanks), visita a Itália e se envolve em mais uma aventura envolvendo símbolos ocultos e corporações secretas. Ele se vê em uma jornada em que procura desvendar os mistérios do clássico da literatura "A Divina Comédia", de Dante Alighieri.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7jouGQGKf5Iek1H_VdNIT3hPjfbOvxDfLukQDSX9A3N89x_OK7YVksTQpgw</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv7nJ84k4YMNB3fy1UzbKOMtdDvQ0MMfyWBCBThfQmw8J_oshIRQ</thumbnail>
+</item>
+
+<item>
+<title>Gênios do Crime (Dublado) - 2016 </title>
+<link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Comédia e Policial</genre>
+<info>A história gira em torno de Dave Ghantt, um guarda noturno de uma companhia de carros blindados no sul dos Estados Unidos que organiza um dos mais ousados assaltos a banco da história norte-americana.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/B7KJPMhezLe6zAdVqmArZ4qlSmd_vbjsKSWsIAXzC6iOYBOoY_PiRHU5sPM3L5WQBqbM9gY-_55-rvJBTR7Xn0kIoT7YQfOQOAzmoQ=w512-h288-nc</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_ZFvtFAH3SQLoaIJX_r7x-JlBpiRkoFf-Sw1nFj0PJFitqESvEBUilKxi</thumbnail>
+</item>
+
+<item>
+<title>Esquadrao Suicida (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Reúna um time dos super vilões mais perigosos já encarcerados, dê a eles o arsenal mais poderoso do qual o governo dispõe e os envie a uma missão para derrotar uma entidade enigmática e insuperável que a agente governamental Amanda Waller (Viola Davis) decidiu que só pode ser vencida por indivíduos desprezíveis e com nada a perder. No então, assim que o improvável time percebe que eles não foram escolhidos para vencerem, e sim para falharem inevitavelmente, será que o Esquadrão Suicida vai morrer tentando concluir a missão ou decidem que é cada um por si?</info>
+<fanart>http://igorlistalogos.at.ua/Filmes/fanart/esquadrao-suicida.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/Filmes/thumbnail/esquadrao-suicida.jpg</thumbnail>
+</item>

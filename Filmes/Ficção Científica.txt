@@ -80,3 +80,45 @@
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOVozKE1uLJuQoymPDNbc_ZcAsUBkk2EgfDRo86wV_vC9dTdFqjUAAPBP0</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgS6gU6heUdWglvycj5_0JKF5GKgHLGhNA7wCKmzTtU7-XveZUFan4Jldd_g</thumbnail>
 </item>
+
+<item>
+<title>Stereo (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]STRO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ficção Científica</genre>
+<info>Eric é um mecânico de motocicletas que leva uma vida tranquila com sua namorada Julia e sua pequena enteada. Mas sua rotina bucólica e quase perfeita é perturbada quando Henry, uma figura estranha, começa a aparecer em sua oficina e Eric é o único capaz de vê-lo. Henry provoca Eric até levá-lo à beira da loucura, quando começam a aparecer outras figuras ainda mais sombrias, que passam a ameaçar Eric e sua família caso ele não concorde em fazer o que elas mandam. Cada vez mais confuso, Eric não tem outra saída senão confiar em Henry. Mostra Panorama, Festival de Berlim 2014.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg3AeSz4jq-MftCwJ3TWkN_fm4iOk4m4l8r153KIoQrODdgWc33DHdzq_2SQ</fanart>
+<thumbnail>https://lh4.googleusercontent.com/proxy/pJcFiYP-BdOYwE9jDcToTxz3dEm9OV7N5Z4YcNlYGLT8NaATJthnu7RNtWEuJjZ6RaxeAjbOk7D84VaVegIfAy8HAmlC3en10yW9c2rNlHj_ic52k3Zjy-A=w185-h278-nc</thumbnail>
+</item>
+
+<item>
+<title>iBoy (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]IBOY.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Após um acidente, Tom acorda de um coma e descobre que fragmentos do seu smart phone foram incorporados na sua cabeça. Ele também descobre que retornar à vida de um adolescente normal é impossível, pois ele desenvolveu super poderes.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmdaFb0P_Ru6aExALvZ1t7BVRbqcQ0HAy93XvErcRv11REy6dRw</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuRHBPDMK_A21hCvsSoMQUb3BKcKAsaQtKXt7utXOyLDHjBcZFVg</thumbnail>
+</item>
+
+<item>
+<title>Abril e o Mundo Extraordinário (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura,Animação e Ficção Científica</genre>
+<info>Ambientado em 1941, numa França Steampunk que parou no Século 19, repleta de máquinas a vapor, duas torres Eiffel e governada por Napoleão VI, os cientistas desaparecem misteriosamente. Uma garota chamada Avril (Marion Cotillard), vai em busca de seus pais cientistas desaparecidos.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/uKIpuco6CSyh0BPwrfFVgHAPr2je0ItAP8747L2Cy4fI3nBSbUFowhjs4Dl0CKmYk2bwBG6ovi4ChMhIaxyayW15n6Q77MLQW8oD0i2jgWp0breUhQPH0w_r7A=w512-h287-nc</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSNTxAUT1HqvrYYzFfvLm8fATGEiCFD3uuyinB56n0E6Jvc2xXA</thumbnail>
+</item>
