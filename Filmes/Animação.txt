@@ -52,3 +52,17 @@
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpkTa8dd4GH7VsRNZhZb61sBb8xpNKx9uwX02N9i3FlIYVC_nCzCGp_fgqnQ</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHIF40BzzC1Vc9hQ47IeKfrzsB96I8ik8FrEMi1X-Vy6Gm7g48</thumbnail>
 </item>
+
+<item>
+<title>Cantando de Galo</title>
+<link>$doregex[Igor_Rangel_Link]CATNDGL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Toto (de Bruno Bichir) agora é um galo gado, mas os seus sonhos vão além de todos os animais acordar todas as manhãs. Ele quer ser um grande gamecock na arena das pessoas. O destino irá satisfazer os seus desejos de uma forma inesperada. Um mentiroso rancheiro engana a fazenda onde os proprietários vivem e Toto aposto que faz uma briga de galos. Então Toto deve treinar-se para superar a terrível pau Bankivoide, campeão dos campeões, sabendo que o destino da fazenda e seus habitantes estão em suas "asas".</info>
+fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8i4Kl5HSsopDta8xykDM1C7WJdD9GMIgVvTOeVjk</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJR-SVo68LaB09vGYnXMlArJwzT9VmzaKboeAG5HaKZxS7ZRf</thumbnail>
+</item>

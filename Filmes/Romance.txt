@@ -24,3 +24,59 @@
 <fanart>https://lh3.googleusercontent.com/proxy/PDzmF3Ost00bON8iUO7rwas3wTS3CTctkrcFkuACkH2Xk_G_JECpCt9VDa5NxFAMTCCwecD5=w511-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqH9feFVhMxm4_-zdpscG022XueE2UOAXB_3D4r_GmWQ_l_XRCq-CQQuBdMw</thumbnail>
 </item>
+
+<item>
+<title>Ritmo Total (Dublado) - 2002</title>
+<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc9DdKscKaay-4XsM9R08lMitHCJkW3DAIPnSWapqxNQPdEPjByA</fanart>
+<thumbnail>https://img.fstatic.com/YY3rVSBk3WxsoBKhE2Px3-p9iBs=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2009/03/63df1e6e7e3b1e69d389400ce863020f.jpg</thumbnail>
+</item>
+
+<item>
+<title>Porque é Novembro (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Romance</genre>
+<info>Steve sempre termina o romance com suas namoradas em novembro para impedir que a relação fique mais séria, mas desta vez ele pode se arrepender de sua decisão.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSktZ0VDWWYDyrRX2hJ2ew7LUqtnl8YJjPpCHFTa7xBrlN6loMX6g</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurayL3CO3R7PeSIq3iv1k3W_ow72MOAwZlJmtJKlAxtVIffzH</thumbnail>
+</item>
+
+<item>
+<title>Namorada de Aluguel (Dublado) - 1987</title>
+<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Ronald Miller (Patrick Dempsey) é um jovem tímido e trabalhador, que sempre sonhou em ser popular no colégio. Quando ele descobre que Cindy Mancini (Amanda Peterson), uma garota linda que todos os garotos paqueram, está precisando de 1000 dólares ele surge com uma insólita proposta: empresta o dinheiro a ela e em troca ela deverá fingir ser sua namorada. Ela topa e, com sua ajuda, ele acaba se tornando um dos garotos mais populares do colégio.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFcu7NXFT1PIzPkRWqr8SHdC3ochsJvq24U5WNRcP6Gz3XIjeceQ</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DcVFJCkRuCdWzOYY7HJaU_rX2sXlJB_EXDV1TZ-i_kgry2v51w</thumbnail>
+</item>
+
+<item>
+<title>Mercy (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]MERCY.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>A história gira ao redor de Lucy (Page), filha de um homem que está no corredor da morte. Mas ela acaba se envolvendo com Mercy (Mara), descrita como "uma mulher do lado oposto da causa política de sua família".</info>
+<fanart>https://lh3.googleusercontent.com/proxy/N49qheSN9yZegmCk6VP48Gbfi349XMjAzXloiwfX103UQz5BZV7j5UPiIEPY3nUi2lf7LphcGbuTnR-A5sdgvfi_OYqnSulaW1jvJliSJJ5xAfIVnS43=w511-h288-nc</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbuSoGZfWU6L919SU3GLulJzZscjGTwzPQEA3SspWAyY5luXr8Nw</thumbnail>
+</item>
