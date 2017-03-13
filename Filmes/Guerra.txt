@@ -1,0 +1,41 @@
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+
+<item>
+<title>Guerra ao Terror (Dublado) - 2010</title>
+<link>$doregex[Igor_Rangel_Link]GURAOTER.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Drama e Guerra</genre>
+<info>Para um grupo de soldados americanos, alguns dias os separam do retorno para casa. Um período relativamente curto, se não fosse por tantas ocorrências que transformassem esse fim de jornada em um verdadeiro inferno. As forças armadas precisam de especialistas não só nos campos de combate mas também no dia a dia, na proteção do grupo contra insurgentes que promovem atentados, matando milhares de cidadãos.
+Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Roteiro Original, Melhor Montagem, Melhor Som e Melhor Edição de Som.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzSb9XixePr31USjBZBLOKjeyx1DeN0mUEIwScz6DcQVD4aQBAdl_qAT77cA</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEnQOkfw29_vPX7Gei4zKBneR5-xe_7Qbe_6iyX4FBAgZnScR7TD8ELah</thumbnail>
+</item>
+
+<item>
+<title>Cavalo de Guerra (Dublado) - 2012</title>
+<link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>Na trama, em 1914, Joey, um potro com um sinal em forma de cruz na testa, é vendido ao exército e enviado à Europa, onde se desenrola a Primeira Guerra Mundial. Entregue a um oficial, o animal se torna um cavalo de batalha, testemunhando o horror do conflito na França. A coragem de Joey toca os soldados, enquanto o cavalo sofre pela ausência de Albert, o filho do fazendeiro que ele deixou para trás. Será que ele verá seu dono verdadeiro outra vez?</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoszbs6_mO1wl7XFZqv047y-vHYcp9QN7ZldOvHWlJol8AINAjSez0kYwObw</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9-qlNs-xwpLbxRaCv3JvQDg6pRB6F0gq82HFkripCnjEu9aNJKUfCZvY</thumbnail>
+</item>
