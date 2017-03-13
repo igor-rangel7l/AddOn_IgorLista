@@ -109,3 +109,45 @@
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
 </item>
+
+<item>
+<title>Uma Noite Com a Família Blacks (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Comédia que parodia o filme de terror "Uma noite de crime". Uma vez por ano, durante uma noite inteira, uma país pausa suas leis em relação aos crimes e permite com que todos os cidadãos se vinguem de seus inimigos. Recém mudados para uma vizinhança predominantemente branca, a família negra dos Black será perseguida das mais hilárias maneiras.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/xxnIN9VZRu7AxfW05P7LY-uU3TGMPAVszM0A-kqPisnF_1RrxUWZatOFy5Fvfivv3LRCpDHti7JD_FrxG3CG4CY66xAXbVFzAG5jOnkgftXWfChCeX-2=w511-h288-nc</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJvghL-xLFlDW0_AtTm9JQaVltf_uuoIyCPkr0d0MQpIYI-Has</thumbnail>
+</item>
+
+<item>
+<title>Os Pássaros (Dublado) - 1963</title>
+<link>$doregex[Igor_Rangel_Link]OSPSRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Melanie Daniels, uma jovem da cidade de São Francisco, vai até uma pequena cidade isolada da Califórnia, chamada Bodega Bay, atrás de um potencial namorado: Mitch Brenner. Mas na cidade começa de repente a acontecer fatos estranhos: pássaros de todas as espécies passam a atacar a população, em número cada vez maior e com mais violência, deixando todos aterrorizados.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSljUSfxUPI0ep-u4CbsRCPzEPbv1LbIOvW2fGSguLRu1nprHOS</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhqYciUqoHDiwY5eSq8svSiSSwURp3OO6sDauiKHfIPL7C4SIF8A</thumbnail>
+</item>
+
+<item>
+<title>American Poltergeist (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Um grupo de amigos muda-se para uma casa de com um passado sinistro em Fall River, Massachusetts. O proprietário da casa, Taryn sente uma forte ligação com a casa e encontram-se no centro de um dos poltergeists mais mortais da história americana.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojBukow2fXifjOfbw-ncCp7TNsdCppPJJnMgSe0K7zdt1IFISKB0RG5jK</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
+</item>
