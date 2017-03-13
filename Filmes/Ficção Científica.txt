@@ -52,3 +52,31 @@
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
 </item>
+
+<item>
+<title>Os Caçadores de Atlântida (Dublado) - 1983</title>
+<link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Mike e Washington, dois amigos mercenários, passeiam de iate pelo mar caribenho para comemorar um trabalho bem feito. Perto dali, um grupo de cientistas faz pesquisas em uma estação petrolífera e se prepara para resgatar um submarino nuclear russo naufragado. A descoberta de uma placa de pedra pertencente à antiga e lendária civilização de Atlântida coincide com um maremoto que destrói a plataforma. Os sobreviventes unem-se a Mike e Washington e chegam até terra firme, onde um batalhão de punks inicia sua missão de exterminar a humanidade para preparar o retorno dos habitantes de Atlântida.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuRNzr_rQvgr1s5JE9GHGik_rR0U8vIldr1JNYrc-Lk-feVn6Ko0n48qb</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfi-otyiubGMuL122qBDTBnoMGYcNnuiYsa5TioGbGiHCeQzR9sQ</thumbnail>
+</item>
+
+<item>
+<title>Cyborg: O Dragão do Futuro (Dublado) - 1989</title>
+<link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>No século 21, o mundo passa por processo de deterioração e anarquia social. Considerada uma praga, apenas Pearl Prophet (Dayle Haddon), uma criatura meio humana meio robô, possui o conhecimento para criar uma vacina. Mas Pearl é capturado por canibais, os Flesh Pirates, que planejam manter o antídoto apenas para eles e dominar a Terra! Pearl agora vai precisr contar com a habilidade do mestre do sabre Gibson Rickenbacker (Van Damme).</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOVozKE1uLJuQoymPDNbc_ZcAsUBkk2EgfDRo86wV_vC9dTdFqjUAAPBP0</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgS6gU6heUdWglvycj5_0JKF5GKgHLGhNA7wCKmzTtU7-XveZUFan4Jldd_g</thumbnail>
+</item>
