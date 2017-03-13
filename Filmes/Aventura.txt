@@ -207,3 +207,45 @@
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpkTa8dd4GH7VsRNZhZb61sBb8xpNKx9uwX02N9i3FlIYVC_nCzCGp_fgqnQ</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHIF40BzzC1Vc9hQ47IeKfrzsB96I8ik8FrEMi1X-Vy6Gm7g48</thumbnail>
 </item>
+
+<item>
+<title>Agente Mirim (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>A mãe de Olivia sai numa viagem de negócios e a deixa sozinha em casa com seu irmão Miles no comando. A primeira noite, Olivia adormece no sofá, e acorda, não percebendo o quão tarde é. Ela caminha com seu cachorro Charlie sem Miles ficar sabendo e testemunha uma mulher sendo sequestrada nas ruas de Nova York. Olivia corre para casa e diz a Miles mas ele não acredita nela. Na manhã seguinte, ela explica o que aconteceu a polícia e eles também não acreditam. Apenas a detetive cínica Dottie escuta Olivia, mas ela também é cética. Destemida, Olivia bravamente lança sua própria investigação, colocando-se em situações perigosas.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeLRqYrNVIVxxpJrylUx2LNzpM6kHMiu4JeqHlbSYvJZ8GAoi</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rM3sOwm3uVqDEcZNv8H4mLWwRS1IM4rntbpL6jOVEAfPlYCJ</thumbnail>
+</item>
+
+<item>
+<title>Sansão e Dalila (Dublado) - 1951</title>
+<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>A história dos personagens do Velho Testamento, Sansão e Dalila, é mostrada aqui de modo monumental e com riqueza de detalhes. O épico de Cecil B. DeMille possui cenas memoráveis, como a da destruição do templo dos filisteus e cenários que até hoje impressionam por sua suntuosidade. Victor Mature e Hedy Lamarr interpretam Sansão e Dalila com brilhantismo e emoção. Um filme obrigatório para todos os amantes da 7ª arte.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNGA_OWz9dAkisVNo1mSXPMCX946Q19OLkPWqCsps9OuoSO7SLSUHKnOug</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVwhcRk25b_Y6Nfr_ufRfxuwhshNGV42MtbmgNDb0rRPBYyVUgBzh-HEt0g</thumbnail>
+</item>
+
+<item>
+<title>O Dragão do Natal (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Drama</genre>
+<info>Um grupo de órfãos embarca em uma aventura para restaurar a mágica no mundo e salvar o Natal.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/zBzHWKwuMhfZiD9UzC09tlZjlaq6Z9WRQLe0MU-AMs64xMNPwX3WPnV9XUXEcPx_BGmCVWU-AFYwkVVpEEaIQ2fR12tTmxsdDnd2lA=w512-h288-nc</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrkobaJ5HT8-GxRR4t91Vzuf2-4b4hJyH7R76aonW5uzgtj_5npw</thumbnail>
+</item>
