@@ -39,4 +39,18 @@
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQthsoCwC_tau7tM-0NQgrrRLW2l70jMWKM4IffmOWucwcljzMIQA</thumbnail>
 </item>
 
+<item>
+<title>Carrossel 2: O Sumiço de Maria Joaquina (Nacional) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]CARSL2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Nacional</genre>
+<info>Na sequência, as crianças da escola Mundial se tornaram famosas após o clipe da música “Panapaná” bombar na internet. Com o sucesso, uma famosa estrela pop quer conhecer os garotos. Para isso, eles são convidados a irem ao show dela na cidade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFy-mc-bUaJKAg8Y-Z9F1ISB4-Et0XsvaY-7UsXeDw74QIPTxfOJQXjz8z1w</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSohPZUDGxQ_okgXFwXvJHaIuqGpip-081VraL-v1v8ujg_HK6IYrSmX5Ot</thumbnail>
+</item>
+
  
