@@ -1,0 +1,54 @@
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+
+<item>
+<title>A Chegada (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Ficção Científica</genre>
+<info>Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks (Amy Adams), uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não. No entanto, a resposta para todas as perguntas e mistérios pode ameaçar a vida de Louise e a existência de toda a humanidade.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdtuUMRlQ_dD7fNibi7AZItt6fAgYdoDxxpjggfWsW_KBNfzVUPB1i8-mU8g</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR--KfRN2lB-AMbWlxqGNhbREjNIO_HZyyNy6ldbJh7t4x7Ub35xiAwcj18cQ</thumbnail>
+</item>
+
+<item>
+<title>Spectral (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]SPCTRL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Uma equipe de operações especiais é despachada para uma inesperada missão: lutar contra seres sobrenaturais agressivos que tomaram a cidade de Nova Iorque e ameaçam a sobrevivência de todos os humanos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO-N2pGcy0haN7yKUnJcLb4C7sAAbfYiW1ciq7tcYo9GuVLrEB7smXhOZGg</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQADT9-CeVa5nKA-C5EPrT3t_yPkIK0BMEGstLUUapiLPE-ENEy</thumbnail>
+</item>
+
+<item>
+<title>Planeta dos Tubarões (Legendado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Científica e Terror</genre>
+<info>Em um futuro próximo, o derretimento glacial cobriu 98% da Terra. Enquanto os sobreviventes se abrigam em embarcações, os tubarões se tornaram a espécie dominate do planeta, realizando um ataque mortal através da liderança de um tubarão alfa-mutante.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
+</item>
