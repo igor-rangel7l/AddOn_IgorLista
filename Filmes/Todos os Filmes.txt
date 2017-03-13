@@ -24,6 +24,7 @@ Todos Os Filmes
 </regex>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmw9C1b1bs-rS2pGc5cQho_T_kO-JPTWOq2GQuGkG8Lu7Ik2GcQ</thumbnail>
+<genre>Terror</genre>
 <info>Cinco amigos decidem filmar suas sessões experimentais com uma tábua de Ouija, em uma tentativa de criar um vídeo viral para torná-los famosos. Um drama pessoal faz com que os membros do grupo se esqueçam de manter o foco em regras importantes do jogo e logo liberam entidades perigosas de outro mundo.</info>
 </item>
 2
@@ -35,6 +36,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Aventura</genre>
+<info>Baseado no conto da Bela Adormecida, o filme conta a história de Malévola (Angelina Jolie), a protetora do reino dos Moors. Desde pequena, esta garota com chifres e asas mantém a paz entre dois reinos diferentes, até se apaixonar pelo garoto Stefan (Sharlto Copley). Os dois iniciam um romance, mas Stefan tem a ambição de se tornar líder do reino vizinho, e abandona Malévola para conquistar seus planos. A garota torna-se uma mulher vingativa e amarga, que decide amaldiçoar a filha recém-nascida de Stefan, Aurora (Elle Fanning). Aos poucos, no entanto, Malévola começa a desenvolver sentimentos de amizade em relação à jovem e pura Aurora.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqWUb1IfpeORZvWsgEC4vpXvoL7oWWQYTsCSDqnDn2_ik5Koc3nTcGuWO_Zw</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24g5qF-LsibmmyK2WtzLVo9ProAXNwjtZI8jxia5kM06GaIslzl-Xq2F_3A</thumbnail>
 </item>
@@ -47,6 +50,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comedia</genre>
+<info>A rivalidade entre dois irmãos vai longe demais durante uma competição de natação.</info>
 <fanart>https://lh6.googleusercontent.com/proxy/E4viovgd5BR-1d7AK2KmjmZNAz5jLb1uRyzd0BYvMp0POVVBHavSFZM_kIGDxsCCNw488LPFvszJe-Ry0ntUTjQBrWW6PqJdMCpnRa1jNTLoo4BuUdMSidtNnA=w523-h281-nc</fanart>
 <thumbnail>https://lh3.googleusercontent.com/proxy/d0LCKQf81Ay79V0scUlautnFeIW6CtJoeZ1JKdS4fVxdvVIGul1Au3TNbofT8uk_0ckVjy2bj8FcCx9D_DoxifDMRzzq2mhsK-YQFCWTUs-EhvEnzX-qW5D_QQ41fnyesLL1rR2wkBVCH9M5PCgVj9jsEF1WjqeW94sgipjK_rRlzcel8rR8-rARI8RFsTNUn2ux6_alhNyX7vuxa0ceUoo3LMvqINkd01vN=w290-h430-nc</thumbnail>
 </item>
@@ -59,6 +64,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação</genre>
+<info>Jack Reacher (Tom Cruise) retorna à base militar onde serviu na Virgínia, onde pretende levar uma major local, Susan Turner (Cobie Smulders), para jantar. Só que, logo ao chegar, descobre que ela está presa, acusada de ter vazado informações confidenciais do exército. Estranhando a situação, Reacher resolve iniciar uma investigação por conta própria e logo descobre que o caso é bem mais pessoal do que imaginava.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsibHzaKs49813W4d1eMHKzG52iR0PKbdSoUcJC-HYowJd4f065f3PoBlf</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6ZAOmGg1EspwVp-DA6SfeASv6ay34m5WpeMCYx6Uaz-jU4xEj</thumbnail>
 </item>
@@ -71,6 +78,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Terror</genre>
+<info>Depois de abrir acidentalmente um portal para outra dimensão, estudantes universitários encontram-se presos e caçados pelos habitantes do inferno.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmomC6AdYgTz5T8RDlRNTQHHLEFyS7LLi93EAKozs0BCQP7SdJZg</fanart>
 <thumbnail>https://img.fstatic.com/o4D6Pw6TyhHgQ2BHar9_s2Cvjqo=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/02/poster37.jpg</thumbnail>
 </item>
@@ -83,6 +92,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Aventura</genre>
+<info>Stephen Strange (Benedict Cumberbatch) leva uma vida bem sucedida como neurocirurgião. Sua vida muda completamente quando sofre um acidente de carro e fica com as mãos debilitadas. Devido a falhas da medicina tradicional, ele parte para um lugar inesperado em busca de cura e esperança, um misterioso enclave chamado Kamar-Taj, localizado em Katmandu. Lá descobre que o local não é apenas um centro medicinal, mas também a linha de frente contra forças malignas místicas que desejam destruir nossa realidade. Ele passa a treinar e adquire poderes mágicos, mas precisa decidir se vai voltar para sua vida comum ou defender o mundo.</info>
 <fanart>https://lh6.googleusercontent.com/proxy/eMafwyelHRIErJ-F7z5Qqt1jiIya90jDxwigzFFhx80dtObJxNayzj7RSF-PoutAVHk36y3KVBkeiUdfmaXIIGb4oMntLtdpa8lnhx_6efO9T4XFIQDTsyVYrTrnpWz4MJQJmFxr7tcq-JcM2dIfMg=w500-h220-nc</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7uWKQrmv_Pf_XMSaCFQ8XxZFkMCBhthuudVO25pP3WBlPz12TT6hrvKPL</thumbnail>
 </item>
@@ -95,8 +106,10 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação</genre>
+<info>A história se passa em Los Angeles, quinze anos depois que o mundo sofreu um terrível desastre quando um demônio e criaturas invadiram a terra e quase destruíram a humanidade. David tenta salvar sua família enquanto as criaturas do demônio não retornam para causar estragos.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCxPq6CJarvp7d4X7PavqVYoSpQUP6hg7_YEUdn_6YJF9zLPiZ</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4U6A2HBt0-IEj1Mu1YRdWDXrA_eKt5FHHyXbHfY73h-d_Ff2W</thumbnail>
+<thumbnail>https://img.fstatic.com/SsgZFoBFf9E_YgfeZ9HkDhcyZiw=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2017/01/1bd4967d3151f32387825b0d4ae1ca14b48a2ef8.jpg</thumbnail>
 </item>
 8
 <item>
@@ -107,6 +120,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Nacional</genre>
+<info>São Paulo, 1937. Hugo (Marcelo Ribeiro) é um jovem que veio de Santa Catarina, sendo trazido por sua avó para devolvê-lo à sua mãe, Anna (Vera Fisher), que é amante de Osmar Passos (Tarcísio Meira), o político mais influente do estado. Ela habita uma luxuosa mansão com várias outras jovens, todas comandadas por Laura (Íris Bruzzi) e a serviço das manobras políticas de Osmar, que utiliza a casa para festas e orgias a fim de impressionar e agradar possíveis aliados políticos. A chegada do menino coincide com o dia de uma grande festa de despedida que será dada a Benício Mattos (Mauro Mendonça), o político mais influente e poderoso de outro estado. Tal fato deixa Laura bem contrariada, pois não quer que nada saia de . Assim Hugo é acomodado num quarto no sótão, mas se perturba no casarão, onde as circunstâncias fazem com que ele esteja sempre rodeado de jovens, que começam a provocá-lo e até a desejá-lo. Tamara (Xuxa)é a jovem que mais se interessa por Hugo. Recém-chegada à casa e vinda de Santa Catarina, faz o gênero "virgem" e está ali especialmente para ser dada de presente a Benício, que nunca "pulou a cerca". Pela manhã chega a notícia que medidas ditatoriais foram tomadas pelo governo, mudando a situação política.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrb9IscsG5WwtYjBQOHF2BjxKKUrmAoPx2amytxNA5BQk0bVPakq0RwxdPg</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3F7HyokpeIR_hfMi6Q19xBG8PiK8xx_irrTG5riUfXOu_yPL06Q</thumbnail>
 </item>
@@ -119,6 +134,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama e Ficção Científica</genre>
+<info>Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks (Amy Adams), uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não. No entanto, a resposta para todas as perguntas e mistérios pode ameaçar a vida de Louise e a existência de toda a humanidade.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdtuUMRlQ_dD7fNibi7AZItt6fAgYdoDxxpjggfWsW_KBNfzVUPB1i8-mU8g</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR--KfRN2lB-AMbWlxqGNhbREjNIO_HZyyNy6ldbJh7t4x7Ub35xiAwcj18cQ</thumbnail>
 </item>
@@ -131,6 +148,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Terror</genre>
+<info>Um grupo de estudantes universitários se aventura na floresta de Black Hills para desvendar os mistérios que cercam o desaparecimento da irmã de James, que muitos acreditam estar ligado à lenda da Bruxa de Blair. No início, o grupo está esperançoso, especialmente quando uma dupla de moradores se oferece para guiá-los na floresta. Mas com o cair da noite, o grupo é surpreendido por uma presença ameaçadora e, lentamente, eles começam a perceber que a lenda é real e muito mais sinistra do que imaginaram.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8iiRLCPNsrnEfUSjHHq5h9_tGodVfnkBrA8UvBmkKfdKcRMlPv8sc7uJ3</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKvWzxlx4r50OuW7XiBTYAeWKYAta-MnwjzM7MdEzawc5yYJwK0_xyCHZQ</thumbnail>
 </item>
@@ -143,6 +162,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Terror</genre>
+<info>Em A Bruxa de Blair, um grupo de jovens cineastas viajam para uma floresta, em busca de rodar um documentário sobre uma força maligna chamada "bruxa de Blair". Nenhum dos cineastas foi visto novamente e o videotape produzido por eles foi encontrado e visto por milhões de pessoas nos cinemas de todo o planeta. O sucesso do filme fez com que uma grande indústria de turismo fosse criada em torno de Burkittsville, Maryland, onde o videotape fora rodado. Com isso, um empresário local criou a "Caça à Bruxa de Blair", uma excursão repleta de aventura em plena floresta onde o primeiro filme fora rodado, em que os interessados em participar devem se inscrever pela internet. Entretanto, quando os primeiros turistas chegam ao local, fatos bizarros e assustadores começam a ocorrer de forma descontrolada, fazendo com que todos tentem de qualquer maneira escapar da floresta e da maldição da bruxa de Blair.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnfy9QLmiwjPrXrAPIh0GGRV7C4sG7NYQJ9KZL6jJ_g9-aocSk7nD7wZiL</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFAkfKD_DQpRvyv6ZAeCTAwXqMYyGR76o5dM1WXJFtIPFDHI6CM-22tITEA</thumbnail>
 </item>
@@ -155,6 +176,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Terror</genre>
+<info>A documentary exploring the life of the Blair Witch and the three missing student filmmakers.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0bAyGQfTSb-3w7ghN9-nIm0j2ChIvBz4buE-3G0aKsfEwmvmx3Btc1OHH8Q</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQFk2cIXdx06CXzW_8X1o2V4lTqoAWsjN3azANPVcd1wESmyiPpn9t6p33Gg</thumbnail>
 </item>
@@ -167,6 +190,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Quatro pessoas, quatro histórias extraordinárias. Todas vividas nas ruas de Londres.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkmB87HS2V6tsnD8IrdjoIlYsfPupWVPQOY-vCjCslPa9Kydw2Ua5xGjmg</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_H04eQp4gyxExKIIrM6DA1C6p2hzIlJ0u85DfNc6GYeq68PlHvg</thumbnail>
 </item>
@@ -179,6 +204,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Conor é um garoto de 13 anos de idade, com muitos problemas na vida. Seu pai é muito ausente, a mãe sofre um um câncer em fase terminal, a avó é uma megera e ele é maltratado na escola pelos colegas. No entanto, todas as noites Conor tem o mesmo sonho, com uma gigantesca árvore que decide contar histórias para ele, em troca de escutar as histórias do garoto. Embora as conversas com a árvore tenham consequências negativas na vida real, elas ajudam Conor a escapar das dificuldades através do mundo da fantasia.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXB74nVMiy9lXUMCE6dVSW9hVg9rY8bfTc6FyfsTkd6SthPsIc2TPo3gaT</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1iEmrKExlUI8x3DFAV_jzyA1X-R8fWXVoDozE4cAh9kTDaN-v</thumbnail>
 </item>
@@ -191,6 +218,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Animação</genre>
+<info>Nova animação da Dreamworks levará as telas os famosos bonecos Trolls, conhecidos por aqui como os Duendes da Sorte.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmBi0NJAJNxOHx6tXSE74VTuewpnVGjccQ3jeH200Aytdz5A3rUAxxsqV8</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfjMrM3dZVCk42isDlMXYD85Ic9Y0KohKcssYQCOZu0WO-iv-dsg</thumbnail>
 </item>
@@ -203,18 +232,22 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Século XVIII. A bela viúva Lady Susan Vernon (Kate Beckinsale) foge das fofocas sobre seus casos amorosos buscando refúgio na fazenda dos antigos sogros. Lá reflete sobre a vida e decide arranjar um novo marido para si e um bom pretendente para a filha, Frederica (Morfydd Clark).</info>
 <fanart>https://lh3.googleusercontent.com/proxy/PDzmF3Ost00bON8iUO7rwas3wTS3CTctkrcFkuACkH2Xk_G_JECpCt9VDa5NxFAMTCCwecD5=w511-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqH9feFVhMxm4_-zdpscG022XueE2UOAXB_3D4r_GmWQ_l_XRCq-CQQuBdMw</thumbnail>
 </item>
 17
 <item>
-<title>10000 Anos Depois (Dublado) - 2017</title>
+<title>10000 Anos Depois (Dublado) - 2015</title>
 <link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Animação e Aventura</genre>
+<info>Nesse lugar Centenas de milhares de anos após o colapso da civilização, o mundo é um deserto “pós-tech” e é habitado por tribos humanóides. A paz estabelecida entre eles é ameaçada pelo retorno de Wushen, um fantasma que muda a forma da tecnologia moderna, ameaçando escravizar a população mundial. Zhuma, uma menina de dez anos de idade é a heroína da história, acompanhada por Zhanggong, seu cachorro leão-como o mastín tibetano e seu avô. Escolhida e ajudada por uma deusa etérea, ela deve reunir aliados das tribos sobreviventes para combater Wushen e impedi-lo de ganhar o controle sobre um poder muito antigo.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4hoTQXR5EnjSiQm4oyNFzbePXGaBE0wyTP5APoPxeb6Zfqj3HI3kSsHdTQ</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbp9bWqd-g0kNMjCCvi7V149Eam4KRy978VwyD0PAkJQtsuaeu</thumbnail>
 </item>
@@ -227,6 +260,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>Esse filme é baseado nos capítulos do famoso clássico romantico de Wu Cheng'en's "Jornada ao Oeste", e conta a história de como o Macaco Rei se rebela contra o Imperador Jade do Céu.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJtDUubRAgxdgkmqDTM5LdlVPYHUXizYjcTMMsbozVW2EVF8ADl86A52vieg</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLI0hBmFVOC1DbIPrU1LKlxxUMK1IFjTZt5LqZ5MHKFRytW67T</thumbnail>
 </item>
@@ -239,6 +274,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Aventura e Comédia</genre>
+<info>Klaus (Liam Aiken), Violet (Emily Browning) e Sunny (Kara Hoffman e Shelby Hoffman) são três irmãos que repentinamente recebem a notícia de que seus pais morreram em um incêndio. Como são menores de idade eles não podem ainda herdar a fortuna de seus pais, o que apenas ocorrerá quando Violet, a mais velha, completar 18 anos. O trio passa então a morar com o Conde Olaf (Jim Carrey), um parente distante bastante ganancioso, que deseja tomar a fortuna das crianças para si. Para atingir sua meta Olaf não medirá consequências.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGt1IFjo_5uCHX8tQBSSYiO1a0RTzWc9o5YlwjFmA_z0bOJIhUzcM74blc</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HtX_RO8qX7WIDNBNn5WO0rfejjWRdbU0jh2pJQdth0QqcPBUXacc4PTsXw</thumbnail>
 </item>
@@ -251,6 +288,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Terror</genre>
+<info>O professor de simbologia Robert Langdon (Tom Hanks), depois de decifrar o código DaVinci, é chamado pelo Vaticano para investigar o misterioso desaparecimento de quatro cardeais. Agora, além de enfrentar a resistência da própria igreja em ajudá-lo nos detalhes de sua investigação, Langdon precisa decifrar charadas numa verdadeira corrida contra o tempo porque a sociedade secreta por trás do crime em andamento tem planos de explodir o Vaticano.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsfeLrGOC-DknZs1VSNldyhEEZTV10iEI8xNDvOQLkcVVTCspU0DQXdgw</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSGawRCPENU02b6yMP0BnNwD9ZdIfOexsdtDCjE1IZ4RjXi5dgO7YtJf3beQ</thumbnail>
 </item>
@@ -263,6 +302,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://lh5.googleusercontent.com/proxy/IPwx-QBvL6T7MmlaMF15lk3DovGdlZ4RdKKwmeyjhYLR_2EBdcEwhKtuuVguQnEebw8bgDCkQ1zF1eWWaIghvmAw4sePBCbp1irqYjurQce0qpVIUdIiETTjJ2cmk5W2TohfZlPL3M1XrKQfivKcRMc6fSJKC2Um5cCzcWU4qEQEuJFYescOnremgAdysSjRan2zzyNx6vGbGKfrf2kBJFc=w229-h320-nc</thumbnail>
 </item>
@@ -275,6 +316,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnckF7i4GmIwluimgbNOsWzZQHVJdKls8C29v8SIzSRETTx8qx</thumbnail>
 </item>
@@ -287,6 +330,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNdiecZLyQfRVHf9qaI9WliBEGIUorDr0XS7hDzwfn9xC53VRJdDZ8sW4O</thumbnail>
 </item>
@@ -299,6 +344,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJ-WHICA3ZBgsOcX76h7C8gVhpE1uF3zA21Yh55gbwKoKzneJyTWtKckU</thumbnail>
 </item>
@@ -311,6 +358,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUD1vUdk1qP61qjKPaPogQZYmwFCtP_ivV7ITei00ulWT-pwEd</thumbnail>
 </item>
@@ -323,6 +372,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUD1vUdk1qP61qjKPaPogQZYmwFCtP_ivV7ITei00ulWT-pwEd</thumbnail>
 </item>
@@ -335,6 +386,9 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação,Drama e Policia</genre>
+<info>Christian Wolff (Ben Affleck) é um portador da Síndrome de Savant com mais afinidade por números do que por pessoas. Tendo um escritório de contabilidade em uma cidadezinha como fachada, ele trabalha como contador autônomo para algumas das mais perigosas organizações criminosas do mundo.
+Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J.K. Simmons), começando a fechar o cerco, Christian aceita um cliente legítimo: uma empresa de robótica de última geração onde uma assistente de contabilidade (Anna Kendrick) descobre uma discrepância envolvendo milhões de dólares. Porém, conforme Christian desvenda os registros e se aproxima da verdade, a contagem de corpos começa a subir.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3rOvj4Xx9W0aaQ2Poyh8w7YdGuHTAB7T3T5dsd_GvjusmfonMnJuvGH9z</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPQZRVEf8Vak_S7CWYhVw2QgVkHa1-Qkz9tlJcyz_zL_uLtfQ_lcxGoqLl</thumbnail>
 </item>
@@ -347,6 +401,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Nacional</genre>
+<info>Nascido e criado em Manaus, José Aldo (José Loreto) precisa lidar com a truculência do pai, Seu José (Jackson Antunes), que além de se embebedar constantemente ainda por cima bate na esposa, Rocilene (Cláudia Ohana), com frequência. Enfrentando constantemente seus demônios internos, Aldo encontra na luta sua válvula de escape. Acreditando em seu futuro como lutador, ele aceita se mudar para o Rio de Janeiro e morar de favor no pequeno alojamento de uma academia. Lá ele recebe o apoio do amigo Marcos Loro (Rafinha Bastos) e conhece Vivi (Cleo Pires), uma jovem que vai constantemente à academia. Precisando ralar um bocado para se manter, Aldo enfim consegue um voto de confiança do treinador Dedé Pederneiras (Milhem Cortaz), iniciando assim sua carreira no mundo do MMA.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSidxzg8YIPW6gK_wVm_uPdqChvfM9B2c2eyAr1bDQpYXxlSuWvRi3NhGWg</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQthsoCwC_tau7tM-0NQgrrRLW2l70jMWKM4IffmOWucwcljzMIQA</thumbnail>
 </item>
@@ -359,6 +415,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação,Aventura e Terror</genre>
+<info>Uma nova raça de tubarões vorazes e agressivos surgem de uma fissura no Ártico, devoram todos os presentes em uma estação de pesquisa que decidiram se aproximar das águas frias. Quando a estação fica submersa, os sobreviventes devem se armar com que estiver ao alcance para enfrentar as criaturas assassinas.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgPZP3bK2ylTRkM5uNeNTj2BkpHwJfjiC-ZFrA0M76dVEbCm7XtAN7csa</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9XbEbomZSKbeN7UDhoISDWLVLsFiXMGE_8rQ86XdhEuhXVS2Hxg</thumbnail>
 </item>
@@ -371,6 +429,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Uma equipe de operações especiais é despachada para uma inesperada missão: lutar contra seres sobrenaturais agressivos que tomaram a cidade de Nova Iorque e ameaçam a sobrevivência de todos os humanos.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO-N2pGcy0haN7yKUnJcLb4C7sAAbfYiW1ciq7tcYo9GuVLrEB7smXhOZGg</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQADT9-CeVa5nKA-C5EPrT3t_yPkIK0BMEGstLUUapiLPE-ENEy</thumbnail>
 </item>
@@ -383,6 +443,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Filme de Oliver Stone sobre Edward Snowden, ex-funcionário da CIA que divulgou para a imprensa uma série de documentos sigilosos da Agência de Segurança Nacional dos EUA que comprovaram atos de espionagem do governo norte-americano.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bp6L3y-q0mrzIgkZgD2ECWyu2KC-IcOogF91NuVpMlGwRVnbFA</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFvapXqN0czkNE4EfHAmCwstqLZRduDDuDf4wZ5QIIyC48jZSjA</thumbnail>
 </item>
@@ -395,6 +457,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Faroeste</genre>
+<info>Refilmagem do clássico faroeste (1960), que por sua vez é um remake de Os Sete Samurais, de Akira Kurosawa. Os habitantes de um pequeno vilarejo sofrem com os constantes ataques de um bando de pistoleiros. Revoltada com os saques, Emma Cullen (Haley Bennett) deseja justiça e pede auxílio ao pistoleiro Sam Chisolm (Denzel Washington), que reúne um grupo especialistas para contra-atacar os bandidos.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS28ZLKtjDdYAXLU0A_mcYbTXoiBEtuUZFMrhxS5sQI46QSVYiHIuad0YGg</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XWiFGCwOR3JjWMYUYSJX_6b6nf21HLpTTtIjwS3aPsI_n2EbEQ</thumbnail>
 </item>
@@ -407,6 +471,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Faroeste</genre>
+<info>Refilmagem do clássico faroeste (1960), que por sua vez é um remake de Os Sete Samurais, de Akira Kurosawa. Os habitantes de um pequeno vilarejo sofrem com os constantes ataques de um bando de pistoleiros. Revoltada com os saques, Emma Cullen (Haley Bennett) deseja justiça e pede auxílio ao pistoleiro Sam Chisolm (Denzel Washington), que reúne um grupo especialistas para contra-atacar os bandidos.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS28ZLKtjDdYAXLU0A_mcYbTXoiBEtuUZFMrhxS5sQI46QSVYiHIuad0YGg</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XWiFGCwOR3JjWMYUYSJX_6b6nf21HLpTTtIjwS3aPsI_n2EbEQ</thumbnail>
 </item>
@@ -419,6 +485,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Cinebiografia do ciclista norte-americano Lance Armstrong (Ben Foster), que abrange desde a ascensão e consagração no Tour de France até a desgraça pelas acusações de dopping.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
 </item>
@@ -431,6 +499,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação,Ficção Científica e Terror</genre>
+<info>Em um futuro próximo, o derretimento glacial cobriu 98% da Terra. Enquanto os sobreviventes se abrigam em embarcações, os tubarões se tornaram a espécie dominate do planeta, realizando um ataque mortal através da liderança de um tubarão alfa-mutante.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
 </item>
@@ -443,6 +513,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Biografia de Max Perkins, um dos editores literários mais famosos do mundo. Apostando em jovens talentos, ele descobriu nomes fundamentais da literatura como F. Scott Fitzgerald, Ernest Hemingway e Thomas Wolfe. O filme acompanha a vida pessoal e Perkins e sua relação complicada com os escritores, cujas obras foram fortemente influenciadas pelo trabalho do editor.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUnBuIkk6A4AeXTsAtDCZUnDbKlWuBkCRNWl4qFPp-gZez0x5iCA</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRE0z-cYooBpbvgZksiDviyIk70JMjpmS3u0kB-fK8i2JK5Ufifw</thumbnail>
 </item>
@@ -455,6 +527,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Aventura</genre>
+<info>Sofia era uma menina órfã que vivia em um orfanato. Uma noite, em plena Hora das Bruxas, ela é raptada por um gigante orelhudo que a descobriu espiando pela janela. Mas Sofia logo descobriu que ela não precisava ter medo daquele gigante, que era amigável e tinha como função soprar sonhos nas janelas das crianças. Ao lado dele, ela bola um plano para acabar com os gigantes maus, que adoram devorar "serumanos". Um plano que envolve pesadelos terríveis e a rainha da Inglaterra.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFPvapoKpugWbK-nAVy4OsNyJuPyd8a9PwGbDeNxXXBNv_w5fuwBdENVBi</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZgOlvsD7UGzi8C-bM5VGUYUAVtvj0Es_CwM35nUqiCWFl9qJ</thumbnail>
 </item>
@@ -467,6 +541,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Policia</genre>
+<info>Uma garota, prestes a sair do ensino médio e sonhando em ir para a faculdade, decide participar de um jogo online: verdade ou consequência, um jogo onde todos os seus passos e atos são vistos e manipulados por uma comunidade anônima de hackers.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMt_d80hQ1vnQWd6dL2hbvXAIR2vyhCYUDSPjRAqrxD3dWkIaxgJkc9vAJ</fanart>
 <thumbnail>https://lh4.googleusercontent.com/proxy/Gx4fQwheXg91CBsm91KipbuKOZWlIa3SdO4e_P22TFZ1VOpxsBndNOjTmQTJY58K57PjXpCHqqPBAEsm6ohBMj_67RdbGKkO5TXXtEtacft2VqEtM_F2wpE-Hw=w322-h456-nc</thumbnail>
 </item>
@@ -479,6 +555,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Dentro de um supermercado, os alimentos sonham em serem escolhidos pelas pessoas e se mudarem para as casas dos compradores. Mas eles nem suspeitam que serão cortados, ralados, cozidos e devorados! Quando uma salsicha descobre a terrível verdade, ela reúne outros alimentos com a tarefa de voltarem ao mercado e avisarem todos os colegas do risco que correm.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpkTa8dd4GH7VsRNZhZb61sBb8xpNKx9uwX02N9i3FlIYVC_nCzCGp_fgqnQ</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHIF40BzzC1Vc9hQ47IeKfrzsB96I8ik8FrEMi1X-Vy6Gm7g48</thumbnail>
 </item>
@@ -491,6 +569,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>David (Aaron Paul) e Claire (Annabelle Wallis) vivem um tórrido romance após se conhecerem em uma situação incomum. Passado algum tempo juntos, a moça desapere do nada sem deixar nenhum traço. Destinado a encontrar sua amada, o homem começa a caçar pistas que possam o direcionar para a solução do mistério. Entretanto, ele vai acabar descobrindo uma verdade misteriosa e bizarra sobre ela e sobre o que ele conhecia sobre a sua personalidade.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDqCWaOAU5L9X6zzFGX1LUsvG_jAIYB_ceqiZ9byExF7Yi3mYtlgddaf8syA</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXTsceWQlx23-5Dh7NRgCFtw_kEvM8HVUO0jKHHFD3pmsxp5eojUqulk_2</thumbnail>
 </item>
@@ -503,6 +583,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Nacional</genre>
+<info>Na sequência, as crianças da escola Mundial se tornaram famosas após o clipe da música “Panapaná” bombar na internet. Com o sucesso, uma famosa estrela pop quer conhecer os garotos. Para isso, eles são convidados a irem ao show dela na cidade.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFy-mc-bUaJKAg8Y-Z9F1ISB4-Et0XsvaY-7UsXeDw74QIPTxfOJQXjz8z1w</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSohPZUDGxQ_okgXFwXvJHaIuqGpip-081VraL-v1v8ujg_HK6IYrSmX5Ot</thumbnail>
 </item>
@@ -515,6 +597,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Aventura</genre>
+<info>A mãe de Olivia sai numa viagem de negócios e a deixa sozinha em casa com seu irmão Miles no comando. A primeira noite, Olivia adormece no sofá, e acorda, não percebendo o quão tarde é. Ela caminha com seu cachorro Charlie sem Miles ficar sabendo e testemunha uma mulher sendo sequestrada nas ruas de Nova York. Olivia corre para casa e diz a Miles mas ele não acredita nela. Na manhã seguinte, ela explica o que aconteceu a polícia e eles também não acreditam. Apenas a detetive cínica Dottie escuta Olivia, mas ela também é cética. Destemida, Olivia bravamente lança sua própria investigação, colocando-se em situações perigosas.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeLRqYrNVIVxxpJrylUx2LNzpM6kHMiu4JeqHlbSYvJZ8GAoi</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rM3sOwm3uVqDEcZNv8H4mLWwRS1IM4rntbpL6jOVEAfPlYCJ</thumbnail>
 </item>
@@ -527,6 +611,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comédia e Terror</genre>
+<info>Comédia que parodia o filme de terror "Uma noite de crime". Uma vez por ano, durante uma noite inteira, uma país pausa suas leis em relação aos crimes e permite com que todos os cidadãos se vinguem de seus inimigos. Recém mudados para uma vizinhança predominantemente branca, a família negra dos Black será perseguida das mais hilárias maneiras.</info>
 <fanart>https://lh3.googleusercontent.com/proxy/xxnIN9VZRu7AxfW05P7LY-uU3TGMPAVszM0A-kqPisnF_1RrxUWZatOFy5Fvfivv3LRCpDHti7JD_FrxG3CG4CY66xAXbVFzAG5jOnkgftXWfChCeX-2=w511-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJvghL-xLFlDW0_AtTm9JQaVltf_uuoIyCPkr0d0MQpIYI-Has</thumbnail>
 </item>
@@ -539,6 +625,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>A história dos personagens do Velho Testamento, Sansão e Dalila, é mostrada aqui de modo monumental e com riqueza de detalhes. O épico de Cecil B. DeMille possui cenas memoráveis, como a da destruição do templo dos filisteus e cenários que até hoje impressionam por sua suntuosidade. Victor Mature e Hedy Lamarr interpretam Sansão e Dalila com brilhantismo e emoção. Um filme obrigatório para todos os amantes da 7ª arte.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNGA_OWz9dAkisVNo1mSXPMCX946Q19OLkPWqCsps9OuoSO7SLSUHKnOug</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVwhcRk25b_Y6Nfr_ufRfxuwhshNGV42MtbmgNDb0rRPBYyVUgBzh-HEt0g</thumbnail>
 </item>
@@ -551,8 +639,10 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc9DdKscKaay-4XsM9R08lMitHCJkW3DAIPnSWapqxNQPdEPjByA</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNx-xe4KiQLj725GSLhw-8zJGNCEJtt9PanBIWz9Gl4PqCah-M4MUe-fEc</thumbnail>
+<thumbnail>https://img.fstatic.com/YY3rVSBk3WxsoBKhE2Px3-p9iBs=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2009/03/63df1e6e7e3b1e69d389400ce863020f.jpg</thumbnail>
 </item>
 46
 <item>
@@ -563,6 +653,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comedia</genre>
+<info>Uma mulher (Mila Kunis), com uma vida aparentemente perfeita - bom casamento, filhos exemplares, ótimo emprego, etc - acaba ficando estressada além do ponto com as obrigações de sua vida. Cansada desse estado, ela se une a duas outras mulheres (Kathryn Hahn e Kristen Bell) que passam pelos mesmos problemas que ela para sair em uma jornada de libertação.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCm_y9JRJb_Dw_6Ta1zOZpQgbpdeR2M9xMy7a4hjnvfE9CpFp-</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgALktMZCwLPeBegSHNMADEgfUi7AynGzKdmD0XvAZ19eHJhS9</thumbnail>
 </item>
@@ -575,6 +667,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comédia e Romance</genre>
+<info>Steve sempre termina o romance com suas namoradas em novembro para impedir que a relação fique mais séria, mas desta vez ele pode se arrepender de sua decisão.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSktZ0VDWWYDyrRX2hJ2ew7LUqtnl8YJjPpCHFTa7xBrlN6loMX6g</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurayL3CO3R7PeSIq3iv1k3W_ow72MOAwZlJmtJKlAxtVIffzH</thumbnail>
 </item>
@@ -587,6 +681,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comedia</genre>
+<info>A história acompanha um rapper que se reunirá com sua antiga boy band para recuperar o fracasso que foi seu último álbum.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3jrVeqRyfN4njctC2-RWNqcwt7cZ2fLnCONQm1lpEcr4LyMgdMsh_giY</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsrnXGN4RN2Qot6UxFVzue8tQzW1mGtBErHDwZGoRY1yq3Y_2X</thumbnail>
 </item>
@@ -599,6 +695,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação</genre>
+<info>Tang Lung viaja até a Itália para proteger sua amiga e dona de restaurante Cheng Ching Hua, que está sofrendo a extorsão de uma quadrilha para vender o local. Quando o chefe do bando vê o jovem lutador vencert todos os seus capangas, manda vir dos EUA um respeitado campeão mundial de karatê, Colt, para uma violenta luta final em pleno Coliseu.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs9AN5qXino7d_C3rp94zUKW3MuPC1apfyuPhrupqato6xUrR2-w</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXFmJOZz63yJJiapc8VlcSzrYwtSDX6RwFJt5HHNyYMNXgxWCE</thumbnail>
 </item>
@@ -611,6 +709,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Terror</genre>
+<info>Melanie Daniels, uma jovem da cidade de São Francisco, vai até uma pequena cidade isolada da Califórnia, chamada Bodega Bay, atrás de um potencial namorado: Mitch Brenner. Mas na cidade começa de repente a acontecer fatos estranhos: pássaros de todas as espécies passam a atacar a população, em número cada vez maior e com mais violência, deixando todos aterrorizados.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSljUSfxUPI0ep-u4CbsRCPzEPbv1LbIOvW2fGSguLRu1nprHOS</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhqYciUqoHDiwY5eSq8svSiSSwURp3OO6sDauiKHfIPL7C4SIF8A</thumbnail>
 </item>
@@ -623,6 +723,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Tony Manero, um jovem do Brooklyn e um excelente dançarino de disco music, só encontra significado na vida quando dança, pois passar a semana trabalhando em uma loja de tintas não o gratifica de forma nenhuma. Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no final de semana. Sob a influência de seu irmão, um padre frustrado, e de Stephanie, sua parceira de dança, começa a questionar a maneira como encara a vida e a limitação de suas perspectivas. Paralelamente Tony, vive uma crise amorosa, enquanto se prepara para participar de um concurso em uma discoteca.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF57Zf4j332gOn6MfPmoBPvJe7k2tyhY9A-K9JXQCNHHnlpBPJd_hQBXH1</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvInMz-LLx2RTF1ClGb4E9Qo_J881LjjMwTbcMqFMuuWGExbI88sdIhnTutg</thumbnail>
 </item>
@@ -635,6 +737,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Mike e Washington, dois amigos mercenários, passeiam de iate pelo mar caribenho para comemorar um trabalho bem feito. Perto dali, um grupo de cientistas faz pesquisas em uma estação petrolífera e se prepara para resgatar um submarino nuclear russo naufragado. A descoberta de uma placa de pedra pertencente à antiga e lendária civilização de Atlântida coincide com um maremoto que destrói a plataforma. Os sobreviventes unem-se a Mike e Washington e chegam até terra firme, onde um batalhão de punks inicia sua missão de exterminar a humanidade para preparar o retorno dos habitantes de Atlântida.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuRNzr_rQvgr1s5JE9GHGik_rR0U8vIldr1JNYrc-Lk-feVn6Ko0n48qb</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfi-otyiubGMuL122qBDTBnoMGYcNnuiYsa5TioGbGiHCeQzR9sQ</thumbnail>
 </item>
@@ -647,6 +751,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação,Drama e Policia</genre>
+<info>Determinado a vingar o assassinato de sua irmã, Bruce Lee, se infiltra na fortaleza isolada de um poderoso chefão do crime, que utiliza sua academia de artes marciais como fachada para tráfico de ópio e prostituição. Para cumprir sua missão, Lee, terá que participar de um torneiro de vida ou morte.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoziRs9W-7RQdeGCndYEVjLeVuWMHUxu8y59Yf5TxyUETXmO4IBNqV2VMS</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx20ZzTKcLFX41aOYBqKzuloyrqUfx1sDi0eC7TDZ0Iu3y0ujkNQ</thumbnail>
 </item>
@@ -659,18 +765,22 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Suspense</genre>
+<info>A história gira em torno de um personagem chamado Jack, interpretado pelo ator George Eads, um jogador de poker que se encontra em débito com alguns personagens e precisa encontrar algum dinheiro rápido, para salvar a sua pele. Para isso ele conta com a ajuda de Paulie Trunks, papel de Seagal.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QqOAoBjMDucbcn0pA3uhJPVitelSLOZFZZg7qKbgFS6Qy8JhXA</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCIjBJhLudsKlqr-XLYsleNVNa6pde4dgwOvJ1qZECApvTs3_</thumbnail>
 </item>
 55
 <item>
-<title>O Dragão do Natal (Dublado) - 2016</title>
+<title>O Dragão do Natal (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Aventura e Drama</genre>
+<info>Um grupo de órfãos embarca em uma aventura para restaurar a mágica no mundo e salvar o Natal.</info>
 <fanart>https://lh4.googleusercontent.com/proxy/zBzHWKwuMhfZiD9UzC09tlZjlaq6Z9WRQLe0MU-AMs64xMNPwX3WPnV9XUXEcPx_BGmCVWU-AFYwkVVpEEaIQ2fR12tTmxsdDnd2lA=w512-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrkobaJ5HT8-GxRR4t91Vzuf2-4b4hJyH7R76aonW5uzgtj_5npw</thumbnail>
 </item>
@@ -683,6 +793,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Aventura e Drama</genre>
+<info>Um grupo de órfãos embarca em uma aventura para restaurar a mágica no mundo e salvar o Natal.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-k3dvP7AJGQjwuKwVP0Ij8BSjjwIoP8SauwEsTMiwaIow1-sU</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQu2b9DtuTylY9Qbu_4D2iIay9bcEJNzMLjCBx8zH3BFVejfXIysAfqiU7J</thumbnail>
 </item>
@@ -695,6 +807,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Howard Hughes (Leonardo DiCaprio) ficou milionário já aos 18 anos, devido à herança que seu pai, um inventor texano, deixou para ele. Pouco depois ele se mudou para Los Angeles, onde passou a investir na indústria do cinema. Hughes ajudou a carreira de vários astros, como Jean Harlow (Gwen Stefani), e ainda trabalhou em filmes de grande sucesso, como "Hell's Angels", que dirigiu. Paralelamente Hughes se dedicou a uma de suas maiores paixões, a aviação, e se envolveu com as atrizes Katharine Hepburn (Cate Blanchett) e Ava Gardner (Kate Beckinsale).</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBQAK4Ij89VItJb-u86Rt4lgJshgF6Wecw9LDmvbOZI7ajh6_GQzQW_gB</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDi2P_pyAXwaYMeExRDkMLAeVL9euiK_CHT94PQvhQvjt8-EQb</thumbnail>
 </item>
@@ -707,6 +821,7 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<info>Perry Makepeace e Gail Perkins conhecem Dima, um membro do alto escalão da máfia russa. Para tentar preservar sua vida e de sua família, Dima pede ajuda aos dois para conseguir asilo político na Inglaterra via MI6, o serviço britânico de inteligência. Em troca, promete nomes de políticos, advogados e banqueiros britânicos envolvidos em um esquema internacional de lavagem de dinheiro.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU3tmRikAHgQEArdRA-64rUDqOv1pZno0DUl_-WqTr1G8CwANY4NMl58VP</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYnyNhov_GMoRnUlKbfIQslY4_6wcAkAhLvngec6WeA2TXVl9x</thumbnail>
 </item>
@@ -719,6 +834,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Ronald Miller (Patrick Dempsey) é um jovem tímido e trabalhador, que sempre sonhou em ser popular no colégio. Quando ele descobre que Cindy Mancini (Amanda Peterson), uma garota linda que todos os garotos paqueram, está precisando de 1000 dólares ele surge com uma insólita proposta: empresta o dinheiro a ela e em troca ela deverá fingir ser sua namorada. Ela topa e, com sua ajuda, ele acaba se tornando um dos garotos mais populares do colégio.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFcu7NXFT1PIzPkRWqr8SHdC3ochsJvq24U5WNRcP6Gz3XIjeceQ</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DcVFJCkRuCdWzOYY7HJaU_rX2sXlJB_EXDV1TZ-i_kgry2v51w</thumbnail>
 </item>
@@ -731,6 +848,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação</genre>
+<info>Quando Chen Zhen descobre que seu venerado mestre foi morto em circunstâncias misteriosas, decide viajar para Xangai para participar do funeral. Em seguida, ele começa a investigar as causas da morte e se depara com uma intriga envolvendo escolas de artes marciais. Exposta a conspiração, Chen precisa lutar violentamente para vingar-se dos assassinos.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF41X72cH6MWivSr-C07m1wMjdEflXiWQJ_95tLTUmrvulFLsa0cxjqrIU</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOidtQi2oXoU_8rtcKJIl3gwUQEzDWjySErpPaAS1OpsnTgpeNxgMUnvsG</thumbnail>
 </item>
@@ -743,18 +862,22 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama e Romance</genre>
+<info>A história gira ao redor de Lucy (Page), filha de um homem que está no corredor da morte. Mas ela acaba se envolvendo com Mercy (Mara), descrita como "uma mulher do lado oposto da causa política de sua família".</info>
 <fanart>https://lh3.googleusercontent.com/proxy/N49qheSN9yZegmCk6VP48Gbfi349XMjAzXloiwfX103UQz5BZV7j5UPiIEPY3nUi2lf7LphcGbuTnR-A5sdgvfi_OYqnSulaW1jvJliSJJ5xAfIVnS43=w511-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbuSoGZfWU6L919SU3GLulJzZscjGTwzPQEA3SspWAyY5luXr8Nw</thumbnail>
 </item>
 62
 <item>
-<title>Jason Bourne</title>
+<title>Jason Bourne (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação</genre>
+<info>Fora do radar como lutator de rua, Jason Bourne (Matt Damon) é surpreendido por Nicky Parsons (Julia Stiles), que o procura oferecendo novas informações sobre seu passado. Inicialmente resistente, ele acaba voltando aos Estados Unidos para continuar a investigação e entra na mira do ex-chefe Robert Dewey (Tommy Lee Jones), que teme mais um vazamento de dados. Dentro na CIA, no entanto, a novata Heather Lee (Alicia Vikander) acredita que tentar recrutar Bourne para a agência seja a melhor solução.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT12nlKPRZJWxaLxdOlLr63NNdWLtkvZah3MHRbTY_8bvFySoCiCsrRMCHBGQ</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPYI-k4FgVujt1tnqTifA_t0OF4zNG62rXCd7AjmJHARxwxyFHGtlwLfVT</thumbnail>
 </item>
@@ -767,6 +890,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Drama</genre>
+<info>Hannah Lee Baker (Abigail Breslin) é uma jovem brilhante presa em um submundo sombrio de violência e armas, laboratórios de metanfetamina e gangues perigosas de motoqueiros, que tem no xadrez seu único refúgio. Ela vive com Amber, sua irmã mais velha (Alexa vega); e seu tio Donny (Lew Temple), um viciado. Tudos vivem com medo do tio Frank Stinson (Sean Bean), que cuida do negócio ilegal da família com punhos de ferro, ajudado por seu irmão psicótico mais novo, Bobby (Jake Busey). As coisas pioram quando Amber se apaixona por Wild Bill (James Purefoy), um traficante de metanfetamina em guerra com Frank. Hannah percebe que a única maneira de salvar sua família é jogando um peão contra o outro em um jogo real de xadrez</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZl9t1Dep8hdvz5Ubcq39xapzix5xjdM9z8CMUYsrEbYiPifv6gHXPgsUU</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtG4-xlbiBd4Hc6rm-krSLnlqqndQTbfnzXnq3iifp4hJLIWIW</thumbnail>
 </item>
@@ -779,6 +904,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Drama</genre>
+<info>Hannah Lee Baker (Abigail Breslin) é uma jovem brilhante presa em um submundo sombrio de violência e armas, laboratórios de metanfetamina e gangues perigosas de motoqueiros, que tem no xadrez seu único refúgio. Ela vive com Amber, sua irmã mais velha (Alexa vega); e seu tio Donny (Lew Temple), um viciado. Tudos vivem com medo do tio Frank Stinson (Sean Bean), que cuida do negócio ilegal da família com punhos de ferro, ajudado por seu irmão psicótico mais novo, Bobby (Jake Busey). As coisas pioram quando Amber se apaixona por Wild Bill (James Purefoy), um traficante de metanfetamina em guerra com Frank. Hannah percebe que a única maneira de salvar sua família é jogando um peão contra o outro em um jogo real de xadrez</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZl9t1Dep8hdvz5Ubcq39xapzix5xjdM9z8CMUYsrEbYiPifv6gHXPgsUU</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtG4-xlbiBd4Hc6rm-krSLnlqqndQTbfnzXnq3iifp4hJLIWIW</thumbnail>
 </item>
@@ -791,6 +918,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Drama</genre>
+<info>1952, uma grande nevasca leva uma plataforma de petróleo a se rachar, lançando 84 tripulantes ao mar. Enquanto a tempestade dificulta a sobrevivência do grupo, uma equipe de guardas costeiros tenta resgatar as vítimas.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoRrl26RBP3dLe0C775vI51u3LaClaFK8jyKXmHvtuBX7U13QwkC2yRGuJ</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQPdcFBOpv5fVvrq_WvW6p1VTljr306rV38o7KRcNqt7VGt0yCSzs1Tm_C</thumbnail>
 </item>
@@ -803,6 +932,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Melea MARTIN se sente constrangido por políticas rígidas da escola e decide estabelecer por conta própria. Procurando uma maneira de usar seus talentos como dançarina</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn5gRnTizlwRzytlUdbEPXeLZEfPn06yRbM3xjxMgaJBnqVDt</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLfx0I40TetR_7RzC1tsj8vawkdBuhEzKEX57cvdaOkivV3eqPA</thumbnail>
 </item>
@@ -815,6 +946,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>Para Maria, viver honestamente significa conviver com a mãe de Honey, Connie (Lonette McKee), e manter um trabalho apenas para sobreviver. Porém, uma rara noite de diversão em um clube de dança local lhe dá a oportunidade de mostrar o que ela tinha quase esquecido: seu talento para dança. Sua habilidade chama a atenção de Brandon (Randy Wayne), um voluntário do Centro Recreativo, que a convida para ajuda-lo a treinar um grupo de bailarinos talentosos, mas indisciplinados, chamado de HD. O talento de Maria também chama a atenção de seu ex-namorado Luis (Christopher ‘War’ Martinez), o carismático líder da premiada equipe de dança 718, que espera atrai-la de volta ao mundo da marginalidade, da qual ela está tentando escapar. Vendo a oportunidade de criar uma nova e significativa vida, Maria se entrega de corpo e alma no mundo da dança e começa a treinara equipe HD para competir no concurso de dança “Dance or Die” – o que significa competir contra o grupo 718 e seu antigo namorado Luis.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn5gRnTizlwRzytlUdbEPXeLZEfPn06yRbM3xjxMgaJBnqVDt</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMUYtdCPzGknK2x_WeVLrdsueG8ssdyajJ1bZ66-ZZi8PFdeqs6Q</thumbnail>
 </item>
@@ -827,6 +960,9 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação,Drama e Guerra</genre>
+<info>Para um grupo de soldados americanos, alguns dias os separam do retorno para casa. Um período relativamente curto, se não fosse por tantas ocorrências que transformassem esse fim de jornada em um verdadeiro inferno. As forças armadas precisam de especialistas não só nos campos de combate mas também no dia a dia, na proteção do grupo contra insurgentes que promovem atentados, matando milhares de cidadãos.
+Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Roteiro Original, Melhor Montagem, Melhor Som e Melhor Edição de Som.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzSb9XixePr31USjBZBLOKjeyx1DeN0mUEIwScz6DcQVD4aQBAdl_qAT77cA</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEnQOkfw29_vPX7Gei4zKBneR5-xe_7Qbe_6iyX4FBAgZnScR7TD8ELah</thumbnail>
 </item>
@@ -839,6 +975,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comédia e Drama</genre>
+<info>Depois da morte do filho adolescente, um pai (Billy Crudup) tenta reconstruir sua vida. Certo dia ele encontra alguns objetos que pertenciam ao filho, entre os quais uma série letras de músicas e gravações originais. Para honrar a memória do filho, ele decide montar uma banda para tocar estas canções.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbswrV1h3hUYtYpvB9SbqIo8DsfPqOFvfpQ0hZyyIwptSs0uMEphUjL5JsXQ</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNTsJWEvMMg7povm7laewm5G8IYmyzCXkKpQBn8l7zGTIUqPI0</thumbnail>
 </item>
@@ -851,6 +989,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comedia</genre>
+<info>Dewey Finn (Jack Black) é um músico que acaba de ser demitido de sua banda. Cheio de dívidas para pagar e sem ter o que fazer, ele aceita dar aulas como professor substituto em uma escola particular de discilipla rígida. Logo Dewey se torna um exemplo para seus alunos, sendo que alguns deles se juntam ao professor para montar uma banda local, sem o conhecimento de seus pais.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ZByQbXYNx9dc8lRmanGR296bnD5IK0XX0tJwE4Z7DxOruwSX5H5P8gOeBA</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRcPjbrUDNfy6onSkqSJjsiOstbedj1t-xXqIotKvg-TGbapWGmtBGGjgW8Q</thumbnail>
 </item>
@@ -863,6 +1003,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comedia</genre>
+<info>Em 21 de dezembro de 1970, teve lugar um dos acontecimentos mais peculiares da história recente dos Estados Unidos. Na ocasião, a Casa Branca recebeu um ilustre visitante, um homem que pediu uma audiência privada - uma reunião que viria a se tornar lendária - com o presidente Richard Nixon (Kevin Spacey): o rei do rock and roll, Elvis Presley (Michael Shannon).</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShAJAJO3_SWj17Rd7EkhKwzOQtbbFBKPN3YOIznsPBrs9t8vVfOyBHMXhjdg</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkPvyGAf-qB1aGNofJr8ZAdGhL1aEavvEHSB-XiYp-4VppHlffzYOT67zc</thumbnail>
 </item>
@@ -875,6 +1017,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Comedia</genre>
+<info>Ladrão sofre um acidente de carro numa rodovia e, antes de morrer, revela a um grupo de pessoas o local onde escondeu uma fortuna roubada. Começa uma desesperada corrida ao tesouro, que acabará envolvendo cada vez mais pessoas no caminho, culminando numa série de trapalhadas e confusões.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAbvZsQGR6zvJVdAKuUek4hIT2JGa9kKWop1W6-C11aMSSkOGuVQ</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeBad1vRMVeiIECQUWT3d8P_q1YtMTPiWKnm2hoJtI6jhFptZv</thumbnail>
 </item>
@@ -887,6 +1031,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama e Guerra</genre>
+<info>Na trama, em 1914, Joey, um potro com um sinal em forma de cruz na testa, é vendido ao exército e enviado à Europa, onde se desenrola a Primeira Guerra Mundial. Entregue a um oficial, o animal se torna um cavalo de batalha, testemunhando o horror do conflito na França. A coragem de Joey toca os soldados, enquanto o cavalo sofre pela ausência de Albert, o filho do fazendeiro que ele deixou para trás. Será que ele verá seu dono verdadeiro outra vez?</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoszbs6_mO1wl7XFZqv047y-vHYcp9QN7ZldOvHWlJol8AINAjSez0kYwObw</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9-qlNs-xwpLbxRaCv3JvQDg6pRB6F0gq82HFkripCnjEu9aNJKUfCZvY</thumbnail>
 </item>
@@ -899,6 +1045,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação e Ficção Científica</genre>
+<info>No século 21, o mundo passa por processo de deterioração e anarquia social. Considerada uma praga, apenas Pearl Prophet (Dayle Haddon), uma criatura meio humana meio robô, possui o conhecimento para criar uma vacina. Mas Pearl é capturado por canibais, os Flesh Pirates, que planejam manter o antídoto apenas para eles e dominar a Terra! Pearl agora vai precisr contar com a habilidade do mestre do sabre Gibson Rickenbacker (Van Damme).</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOVozKE1uLJuQoymPDNbc_ZcAsUBkk2EgfDRo86wV_vC9dTdFqjUAAPBP0</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgS6gU6heUdWglvycj5_0JKF5GKgHLGhNA7wCKmzTtU7-XveZUFan4Jldd_g</thumbnail>
 </item>
@@ -911,6 +1059,8 @@ Todos Os Filmes
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Animação</genre>
+<info>Toto (de Bruno Bichir) agora é um galo gado, mas os seus sonhos vão além de todos os animais acordar todas as manhãs. Ele quer ser um grande gamecock na arena das pessoas. O destino irá satisfazer os seus desejos de uma forma inesperada. Um mentiroso rancheiro engana a fazenda onde os proprietários vivem e Toto aposto que faz uma briga de galos. Então Toto deve treinar-se para superar a terrível pau Bankivoide, campeão dos campeões, sabendo que o destino da fazenda e seus habitantes estão em suas "asas".</info>
 fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8i4Kl5HSsopDta8xykDM1C7WJdD9GMIgVvTOeVjk</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJR-SVo68LaB09vGYnXMlArJwzT9VmzaKboeAG5HaKZxS7ZRf</thumbnail>
 </item>
@@ -923,18 +1073,21 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Ação,Comédia e Drama</genre>
+<info>Ao serem expulsos do templo de Shaolin por desacatarem seu Mestre, dois jovens passam a lutar pela sobrevivência. Mas os caminhos escolhidos são opostos, Jun Bao (Jet Li) luta por um ideal de paz e poder. Anos depois, uma traição faz com que estes caminhos se cruzem, colocando os dois amigos frente a frente cada um a lutar pelo seu ideal. Inicia-se uma luta sangrenta onde os dois maiores representantes de artes marciais do Oriente terão que mostrar todas as suas habilidades nem que para isso um deles chegue a morte. Uma história de amizade e justiça foi responsável pela origem mundial da maravilhosa arte do Tai Chi Chuan</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDD7pecLyMV3a7dfJMuZiJvlsGPMtR4TiiwNdf6x7KFqFl7pH_v0sxSp0ZgQ</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9p3BjtXwi4pXYE3owEU9_0wTda1Nxt4_i5h3MCLuHYqiUuZvl</thumbnail>
 </item>
 77
 <item>
-<title>Anthropoid</title>
+<title>Anthropoid (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]ATHRPDLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<info>Baseado em um dos grandes eventos da Segunda Guerra Mundial, a Operação Antropoid, que visava matar o general Heydrich, que era protetor do reich. Terceiro homem mais poderoso do período nazista, ele foi o principal arquiteto da solução final das questões judáicas e da ocupação nazista na Tchecoslováquia. Suas ações fizeram com que soldados aliados se unissem para mudar o futuro da Europa.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfhndO_tFB-MK83CAPizvLrwi2hVjb2-mf3DXu0YfCGU8EGdK3FlL0IkYcMg</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwfq2t-vojmgR3OCjGNo3rCZZOJ5osi0h5_BJ2YbgRVs_JjBky</thumbnail>
 </item>
@@ -947,6 +1100,8 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama</genre>
+<info>11 de setembro de 2001. Will Jimeno (Michael Pena), integrante do Departamento da Polícia Portuária, parte para mais um dia de trabalho. O sargento John McLoughlin (Nicolas Cage), veterano do Departamento, já estava acordado há algumas horas, em decorrência de sua ronda diária de uma hora e meia até a cidade. Jimeno, McLoughlin e seus colegas partem para o centro de Manhattan, como se fosse um dia qualquer. Até que um ataque terrorista ao World Trade Center muda completamente a situação, fazendo com que toda a equipe do Departamento seja convocada com urgência ao local do ataque. A 1ª equipe a entrar na torre não-atingida é composta por 5 homens, entre eles Jimeno e McLoughlin. Porém enquanto eles estão dentro do prédio, tentando ajudar os sobreviventes da torre em chamas, um 2º ataque terrorista atinge o World Trade Center, exatamente no prédio que ainda não tinha sido atingido.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYtvK0wG-xBIKtt3cKvlNKsUeJo_TH9PlePD-In5NLGNB9zBdb</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj-CHbYImv4vjvh63rHcW-oGBbIiaOJV1cmEdgkKlnd04seP0OaA</thumbnail>
 </item>
@@ -959,6 +1114,8 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Drama e Romance</genre>
+<info>Chile, 1973. Em meio ao golpe de estado que derrubou o presidente eleito Salvador Allende e possibilitou a ascensão do ditador Augusto Pinochet, as massas estão nas ruas protestando, entre eles um casal alemão, Lena (Emma Watson) e Daniel (Daniel Brühl). Quando o rapaz é levado pela polícia secreta de Pinochet, Lena procura por ele e descobre que seu amado está em um lugar chamado Colonia Dignidad, uma suposta missão de caridade dirigida por um pregador (Michael Nyqvist), só que na verdade é uma prisão de onde ninguém nunca escapou. A fim de encontrar Daniel, a moça decide se juntar ao culto religioso da Colonia.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhS3lAJBA9zikpwjl9rpEyEXmLSMsktGVlzTKAsOnTUIuGzGmHJV1HiJ-oow</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR14UQCJOAw7rx-GGWdvwXwmY_HpM21c_ocpe4CyD-ma1sEpj-B</thumbnail>
 </item>
@@ -971,6 +1128,22 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <expres>(.*)</expres>
 <page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
 </regex>
+<genre>Suspense e Terror</genre>
+<info>Um grupo de amigos muda-se para uma casa de com um passado sinistro em Fall River, Massachusetts. O proprietário da casa, Taryn sente uma forte ligação com a casa e encontram-se no centro de um dos poltergeists mais mortais da história americana.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojBukow2fXifjOfbw-ncCp7TNsdCppPJJnMgSe0K7zdt1IFISKB0RG5jK</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
+</item>
+
+<item>
+<title>American Poltergeist (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Um grupo de amigos muda-se para uma casa de com um passado sinistro em Fall River, Massachusetts. O proprietário da casa, Taryn sente uma forte ligação com a casa e encontram-se no centro de um dos poltergeists mais mortais da história americana.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojBukow2fXifjOfbw-ncCp7TNsdCppPJJnMgSe0K7zdt1IFISKB0RG5jK</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
 </item>
