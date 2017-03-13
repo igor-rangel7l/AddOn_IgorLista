@@ -1,0 +1,40 @@
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+
+<item>
+<title>Jogo da Morte (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Suspense</genre>
+<info>A história gira em torno de um personagem chamado Jack, interpretado pelo ator George Eads, um jogador de poker que se encontra em débito com alguns personagens e precisa encontrar algum dinheiro rápido, para salvar a sua pele. Para isso ele conta com a ajuda de Paulie Trunks, papel de Seagal.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QqOAoBjMDucbcn0pA3uhJPVitelSLOZFZZg7qKbgFS6Qy8JhXA</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCIjBJhLudsKlqr-XLYsleNVNa6pde4dgwOvJ1qZECApvTs3_</thumbnail>
+</item>
+
+<item>
+<title>American Poltergeist (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Um grupo de amigos muda-se para uma casa de com um passado sinistro em Fall River, Massachusetts. O proprietário da casa, Taryn sente uma forte ligação com a casa e encontram-se no centro de um dos poltergeists mais mortais da história americana.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojBukow2fXifjOfbw-ncCp7TNsdCppPJJnMgSe0K7zdt1IFISKB0RG5jK</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
+</item>
