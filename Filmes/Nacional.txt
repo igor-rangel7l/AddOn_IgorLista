@@ -12,6 +12,34 @@
 
 
 <item>
+<title>O Shaolin Do Sertão (Nacional) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Nacional e Comédia</genre>
+<info>Durante a década de 80, lutadores de vale-tudo passam por dificuldades devido à falta de lutas profissionais. A fim de manter a paixão pela luta, eles desafiam os valentões no interior do Ceará que aceitam participar da competição criada. Aluísio Li, um aficionado e alienado por filmes de artes marciais, vê seu mundo ameaçado quando Toni Tora Pleura, um lutador profissional aposentado resolve desafiar a todos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFceEr27ys_bQwGxMO98iJCfngmbv80em1Zik3A0C69Vj4zeJPE5LxRjL5xw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/o-shaolin-do-sertao-2016-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>Minha Mãe é uma Peça: O Filme (Nacional) - 2013</title>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Nacional e Comédia</genre>
+<info>Adaptação da comédia que já levou quase um milhão de espectadores aos teatros pelo Brasil, “Minha Mãe é uma Peça – O Filme”, acompanha as hilárias peripécias de Dona Hermínia, uma mulher de meia idade, aposentada, que após ser trocada pelo marido por uma mulher mais nova e não ter mais que cuidar dos filhos já crescidos, tem como preocupação maior procurar o que fazer. Sem um trabalho ou um companheiro, a nada simpática Dona Hermínia passa seu tempo desabafando com a tia idosa, fugindo da vizinha fofoqueira, ou “enchendo o saco” dos filhos ao tentar continuar a “cuidar” da vida deles.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS30q1dmKJG_fQoiop0TNkyy0JzcwSM5tCLiNxohFga7pLJIaLPVYoC4BZy</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/05/6338a8eb26e0c75f86c1a9d27d4026f5.jpg</thumbnail>
+</item>
+
+<item>
 <title>Amor Estranho Amor (Nacional) - 1982</title>
 <link>$doregex[Igor_Rangel_Link]AMRESTNHAMR.mp4</link>
 <regex>

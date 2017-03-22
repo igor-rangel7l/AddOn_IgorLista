@@ -12,6 +12,20 @@
 
 
 <item>
+<title>As Aventuras de Peabody & Sherman (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Sr. Peabody é um magnata de negócios, inventor, cientista, ganhador do prêmio Nobel, chef, duas vezes medalista olímpico e gênio... Que também é um cachorro. Usando a sua engenhosa invenção, a máquina WABAC, o Sr. Peabody e seu filho adotivo, Sherman, viajam no tempo para vivenciar eventos que mudaram o mundo em primeira mão e interagir com as maiores personalidades da história. Mas quando Sherman quebra as regras da viagem no tempo, nossos dois heróis entrarão em uma corrida para reparar a história e salvar o futuro, enquanto Sr. Peabody enfrenta o maior desafio de sua vida - ser pai.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxomHPo0nINEa4iyfhjbZtFnLJUA4eO0WVoKenCXWT75eRwrURO-6r-AqS</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/03/as-aventuras-de-peabody-e-sherman_t58828.JPG</thumbnail>
+</item>
+
+<item>
 <title>Trolls (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]TRLS.mp4</link>
 <regex>

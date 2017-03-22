@@ -13,10 +13,164 @@ Todos Os Filmes
 
 
 
-1
+
 <item>
-<title>Ouija Exorcismo (Dublado) - 2016</title>
-<link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4</link>
+<title>O Shaolin Do Sertão (Nacional) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Nacional e Comédia</genre>
+<info>Durante a década de 80, lutadores de vale-tudo passam por dificuldades devido à falta de lutas profissionais. A fim de manter a paixão pela luta, eles desafiam os valentões no interior do Ceará que aceitam participar da competição criada. Aluísio Li, um aficionado e alienado por filmes de artes marciais, vê seu mundo ameaçado quando Toni Tora Pleura, um lutador profissional aposentado resolve desafiar a todos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFceEr27ys_bQwGxMO98iJCfngmbv80em1Zik3A0C69Vj4zeJPE5LxRjL5xw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/o-shaolin-do-sertao-2016-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>Minha Mãe é uma Peça: O Filme (Nacional) - 2013</title>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Ação</genre>
+<info>Dave (Aaron Johnson) é um adolescente viciado em quadrinhos cansado de apanhar ou ser ameaçado. Até o dia em que ele resolve virar o super herói Kick Ass e mudar esta rotina. Como? Nem ele sabia, mas ao defender fantasiado de herói (e apanhando mais ainda) um cara que levava uma surra, o vídeo com as imagens dele enfrentando os bandidos foi parar na internet e ele virou um fenômeno. Dave só não contava que a sua fama iria envolvê-lo no meio de um plano de vingança de Big Daddy (Nicolas Cage) e Hit Girl (Chloe Moretz) contra Frank D'Amico (Mark Strong), um mafioso da cidade, vivendo uma verdadeira e violenta aventura que mudaria para sempre a sua vida.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS30q1dmKJG_fQoiop0TNkyy0JzcwSM5tCLiNxohFga7pLJIaLPVYoC4BZy</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/05/6338a8eb26e0c75f86c1a9d27d4026f5.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kick Ass: Quebrando Tudo (Dublado) - 2010</title>
+<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Ação</genre>
+<info>Dave (Aaron Johnson) é um adolescente viciado em quadrinhos cansado de apanhar ou ser ameaçado. Até o dia em que ele resolve virar o super herói Kick Ass e mudar esta rotina. Como? Nem ele sabia, mas ao defender fantasiado de herói (e apanhando mais ainda) um cara que levava uma surra, o vídeo com as imagens dele enfrentando os bandidos foi parar na internet e ele virou um fenômeno. Dave só não contava que a sua fama iria envolvê-lo no meio de um plano de vingança de Big Daddy (Nicolas Cage) e Hit Girl (Chloe Moretz) contra Frank D'Amico (Mark Strong), um mafioso da cidade, vivendo uma verdadeira e violenta aventura que mudaria para sempre a sua vida.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgndsF6riZgn_zzt5MqFATdLvWtY-l9YF48twui7eankBRtmMZyxa_fNeU4w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/10/8a9bfc81e63e2777d923ac2fa301d1c9.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kick-Ass 2 (Dublado) - 2013</title>
+<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Ação</genre>
+<info>O ato insano de Dave Lizewski (Aaron Taylor-Johnson) em se vestir como o super-herói Kick-Ass e ir para as ruas combater o crime, mesmo sem ter qualquer tipo de superpoder, serviu de inspiração para dezenas de pessoas, que resolveram seguir o mesmo caminho. Mindy Macready (Chloë Moretz) deseja seguir como a super-heroína Hit-Girl, mas o sargento Marcus Williams (Morris Chestnut), que prometeu ao pai dela que iria cuidá-la em sua ausência, não quer que ela leve uma vida perigosa. Com isso, Mindy é obrigada a levar a vida de uma garota de sua idade, deixando de lado os atos heróicos, por mais que Dave insista para que ela faça o contrário. Entretanto, a carreira heróica de Dave não será solitária por muito tempo, já que não demora muito para conhecer o Coronel Estrelas e Listras (Jim Carrey), um ex-integrante da máfia que está reunindo um grupo de super-heróis sem poderes para combater o crime. Paralelamente, Chris D'Amico (Christopher Mintz-Plasse) prepara sua vingança contra Kick-Ass, assumindo um novo codinome: Motherfucker.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhiDXT8pW8Mkppqieh9uNpguszhuCF7SAtlNRQKIkxjo8_kFpMMvHN7F5sQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/06/61f611ffa6f6cfc841d8ea2bd699c42b.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hora de Voltar (Dublado) - 2004</title>
+<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevitável confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coração para a vida e para a verdadeira cura interior.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA6iJsoE2BxhWv1CmyVodJSDmWaieFVZg9MPL0U_HTQetvwsL</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/03/60e06e5290675646d60659aca9390fa1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Como Eu Era Antes de Você (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Rico e bem sucedido, Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto, ao atravessar a rua em um dia chuvoso. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas. A situação o torna depressivo e extremamente cínico, para a preocupação de seus pais (Janet McTeer e Charles Dance). É neste contexto que Louisa Clark (Emilia Clarke) é contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspirações na vida, ela faz o possível para melhorar o estado de espírito de Will e, aos poucos, acaba se envolvendo com ele.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-OaUJmugiKi37FktCzs4sJw37A4EII1yDmG2-KaBfEJD_Ckj70Dsa0tGN</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/como-eu-era-antes-de-voce_t87730_6WE5Ak5.jpg</thumbnail>
+</item>
+
+<item>
+<title>As Aventuras de Pi (Dublado) - 2012</title>
+<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Drama</genre>
+<info>Pi Patel, é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi, consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhB3ioikF9sPlRrX7xtnhHajuVtqcmHpZs7Ekrc_aD5a1xtCqMMOOz7Fwg0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/11/b3cc18f97fe620cef165fa0b69d9c0de.jpg</thumbnail>
+</item>
+
+<item>
+<title>Assassino a Preço Fixo (Dublado) - 2011</title>
+<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Arthur é um assassino profissional de elite, com regras simples e restritas para cumprir seu trabalho. Mas quando seu mentor e amigo, Harry, é assassinado, ele vai passar por cima de tudo e de todos para conseguir a sua vingança.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXPXqzWz-Tti_SJPPXgGUPdxJQGQxliVU_40NllKpjcREBuQsg9V4_jB_z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/06/assassino-a-preco-fixo_t13786_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Arthur Bishop (Jason Statham) é obrigado a reativar seu lado crimonoso quando amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudjotaMhbTOytS-LYoZu7rUqENJ6Xo4oDBKYkOjD9Xpf4zcGEc9qMHaRU</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14468241_328361007515441_1382707453064605522_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Animais Fantásticos e Onde Habitam (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>O excêntrico magizoologista Newt Scamander (Eddie Redmayne) chega à cidade de Nova Iorque com sua maleta, um objeto mágico onde ele carrega uma coleção de fantásticos animais do mundo da magia que coletou durante as suas viagens. Em meio a comunidade bruxa norte-americana que teme muito mais a exposição aos trouxas do que os ingleses, Newt precisará usar suas habilidades e conhecimentos para capturar uma variedade de criaturas que acabam saindo da sua maleta.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXPXqzWz-Tti_SJPPXgGUPdxJQGQxliVU_40NllKpjcREBuQsg9V4_jB_z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14468241_328361007515441_1382707453064605522_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>As Aventuras de Peabody & Sherman (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Sr. Peabody é um magnata de negócios, inventor, cientista, ganhador do prêmio Nobel, chef, duas vezes medalista olímpico e gênio... Que também é um cachorro. Usando a sua engenhosa invenção, a máquina WABAC, o Sr. Peabody e seu filho adotivo, Sherman, viajam no tempo para vivenciar eventos que mudaram o mundo em primeira mão e interagir com as maiores personalidades da história. Mas quando Sherman quebra as regras da viagem no tempo, nossos dois heróis entrarão em uma corrida para reparar a história e salvar o futuro, enquanto Sr. Peabody enfrenta o maior desafio de sua vida - ser pai.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxomHPo0nINEa4iyfhjbZtFnLJUA4eO0WVoKenCXWT75eRwrURO-6r-AqS</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/03/as-aventuras-de-peabody-e-sherman_t58828.JPG</thumbnail>
+</item>
+
+<item>
+<title>Ouija: Origem Do Mal (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OUJORGMDML.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -27,7 +181,21 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/ouija-2_t121099.jpg</thumbnail>
 </item>
-2
+
+<item>
+<title>Ouija Exorcismo (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OUJEXRCMS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Em 1985, um célebre exorcista aprisionou um demônio horrível dentro de um tabuleiro ouija. Pensando o tabuleiro para ser um jogo, seu filho jogou sem obedecer as regras, e deixar o demônio solto. Para salvar seu filho, o exorcista o enviou para longe até que o demônio pudesse ser destruído. Trinta anos depois, e depois de sua morte, seu neto encontra o conselho e comete o mesmo erro que seu pai cometeu. Agora o mal está de volta e vagando pela terra para aterrorizar os responsáveis ??pela sua prisão.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/the-ouija-exorcism_tNone.jpg</thumbnail>
+</item>
+
 <item>
 <title>Ouija: Onde Tudo Começo (Dublado) - 2011.</title>
 <link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4</link>
@@ -41,7 +209,7 @@ Todos Os Filmes
 <genre>Terror</genre>
 <info>Cinco amigos decidem filmar suas sessões experimentais com uma tábua de Ouija, em uma tentativa de criar um vídeo viral para torná-los famosos. Um drama pessoal faz com que os membros do grupo se esqueçam de manter o foco em regras importantes do jogo e logo liberam entidades perigosas de outro mundo.</info>
 </item>
-3
+
 <item>
 <title>Liga da Justiça Sombria (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4</link>
@@ -1302,20 +1470,6 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
 </item>
 94
-<item>
-<title>American Poltergeist (Dublado) - 2015</title>
-<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Suspense e Terror</genre>
-<info>Um grupo de amigos muda-se para uma casa de com um passado sinistro em Fall River, Massachusetts. O proprietário da casa, Taryn sente uma forte ligação com a casa e encontram-se no centro de um dos poltergeists mais mortais da história americana.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojBukow2fXifjOfbw-ncCp7TNsdCppPJJnMgSe0K7zdt1IFISKB0RG5jK</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
-</item>
-
 
 
 

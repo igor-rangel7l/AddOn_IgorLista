@@ -12,6 +12,34 @@
 
 
 <item>
+<title>Assassino a Preço Fixo (Dublado) - 2011</title>
+<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Arthur é um assassino profissional de elite, com regras simples e restritas para cumprir seu trabalho. Mas quando seu mentor e amigo, Harry, é assassinado, ele vai passar por cima de tudo e de todos para conseguir a sua vingança.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXPXqzWz-Tti_SJPPXgGUPdxJQGQxliVU_40NllKpjcREBuQsg9V4_jB_z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/06/assassino-a-preco-fixo_t13786_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Arthur Bishop (Jason Statham) é obrigado a reativar seu lado crimonoso quando amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudjotaMhbTOytS-LYoZu7rUqENJ6Xo4oDBKYkOjD9Xpf4zcGEc9qMHaRU</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14468241_328361007515441_1382707453064605522_o.jpg</thumbnail>
+</item>
+
+<item>
 <title>O Contador (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4</link>
 <regex>

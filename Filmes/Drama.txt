@@ -12,6 +12,48 @@
 
 
 <item>
+<title>Hora de Voltar (Dublado) - 2004</title>
+<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevitável confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coração para a vida e para a verdadeira cura interior.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA6iJsoE2BxhWv1CmyVodJSDmWaieFVZg9MPL0U_HTQetvwsL</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/03/60e06e5290675646d60659aca9390fa1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Como Eu Era Antes de Você (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Rico e bem sucedido, Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto, ao atravessar a rua em um dia chuvoso. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas. A situação o torna depressivo e extremamente cínico, para a preocupação de seus pais (Janet McTeer e Charles Dance). É neste contexto que Louisa Clark (Emilia Clarke) é contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspirações na vida, ela faz o possível para melhorar o estado de espírito de Will e, aos poucos, acaba se envolvendo com ele.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-OaUJmugiKi37FktCzs4sJw37A4EII1yDmG2-KaBfEJD_Ckj70Dsa0tGN</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/como-eu-era-antes-de-voce_t87730_6WE5Ak5.jpg</thumbnail>
+</item>
+
+<item>
+<title>As Aventuras de Pi (Dublado) - 2012</title>
+<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Drama</genre>
+<info>Pi Patel, é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi, consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhB3ioikF9sPlRrX7xtnhHajuVtqcmHpZs7Ekrc_aD5a1xtCqMMOOz7Fwg0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/11/b3cc18f97fe620cef165fa0b69d9c0de.jpg</thumbnail>
+</item>
+
+<item>
 <title>A Chegada (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]ACHGDA.mp4</link>
 <regex>

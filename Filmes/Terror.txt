@@ -11,10 +11,9 @@
 
 
 
-
 <item>
-<title>Ouija Exorcismo (Dublado) - 2016</title>
-<link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4</link>
+<title>Ouija: Origem Do Mal (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OUJORGMDML.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -24,6 +23,20 @@
 <info>O filme é novamente inspirado no antigo tabuleiro Ouija – superfície plana feita em madeira que possibilita a comunicação com espíritos. De volta aos anos 1960, uma jovem menina se encontra com forças sobrenaturais que se apossam do tabuleiro Ouija usado pela família.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/ouija-2_t121099.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ouija Exorcismo (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OUJEXRCMS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Em 1985, um célebre exorcista aprisionou um demônio horrível dentro de um tabuleiro ouija. Pensando o tabuleiro para ser um jogo, seu filho jogou sem obedecer as regras, e deixar o demônio solto. Para salvar seu filho, o exorcista o enviou para longe até que o demônio pudesse ser destruído. Trinta anos depois, e depois de sua morte, seu neto encontra o conselho e comete o mesmo erro que seu pai cometeu. Agora o mal está de volta e vagando pela terra para aterrorizar os responsáveis ??pela sua prisão.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/the-ouija-exorcism_tNone.jpg</thumbnail>
 </item>
 
 <item>
