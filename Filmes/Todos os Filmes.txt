@@ -29,6 +29,20 @@ Todos Os Filmes
 </item>
 
 <item>
+<title>O Shaolin Do Sertão (Nacional) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Nacional e Comédia</genre>
+<info>Durante a década de 80, lutadores de vale-tudo passam por dificuldades devido à falta de lutas profissionais. A fim de manter a paixão pela luta, eles desafiam os valentões no interior do Ceará que aceitam participar da competição criada. Aluísio Li, um aficionado e alienado por filmes de artes marciais, vê seu mundo ameaçado quando Toni Tora Pleura, um lutador profissional aposentado resolve desafiar a todos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFceEr27ys_bQwGxMO98iJCfngmbv80em1Zik3A0C69Vj4zeJPE5LxRjL5xw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/o-shaolin-do-sertao-2016-poster.jpg</thumbnail>
+</item>
+
+<item>
 <title>Minha Mãe é uma Peça: O Filme (Nacional) - 2013</title>
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4</link>
 <regex>
@@ -136,8 +150,8 @@ Todos Os Filmes
 </regex>
 <genre>Ação e Policial</genre>
 <info>Arthur Bishop (Jason Statham) é obrigado a reativar seu lado crimonoso quando amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudjotaMhbTOytS-LYoZu7rUqENJ6Xo4oDBKYkOjD9Xpf4zcGEc9qMHaRU</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14468241_328361007515441_1382707453064605522_o.jpg</thumbnail>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXPXqzWz-Tti_SJPPXgGUPdxJQGQxliVU_40NllKpjcREBuQsg9V4_jB_z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/1_namCIF6.jpg</thumbnail>
 </item>
 
 <item>
