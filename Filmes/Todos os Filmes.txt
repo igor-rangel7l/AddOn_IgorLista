@@ -15,6 +15,92 @@ Todos Os Filmes
 
 
 <item>
+<title>12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Já se passaram dois anos desde que Leo Barnes (Frank Grillo) deu fim a uma ação
+de vingança lamentável em uma noite de expulsão. Servindo agora como chefe de segurança para a Senadora Charlie Roan (Elizabeth Mitchell), sua missão é protegê-la durante sua corrida para a presidência e sobreviver ao ritual anual que tem como alvo os pobres e inocentes. Mas quando uma traição os força a sair às ruas da capital em uma noite onde nenhuma ajuda é disponível, eles devem continuar vivos até o
+pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Lc8vGWUnJY0CIwquI3vKaOOFNQpa56p1fSQILJz_GQLI4WPVHsSTayS4UQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/12-horas-para-sobreviver-o-ano_t104182.jpg</thumbnail>
+</item>
+
+<item>
+<title>Uma Noite de Crime 2: Anarquia (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM2ARQU.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Nesta sequência de Uma Noite de Crime (2013), um jovem casal fica preso nas ruas poucas horas antes da tradicional noite em que todos os crimes são permitidos pelo governo, para os cidadãos poderem liberar os seus instintos violentos. Sem poder contar com a ajuda de ninguém, eles tentam sobreviver à barbárie nas ruas.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Lc8vGWUnJY0CIwquI3vKaOOFNQpa56p1fSQILJz_GQLI4WPVHsSTayS4UQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/07/uma-noite-de-crime-2_t80828_8.jpg</thumbnail>
+</item>
+
+<item>
+<title>Uma Noite de Crime (Dublado) - 2013</title>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Em uma América devastada pelo crime, o governo sancionou um período de 12 horas anuais em que toda e qualquer atividade criminosa, incluindo assassinato, é legal. A polícia não pode ser chamada e os hospitais suspendem ajuda. É uma noite em que a cidadania se regula sem pensamento de punição. Nesta noite atormentada pela violência e por uma epidemia de crime, uma família luta com a decisão de quem eles se tornarão quando um estranho bate à sua porta.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEgCWpmUqriLSVdJzZ81UVCSghtuiwdSjduNcynSCH4D6j1ucmuoQeJwO7mQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/04/848f8f96a096c645ce118395514a5a9e.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rio 2 (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>É uma selva lá fora para Blu, Jade e seus três filhos depois que eles deixam a cidade maravilhosa para se aventurar em uma viagem pelo Brasil até chegar na Amazônia, para uma reunião de família. Fora de casa, em um lugar desconhecido, Blu terá que enfrentar seu maior medo - seu sogro - enquanto procura escapar do plano de vingança de Nigel.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw75qSIRZCB-upK_Bn-KyOxFC2W9URRc7IFvmUNFqWn-wsNp-ICY6ua2sM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/10/rio-2_t51555_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rio (Dublado) - 2011</title>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Blu é uma arara-azul que sempre viveu em cativeiro, nunca aprendeu a voar e não sabe viver fora de casa. Um dia, o pássaro que é nativo do Brasil, mas nunca morou aqui, vai para o Rio e descobre um mundo diferente, fora da gaiola.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1y6NJgZqxQohSDuqAgaSt3N5PSNL2QACoxVAMu9DLA2jXBoKEm9Uc9jhPQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/07/6f7562305a97f7b3071bf5e26a167b63.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rogue One: Uma História Star Wars (Legendado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHiVl-h9wjgGDQdVkWlk0rjZM_CoxFC3xpAZF7ahshdOovwkRzSCJgSM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/rogueone.jpg</thumbnail>
+</item>
+
+<item>
 <title>Resident Evil 6: O Capítulo Final (Legendado) - 2017</title>
 <link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4</link>
 <regex>

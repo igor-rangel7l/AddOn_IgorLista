@@ -12,6 +12,20 @@
 
 
 <item>
+<title>O Exorcismo de Anna Ecklund (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Um padre e um investigador do Vaticano tomam uma dona de casa possuía e levam para um convento para realizar um exorcismo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRqaVEaSA-_DPobEgG0mD9CGhVDE5VmdcuLaaAYZw5Fdom7j3_JT_HbIP</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/the-exorcism-of-anna-ecklund_tNone.jpg</thumbnail>
+</item>
+
+<item>
 <title>Jogo da Morte (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
 <regex>

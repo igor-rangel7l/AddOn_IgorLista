@@ -12,6 +12,76 @@
 
 
 <item>
+<title>Pandora (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]PNDRA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Jae-Hyeok (Kim Nam-Gil) luta para salvar a sua família e o seu país de um desastre nuclear. Jae-Hyeok vive com sua mãe (Kim Young-Ae), sua cunhada (Moon Jeong-Hee) e sobrinho Min-Jae (Bae Gang-Yoo) em uma pequena cidade coreana. Ele está namorando Yeon-Joo (Kim Joo-Hyun) e trabalha na usina nuclear local. Enquanto isso, Pyung-Sub (Jung Jin-Young) trabalha na mesma usina nuclear. Ele está preocupado com as condições lá, mas ninguém no governo o escuta. Um terremoto atinge a pequena cidade onde Jae-Hyeok vive e causa explosões na usina nuclear. A situação rapidamente fica fora de controle, levando toda a nação a entrar em pânico. Para evitar outro desastre nuclear, Jae-Hyeok e seus colegas de trabalho retornam à usina nuclear.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRoDO7V-epOestE7n60bvreL8641r4hZ6uAiytUNU_lLRmeA2EUx1BbMWf9g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/pandora-2016-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Monstro no Armário (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Um adolescente criativo e impulsivo está desesperado para escapar de sua cidade natal e das memórias assombrosas de sua infância turbulenta.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_NyBCVhrz1LOlRT9gzr8vZBsmFNRArwRnELT0VddsiAH4hL_xovaz_GmA9A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/closet_monster.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Dia do Atentado (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Após os atentados terroristas à Maratona de Boston em 2013, um grupo formado pelo Sargento da Polícia Tommy Saunders (Mark Wahlberg), o Agente Especial Richard Deslauries (Kevin Bacon), o Comissário da Polícia Ed Davis (John Goodman), o Sargento Jeffrey Pugliese (J.K. Simmons) e a enfermeira Carol Saunders (Michelle Monaghan) se une aos bravos sobreviventes para identificar e capturar os responsáveis pelo ataque terrorista antes que eles possam fazer novas vítimas.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL0q9umymaqUmg5sttBvejiN_udEr-PO36fL-PT6ga1ubdYZHrXA_JU--vMw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/patriots_day_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Horizonte Profundo: Desastre no Golfo (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Baseado em eventos reais, a história se passa no Golfo do México, na plataforma de perfuração marítima Deepwater Horizon que explodiu em abril de 2010. Diante de um dos piores vazamentos de petróleo na história dos EUA, a coragem dos trabalhadores e a sobrevivência perante os momentos extremos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv1powAyEmDaNPQLC3ZPChb77EIiuBD1otzyIQhjvml6qLEkPvpGqKtSph</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/deepwater-horizon_t109493.jpg</thumbnail>
+</item>
+
+<item>
+<title>Breaking Bad: O Filme (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/05/no-half-measures-creating-the-final-season-of-breaking-bad_tNone.jpg</thumbnail>
+</item>
+
+<item>
 <title>Hora de Voltar (Dublado) - 2004</title>
 <link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
 <regex>

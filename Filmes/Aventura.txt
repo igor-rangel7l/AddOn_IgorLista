@@ -13,6 +13,76 @@
 
 
 <item>
+<title>Rio 2 (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>É uma selva lá fora para Blu, Jade e seus três filhos depois que eles deixam a cidade maravilhosa para se aventurar em uma viagem pelo Brasil até chegar na Amazônia, para uma reunião de família. Fora de casa, em um lugar desconhecido, Blu terá que enfrentar seu maior medo - seu sogro - enquanto procura escapar do plano de vingança de Nigel.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw75qSIRZCB-upK_Bn-KyOxFC2W9URRc7IFvmUNFqWn-wsNp-ICY6ua2sM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/10/rio-2_t51555_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rio (Dublado) - 2011</title>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Blu é uma arara-azul que sempre viveu em cativeiro, nunca aprendeu a voar e não sabe viver fora de casa. Um dia, o pássaro que é nativo do Brasil, mas nunca morou aqui, vai para o Rio e descobre um mundo diferente, fora da gaiola.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1y6NJgZqxQohSDuqAgaSt3N5PSNL2QACoxVAMu9DLA2jXBoKEm9Uc9jhPQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/07/6f7562305a97f7b3071bf5e26a167b63.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rogue One: Uma História Star Wars (Legendado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHiVl-h9wjgGDQdVkWlk0rjZM_CoxFC3xpAZF7ahshdOovwkRzSCJgSM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/rogueone.jpg</thumbnail>
+</item>
+
+<item>
+<title>Moana: Um Mar de Aventuras (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores, que é seu maior hobbie e, também, trabalho. Querendo descobrir mais sobre seu passado e ajudar sua família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Com a ajuda do lendário semideus Maiu, Moana começa sua jornada pelo mar aberto, onde vai enfrentar criaturas marinhas e descobrir antigas histórias do submundo.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHUAZAjCOt50TnVgybMt7-pptm1soJ85pLEgHMrCwlhRF3xgROubuVm_yrBw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/14324454_1253345981353667_9146061834252970531_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Assassin's Creed (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Por meio de uma tecnologia revolucionária que destrava suas memórias genéticas, Callum Lynch (Michael Fassbender) experimenta as aventuras de seu ancestral, Aguilar, na Espanha do século XV. Callum descobre que é descendente de uma misteriosa sociedade secreta, os Assassinos, e acumula conhecimentos e habilidades incríveis para enfrentar a organização opressiva e poderosa dos Templários nos dias de hoje.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ9HgkLbEeM_aONcextQhoEO6_rbGmQYXPY5tY970gqUnGJS3DvhL26mBD</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/assassin-s-creed_t61044_Zfqdrxq.jpg</thumbnail>
+</item>
+
+<item>
 <title>As Aventuras de Pi (Dublado) - 2012</title>
 <link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
 <regex>

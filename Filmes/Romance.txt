@@ -12,6 +12,20 @@
 
 
 <item>
+<title>Passageiros (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Romance</genre>
+<info>Durante uma viagem de rotina no espaço, dois passageiros são despertados 90 anos antes do tempo programado, por causa de um mal funcionamento de suas cabines. Sozinhos, Jim (Chris Pratt) e Aurora (Jennifer Lawrence) começam a estreitar o seu relacionamento. Entretanto, a paz é ameaçada quando eles descobrem que a nave está correndo um sério risco e que eles são os únicos capazes de salvar os mais de cinco mil colegas em sono profundo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsIAvPZJLuVtXg6r0SLGVVRRlCIR4v8Mkn4-R5SIAuRcgzwSTB-gkkVHM0</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSahQpngfscdvqRBshgF3gg4PV8R9ql-VKqXW5_0CGVGbA6oAm4</thumbnail>
+</item>
+
+<item>
 <title>Hora de Voltar (Dublado) - 2004</title>
 <link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
 <regex>

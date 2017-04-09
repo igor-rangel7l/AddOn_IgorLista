@@ -26,6 +26,20 @@
 </item>
 
 <item>
+<title>Minha Mãe é uma Peça 2 (Nacional) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>Dona Hermínia (Paulo Gustavo) está de volta, desta vez rica, pois passou a apresentar um bem-sucedido programa de TV. Porém, a personagem superprotetora vai ter que lidar com o ninho vazio, afinal Juliano (Rodrigo Pandolfo) e Marcelina (Mariana Xavier) resolvem criar asas e sair de casa. Para balancear, Garib (Bruno Bebianno), o primogênito, chega com o neto. E ela também vai receber uma longa visitinha da irmã Lucia Helena (Patricya Travassos), a ovelha negra da família, que mora há anos em Nova York.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBVAs27dDa1NpO72cvdOQi9y_YCcj3WpjZpaOgtsdcWtvyDLSQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/CxjWVq5W8AAIzua.png</thumbnail>
+</item>
+
+<item>
 <title>Minha Mãe é uma Peça: O Filme (Nacional) - 2013</title>
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4</link>
 <regex>

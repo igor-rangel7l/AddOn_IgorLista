@@ -12,6 +12,20 @@
 
 
 <item>
+<title>Breaking Bad: O Filme (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/05/no-half-measures-creating-the-final-season-of-breaking-bad_tNone.jpg</thumbnail>
+</item>
+
+<item>
 <title>Assassino a Preço Fixo (Dublado) - 2011</title>
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4</link>
 <regex>
