@@ -13,7 +13,544 @@ Todos Os Filmes
 
 
 
-1
+
+<item>
+<title>12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Já se passaram dois anos desde que Leo Barnes (Frank Grillo) deu fim a uma ação
+de vingança lamentável em uma noite de expulsão. Servindo agora como chefe de segurança para a Senadora Charlie Roan (Elizabeth Mitchell), sua missão é protegê-la durante sua corrida para a presidência e sobreviver ao ritual anual que tem como alvo os pobres e inocentes. Mas quando uma traição os força a sair às ruas da capital em uma noite onde nenhuma ajuda é disponível, eles devem continuar vivos até o
+pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Lc8vGWUnJY0CIwquI3vKaOOFNQpa56p1fSQILJz_GQLI4WPVHsSTayS4UQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/12-horas-para-sobreviver-o-ano_t104182.jpg</thumbnail>
+</item>
+128
+<item>
+<title>Uma Noite de Crime 2: Anarquia (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM2ARQU.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Nesta sequência de Uma Noite de Crime (2013), um jovem casal fica preso nas ruas poucas horas antes da tradicional noite em que todos os crimes são permitidos pelo governo, para os cidadãos poderem liberar os seus instintos violentos. Sem poder contar com a ajuda de ninguém, eles tentam sobreviver à barbárie nas ruas.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Lc8vGWUnJY0CIwquI3vKaOOFNQpa56p1fSQILJz_GQLI4WPVHsSTayS4UQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/07/uma-noite-de-crime-2_t80828_8.jpg</thumbnail>
+</item>
+127
+<item>
+<title>Uma Noite de Crime (Dublado) - 2013</title>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Em uma América devastada pelo crime, o governo sancionou um período de 12 horas anuais em que toda e qualquer atividade criminosa, incluindo assassinato, é legal. A polícia não pode ser chamada e os hospitais suspendem ajuda. É uma noite em que a cidadania se regula sem pensamento de punição. Nesta noite atormentada pela violência e por uma epidemia de crime, uma família luta com a decisão de quem eles se tornarão quando um estranho bate à sua porta.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEgCWpmUqriLSVdJzZ81UVCSghtuiwdSjduNcynSCH4D6j1ucmuoQeJwO7mQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/04/848f8f96a096c645ce118395514a5a9e.jpg</thumbnail>
+</item>
+126
+<item>
+<title>Rio 2 (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>É uma selva lá fora para Blu, Jade e seus três filhos depois que eles deixam a cidade maravilhosa para se aventurar em uma viagem pelo Brasil até chegar na Amazônia, para uma reunião de família. Fora de casa, em um lugar desconhecido, Blu terá que enfrentar seu maior medo - seu sogro - enquanto procura escapar do plano de vingança de Nigel.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw75qSIRZCB-upK_Bn-KyOxFC2W9URRc7IFvmUNFqWn-wsNp-ICY6ua2sM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/10/rio-2_t51555_2.jpg</thumbnail>
+</item>
+125
+<item>
+<title>Rio (Dublado) - 2011</title>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Blu é uma arara-azul que sempre viveu em cativeiro, nunca aprendeu a voar e não sabe viver fora de casa. Um dia, o pássaro que é nativo do Brasil, mas nunca morou aqui, vai para o Rio e descobre um mundo diferente, fora da gaiola.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1y6NJgZqxQohSDuqAgaSt3N5PSNL2QACoxVAMu9DLA2jXBoKEm9Uc9jhPQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/07/6f7562305a97f7b3071bf5e26a167b63.jpg</thumbnail>
+</item>
+124
+<item>
+<title>Rogue One: Uma História Star Wars (Legendado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHiVl-h9wjgGDQdVkWlk0rjZM_CoxFC3xpAZF7ahshdOovwkRzSCJgSM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/rogueone.jpg</thumbnail>
+</item>
+123
+<item>
+<title>Resident Evil 6: O Capítulo Final (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>Começando exatamente após os eventos de Resident Evil: Retribuição, Alice (Milla Jovovich) é a única sobrevivente do que era pra ser a última fortaleza da humanidade contra os mortos-vivos. Agora, ela precisa retornar para o local que deu inicio a esse pesadelo, a colméia em Raccon City, onde a corporação Umbrella está reunindo suas forças para atacar os últimos sobreviventes do apocalipse.</info>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2012/05/8fcc7961db2ecc11291e8a92eacbbc62.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/resident-evil-final-poster.jpg</thumbnail>
+</item>
+122
+<item>
+<title>Resident Evil 5: Retribuição (Dublado) - 2012</title>
+<link>$doregex[Igor_Rangel_Link]REVIL05.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>O letal vírus T da Umbrella Corporation continua devastando a Terra, transformando a população global em legiões de desmortos.
+A última esperança da raça humana, Alice (Milla Jovovich), desperta dentro do coração da mais clandestina instalação de operações da Umbrella e descobre mais sobre seu misterioso passado, a cada passo dentro do complexo.
+Sem um porto seguro, Alice continua a caçar os responsáveis pela contaminação, uma perseguição que a leva de Tóquio para Nova Iorque, Washington e Moscou, culminando em uma revelação que a forçará a repensar tudo aquilo que ela acreditava ser verdade.
+Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, até que consiga escapar de um mundo hostil no limite da destruição.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZOPZ6CrXskWVR45iDhZTVd4KJjcDD2ALr9QYc1rb-2sfOMX9D0-bH9Az</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/05/8fcc7961db2ecc11291e8a92eacbbc62.jpg</thumbnail>
+</item>
+121
+<item>
+<title>Resident Evil 4: Recomeço (Dublado) - 2010</title>
+<link>$doregex[Igor_Rangel_Link]REVIL04.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>Na trama, Alice continua em sua missão de procurar e proteger todos os sobreviventes que puder encontrar. Com a ajuda de uma velha amiga, ela tenta levá-los para Los Angeles, lugar que acredita ser seguro, até que a cidade é invadida por milhares de mortos-vivos. Agora, Alice deve salvá-los não só dos zumbis, mas também de sua violenta guerra com a Corporação Umbrella.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZOPZ6CrXskWVR45iDhZTVd4KJjcDD2ALr9QYc1rb-2sfOMX9D0-bH9Az</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/09/7b68d71bbaab2607c7f69eabb211994c.jpg</thumbnail>
+</item>
+120
+<item>
+<title>Resident Evil 3: A Extinção (Dublado) - 2007</title>
+<link>$doregex[Igor_Rangel_Link]REVIL03.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>O T-Vírus experimental, criado pela Umbrella Corporation, foi liberado no mundo, transformando a população em zumbis que se alimentam de carne humana. Com as cidades sem segurança alguma, Carlos Olivera (Oded Fehr) e L.J. (Mike Epps), juntamente com as sobreviventes K-Mart (Spencer Locke) e Betty (Ashanti), reúnem um grupo e fogem pelo deserto, em um comboio blindado. Eles procuram outras pessoas que não estejam infectadas, mas apenas encontram outros mortos-vivos. O grupo é acompanhado pelo dr. Isaacs (Iain Glen), que está num complexo laboratorial subterrâneo da Umbrella Corporation, escondido sob uma torre de rádio abandonada em Nevada. Isaacs acompanha também Alice (Milla Jovovich), que, após ser capturada pela Umbrella, foi submetida a um teste biogenético que alterou sua configuração genética. Agora transformando-se constantemente e sob o risco de ser traída pelo seu próprio corpo, Alice segue o comboio e tenta conduzi-los ao seu destino: o Alasca, onde acreditam que estarão livres dos zumbis.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZOPZ6CrXskWVR45iDhZTVd4KJjcDD2ALr9QYc1rb-2sfOMX9D0-bH9Az</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/residentevil3extincion13-bra.jpg</thumbnail>
+</item>
+119
+<item>
+<title>Resident Evil: Apocalipse (Dublado) - 2004</title>
+<link>$doregex[Igor_Rangel_Link]REVIL02.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>Desde que foi capturada pela Corporação Umbrella, Alice (Milla Jovovich) passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine (Sienna Guillory) e Carlos Olivera (Oded Fehr) para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZOPZ6CrXskWVR45iDhZTVd4KJjcDD2ALr9QYc1rb-2sfOMX9D0-bH9Az</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/01/e16ef70343080ba64c7ae1a279a48dd4.jpg</thumbnail>
+</item>
+118
+<item>
+<title>Resident Evil: O Hóspede Maldito (Dublado) - 2002</title>
+<link>$doregex[Igor_Rangel_Link]REVIL01.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>Num laboratório de alta tecnologia (Umbrella), um vírus acaba contaminando todo o sistema. O sistema é controlado pelo super-computador denominado: "Red Queen". Com a contaminação, o "Red Queen" acaba "selando" o laboratório. Todos os cientistas ficam presos, e acabam infectados pelo vírus. As pessoas infectadas pelo vírus viram Zumbies, e todas as pessoas que esses montros mordem acabam virando a mesma criatura. Agora Alice (Milla Jovovich) e Rain (Michelle Rodriguez), líderes de um esquadrão militar especial invadem o laboratório. Alice tem apenas três horas para selar o laboratório, ou todo o planeta será infectado. Alice irá descobrir, ainda, que os zumbis não são a única forma letal de vida presente no local.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZOPZ6CrXskWVR45iDhZTVd4KJjcDD2ALr9QYc1rb-2sfOMX9D0-bH9Az</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/01/cfec50d29516f4de75e2514763fecf65.jpg</thumbnail>
+</item>
+117
+<item>
+<title>Pandora (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]PNDRA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Jae-Hyeok (Kim Nam-Gil) luta para salvar a sua família e o seu país de um desastre nuclear. Jae-Hyeok vive com sua mãe (Kim Young-Ae), sua cunhada (Moon Jeong-Hee) e sobrinho Min-Jae (Bae Gang-Yoo) em uma pequena cidade coreana. Ele está namorando Yeon-Joo (Kim Joo-Hyun) e trabalha na usina nuclear local. Enquanto isso, Pyung-Sub (Jung Jin-Young) trabalha na mesma usina nuclear. Ele está preocupado com as condições lá, mas ninguém no governo o escuta. Um terremoto atinge a pequena cidade onde Jae-Hyeok vive e causa explosões na usina nuclear. A situação rapidamente fica fora de controle, levando toda a nação a entrar em pânico. Para evitar outro desastre nuclear, Jae-Hyeok e seus colegas de trabalho retornam à usina nuclear.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRoDO7V-epOestE7n60bvreL8641r4hZ6uAiytUNU_lLRmeA2EUx1BbMWf9g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/pandora-2016-poster.jpg</thumbnail>
+</item>
+116
+<item>
+<title>Passageiros (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Romance</genre>
+<info>Durante uma viagem de rotina no espaço, dois passageiros são despertados 90 anos antes do tempo programado, por causa de um mal funcionamento de suas cabines. Sozinhos, Jim (Chris Pratt) e Aurora (Jennifer Lawrence) começam a estreitar o seu relacionamento. Entretanto, a paz é ameaçada quando eles descobrem que a nave está correndo um sério risco e que eles são os únicos capazes de salvar os mais de cinco mil colegas em sono profundo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsIAvPZJLuVtXg6r0SLGVVRRlCIR4v8Mkn4-R5SIAuRcgzwSTB-gkkVHM0</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSahQpngfscdvqRBshgF3gg4PV8R9ql-VKqXW5_0CGVGbA6oAm4</thumbnail>
+</item>
+115
+<item>
+<title>O Monstro no Armário (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Um adolescente criativo e impulsivo está desesperado para escapar de sua cidade natal e das memórias assombrosas de sua infância turbulenta.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_NyBCVhrz1LOlRT9gzr8vZBsmFNRArwRnELT0VddsiAH4hL_xovaz_GmA9A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/closet_monster.jpg</thumbnail>
+</item>
+114
+<item>
+<title>O Exorcismo de Anna Ecklund (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Um padre e um investigador do Vaticano tomam uma dona de casa possuía e levam para um convento para realizar um exorcismo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRqaVEaSA-_DPobEgG0mD9CGhVDE5VmdcuLaaAYZw5Fdom7j3_JT_HbIP</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/the-exorcism-of-anna-ecklund_tNone.jpg</thumbnail>
+</item>
+113
+<item>
+<title>O Dia do Atentado (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Após os atentados terroristas à Maratona de Boston em 2013, um grupo formado pelo Sargento da Polícia Tommy Saunders (Mark Wahlberg), o Agente Especial Richard Deslauries (Kevin Bacon), o Comissário da Polícia Ed Davis (John Goodman), o Sargento Jeffrey Pugliese (J.K. Simmons) e a enfermeira Carol Saunders (Michelle Monaghan) se une aos bravos sobreviventes para identificar e capturar os responsáveis pelo ataque terrorista antes que eles possam fazer novas vítimas.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL0q9umymaqUmg5sttBvejiN_udEr-PO36fL-PT6ga1ubdYZHrXA_JU--vMw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/patriots_day_ver2.jpg</thumbnail>
+</item>
+112
+<item>
+<title>Moana: Um Mar de Aventuras (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores, que é seu maior hobbie e, também, trabalho. Querendo descobrir mais sobre seu passado e ajudar sua família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Com a ajuda do lendário semideus Maiu, Moana começa sua jornada pelo mar aberto, onde vai enfrentar criaturas marinhas e descobrir antigas histórias do submundo.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHUAZAjCOt50TnVgybMt7-pptm1soJ85pLEgHMrCwlhRF3xgROubuVm_yrBw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/14324454_1253345981353667_9146061834252970531_o.jpg</thumbnail>
+</item>
+111
+<item>
+<title>Minha Mãe é uma Peça 2 (Nacional) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>Dona Hermínia (Paulo Gustavo) está de volta, desta vez rica, pois passou a apresentar um bem-sucedido programa de TV. Porém, a personagem superprotetora vai ter que lidar com o ninho vazio, afinal Juliano (Rodrigo Pandolfo) e Marcelina (Mariana Xavier) resolvem criar asas e sair de casa. Para balancear, Garib (Bruno Bebianno), o primogênito, chega com o neto. E ela também vai receber uma longa visitinha da irmã Lucia Helena (Patricya Travassos), a ovelha negra da família, que mora há anos em Nova York.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBVAs27dDa1NpO72cvdOQi9y_YCcj3WpjZpaOgtsdcWtvyDLSQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/CxjWVq5W8AAIzua.png</thumbnail>
+</item>
+110
+<item>
+<title>Horizonte Profundo: Desastre no Golfo (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Baseado em eventos reais, a história se passa no Golfo do México, na plataforma de perfuração marítima Deepwater Horizon que explodiu em abril de 2010. Diante de um dos piores vazamentos de petróleo na história dos EUA, a coragem dos trabalhadores e a sobrevivência perante os momentos extremos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv1powAyEmDaNPQLC3ZPChb77EIiuBD1otzyIQhjvml6qLEkPvpGqKtSph</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/deepwater-horizon_t109493.jpg</thumbnail>
+</item>
+109
+<item>
+<title>Hancock (Dublado) - 2008</title>
+<link>$doregex[Igor_Rangel_Link]HNCK.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação</genre>
+<info>Hancock é um super-herói que perdeu a popularidade que tinha, devido às suas tentativas de resgate pouco convencionais. Após salvar Ray Embrey, um agente de relações públicas, ele se oferece para ajudá-lo a melhorar sua imagem. A ideia não é bem aceita por Mary, a esposa de Ray, que mostra ao marido que Hancock teve uma ordem de prisão contra si lançada. Ray então sugere que Hancock se entregue, mesmo podendo escapar da prisão na hora que quisesse, para dar o exemplo e iniciar a mudança de sua imagem junto ao público. Ray acredita que, com Hancock preso, a criminalidade irá disparar e, com isso, a população chamará de volta seu herói.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNuRM8i8EEBGMPe14eITjhCixszyFseGb3TmpU5f4pe57kJfp</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/02/hancock_t15_ktSKqn1.jpg</thumbnail>
+</item>
+108
+<item>
+<title>Call to Duty: Fora de Alcance (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]CLTDTY.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Parte do batalhão de operações especiais, o Esquadrão Alpha tinha uma missão de reconhecimento que parecia ser simples. Entretanto, eles são atacados por um grupo de zumbis sanguinários - e sua guerra será pela sobrevivência e continuidade da raça humana.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7BqxiPiboZFHnMs-J7nZ2J6fXM2L2VXa3TLAoJeDMGum-ZEjl3xcBFvtjKA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BMjM2NzQyOTMxN15BMl5BanBnXkFtZTgwMDA3ODExMDI._V1_UY317_CR200214317_AL_.jpg</thumbnail>
+</item>
+107
+<item>
+<title>Breaking Bad: O Filme (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/05/no-half-measures-creating-the-final-season-of-breaking-bad_tNone.jpg</thumbnail>
+</item>
+106
+<item>
+<title>A Última Ressaca Do Ano (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia</genre>
+<info>Com a morte recente do pai, os irmãos Clay (T.J. Miller) e Carol Vanston (Jennifer Aniston) disputam o controle da empresa de tecnologia por ele criada. Presidente da companhia, ele é ameaçado por ela, CEO, que planeja inclusive demitir todos os funcionários. Visando impressionar um novo cliente que pode representar sua garantia no poder, Clay pede que seu braço direito, Josh (Jason Bateman), organize uma espetacular festa de Natal.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTon6bDlrQ0d-JOPbrvemDAq8uIldh9TcfbeBVA_OIPA_X7LbOU</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/a-ultima-ressaca-do-ano-2016-poster.jpg</thumbnail>
+</item>
+105
+<item>
+<title>Assassin's Creed (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Por meio de uma tecnologia revolucionária que destrava suas memórias genéticas, Callum Lynch (Michael Fassbender) experimenta as aventuras de seu ancestral, Aguilar, na Espanha do século XV. Callum descobre que é descendente de uma misteriosa sociedade secreta, os Assassinos, e acumula conhecimentos e habilidades incríveis para enfrentar a organização opressiva e poderosa dos Templários nos dias de hoje.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ9HgkLbEeM_aONcextQhoEO6_rbGmQYXPY5tY970gqUnGJS3DvhL26mBD</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/assassin-s-creed_t61044_Zfqdrxq.jpg</thumbnail>
+</item>
+104
+<item>
+<title>O Shaolin Do Sertão (Nacional) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Nacional e Comédia</genre>
+<info>Durante a década de 80, lutadores de vale-tudo passam por dificuldades devido à falta de lutas profissionais. A fim de manter a paixão pela luta, eles desafiam os valentões no interior do Ceará que aceitam participar da competição criada. Aluísio Li, um aficionado e alienado por filmes de artes marciais, vê seu mundo ameaçado quando Toni Tora Pleura, um lutador profissional aposentado resolve desafiar a todos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFceEr27ys_bQwGxMO98iJCfngmbv80em1Zik3A0C69Vj4zeJPE5LxRjL5xw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/o-shaolin-do-sertao-2016-poster.jpg</thumbnail>
+</item>
+103
+<item>
+<title>Minha Mãe é uma Peça: O Filme (Nacional) - 2013</title>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Nacional e Comédia</genre>
+<info>Adaptação da comédia que já levou quase um milhão de espectadores aos teatros pelo Brasil, “Minha Mãe é uma Peça – O Filme”, acompanha as hilárias peripécias de Dona Hermínia, uma mulher de meia idade, aposentada, que após ser trocada pelo marido por uma mulher mais nova e não ter mais que cuidar dos filhos já crescidos, tem como preocupação maior procurar o que fazer. Sem um trabalho ou um companheiro, a nada simpática Dona Hermínia passa seu tempo desabafando com a tia idosa, fugindo da vizinha fofoqueira, ou “enchendo o saco” dos filhos ao tentar continuar a “cuidar” da vida deles.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS30q1dmKJG_fQoiop0TNkyy0JzcwSM5tCLiNxohFga7pLJIaLPVYoC4BZy</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/05/6338a8eb26e0c75f86c1a9d27d4026f5.jpg</thumbnail>
+</item>
+102
+<item>
+<title>Kick Ass: Quebrando Tudo (Dublado) - 2010</title>
+<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Ação</genre>
+<info>Dave (Aaron Johnson) é um adolescente viciado em quadrinhos cansado de apanhar ou ser ameaçado. Até o dia em que ele resolve virar o super herói Kick Ass e mudar esta rotina. Como? Nem ele sabia, mas ao defender fantasiado de herói (e apanhando mais ainda) um cara que levava uma surra, o vídeo com as imagens dele enfrentando os bandidos foi parar na internet e ele virou um fenômeno. Dave só não contava que a sua fama iria envolvê-lo no meio de um plano de vingança de Big Daddy (Nicolas Cage) e Hit Girl (Chloe Moretz) contra Frank D'Amico (Mark Strong), um mafioso da cidade, vivendo uma verdadeira e violenta aventura que mudaria para sempre a sua vida.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgndsF6riZgn_zzt5MqFATdLvWtY-l9YF48twui7eankBRtmMZyxa_fNeU4w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/10/8a9bfc81e63e2777d923ac2fa301d1c9.jpg</thumbnail>
+</item>
+101
+<item>
+<title>Kick-Ass 2 (Dublado) - 2013</title>
+<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Ação</genre>
+<info>O ato insano de Dave Lizewski (Aaron Taylor-Johnson) em se vestir como o super-herói Kick-Ass e ir para as ruas combater o crime, mesmo sem ter qualquer tipo de superpoder, serviu de inspiração para dezenas de pessoas, que resolveram seguir o mesmo caminho. Mindy Macready (Chloë Moretz) deseja seguir como a super-heroína Hit-Girl, mas o sargento Marcus Williams (Morris Chestnut), que prometeu ao pai dela que iria cuidá-la em sua ausência, não quer que ela leve uma vida perigosa. Com isso, Mindy é obrigada a levar a vida de uma garota de sua idade, deixando de lado os atos heróicos, por mais que Dave insista para que ela faça o contrário. Entretanto, a carreira heróica de Dave não será solitária por muito tempo, já que não demora muito para conhecer o Coronel Estrelas e Listras (Jim Carrey), um ex-integrante da máfia que está reunindo um grupo de super-heróis sem poderes para combater o crime. Paralelamente, Chris D'Amico (Christopher Mintz-Plasse) prepara sua vingança contra Kick-Ass, assumindo um novo codinome: Motherfucker.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhiDXT8pW8Mkppqieh9uNpguszhuCF7SAtlNRQKIkxjo8_kFpMMvHN7F5sQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/06/61f611ffa6f6cfc841d8ea2bd699c42b.jpg</thumbnail>
+</item>
+100
+<item>
+<title>Hora de Voltar (Dublado) - 2004</title>
+<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevitável confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coração para a vida e para a verdadeira cura interior.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA6iJsoE2BxhWv1CmyVodJSDmWaieFVZg9MPL0U_HTQetvwsL</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/03/60e06e5290675646d60659aca9390fa1.jpg</thumbnail>
+</item>
+99
+<item>
+<title>Como Eu Era Antes de Você (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Rico e bem sucedido, Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto, ao atravessar a rua em um dia chuvoso. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas. A situação o torna depressivo e extremamente cínico, para a preocupação de seus pais (Janet McTeer e Charles Dance). É neste contexto que Louisa Clark (Emilia Clarke) é contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspirações na vida, ela faz o possível para melhorar o estado de espírito de Will e, aos poucos, acaba se envolvendo com ele.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-OaUJmugiKi37FktCzs4sJw37A4EII1yDmG2-KaBfEJD_Ckj70Dsa0tGN</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/como-eu-era-antes-de-voce_t87730_6WE5Ak5.jpg</thumbnail>
+</item>
+98
+<item>
+<title>As Aventuras de Pi (Dublado) - 2012</title>
+<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Drama</genre>
+<info>Pi Patel, é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi, consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhB3ioikF9sPlRrX7xtnhHajuVtqcmHpZs7Ekrc_aD5a1xtCqMMOOz7Fwg0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/11/b3cc18f97fe620cef165fa0b69d9c0de.jpg</thumbnail>
+</item>
+97
+<item>
+<title>Assassino a Preço Fixo (Dublado) - 2011</title>
+<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Arthur é um assassino profissional de elite, com regras simples e restritas para cumprir seu trabalho. Mas quando seu mentor e amigo, Harry, é assassinado, ele vai passar por cima de tudo e de todos para conseguir a sua vingança.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXPXqzWz-Tti_SJPPXgGUPdxJQGQxliVU_40NllKpjcREBuQsg9V4_jB_z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/06/assassino-a-preco-fixo_t13786_1.jpg</thumbnail>
+</item>
+96
+<item>
+<title>Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Arthur Bishop (Jason Statham) é obrigado a reativar seu lado crimonoso quando amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXPXqzWz-Tti_SJPPXgGUPdxJQGQxliVU_40NllKpjcREBuQsg9V4_jB_z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/1_namCIF6.jpg</thumbnail>
+</item>
+95
+<item>
+<title>Animais Fantásticos e Onde Habitam (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>O excêntrico magizoologista Newt Scamander (Eddie Redmayne) chega à cidade de Nova Iorque com sua maleta, um objeto mágico onde ele carrega uma coleção de fantásticos animais do mundo da magia que coletou durante as suas viagens. Em meio a comunidade bruxa norte-americana que teme muito mais a exposição aos trouxas do que os ingleses, Newt precisará usar suas habilidades e conhecimentos para capturar uma variedade de criaturas que acabam saindo da sua maleta.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXPXqzWz-Tti_SJPPXgGUPdxJQGQxliVU_40NllKpjcREBuQsg9V4_jB_z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14468241_328361007515441_1382707453064605522_o.jpg</thumbnail>
+</item>
+94
+<item>
+<title>As Aventuras de Peabody & Sherman (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Sr. Peabody é um magnata de negócios, inventor, cientista, ganhador do prêmio Nobel, chef, duas vezes medalista olímpico e gênio... Que também é um cachorro. Usando a sua engenhosa invenção, a máquina WABAC, o Sr. Peabody e seu filho adotivo, Sherman, viajam no tempo para vivenciar eventos que mudaram o mundo em primeira mão e interagir com as maiores personalidades da história. Mas quando Sherman quebra as regras da viagem no tempo, nossos dois heróis entrarão em uma corrida para reparar a história e salvar o futuro, enquanto Sr. Peabody enfrenta o maior desafio de sua vida - ser pai.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxomHPo0nINEa4iyfhjbZtFnLJUA4eO0WVoKenCXWT75eRwrURO-6r-AqS</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/03/as-aventuras-de-peabody-e-sherman_t58828.JPG</thumbnail>
+</item>
+93
+<item>
+<title>Ouija: Origem Do Mal (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OUJORGMDML.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>O filme é novamente inspirado no antigo tabuleiro Ouija – superfície plana feita em madeira que possibilita a comunicação com espíritos. De volta aos anos 1960, uma jovem menina se encontra com forças sobrenaturais que se apossam do tabuleiro Ouija usado pela família.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/ouija-2_t121099.jpg</thumbnail>
+</item>
+92
+<item>
+<title>Ouija Exorcismo (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OUJEXRCMS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Em 1985, um célebre exorcista aprisionou um demônio horrível dentro de um tabuleiro ouija. Pensando o tabuleiro para ser um jogo, seu filho jogou sem obedecer as regras, e deixar o demônio solto. Para salvar seu filho, o exorcista o enviou para longe até que o demônio pudesse ser destruído. Trinta anos depois, e depois de sua morte, seu neto encontra o conselho e comete o mesmo erro que seu pai cometeu. Agora o mal está de volta e vagando pela terra para aterrorizar os responsáveis ??pela sua prisão.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/the-ouija-exorcism_tNone.jpg</thumbnail>
+</item>
+91
 <item>
 <title>Ouija: Onde Tudo Começo (Dublado) - 2011.</title>
 <link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4</link>
@@ -27,7 +564,77 @@ Todos Os Filmes
 <genre>Terror</genre>
 <info>Cinco amigos decidem filmar suas sessões experimentais com uma tábua de Ouija, em uma tentativa de criar um vídeo viral para torná-los famosos. Um drama pessoal faz com que os membros do grupo se esqueçam de manter o foco em regras importantes do jogo e logo liberam entidades perigosas de outro mundo.</info>
 </item>
-2
+90
+<item>
+<title>Liga da Justiça Sombria (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Um grupo de anti-heróis sobrenaturais se unem para enfrentar ameaças ocultas, ameaças sobrenaturais, ameaças que talvez Batman, Superman e companhia não conseguiriam vencer. O clã é formado por personagens como John Constantine, Zatanna, o Monstro do Pântano, Etrigan, o Demônio, e a Orquídea Negra.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmluTkLc5KRd5xW65JirlmDK_DOt6hpo7WQDJhuRRk4tU0CvyMjGKKxVRqCw</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStwHLqsSJgl3PZ0uZuHw4K1AACPRi505n61PqXaYbEk_PViU10-9KwAxFuAw</thumbnail>
+</item>
+89
+<item>
+<title>iBoy (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]IBOY.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Após um acidente, Tom acorda de um coma e descobre que fragmentos do seu smart phone foram incorporados na sua cabeça. Ele também descobre que retornar à vida de um adolescente normal é impossível, pois ele desenvolveu super poderes.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmdaFb0P_Ru6aExALvZ1t7BVRbqcQ0HAy93XvErcRv11REy6dRw</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuRHBPDMK_A21hCvsSoMQUb3BKcKAsaQtKXt7utXOyLDHjBcZFVg</thumbnail>
+</item>
+88
+<item>
+<title>Abril e o Mundo Extraordinário (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura,Animação e Ficção Científica</genre>
+<info>Ambientado em 1941, numa França Steampunk que parou no Século 19, repleta de máquinas a vapor, duas torres Eiffel e governada por Napoleão VI, os cientistas desaparecem misteriosamente. Uma garota chamada Avril (Marion Cotillard), vai em busca de seus pais cientistas desaparecidos.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/uKIpuco6CSyh0BPwrfFVgHAPr2je0ItAP8747L2Cy4fI3nBSbUFowhjs4Dl0CKmYk2bwBG6ovi4ChMhIaxyayW15n6Q77MLQW8oD0i2jgWp0breUhQPH0w_r7A=w512-h287-nc</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSNTxAUT1HqvrYYzFfvLm8fATGEiCFD3uuyinB56n0E6Jvc2xXA</thumbnail>
+</item>
+87
+<item>
+<title>Esquadrao Suicida (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Reúna um time dos super vilões mais perigosos já encarcerados, dê a eles o arsenal mais poderoso do qual o governo dispõe e os envie a uma missão para derrotar uma entidade enigmática e insuperável que a agente governamental Amanda Waller (Viola Davis) decidiu que só pode ser vencida por indivíduos desprezíveis e com nada a perder. No então, assim que o improvável time percebe que eles não foram escolhidos para vencerem, e sim para falharem inevitavelmente, será que o Esquadrão Suicida vai morrer tentando concluir a missão ou decidem que é cada um por si?</info>
+<fanart>http://igorlistalogos.at.ua/Filmes/fanart/esquadrao-suicida.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/Filmes/thumbnail/esquadrao-suicida.jpg</thumbnail>
+</item>
+86
+<item>
+<title>Esquadrão de Elite (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Buren é um velho policial tempo que não joga pelas regras. No submundo Paris a sua equipa nunca tem medo de usar seus músculos e armas para fazer cumprir a lei. Com todos os seus movimentos sob o escrutínio de Lenoir seu novo patrão, Buren sabe que seu tempo está se esgotando. Quando um assalto se transforma em assassinato, Buren segue suas entranhas e invade a casa de ex-presidiário Kasper um. Mas Kasper tem um álibi sólido e Buren tem que deixá-lo ir. Marginalizado, Buren e seu esquadrão desobedecer as ordens de Lenoir para tentar impedir um assalto a banco em curso. A operação é um banho de sangue e Buren leva a queda para ele. Mas, quando ele percebe que os assaltos são parte de uma operação maior, Buren com nada a perder, decide entrar em ação.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/29me8EsNWvFQQcQwmyxBJx9QmOYoodNlP-sYS57coXAT1E6ZZJjawWDmAZrpXEWTbJiObATq=w512-h287-nc</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY2wAkaPeYFAB4z9CoNg6Xn6d3csWNAefPQBjSOogWYI7CE-usrw</thumbnail>
+</item>
+85
 <item>
 <title>Malévola (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]MLVLA.mp4</link>
@@ -41,7 +648,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqWUb1IfpeORZvWsgEC4vpXvoL7oWWQYTsCSDqnDn2_ik5Koc3nTcGuWO_Zw</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24g5qF-LsibmmyK2WtzLVo9ProAXNwjtZI8jxia5kM06GaIslzl-Xq2F_3A</thumbnail>
 </item>
-3
+84
 <item>
 <title>Meu Irmão Cego (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4</link>
@@ -55,7 +662,7 @@ Todos Os Filmes
 <fanart>https://lh6.googleusercontent.com/proxy/E4viovgd5BR-1d7AK2KmjmZNAz5jLb1uRyzd0BYvMp0POVVBHavSFZM_kIGDxsCCNw488LPFvszJe-Ry0ntUTjQBrWW6PqJdMCpnRa1jNTLoo4BuUdMSidtNnA=w523-h281-nc</fanart>
 <thumbnail>https://lh3.googleusercontent.com/proxy/d0LCKQf81Ay79V0scUlautnFeIW6CtJoeZ1JKdS4fVxdvVIGul1Au3TNbofT8uk_0ckVjy2bj8FcCx9D_DoxifDMRzzq2mhsK-YQFCWTUs-EhvEnzX-qW5D_QQ41fnyesLL1rR2wkBVCH9M5PCgVj9jsEF1WjqeW94sgipjK_rRlzcel8rR8-rARI8RFsTNUn2ux6_alhNyX7vuxa0ceUoo3LMvqINkd01vN=w290-h430-nc</thumbnail>
 </item>
-4
+83
 <item>
 <title>Jack Reacher: Sem Retorno (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]JCKRCHSRTN.mp4</link>
@@ -69,7 +676,35 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsibHzaKs49813W4d1eMHKzG52iR0PKbdSoUcJC-HYowJd4f065f3PoBlf</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6ZAOmGg1EspwVp-DA6SfeASv6ay34m5WpeMCYx6Uaz-jU4xEj</thumbnail>
 </item>
-5
+82
+<item>
+<title>Inferno (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]INFRNO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Drama e Policia</genre>
+<info>O renomado professor de simbologia de Harvard, Robert Langdon (Tom Hanks), visita a Itália e se envolve em mais uma aventura envolvendo símbolos ocultos e corporações secretas. Ele se vê em uma jornada em que procura desvendar os mistérios do clássico da literatura "A Divina Comédia", de Dante Alighieri.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7jouGQGKf5Iek1H_VdNIT3hPjfbOvxDfLukQDSX9A3N89x_OK7YVksTQpgw</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv7nJ84k4YMNB3fy1UzbKOMtdDvQ0MMfyWBCBThfQmw8J_oshIRQ</thumbnail>
+</item>
+81
+<item>
+<title>O Lar das Crianças Peculiares (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>Quando seu querido avô deixa para Jake pistas sobre um mistério que se estende por diferentes mundos e tempos, ele encontra um lugar mágico conhecido como O Lar das Crianças Peculiares. Mas o mistério e o perigo se aprofundam quando ele começa a conhecer os moradores e aprende sobre seus poderes especiais… e seus poderosos inimigos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAFoH-7p8Vu-TQ_XFKbalQf671pV9zxPpqe4W6o-4HAEejLAmobrygflAT</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9chM48st1v30Xl5FnVjWWbCntkYbK46PcvtUf2e8EIc_ExcjzTMiAwSgz</thumbnail>
+</item>
+80
 <item>
 <title>Fugindo Do Inferno (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]FGNDINFNO.mp4</link>
@@ -83,7 +718,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmomC6AdYgTz5T8RDlRNTQHHLEFyS7LLi93EAKozs0BCQP7SdJZg</fanart>
 <thumbnail>https://img.fstatic.com/o4D6Pw6TyhHgQ2BHar9_s2Cvjqo=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/02/poster37.jpg</thumbnail>
 </item>
-6
+79
 <item>
 <title>Doutor Estranho (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4</link>
@@ -97,7 +732,7 @@ Todos Os Filmes
 <fanart>https://lh6.googleusercontent.com/proxy/eMafwyelHRIErJ-F7z5Qqt1jiIya90jDxwigzFFhx80dtObJxNayzj7RSF-PoutAVHk36y3KVBkeiUdfmaXIIGb4oMntLtdpa8lnhx_6efO9T4XFIQDTsyVYrTrnpWz4MJQJmFxr7tcq-JcM2dIfMg=w500-h220-nc</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7uWKQrmv_Pf_XMSaCFQ8XxZFkMCBhthuudVO25pP3WBlPz12TT6hrvKPL</thumbnail>
 </item>
-7
+78
 <item>
 <title>A Volta do Juízo Final (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]AVLTDJZFNL.mp4</link>
@@ -111,7 +746,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCxPq6CJarvp7d4X7PavqVYoSpQUP6hg7_YEUdn_6YJF9zLPiZ</fanart>
 <thumbnail>https://img.fstatic.com/SsgZFoBFf9E_YgfeZ9HkDhcyZiw=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2017/01/1bd4967d3151f32387825b0d4ae1ca14b48a2ef8.jpg</thumbnail>
 </item>
-8
+77
 <item>
 <title>Amor Estranho Amor (Nacional) - 1982</title>
 <link>$doregex[Igor_Rangel_Link]AMRESTNHAMR.mp4</link>
@@ -125,7 +760,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrb9IscsG5WwtYjBQOHF2BjxKKUrmAoPx2amytxNA5BQk0bVPakq0RwxdPg</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3F7HyokpeIR_hfMi6Q19xBG8PiK8xx_irrTG5riUfXOu_yPL06Q</thumbnail>
 </item>
-9
+76
 <item>
 <title>A Chegada (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]ACHGDA.mp4</link>
@@ -139,7 +774,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdtuUMRlQ_dD7fNibi7AZItt6fAgYdoDxxpjggfWsW_KBNfzVUPB1i8-mU8g</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR--KfRN2lB-AMbWlxqGNhbREjNIO_HZyyNy6ldbJh7t4x7Ub35xiAwcj18cQ</thumbnail>
 </item>
-10
+75
 <item>
 <title>Bruxa de Blair (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]BRXDBLR.mp4</link>
@@ -153,7 +788,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8iiRLCPNsrnEfUSjHHq5h9_tGodVfnkBrA8UvBmkKfdKcRMlPv8sc7uJ3</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKvWzxlx4r50OuW7XiBTYAeWKYAta-MnwjzM7MdEzawc5yYJwK0_xyCHZQ</thumbnail>
 </item>
-11
+74
 <item>
 <title>A Bruxa de Blair 2: O Livro das Sombras (Dublado) - 2001</title>
 <link>$doregex[Igor_Rangel_Link]ABRXDBLR2.mp4</link>
@@ -167,7 +802,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnfy9QLmiwjPrXrAPIh0GGRV7C4sG7NYQJ9KZL6jJ_g9-aocSk7nD7wZiL</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFAkfKD_DQpRvyv6ZAeCTAwXqMYyGR76o5dM1WXJFtIPFDHI6CM-22tITEA</thumbnail>
 </item>
-12
+73
 <item>
 <title>A Bruxa de Blair (Dublado) - 1999</title>
 <link>$doregex[Igor_Rangel_Link]ABRXDBLR.mp4</link>
@@ -181,7 +816,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0bAyGQfTSb-3w7ghN9-nIm0j2ChIvBz4buE-3G0aKsfEwmvmx3Btc1OHH8Q</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQFk2cIXdx06CXzW_8X1o2V4lTqoAWsjN3azANPVcd1wESmyiPpn9t6p33Gg</thumbnail>
 </item>
-13
+72
 <item>
 <title>100 Streets (Legendado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]100STRTS.mp4</link>
@@ -195,7 +830,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkmB87HS2V6tsnD8IrdjoIlYsfPupWVPQOY-vCjCslPa9Kydw2Ua5xGjmg</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_H04eQp4gyxExKIIrM6DA1C6p2hzIlJ0u85DfNc6GYeq68PlHvg</thumbnail>
 </item>
-14
+71
 <item>
 <title>Sete Minutos Depois da Meia-Noite (Legendado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]STMNDPSDMENT.mp4</link>
@@ -209,7 +844,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXB74nVMiy9lXUMCE6dVSW9hVg9rY8bfTc6FyfsTkd6SthPsIc2TPo3gaT</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1iEmrKExlUI8x3DFAV_jzyA1X-R8fWXVoDozE4cAh9kTDaN-v</thumbnail>
 </item>
-15
+70
 <item>
 <title>Trolls (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]TRLS.mp4</link>
@@ -223,7 +858,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmBi0NJAJNxOHx6tXSE74VTuewpnVGjccQ3jeH200Aytdz5A3rUAxxsqV8</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfjMrM3dZVCk42isDlMXYD85Ic9Y0KohKcssYQCOZu0WO-iv-dsg</thumbnail>
 </item>
-16
+69
 <item>
 <title>Amor & Amizade (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4</link>
@@ -237,7 +872,7 @@ Todos Os Filmes
 <fanart>https://lh3.googleusercontent.com/proxy/PDzmF3Ost00bON8iUO7rwas3wTS3CTctkrcFkuACkH2Xk_G_JECpCt9VDa5NxFAMTCCwecD5=w511-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqH9feFVhMxm4_-zdpscG022XueE2UOAXB_3D4r_GmWQ_l_XRCq-CQQuBdMw</thumbnail>
 </item>
-17
+68
 <item>
 <title>10000 Anos Depois (Dublado) - 2015</title>
 <link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4</link>
@@ -251,7 +886,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4hoTQXR5EnjSiQm4oyNFzbePXGaBE0wyTP5APoPxeb6Zfqj3HI3kSsHdTQ</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbp9bWqd-g0kNMjCCvi7V149Eam4KRy978VwyD0PAkJQtsuaeu</thumbnail>
 </item>
-18
+67
 <item>
 <title>O Rei Macaco (Legendado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4</link>
@@ -265,7 +900,21 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJtDUubRAgxdgkmqDTM5LdlVPYHUXizYjcTMMsbozVW2EVF8ADl86A52vieg</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLI0hBmFVOC1DbIPrU1LKlxxUMK1IFjTZt5LqZ5MHKFRytW67T</thumbnail>
 </item>
-19
+66
+<item>
+<title>Perdidos no Pacifico (Legendado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>Uma história centrada em torno de um grupo de passageiros de elite a bordo de um luxuoso inaugural, vôo transoceânico que se transforma em um desastre.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/_mOgWiUK2gI_TnAC6yr5nGMUUVuB82vSbpVpX6XBFMAY-x8TiPUZU19_GPe8pu7Fd2TzObTc=w515-h286-nc</fanart>
+<thumbnail>https://lh4.googleusercontent.com/proxy/2hGRJpV1B9PUba9YfwRvdIvSl8z1UTfszHVrmKjhRJHkxd5RNCBmrojGnHT2RaQJ0p-I1PFkVsz-PVqZZN5lwEJkwY_4qU8KXpC_OrkpwYX5S3wcIhpeQ_DWjKOaZFoT_TTf=w270-h400-nc</thumbnail>
+</item>
+65
 <item>
 <title>Desventuras em Série (Dublado) - 2005</title>
 <link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4</link>
@@ -279,7 +928,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGt1IFjo_5uCHX8tQBSSYiO1a0RTzWc9o5YlwjFmA_z0bOJIhUzcM74blc</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HtX_RO8qX7WIDNBNn5WO0rfejjWRdbU0jh2pJQdth0QqcPBUXacc4PTsXw</thumbnail>
 </item>
-20
+64
 <item>
 <title>Anjos e Demônios (Dublado) - 2009</title>
 <link>$doregex[Igor_Rangel_Link]ANJSEDMNIS.mp4</link>
@@ -293,7 +942,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsfeLrGOC-DknZs1VSNldyhEEZTV10iEI8xNDvOQLkcVVTCspU0DQXdgw</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSGawRCPENU02b6yMP0BnNwD9ZdIfOexsdtDCjE1IZ4RjXi5dgO7YtJf3beQ</thumbnail>
 </item>
-21
+63
 <item>
 <title>Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4</link>
@@ -307,7 +956,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://lh5.googleusercontent.com/proxy/IPwx-QBvL6T7MmlaMF15lk3DovGdlZ4RdKKwmeyjhYLR_2EBdcEwhKtuuVguQnEebw8bgDCkQ1zF1eWWaIghvmAw4sePBCbp1irqYjurQce0qpVIUdIiETTjJ2cmk5W2TohfZlPL3M1XrKQfivKcRMc6fSJKC2Um5cCzcWU4qEQEuJFYescOnremgAdysSjRan2zzyNx6vGbGKfrf2kBJFc=w229-h320-nc</thumbnail>
 </item>
-22
+62
 <item>
 <title>Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4</link>
@@ -321,7 +970,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnckF7i4GmIwluimgbNOsWzZQHVJdKls8C29v8SIzSRETTx8qx</thumbnail>
 </item>
-23
+61
 <item>
 <title>Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4</link>
@@ -335,7 +984,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNdiecZLyQfRVHf9qaI9WliBEGIUorDr0XS7hDzwfn9xC53VRJdDZ8sW4O</thumbnail>
 </item>
-24
+60
 <item>
 <title>Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4</link>
@@ -349,7 +998,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJ-WHICA3ZBgsOcX76h7C8gVhpE1uF3zA21Yh55gbwKoKzneJyTWtKckU</thumbnail>
 </item>
-25
+59
 <item>
 <title>Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4</link>
@@ -363,7 +1012,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUD1vUdk1qP61qjKPaPogQZYmwFCtP_ivV7ITei00ulWT-pwEd</thumbnail>
 </item>
-26
+58
 <item>
 <title>Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4</link>
@@ -377,7 +1026,7 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUD1vUdk1qP61qjKPaPogQZYmwFCtP_ivV7ITei00ulWT-pwEd</thumbnail>
 </item>
-27
+57
 <item>
 <title>O Contador (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4</link>
@@ -392,7 +1041,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3rOvj4Xx9W0aaQ2Poyh8w7YdGuHTAB7T3T5dsd_GvjusmfonMnJuvGH9z</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPQZRVEf8Vak_S7CWYhVw2QgVkHa1-Qkz9tlJcyz_zL_uLtfQ_lcxGoqLl</thumbnail>
 </item>
-28
+56
 <item>
 <title>Mais Forte que o Mundo: A História de José Aldo (Nacional) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]MSFRTQOMUND.mp4</link>
@@ -406,7 +1055,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSidxzg8YIPW6gK_wVm_uPdqChvfM9B2c2eyAr1bDQpYXxlSuWvRi3NhGWg</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQthsoCwC_tau7tM-0NQgrrRLW2l70jMWKM4IffmOWucwcljzMIQA</thumbnail>
 </item>
-29
+55
 <item>
 <title>Tubarão de Gelo (Legendado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4</link>
@@ -420,7 +1069,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgPZP3bK2ylTRkM5uNeNTj2BkpHwJfjiC-ZFrA0M76dVEbCm7XtAN7csa</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9XbEbomZSKbeN7UDhoISDWLVLsFiXMGE_8rQ86XdhEuhXVS2Hxg</thumbnail>
 </item>
-30
+54
 <item>
 <title>Spectral (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]SPCTRL.mp4</link>
@@ -434,7 +1083,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO-N2pGcy0haN7yKUnJcLb4C7sAAbfYiW1ciq7tcYo9GuVLrEB7smXhOZGg</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQADT9-CeVa5nKA-C5EPrT3t_yPkIK0BMEGstLUUapiLPE-ENEy</thumbnail>
 </item>
-31
+53
 <item>
 <title>Snowden: Herói ou Traidor (Legendado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]SNODNHROTRIDRLEG.mp4</link>
@@ -448,7 +1097,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bp6L3y-q0mrzIgkZgD2ECWyu2KC-IcOogF91NuVpMlGwRVnbFA</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFvapXqN0czkNE4EfHAmCwstqLZRduDDuDf4wZ5QIIyC48jZSjA</thumbnail>
 </item>
-32
+52
 <item>
 <title>Sete Homens e Um Destino (Legendado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4</link>
@@ -462,21 +1111,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS28ZLKtjDdYAXLU0A_mcYbTXoiBEtuUZFMrhxS5sQI46QSVYiHIuad0YGg</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XWiFGCwOR3JjWMYUYSJX_6b6nf21HLpTTtIjwS3aPsI_n2EbEQ</thumbnail>
 </item>
-33
-<item>
-<title>Sete Homens e Um Destino (Legendado) - 2016</title>
-<link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Ação e Faroeste</genre>
-<info>Refilmagem do clássico faroeste (1960), que por sua vez é um remake de Os Sete Samurais, de Akira Kurosawa. Os habitantes de um pequeno vilarejo sofrem com os constantes ataques de um bando de pistoleiros. Revoltada com os saques, Emma Cullen (Haley Bennett) deseja justiça e pede auxílio ao pistoleiro Sam Chisolm (Denzel Washington), que reúne um grupo especialistas para contra-atacar os bandidos.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS28ZLKtjDdYAXLU0A_mcYbTXoiBEtuUZFMrhxS5sQI46QSVYiHIuad0YGg</fanart>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XWiFGCwOR3JjWMYUYSJX_6b6nf21HLpTTtIjwS3aPsI_n2EbEQ</thumbnail>
-</item>
-34
+51
 <item>
 <title>O Programa (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]OPRGMA.mp4</link>
@@ -487,10 +1122,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </regex>
 <genre>Drama</genre>
 <info>Cinebiografia do ciclista norte-americano Lance Armstrong (Ben Foster), que abrange desde a ascensão e consagração no Tour de France até a desgraça pelas acusações de dopping.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIlYsseA6MIalDHDKCLG2hhlVomsc2bVv4jQ8R5lC7ovN-Vd8CRw</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb5P4ixeKJ4dKFBFh5WEzvSwhiWZL--AtA1X-3aS_NUy0Dgibg</thumbnail>
 </item>
-35
+50
 <item>
 <title>Planeta dos Tubarões (Legendado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4</link>
@@ -504,7 +1139,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
 </item>
-36
+49
 <item>
 <title>O Mestre dos Gênios (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4</link>
@@ -518,7 +1153,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUnBuIkk6A4AeXTsAtDCZUnDbKlWuBkCRNWl4qFPp-gZez0x5iCA</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRE0z-cYooBpbvgZksiDviyIk70JMjpmS3u0kB-fK8i2JK5Ufifw</thumbnail>
 </item>
-37
+48
 <item>
 <title>O Bom Gigante Amigo (Dublado) - 2016 </title>
 <link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4</link>
@@ -532,7 +1167,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFPvapoKpugWbK-nAVy4OsNyJuPyd8a9PwGbDeNxXXBNv_w5fuwBdENVBi</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZgOlvsD7UGzi8C-bM5VGUYUAVtvj0Es_CwM35nUqiCWFl9qJ</thumbnail>
 </item>
-38
+47
 <item>
 <title>Nerve: Um Jogo Sem Regras (Dublado)</title>
 <link>$doregex[Igor_Rangel_Link]NRVUJSR.mp4</link>
@@ -544,23 +1179,11 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <genre>Policia</genre>
 <info>Uma garota, prestes a sair do ensino médio e sonhando em ir para a faculdade, decide participar de um jogo online: verdade ou consequência, um jogo onde todos os seus passos e atos são vistos e manipulados por uma comunidade anônima de hackers.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMt_d80hQ1vnQWd6dL2hbvXAIR2vyhCYUDSPjRAqrxD3dWkIaxgJkc9vAJ</fanart>
-<thumbnail>https://lh4.googleusercontent.com/proxy/Gx4fQwheXg91CBsm91KipbuKOZWlIa3SdO4e_P22TFZ1VOpxsBndNOjTmQTJY58K57PjXpCHqqPBAEsm6ohBMj_67RdbGKkO5TXXtEtacft2VqEtM_F2wpE-Hw=w322-h456-nc</thumbnail>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/nerve_t116345.jpg</thumbnail>
 </item>
-39
-<item>
-<title>Festa Da Salsicha (Dublado) - 2016</title>
-<link>$doregex[Igor_Rangel_Link]FSTDSLSCHA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Animação,Aventura e Comédia</genre>
-<info>Dentro de um supermercado, os alimentos sonham em serem escolhidos pelas pessoas e se mudarem para as casas dos compradores. Mas eles nem suspeitam que serão cortados, ralados, cozidos e devorados! Quando uma salsicha descobre a terrível verdade, ela reúne outros alimentos com a tarefa de voltarem ao mercado e avisarem todos os colegas do risco que correm.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpkTa8dd4GH7VsRNZhZb61sBb8xpNKx9uwX02N9i3FlIYVC_nCzCGp_fgqnQ</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHIF40BzzC1Vc9hQ47IeKfrzsB96I8ik8FrEMi1X-Vy6Gm7g48</thumbnail>
-</item>
-40
+46
+xx
+45
 <item>
 <title>Come And Find Me (Legendado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4</link>
@@ -574,7 +1197,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDqCWaOAU5L9X6zzFGX1LUsvG_jAIYB_ceqiZ9byExF7Yi3mYtlgddaf8syA</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXTsceWQlx23-5Dh7NRgCFtw_kEvM8HVUO0jKHHFD3pmsxp5eojUqulk_2</thumbnail>
 </item>
-41
+44
 <item>
 <title>Carrossel 2: O Sumiço de Maria Joaquina (Nacional) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]CARSL2.mp4</link>
@@ -588,7 +1211,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFy-mc-bUaJKAg8Y-Z9F1ISB4-Et0XsvaY-7UsXeDw74QIPTxfOJQXjz8z1w</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSohPZUDGxQ_okgXFwXvJHaIuqGpip-081VraL-v1v8ujg_HK6IYrSmX5Ot</thumbnail>
 </item>
-42
+43
 <item>
 <title>Agente Mirim (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4</link>
@@ -602,7 +1225,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeLRqYrNVIVxxpJrylUx2LNzpM6kHMiu4JeqHlbSYvJZ8GAoi</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rM3sOwm3uVqDEcZNv8H4mLWwRS1IM4rntbpL6jOVEAfPlYCJ</thumbnail>
 </item>
-43
+42
 <item>
 <title>Uma Noite Com a Família Blacks (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4</link>
@@ -616,7 +1239,21 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://lh3.googleusercontent.com/proxy/xxnIN9VZRu7AxfW05P7LY-uU3TGMPAVszM0A-kqPisnF_1RrxUWZatOFy5Fvfivv3LRCpDHti7JD_FrxG3CG4CY66xAXbVFzAG5jOnkgftXWfChCeX-2=w511-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJvghL-xLFlDW0_AtTm9JQaVltf_uuoIyCPkr0d0MQpIYI-Has</thumbnail>
 </item>
-44
+41
+<item>
+<title>Uma Canção (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Uma arqueóloga (Anne Hathaway) está de volta aos Estados Unidos após um período de escavações no Marrocos, onde seu irmão sofreu um acidente. Ao retornar, ela se envolve com um astro do rock (Johnny Flynn), que vem a ser o músico preferido de seu irmão.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjo10J4kfEhc4EPJRNpQwKw27U6w9mLt-mpaya81CD_3B5IScA</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuoOpyjhgyWGsWoXPM4Ivyd-qCH4y5yFnx2nGYZykgZsQAAAdj</thumbnail>
+</item>
+40
 <item>
 <title>Sansão e Dalila (Dublado) - 1951</title>
 <link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4</link>
@@ -630,7 +1267,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNGA_OWz9dAkisVNo1mSXPMCX946Q19OLkPWqCsps9OuoSO7SLSUHKnOug</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVwhcRk25b_Y6Nfr_ufRfxuwhshNGV42MtbmgNDb0rRPBYyVUgBzh-HEt0g</thumbnail>
 </item>
-45
+39
 <item>
 <title>Ritmo Total (Dublado) - 2002</title>
 <link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4</link>
@@ -644,7 +1281,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc9DdKscKaay-4XsM9R08lMitHCJkW3DAIPnSWapqxNQPdEPjByA</fanart>
 <thumbnail>https://img.fstatic.com/YY3rVSBk3WxsoBKhE2Px3-p9iBs=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2009/03/63df1e6e7e3b1e69d389400ce863020f.jpg</thumbnail>
 </item>
-46
+38
 <item>
 <title>Perfeita é a Mãe (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4</link>
@@ -658,7 +1295,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCm_y9JRJb_Dw_6Ta1zOZpQgbpdeR2M9xMy7a4hjnvfE9CpFp-</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgALktMZCwLPeBegSHNMADEgfUi7AynGzKdmD0XvAZ19eHJhS9</thumbnail>
 </item>
-47
+37
 <item>
 <title>Porque é Novembro (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4</link>
@@ -672,7 +1309,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSktZ0VDWWYDyrRX2hJ2ew7LUqtnl8YJjPpCHFTa7xBrlN6loMX6g</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurayL3CO3R7PeSIq3iv1k3W_ow72MOAwZlJmtJKlAxtVIffzH</thumbnail>
 </item>
-48
+36
 <item>
 <title>Popstar: Sem Parar, Sem Limites (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4</link>
@@ -686,7 +1323,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3jrVeqRyfN4njctC2-RWNqcwt7cZ2fLnCONQm1lpEcr4LyMgdMsh_giY</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsrnXGN4RN2Qot6UxFVzue8tQzW1mGtBErHDwZGoRY1yq3Y_2X</thumbnail>
 </item>
-49
+35
 <item>
 <title>O Vôo do Dragão (Dublado) - 1973</title>
 <link>$doregex[Igor_Rangel_Link]OVODRGO.mp4</link>
@@ -700,7 +1337,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs9AN5qXino7d_C3rp94zUKW3MuPC1apfyuPhrupqato6xUrR2-w</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXFmJOZz63yJJiapc8VlcSzrYwtSDX6RwFJt5HHNyYMNXgxWCE</thumbnail>
 </item>
-50
+34
 <item>
 <title>Os Pássaros (Dublado) - 1963</title>
 <link>$doregex[Igor_Rangel_Link]OSPSRS.mp4</link>
@@ -714,7 +1351,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSljUSfxUPI0ep-u4CbsRCPzEPbv1LbIOvW2fGSguLRu1nprHOS</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhqYciUqoHDiwY5eSq8svSiSSwURp3OO6sDauiKHfIPL7C4SIF8A</thumbnail>
 </item>
-51
+33
 <item>
 <title>Os Embalos de Sábado à Noite (Dublado) - 1978</title>
 <link>$doregex[Igor_Rangel_Link]OSEMBLDSBDANT.mp4</link>
@@ -728,7 +1365,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF57Zf4j332gOn6MfPmoBPvJe7k2tyhY9A-K9JXQCNHHnlpBPJd_hQBXH1</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvInMz-LLx2RTF1ClGb4E9Qo_J881LjjMwTbcMqFMuuWGExbI88sdIhnTutg</thumbnail>
 </item>
-52
+32
 <item>
 <title>Os Caçadores de Atlântida (Dublado) - 1983</title>
 <link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4</link>
@@ -742,7 +1379,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuRNzr_rQvgr1s5JE9GHGik_rR0U8vIldr1JNYrc-Lk-feVn6Ko0n48qb</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfi-otyiubGMuL122qBDTBnoMGYcNnuiYsa5TioGbGiHCeQzR9sQ</thumbnail>
 </item>
-53
+31
 <item>
 <title>Operação Dragão (Dublado) - 1973</title>
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
@@ -756,7 +1393,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoziRs9W-7RQdeGCndYEVjLeVuWMHUxu8y59Yf5TxyUETXmO4IBNqV2VMS</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx20ZzTKcLFX41aOYBqKzuloyrqUfx1sDi0eC7TDZ0Iu3y0ujkNQ</thumbnail>
 </item>
-54
+30
 <item>
 <title>Jogo da Morte (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
@@ -770,7 +1407,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QqOAoBjMDucbcn0pA3uhJPVitelSLOZFZZg7qKbgFS6Qy8JhXA</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCIjBJhLudsKlqr-XLYsleNVNa6pde4dgwOvJ1qZECApvTs3_</thumbnail>
 </item>
-55
+29
 <item>
 <title>O Dragão do Natal (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
@@ -784,7 +1421,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://lh4.googleusercontent.com/proxy/zBzHWKwuMhfZiD9UzC09tlZjlaq6Z9WRQLe0MU-AMs64xMNPwX3WPnV9XUXEcPx_BGmCVWU-AFYwkVVpEEaIQ2fR12tTmxsdDnd2lA=w512-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrkobaJ5HT8-GxRR4t91Vzuf2-4b4hJyH7R76aonW5uzgtj_5npw</thumbnail>
 </item>
-56
+28
 <item>
 <title>O Dragão do Natal (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]ODRGOCHNS.mp4</link>
@@ -798,7 +1435,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-k3dvP7AJGQjwuKwVP0Ij8BSjjwIoP8SauwEsTMiwaIow1-sU</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQu2b9DtuTylY9Qbu_4D2iIay9bcEJNzMLjCBx8zH3BFVejfXIysAfqiU7J</thumbnail>
 </item>
-57
+27
 <item>
 <title>O Aviador (Dublado) - 2005</title>
 <link>$doregex[Igor_Rangel_Link]OAVADR.mp4</link>
@@ -812,7 +1449,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsBQAK4Ij89VItJb-u86Rt4lgJshgF6Wecw9LDmvbOZI7ajh6_GQzQW_gB</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDi2P_pyAXwaYMeExRDkMLAeVL9euiK_CHT94PQvhQvjt8-EQb</thumbnail>
 </item>
-58
+26
 <item>
 <title>Nosso Fiel Traidor (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]NOSSFILTRDR.mp4</link>
@@ -825,7 +1462,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU3tmRikAHgQEArdRA-64rUDqOv1pZno0DUl_-WqTr1G8CwANY4NMl58VP</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYnyNhov_GMoRnUlKbfIQslY4_6wcAkAhLvngec6WeA2TXVl9x</thumbnail>
 </item>
-59
+25
 <item>
 <title>Namorada de Aluguel (Dublado) - 1987</title>
 <link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4</link>
@@ -839,7 +1476,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFcu7NXFT1PIzPkRWqr8SHdC3ochsJvq24U5WNRcP6Gz3XIjeceQ</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DcVFJCkRuCdWzOYY7HJaU_rX2sXlJB_EXDV1TZ-i_kgry2v51w</thumbnail>
 </item>
-60
+24
 <item>
 <title>A Fúria do Dragão (Dublado) - 1972</title>
 <link>$doregex[Igor_Rangel_Link]AFRDRGO.mp4</link>
@@ -853,7 +1490,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF41X72cH6MWivSr-C07m1wMjdEflXiWQJ_95tLTUmrvulFLsa0cxjqrIU</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOidtQi2oXoU_8rtcKJIl3gwUQEzDWjySErpPaAS1OpsnTgpeNxgMUnvsG</thumbnail>
 </item>
-61
+23
 <item>
 <title>Mercy (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]MERCY.mp4</link>
@@ -867,7 +1504,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://lh3.googleusercontent.com/proxy/N49qheSN9yZegmCk6VP48Gbfi349XMjAzXloiwfX103UQz5BZV7j5UPiIEPY3nUi2lf7LphcGbuTnR-A5sdgvfi_OYqnSulaW1jvJliSJJ5xAfIVnS43=w511-h288-nc</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbuSoGZfWU6L919SU3GLulJzZscjGTwzPQEA3SspWAyY5luXr8Nw</thumbnail>
 </item>
-62
+22
 <item>
 <title>Jason Bourne (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4</link>
@@ -881,7 +1518,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT12nlKPRZJWxaLxdOlLr63NNdWLtkvZah3MHRbTY_8bvFySoCiCsrRMCHBGQ</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPYI-k4FgVujt1tnqTifA_t0OF4zNG62rXCd7AjmJHARxwxyFHGtlwLfVT</thumbnail>
 </item>
-63
+21
 <item>
 <title>Jogo da Morte: A Última Jogada (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4</link>
@@ -895,7 +1532,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZl9t1Dep8hdvz5Ubcq39xapzix5xjdM9z8CMUYsrEbYiPifv6gHXPgsUU</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtG4-xlbiBd4Hc6rm-krSLnlqqndQTbfnzXnq3iifp4hJLIWIW</thumbnail>
 </item>
-64
+20
 <item>
 <title>Jogo da Morte: A Última Jogada (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4</link>
@@ -909,9 +1546,9 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZl9t1Dep8hdvz5Ubcq39xapzix5xjdM9z8CMUYsrEbYiPifv6gHXPgsUU</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtG4-xlbiBd4Hc6rm-krSLnlqqndQTbfnzXnq3iifp4hJLIWIW</thumbnail>
 </item>
-65
+19
 <item>
-<title>Horas Decisivas</title>
+<title>Horas Decisivas (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -923,7 +1560,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoRrl26RBP3dLe0C775vI51u3LaClaFK8jyKXmHvtuBX7U13QwkC2yRGuJ</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQPdcFBOpv5fVvrq_WvW6p1VTljr306rV38o7KRcNqt7VGt0yCSzs1Tm_C</thumbnail>
 </item>
-66
+18
 <item>
 <title>Honey 3: No Ritmo do Amor</title>
 <link>$doregex[Igor_Rangel_Link]HONY3.mp4</link>
@@ -937,10 +1574,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn5gRnTizlwRzytlUdbEPXeLZEfPn06yRbM3xjxMgaJBnqVDt</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLfx0I40TetR_7RzC1tsj8vawkdBuhEzKEX57cvdaOkivV3eqPA</thumbnail>
 </item>
-67
+17
 <item>
 <title>Honey 2: No Ritmo dos Sonhos (Dublado) - 2011</title>
-<link>$doregex[Igor_Rangel_Link]HONY1.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HONY2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -951,7 +1588,21 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn5gRnTizlwRzytlUdbEPXeLZEfPn06yRbM3xjxMgaJBnqVDt</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMUYtdCPzGknK2x_WeVLrdsueG8ssdyajJ1bZ66-ZZi8PFdeqs6Q</thumbnail>
 </item>
-68
+16
+<item>
+<title>Honey: No Ritmo dos Seus Sonhos (Dublado) - 2003</title>
+<link>$doregex[Igor_Rangel_Link]HONY1.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>Honey Daniels (Jessica Alba) é uma bela garçonete com talento para a dança. Quando surge uma oportunidade para ela lecionar e ser agenciada por um importante produtor, Honey terá que tomar importantes decisões que mudarão toda sua vida.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsn5gRnTizlwRzytlUdbEPXeLZEfPn06yRbM3xjxMgaJBnqVDt</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/07/2dc662ffa656fdcd707e7f00ea12fd7b.jpg</thumbnail>
+</item>
+15
 <item>
 <title>Guerra ao Terror (Dublado) - 2010</title>
 <link>$doregex[Igor_Rangel_Link]GURAOTER.mp4</link>
@@ -966,7 +1617,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzSb9XixePr31USjBZBLOKjeyx1DeN0mUEIwScz6DcQVD4aQBAdl_qAT77cA</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEnQOkfw29_vPX7Gei4zKBneR5-xe_7Qbe_6iyX4FBAgZnScR7TD8ELah</thumbnail>
 </item>
-69
+14
 <item>
 <title>Força Para Viver (Dublado) - 2015</title>
 <link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4</link>
@@ -980,7 +1631,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbswrV1h3hUYtYpvB9SbqIo8DsfPqOFvfpQ0hZyyIwptSs0uMEphUjL5JsXQ</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNTsJWEvMMg7povm7laewm5G8IYmyzCXkKpQBn8l7zGTIUqPI0</thumbnail>
 </item>
-70
+13
 <item>
 <title>Escola de Rock (Dublado) - 2004</title>
 <link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4</link>
@@ -994,7 +1645,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ZByQbXYNx9dc8lRmanGR296bnD5IK0XX0tJwE4Z7DxOruwSX5H5P8gOeBA</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRcPjbrUDNfy6onSkqSJjsiOstbedj1t-xXqIotKvg-TGbapWGmtBGGjgW8Q</thumbnail>
 </item>
-71
+12
 <item>
 <title>Elvis & Nixon</title>
 <link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4</link>
@@ -1008,7 +1659,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShAJAJO3_SWj17Rd7EkhKwzOQtbbFBKPN3YOIznsPBrs9t8vVfOyBHMXhjdg</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkPvyGAf-qB1aGNofJr8ZAdGhL1aEavvEHSB-XiYp-4VppHlffzYOT67zc</thumbnail>
 </item>
-72
+11
 <item>
 <title>Deu a Louca no Mundo (Dublado) - 1963</title>
 <link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4</link>
@@ -1022,7 +1673,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAbvZsQGR6zvJVdAKuUek4hIT2JGa9kKWop1W6-C11aMSSkOGuVQ</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeBad1vRMVeiIECQUWT3d8P_q1YtMTPiWKnm2hoJtI6jhFptZv</thumbnail>
 </item>
-73
+10
 <item>
 <title>Cavalo de Guerra (Dublado) - 2012</title>
 <link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4</link>
@@ -1036,7 +1687,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoszbs6_mO1wl7XFZqv047y-vHYcp9QN7ZldOvHWlJol8AINAjSez0kYwObw</fanart>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9-qlNs-xwpLbxRaCv3JvQDg6pRB6F0gq82HFkripCnjEu9aNJKUfCZvY</thumbnail>
 </item>
-74
+9
 <item>
 <title>Cyborg: O Dragão do Futuro (Dublado) - 1989</title>
 <link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4</link>
@@ -1050,9 +1701,9 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOVozKE1uLJuQoymPDNbc_ZcAsUBkk2EgfDRo86wV_vC9dTdFqjUAAPBP0</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgS6gU6heUdWglvycj5_0JKF5GKgHLGhNA7wCKmzTtU7-XveZUFan4Jldd_g</thumbnail>
 </item>
-75
+8
 <item>
-<title>Cantando de Galo</title>
+<title>Cantando de Galo (Dublado) - 2015</title>
 <link>$doregex[Igor_Rangel_Link]CATNDGL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1064,7 +1715,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8i4Kl5HSsopDta8xykDM1C7WJdD9GMIgVvTOeVjk</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJR-SVo68LaB09vGYnXMlArJwzT9VmzaKboeAG5HaKZxS7ZRf</thumbnail>
 </item>
-76
+7
 <item>
 <title>Batalha de Honra (Dublado) - 1993</title>
 <link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4</link>
@@ -1078,7 +1729,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDD7pecLyMV3a7dfJMuZiJvlsGPMtR4TiiwNdf6x7KFqFl7pH_v0sxSp0ZgQ</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9p3BjtXwi4pXYE3owEU9_0wTda1Nxt4_i5h3MCLuHYqiUuZvl</thumbnail>
 </item>
-77
+6
 <item>
 <title>Anthropoid (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]ATHRPDLEG.mp4</link>
@@ -1091,7 +1742,35 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfhndO_tFB-MK83CAPizvLrwi2hVjb2-mf3DXu0YfCGU8EGdK3FlL0IkYcMg</fanart>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwfq2t-vojmgR3OCjGNo3rCZZOJ5osi0h5_BJ2YbgRVs_JjBky</thumbnail>
 </item>
-78
+5
+<item>
+<title>Truque de Mestre: O Segundo Ato (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Um ano após despistar o FBI e ganhar a adulação do público com seus números de mágica ao estilo Robin Hood, os Quatro Cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco e Lizzy Caplan) ressurgem em um espetáculo que pretende expor as práticas sem ética de um magnata da tecnologia, mas ao final do número, são desmascarados e raptados por um inimigo desconhecido. O homem por trás do ato de desaparecimento dos ilusionistas é nada menos que Walter Mabry (Daniel Radcliffe), um prodígio que ameaça os mágicos e os obriga a fazer um roubo dos mais espetaculares e impossíveis. A única esperança é conseguir produzir um golpe sem precedentes para limpar seus nomes e revelar o real mandante por trás de tudo.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSojLryWak5OPW3Nlg2pTBk41tHsz3vhf6DbMuq3rijNluVhIqUYfPnf52EsQ</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE3EoJQur69G_SwWjwQUhCeqFdavbXQ4unIu3c75xaHqk0QnY5MQFy8HONWw</thumbnail>
+</item>
+4
+<item>
+<title>Quando as Luzes se Apagam (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]QNDASLZSAPGM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Desde que era pequena, Rebecca tinha uma porção de medos, especialmente quando as luzes se apagavam. Ela acreditava ser perseguida pela figura de uma mulher e anos mais tarde seu irmão mais novo começa a sofrer do mesmo problema. Juntos eles descobrem que a aparição está ligada à mãe deles, Rebecca começa a investigar o caso e chega perto de conhecer a terrível verdade.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFhcs_VTvlGtUrPmOGgw5emT9FsA_Aga4LXrwr645jzao-rVaNXITXon4Hng</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5bSUPfpYq-d_QU3m5XEV0N7tT-f8itAnLqnRrW-cPTylVjjhL7g</thumbnail>
+</item>
+3
 <item>
 <title>As Torres Gêmeas (Dublado) - 2006</title>
 <link>$doregex[Igor_Rangel_Link]ASTRSGMS.mp4</link>
@@ -1105,7 +1784,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYtvK0wG-xBIKtt3cKvlNKsUeJo_TH9PlePD-In5NLGNB9zBdb</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj-CHbYImv4vjvh63rHcW-oGBbIiaOJV1cmEdgkKlnd04seP0OaA</thumbnail>
 </item>
-79
+2
 <item>
 <title>Amor e Revolução (Dublado) - 2015</title>
 <link>$doregex[Igor_Rangel_Link]AMRERVLC.mp4</link>
@@ -1119,7 +1798,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhS3lAJBA9zikpwjl9rpEyEXmLSMsktGVlzTKAsOnTUIuGzGmHJV1HiJ-oow</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR14UQCJOAw7rx-GGWdvwXwmY_HpM21c_ocpe4CyD-ma1sEpj-B</thumbnail>
 </item>
-80
+1
 <item>
 <title>American Poltergeist (Dublado) - 2015</title>
 <link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
@@ -1133,21 +1812,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojBukow2fXifjOfbw-ncCp7TNsdCppPJJnMgSe0K7zdt1IFISKB0RG5jK</fanart>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
 </item>
-
-<item>
-<title>American Poltergeist (Dublado) - 2015</title>
-<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Suspense e Terror</genre>
-<info>Um grupo de amigos muda-se para uma casa de com um passado sinistro em Fall River, Massachusetts. O proprietário da casa, Taryn sente uma forte ligação com a casa e encontram-se no centro de um dos poltergeists mais mortais da história americana.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojBukow2fXifjOfbw-ncCp7TNsdCppPJJnMgSe0K7zdt1IFISKB0RG5jK</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWJQszDgw4CP16tvdLeteNfMB8dWJXSFV_XFtYx4lVtgztlhmk</thumbnail>
-</item>
-
+94
 
 
 
