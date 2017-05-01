@@ -12,6 +12,34 @@
 
 
 <item>
+<title>Além Da Realidade (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>John e Laura Taylor são um casal jovem que quer desesperadamente um filho. Depois de tentarem muitas opções, eles finalmente contratam Anna, a mulher perfeita para ser barriga de aluguel, mas, ao longo da gestação, ela fica psicótica e perigosamente obcecada pelo futuro pai da criança.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwpveSohAcD_ZAO1vHASI1oV-se6FFGdslioSWmi970Y32l-3yJt-d1GbBA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/when-the-bough-breaks_t209312.png</thumbnail>
+</item>
+
+<item>
+<title>O Olho do Mal (Dublado) - 2008</title>
+<link>$doregex[Igor_Rangel_Link]OLHDML.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Los Angeles. Sydney Wells (Jessica Alba) é uma violinista renomada, que sofreu uma tragédia na infância que a deixou cega. Ela sempre sonhou em fazer uma cirurgia de transplante de córneas e, quando finalmente consegue, recupera a visão. Para se adaptar à nova situação ela conta com a ajuda de sua irmã Helen (Parker Posey) e do dr. Paul Faulkner (Alessandro Nivola), um neuro-oftamologista. Porém logo Sydney passa a ver imagens sombrias e aterrorizantes, que a assombram. Sem saber se a situação é consequência da adaptação de seu cérebro à nova situação, Sydney passa a desconfiar que a causa está ligada ao doador anônimo das córneas usadas em sua operação.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO5NaN9hYmY2QDHv3gMLDpQhqG2gYyKL5aB5aokqfXt0iM-SogYLS69EvSDg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/06/beed408ded31138f42443edb60075ecc.jpg</thumbnail>
+</item>
+
+<item>
 <title>12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (Dublado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]UMNTDCRM3.mp4</link>
 <regex>

@@ -12,6 +12,50 @@
 
 
 <item>
+<title>A Bailarina (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]ABLRN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Animação</genre>
+<info>Paris, 1869. Uma sonhadora menina órfã toma uma atitude arriscada para conseguir o que quer: foge para Paris para realizar o sonho de ser uma grande bailarina. Lá ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnMlUep3GBGHyuyd2tztmcjc2yw7o5pyl9V5lK6hwvNt1bO7aoa3S3rdcQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/ballerina_t113785.JPG</thumbnail>
+</item>
+
+<item>
+<title>Hop: Rebelde Sem Páscoa (Dublado) - 2011</title>
+<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação e Comédia</genre>
+<info></info>
+<fanart>https://lh6.googleusercontent.com/proxy/qaJ6bpsABx3V55iiKWEdwq9FQa8jz7PB7_mIc7vFPx01OEIPy_uHp2ABt79JU20FFpTbel525GGKhytOGbBh9_PWBAO-ejaqrQb5Olc3i9QUPzaHlF6tGnqm=w512-h287-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/04/3844091c34fcbc52e36013c97f2c1572.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sing: Quem Canta Seus Males Espanta (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação e Comédia</genre>
+<info>Um koala (McConaughey), que preside um grande teatro, que tem caído em tempos difíceis, decide recuperar a glória através da produção da maior competição de canto do mundo.
+Os concorrentes são um rato (MacFarlane), uma tímida adolescente elefante (Kelly) com medo do palco, uma mãe sobrecarregada (Witherspoon) esperando uma ninhada de 25 leitões, um jovem gorila gangster (Egerton) e um porco-espinho punk-rock (Johansson) lutando para largar seu namorado arrogante.
+Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e é dirigido por Garth Jennings com produção de Chris Meledandri e Janet Healy.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzVeMXu6Ggi4ReVSvVykNKzMjG63V1a1Ttf9BWK4_L7kMWElaeBTgWj0t7</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/11/sing_t195115.jpg</thumbnail>
+</item>
+
+<item>
 <title>Rio 2 (Dublado) - 2014</title>
 <link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
 <regex>
@@ -93,20 +137,6 @@
 <info>Nesse lugar Centenas de milhares de anos após o colapso da civilização, o mundo é um deserto “pós-tech” e é habitado por tribos humanóides. A paz estabelecida entre eles é ameaçada pelo retorno de Wushen, um fantasma que muda a forma da tecnologia moderna, ameaçando escravizar a população mundial. Zhuma, uma menina de dez anos de idade é a heroína da história, acompanhada por Zhanggong, seu cachorro leão-como o mastín tibetano e seu avô. Escolhida e ajudada por uma deusa etérea, ela deve reunir aliados das tribos sobreviventes para combater Wushen e impedi-lo de ganhar o controle sobre um poder muito antigo.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4hoTQXR5EnjSiQm4oyNFzbePXGaBE0wyTP5APoPxeb6Zfqj3HI3kSsHdTQ</fanart>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbp9bWqd-g0kNMjCCvi7V149Eam4KRy978VwyD0PAkJQtsuaeu</thumbnail>
-</item>
-
-<item>
-<title>Festa Da Salsicha (Dublado) - 2016</title>
-<link>$doregex[Igor_Rangel_Link]FSTDSLSCHA.mp4</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
-</regex>
-<genre>Animação,Aventura e Comédia</genre>
-<info>Dentro de um supermercado, os alimentos sonham em serem escolhidos pelas pessoas e se mudarem para as casas dos compradores. Mas eles nem suspeitam que serão cortados, ralados, cozidos e devorados! Quando uma salsicha descobre a terrível verdade, ela reúne outros alimentos com a tarefa de voltarem ao mercado e avisarem todos os colegas do risco que correm.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpkTa8dd4GH7VsRNZhZb61sBb8xpNKx9uwX02N9i3FlIYVC_nCzCGp_fgqnQ</fanart>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHIF40BzzC1Vc9hQ47IeKfrzsB96I8ik8FrEMi1X-Vy6Gm7g48</thumbnail>
 </item>
 
 <item>

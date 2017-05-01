@@ -12,6 +12,76 @@
 
 
 <item>
+<title>Rogue One: Uma História Star Wars (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHiVl-h9wjgGDQdVkWlk0rjZM_CoxFC3xpAZF7ahshdOovwkRzSCJgSM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/rogueone.jpg</thumbnail>
+</item>
+
+<item>
+<title>Resgate Suicida (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>O policial secreto Billy Tong infiltrou-se na Gangue Ching Tau e descobriu que eles estão planejando sequestrar Tiffany Long, a filha de um notório chefe da tríade Dragon Head Xi Long. Quando Billy descobre que Melinda, sua ex-mulher está grávida, ele questiona suas escolhas de carreira e arrisca a segurança da filha de Xi Long e de sua nova família.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREuztWLIxhEUZ8f8JAKRLeFBpMdYrseX6v0ZpkFdaNgoXzgrEbIH8tISh85A</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsti8FDkpjnRms100jXSPrkSL7qkrIivkfVFQm3A9iIzAm9_0e6A</thumbnail>
+</item>
+
+<item>
+<title>A Lenda do Rei Macaco (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Esse filme é baseado nos capítulos do famoso clássico romantico de Wu Cheng'en's "Jornada ao Oeste", e conta a história de como o Macaco Rei se rebela contra o Imperador Jade do Céu.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkynN1xye8tyCjLXMh6xI_R6YmcK3Bpx1FI0LL8SFnv3uJMtXn7SrtwtX8</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/05/the-monkey-king_t53544_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Continuação do filme The Monkey King (Tumulto no Reino Celestial, 2012). O filme narra a origem e o lugar de nascimento da Monkey King.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkynN1xye8tyCjLXMh6xI_R6YmcK3Bpx1FI0LL8SFnv3uJMtXn7SrtwtX8</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/05/the-monkey-king-the-legend-begins_tNone.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Vizinhos Nada Secretos (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Comédia</genre>
+<info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos são espiões do governo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrjfXoMeNwmYACvmLFzkO5S5EgnO5k6jDR1vKPBX7ALjQ1UtAI3r0sy8t9Ig</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/keeping_up_with_the_joneses.jpg</thumbnail>
+</item>
+
+<item>
 <title>Rogue One: Uma História Star Wars (Legendado) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
 <regex>

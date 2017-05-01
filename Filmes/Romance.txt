@@ -12,6 +12,62 @@
 
 
 <item>
+<title>Lisbela e o Prisioneiro (Nacional) - 2003</title>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Nacional e Comédia</genre>
+<info>Lisbela (Débora Falabella) é uma moça que adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu (Selton Mello) é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade de Lisbela. Após se conhecerem eles logo se apaixonam, mas há um problema: Lisbela está noiva. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador (Marco Nanini) que está atrás de Leléu, devido a ele ter se envolvido com sua esposa (Virginia Cavendish).</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvaBl0vtzWppaTO_1_Sv4T4CqV7pitzrddAh3y5NsarClHGSn1b3xE44Bu5w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/acc8c9fc1091eeb6d4d9532cc95da6f6.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cinquenta Tons Mais Escuros (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Quando um Christian Grey (Jamie Dornan) ferido tenta seduzir uma Ana Steele (Dakota Johnson) cautelosa de volta a sua vida, ela demanda um novo arranjo antes de dar uma nova chance a ele. Conforme os dois começam a construir confiança e encontrar estabilidade, figuras sombrias do passado de Christian começam a assombrar o casal, determinadas a destruir suas esperanças de um futuro juntos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzdX3NTnM915k_TO8s0OSNhxL5QkfHhK-vddNM-7Ycjt7WGZQ0enkgno4p</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/CzQkQT1XAAAJHRk.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nossos Amantes (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Comédia e Drama</genre>
+<info>Conta a história do encontro de um homem e uma mulher numa cafeteria em um momento em que suas vidas estão à deriva, e o fez lembrar da importância de se atrever a sonhar.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/0Zq1DyPQf2nonPGm3qSpB8xIgMDDOkb8LEcBA2vFX-DXBRf4whtQW-aTuF9OaX6iCLbCvdK7UGYsnsGazAc9xw3UMs5A3_Jc=w443-h332-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/nuestro-amantes_t124967.jpg</thumbnail>
+</item>
+
+<item>
+<title>Do Que as Mulheres Gostam (Dublado) - 2001</title>
+<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Após sobreviver a um grave acidente, Nick Marshall (Mel Gibson), um executivo machista que trabalha em Chicago, misteriosamente passa a ter o dom de ler os pensamentos das mulheres. Inicialmente ele usa este novo poder para agradar sua chefe, Darcy Maguire (Helen Hunt), mas aos poucos começa a conhecer melhor a intimidade das mulheres e começa a mudar seu estilo de vida.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmtwDmENAN1nnUzyQlAYJTAINVPTkfbruLMEdX409BeWM9aA1ToY-Y1AeYmA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/12/2fcb5c7958837237975ae260321689a0.jpg</thumbnail>
+</item>
+
+<item>
 <title>Passageiros (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
 <regex>

@@ -12,6 +12,62 @@
 
 
 <item>
+<title>Lisbela e o Prisioneiro (Nacional) - 2003</title>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Nacional e Comédia</genre>
+<info>Lisbela (Débora Falabella) é uma moça que adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu (Selton Mello) é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade de Lisbela. Após se conhecerem eles logo se apaixonam, mas há um problema: Lisbela está noiva. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador (Marco Nanini) que está atrás de Leléu, devido a ele ter se envolvido com sua esposa (Virginia Cavendish).</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvaBl0vtzWppaTO_1_Sv4T4CqV7pitzrddAh3y5NsarClHGSn1b3xE44Bu5w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/acc8c9fc1091eeb6d4d9532cc95da6f6.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Auto da Compadecida (Nacional) - 2000</title>
+<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura,Nacional e Comédia</genre>
+<info>As aventuras de João Grilo (Matheus Nachtergaele), um sertanejo pobre e mentiroso, e Chicó (Selton Mello), o mais covarde dos homens. Ambos lutam pelo pão de cada dia e atravessam por vários episódios enganando a todos da pequena cidade em que vivem.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWcANA-roy5CnCipp6v_wd37QuXaeTzBtLBo7iLI-hc0w-XRC8CRPCiuzaOA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/04/0b33712fa48c7178cde24ad73ffe536f.jpg</thumbnail>
+</item>
+
+<item>
+<title>Refém: O Filme (Nacional) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]RFMNAC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Nacional e Comédia</genre>
+<info>Rogério (Rafael Infante) é um cara que leva uma vida sossegada e comum. Casado com Jordana (Aline Fanju), ele vive pulando a cerca com Mirella. Em um dia, ele mente para a esposa e diz que vai viajar, quando na verdade vai para o motel com a amante. Mas o ônibus em que Rogério teoricamente estaria é sequestrado e vira notícia nacional, e ele começa a encenar, por telefone, que está no veículo sequestrado. Para se livrar da confusão em que se meteu, Rogério pecisa de qualquer jeito burlar a força policial e entrar no ônibus.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/bOJ_bl4NPp7M09EPOXxq3Fv3Vh9jqdBqOut2uBSd-o9cTqbRuuM_GERRz8Q6GCseDE1wED6JhadFPj6Ho1OvHJorbvr_FzhlgPZk6PEbrrQb_PN7PC7g3pCOMr6IKBsQPNhdgvb_POW01wkVFUIoJJWcKqzLhMNVUCIW28vdDo1m_o3rIK0hyPEerwUeZ1QXAv2ya7Djv7zlLmzO3QE3vfY=w692-h213-nc</fanart>
+<thumbnail>http://br.web.img2.acsta.net/r_640_600/b_1_d6d6d6/pictures/14/11/12/16/43/304023.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sangue Azul (Nacional) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]SNGAZL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>Há vinte anos atrás, numa ilha vulcânica e paradisíaca, um menino de dez anos foi separado de sua irmã. A mãe, temerosa de que uma atração incestuosa se desenvolvesse entre os dois, fez uma escolha e optou por mandar seu filho para o continente. O menino foi entregue a Kaleb, o ilusionista do Circo Netuno, que passava pela ilha. No continente, Kaleb instruiu o menino nas artes do circo e do espírito, onde o ex-ilhéu se tornou Zolah, o Homem Bala.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg5UOic4r6n6mJsf-iT_DqUfOPpuT2LPyLwyMPo6Dk0gM0Ygvl4lLZupbT</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/06/sangue-azul_t75211.jpg</thumbnail>
+</item>
+
+<item>
 <title>O Shaolin Do Sertão (Nacional) - 2016</title>
 <link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
 <regex>
