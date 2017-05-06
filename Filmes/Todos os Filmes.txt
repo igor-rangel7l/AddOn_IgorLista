@@ -14,6 +14,20 @@ Todos Os Filmes
 
 
 <item>
+<title>Internet: O Filme (Nacional) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]INTNET.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>O premiado diretor de curtas Filippo Capuzzi está comprometido com o projeto, que é sua estreia em longas-metragens. Serão 8 esquetes, mostrando situações recorrentes do dia a dia. Em uma convenção de youtubers, os personagens vivenciam momentos de descobertas, erros, raiva, inveja e confusões em busca da fama.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvndNbRERqMSsdEeeuLVI8_d50KkX19fM1ZFGogNh5WJNM9lfmev_yQ1Yq</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/16177838_1833154376932340_8486066288229609809_o.jpg</thumbnail>
+</item>
+211
+<item>
 <title>The Warrior's Gate (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Link]WRISGT.mp4</link>
 <regex>

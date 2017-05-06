@@ -9,8 +9,61 @@
 
 
 
+<item>
+<title>Perdido em Marte (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama,Aventura e Ficção Cientifica</genre>
+<info>Durante uma missão a Marte, o astronauta Mark Watney (Matt Damon) é dado como morto após uma feroz tempestade e é deixado para trás por sua tripulação. Mas Watney sobrevive e encontra-se sem recursos e sozinho no planeta hostil. Apenas com suprimentos escassos, Watney deve contar com a sua criatividade, engenho e espírito para subsistir e encontrar uma maneira de sinalizar à Terra que está vivo. A milhões de quilômetros de distância, a NASA e uma equipe de cientistas internacionais trabalham incansavelmente para trazer "o marciano" de volta enquanto seus colegas de tripulação simultaneamente traçam uma ousada, se não impossível, missão de resgate. Conforme essas histórias de incrível bravura se desdobram, o mundo se une para torcer pelo retorno seguro de Watney.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpM9Kii3i4YzOgSXrmv5DvBDMJWzLz1_NKFQzZZqV8ZbvoSIq3j7GI9bPFSA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/perdido-em-marte_t99530.jpg</thumbnail>
+</item>
 
+<item>
+<title>Jovens Titãs: O Contrato de Judas (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Ação e Aventura</genre>
+<info>Tara Markov, a Terra que contém os poderes de controlar a terra e o solo e se uniu aos Jovens Titãs durante os eventos de Liga da Justiça vs. Jovens Titãs, se tornando uma possível ameaça e deixando a questão: Será a nova heroína aliada ou inimiga? E quais são os planos do Exterminador para a jovem equipe de heróis?</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK5w519Prl8WP2aklamhHsUrEl4fHwnJjZoMyXkJw7E-oxk6up_UeOC5ttLQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BNGZlODc0YjgtNWZjNS00NGNjLTgwOTUtMTllZTEyYjE0YTMwXkEyXkFqcGdeQX_7bp</thumbnail>
+</item>
 
+<item>
+<title>Max Steel (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O jovem Max McGrath (Ben Winchell) descobre que seu corpo pode gerar uma poderosa energia, e ele deve unir-se com o único ser capaz de conter esta energia: um misterioso extraterrestre tecno-orgânico chamado Steel. Unidos como o super-herói Max Steel, os dois amigos devem combater uma ameaça alienígena e desvendar os segredos do seu passado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm3cij8BBVI8S_v9wTSqKQN_ORwoa9tgPe5fUMjl8JZaDCwBPF6P8iUJTQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/max_steel_ver2_xxlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Warrior's Gate (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]WRISGT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Um adolescente é magicamente transportado para a China e aprende a converter suas habilidades de vídeo game em um guerreiro de Kung Fu.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/3MEKU7E2Bc0ZH54vmGRPYbRokogiWaco0j9zYq7WlFV_WcnaeZHJ0ZUdgmgzwdJRTpLWRBXV_JTRncverOOONKzL9-1CSazNlc09X3o7ERRAdsKGkO6Oub5Ajf7_X2Z9tGeo6lrKW5rA=w535-h275-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/a_9jAzVSc.jpg</thumbnail>
+</item>
 
 <item>
 <title>Rogue One: Uma História Star Wars (Dublado) - 2016</title>

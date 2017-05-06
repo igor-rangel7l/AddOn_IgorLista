@@ -9,7 +9,75 @@
 
 
 
+<item>
+<title>Escondidos (Dublado) - 2015</title>
+<link>$doregex[Igor_Rangel_Link]ESCNDS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Trezentos e um dias após a explosão que mudou o mundo, Ray e sua família sobrevivem em um abrigo e esperam que, eventualmente, tudo volte ao normal. Mas algo desconhecido e perigoso se aproxima e a melhor opção é permanecerem escondidos.</info>
+<fanart>https://2.bp.blogspot.com/-Y8sov1PS_-A/V55WfLF8PbI/AAAAAAAAaYs/NhmDdIC358gpRu66dqX6QhId-xjidUWzgCLcB/s1600/hidden-2015%2Bcena.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/09/hidden_t56183.jpg</thumbnail>
+</item>
 
+<item>
+<title>O Chamado (Dublado) - 2003</title>
+<link>$doregex[Igor_Rangel_Link]OCHMD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>achel Keller (Naomi Watts) é uma jornalista que decide investigar a misteriosa morte de sua sobrinha. Ela percebe a relação da morte dela e de várias outras mortes com um estranho vídeo, que faz com que todas as pessoas que o assistam morram exatamente sete dias depois. Intrigada com a história, ela agora precisa descobrir um meio que impeça que a profecia se realize, já que ela e seu filho assistiram ao vídeo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpBAPf5csruhRUdqdkv3qClqp3UKYR3Z7drG7XW9KUmFHkUTuqT-8v0KDuw</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdek1Dlr-5ywcK3vPSlgWPt0JO24WbvPHr0EfUoqLJtUPmtz2g</thumbnail>
+</item>
+
+<item>
+<title>O Chamado 2 (Dublado) - 2005</title>
+<link>$doregex[Igor_Rangel_Link]OCHMDII.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>Seis meses após os eventos que aterrorizaram Rachel Keller (Naomi Watts) e seu filho Aidan (David Dorfman), os dois tentam deixar para trás as lembranças de Samara (Daveigh Chase) e sua fita de vídeo amaldiçoada. Rachel e Aidan se mudam de Seattle para a pequena comunidade litorânea de Astoria, no estado de Oregon, onde pretendem recomeçar a vida. Porém, após a ocorrência de um crime local que tem uma fita de vídeo envolvida, Samara retorna para reiniciar seu ciclo de mortes.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfpBAPf5csruhRUdqdkv3qClqp3UKYR3Z7drG7XW9KUmFHkUTuqT-8v0KDuw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/67a8badd086bd0a4f9c4d98fcc18995b.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Chamado 3 (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OCHMD3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>O filme amaldiçoado de Samara começa a circular novamente e faz mais vítimas. Entre os que têm o destino alterado ao assistir o vídeo está a jovem Julia (Matilda Lutz). Assim como o namorado Holt (Alex Roe), ela recebe uma ligação sinistra, avisando que só lhe restam sete dias de vida. Até lá, ela precisa descobrir um meio de se libertar da maldição de Samara e de sobreviver às aparições malignas da menina.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyqnE_lHL6ewgb5tYYuoalXOfrB_bYOPYcxHoRioqeGsKCDr6gn0WHoyeK6A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/OChamado3_Poster_Oficial_DATA.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Chamado 3 (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>O filme amaldiçoado de Samara começa a circular novamente e faz mais vítimas. Entre os que têm o destino alterado ao assistir o vídeo está a jovem Julia (Matilda Lutz). Assim como o namorado Holt (Alex Roe), ela recebe uma ligação sinistra, avisando que só lhe restam sete dias de vida. Até lá, ela precisa descobrir um meio de se libertar da maldição de Samara e de sobreviver às aparições malignas da menina.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyqnE_lHL6ewgb5tYYuoalXOfrB_bYOPYcxHoRioqeGsKCDr6gn0WHoyeK6A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/OChamado3_Poster_Oficial_DATA.jpg</thumbnail>
+</item>
 
 <item>
 <title>Além Da Realidade (Dublado) - 2016</title>

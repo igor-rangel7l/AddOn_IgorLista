@@ -10,6 +10,19 @@
 
 
 
+<item>
+<title>Deidra e Laney Assaltam um Trem (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Policial e Drama</genre>
+<info>Depois que sua mãe acaba na prisão, duas irmãs se voltam a roubar trens para sustentar sua família.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRefTNNbf9uFy15K3fsh6MnrJsmmojzIjaBcnnLXCRhcsqqN182AIIi3iC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/DeidraandLaney.jpg</thumbnail>
+</item>
 
 <item>
 <title>Resgate Suicida (Dublado) - 2017</title>

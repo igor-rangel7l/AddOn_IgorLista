@@ -10,6 +10,19 @@
 
 
 
+<item>
+<title>Jovens Titãs: O Contrato de Judas (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Ação e Aventura</genre>
+<info>Tara Markov, a Terra que contém os poderes de controlar a terra e o solo e se uniu aos Jovens Titãs durante os eventos de Liga da Justiça vs. Jovens Titãs, se tornando uma possível ameaça e deixando a questão: Será a nova heroína aliada ou inimiga? E quais são os planos do Exterminador para a jovem equipe de heróis?</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK5w519Prl8WP2aklamhHsUrEl4fHwnJjZoMyXkJw7E-oxk6up_UeOC5ttLQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BNGZlODc0YjgtNWZjNS00NGNjLTgwOTUtMTllZTEyYjE0YTMwXkEyXkFqcGdeQX_7bp</thumbnail>
+</item>
 
 <item>
 <title>A Bailarina (Dublado) - 2017</title>
