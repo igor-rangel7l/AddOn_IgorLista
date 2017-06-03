@@ -16,6 +16,7 @@ Todos Os Filmes
 <item>
 <title>Logan (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Video]</link>
+<link>$doregex[Igor_Rangel_Video_2]</link>
 <regex>
 <name>Igor_Rangel_Video</name>
 <expres>file: "(.*ALTO.*?)"</expres>
@@ -29,6 +30,22 @@ Todos Os Filmes
 </regex>
 <regex>
 <name>Igor_Rangel_Site</name>
+<expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/logan/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Video_2</name>
+<expres>file: "(.*ALTO.*?)"</expres>
+<page>$doregex[Igor_Rangel_Link_2]</page>
+<referer>$doregex[Igor_Rangel_Site_2]</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Link_2</name>
+<expres>src="(.*)" fra</expres>
+<page>$doregex[Igor_Rangel_Site_2]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Site_2</name>
 <expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/logan/</page>
 </regex>
