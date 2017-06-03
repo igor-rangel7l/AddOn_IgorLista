@@ -24,7 +24,7 @@ Todos Os Filmes
 <regex>
 <name>Igor_Rangel_Site</name>
 <expres>src="(.*)" fra</expres>
-<page>http://p.netcine.tv/gc2.php?n=L0G4NDUB2017&p=filmes2017</page>
+<page>http://p.netcine.tv/gc2.php?n=L0G4NDUB2017&amp;p=filmes2017</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
 <info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
