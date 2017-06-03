@@ -14,6 +14,25 @@ Todos Os Filmes
 
 
 <item>
+<title>Logan (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Link]</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*ALTO.mp4.*?)"</expres>
+<page>$doregex[Igor_Rangel_Site]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>src="(.*)" fra</expres>
+<page>http://p.netcine.tv/gc2.php?n=L0G4NDUB2017&p=filmes2017</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Drama</genre>
+<info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
+<fanart>https://images3.alphacoders.com/807/thumb-1920-807544.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/14608719_1245010155537115_4558418574340565173_o.jpg</thumbnail>
+</item>
+213
+<item>
 <title>Internet: O Filme (Nacional) - 2017</title>
 <link>$doregex[Igor_Rangel_Link]INTNET.mp4</link>
 <regex>
