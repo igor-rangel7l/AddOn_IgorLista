@@ -20,6 +20,7 @@ Todos Os Filmes
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*)"</expres>
 <page>$doregex[Igor_Rangel_Site]</page>
+<referer>http://p.netcine.tv/gc2.php?n=L0G4NDUB2017&amp;p=filmes2017</referer>
 </regex>
 <regex>
 <name>Igor_Rangel_Site</name>
