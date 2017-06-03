@@ -16,6 +16,7 @@ Todos Os Filmes
 <item>
 <title>Logan (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Video]</link>
+<title>Logan (Dublado)fff - 2017</title>
 <link>$doregex[Igor_Rangel_Video_2]</link>
 <regex>
 <name>Igor_Rangel_Video</name>
@@ -46,7 +47,7 @@ Todos Os Filmes
 </regex>
 <regex>
 <name>Igor_Rangel_Site_2</name>
-<expres>src="(.*DUB.*?)" fra</expres>
+<expres>src="(.*p.net.*?)" fra</expres>
 <page>http://netcine.us/logan/</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
