@@ -18,7 +18,7 @@ Todos Os Filmes
 <link>$doregex[Igor_Rangel_Video]</link>
 <regex>
 <name>Igor_Rangel_Video</name>
-<expres>file: "(.*)"</expres>
+<expres>file: "(.*ALTO.*?)"</expres>
 <page>$doregex[Igor_Rangel_Link]</page>
 <referer>$doregex[Igor_Rangel_Site]</referer>
 </regex>
