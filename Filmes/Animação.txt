@@ -5,10 +5,85 @@
 
 
 
+<item>
+<title>A Bela e a Fera (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*ABE.*?)" fra</expres>
+<page>http://netcine.us/a-bela-e-a-fera/</page></regex>
+<genre>Animação</genre>
+<info>Moradora de uma pequena aldeia francesa, Bela (Emma Watson) tem o pai capturado pela Fera (Dan Stevens) e decide entregar sua vida ao estranho ser em troca da liberdade dele. No castelo, ela conhece objetos mágicos e descobre que a Fera é, na verdade, um príncipe que precisa de amor para voltar à forma humana.</info>
+<fanart>http://woomagazine.com.br/wp-content/uploads/2017/01/A-bela-e-a-fera-5.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/C1qeY2GVIAAzfhZ.jpg</thumbnail>
+</item>
 
+<item>
+<title>A Bela e a Fera (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/a-bela-e-a-fera/</page></regex>
+<genre>Animação</genre>
+<info>Moradora de uma pequena aldeia francesa, Bela (Emma Watson) tem o pai capturado pela Fera (Dan Stevens) e decide entregar sua vida ao estranho ser em troca da liberdade dele. No castelo, ela conhece objetos mágicos e descobre que a Fera é, na verdade, um príncipe que precisa de amor para voltar à forma humana.</info>
+<fanart>http://woomagazine.com.br/wp-content/uploads/2017/01/A-bela-e-a-fera-5.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/C1qeY2GVIAAzfhZ.jpg</thumbnail>
+</item>
 
+<item>
+<title>O Poderoso Chefinho (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-poderoso-chefinho/</page></regex>
+<genre>Animação e Comédia</genre>
+<info>Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4Nzc5NzY5NV5BMl5BanBnXkFtZTgwOTcxMjczMDI@._V1_SX1777_CR0,0,1777,736_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/poderoso.jpg</thumbnail>
+</item>
 
+<item>
+<title>O Poderoso Chefinho (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-poderoso-chefinho/</page></regex>
+<genre>Animação e Comédia</genre>
+<info>Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4Nzc5NzY5NV5BMl5BanBnXkFtZTgwOTcxMjczMDI@._V1_SX1777_CR0,0,1777,736_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/poderoso.jpg</thumbnail>
+</item>
 
+<item>
+<title>LEGO Batman: O Filme (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/lego-batman-o-filme/</page></regex>
+<genre>Animação e Comédia</genre>
+<info>Com o mesmo espírito irreverente e divertido que fez de "Uma Aventura LEGO" um fenômeno global, o auto-proclamado líder daquele grupo – LEGO Batman – estrela sua própria aventura na tela grande. Mas há grandes mudanças sendo tramadas em Gotham, e se ele pretende salvar a cidade dos planos do Coringa, Batman terá que abandonar a fachada de justiceiro solitário, aprender a trabalhar em equipe e, quem sabe, até aprender a relaxar um pouco.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOTY5MTk2NjYtOGVmYS00Mzc0LTk5MzMtNjE3ZmI2MjgwZDQ4L2ltYWdlXkEyXkFqcGdeQXVyNjY5MTAwODQ@._V1_SX1777_CR0,0,1777,795_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/15326290_329075244144984_7141916695880954220_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>DC Vixen – O Filme (Legendado) - 2016</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/dc-vixen-o-filme/</page></regex>
+<genre>Aventura e Animação</genre>
+<info>Vixen é baseada na personagem da DC Mari McCabe / Vixen, uma super-heroína que combate o crime, com a habilidade de conseguir reproduzir qualquer poder de qualquer animal que já habitou a Terra. Se passa no mesmo universo fictício de Arrow, Flash, e Legends of Tomorrow.</info>
+<fanart>https://www.tvinsider.com/wp-content/uploads/2016/09/Vixen_S02E01_pub1_092816-1014x570.jpg</fanart>
+<thumbnail>http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/PEEFIL.png</thumbnail>
+</item>
+
+<item>
+<title>Hulk: Onde os Monstros Habitam (Legendado) - 2016</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/hulk-onde-os-monstros-habitam/</page></regex>
+<genre>Ação e Animação</genre>
+<info>O vilão Pesadelo planeja conquistar o mundo através dos sonhos, convertendo cada sonhador em um monstro. Para combatê-lo, Hulk vai contar com a ajuda do Doutor Estranho e de um esquadrão peculiar da S.H.I.E.L.D..</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzY3ZDEwOTctMzQzOC00YjM2LWJkMGUtYTBiZGRlMmUzMTE1XkEyXkFqcGdeQXVyMjg1MTU1NjI@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/HULK-WhereMonstersDwell-00.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hulk: Onde os Monstros Habitam (Dublado) - 2016</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/hulk-onde-os-monstros-habitam/</page></regex>
+<genre>Ação e Animação</genre>
+<info>O vilão Pesadelo planeja conquistar o mundo através dos sonhos, convertendo cada sonhador em um monstro. Para combatê-lo, Hulk vai contar com a ajuda do Doutor Estranho e de um esquadrão peculiar da S.H.I.E.L.D..</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzY3ZDEwOTctMzQzOC00YjM2LWJkMGUtYTBiZGRlMmUzMTE1XkEyXkFqcGdeQXVyMjg1MTU1NjI@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/HULK-WhereMonstersDwell-00.jpg</thumbnail>
+</item>
 
 <item>
 <title>Jovens Titãs: O Contrato de Judas (Dublado) - 2017</title>

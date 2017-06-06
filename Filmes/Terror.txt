@@ -7,7 +7,45 @@
 
 
 
+<item>
+<title>Corra! (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/corra/</page></regex>
+<genre>Terror</genre>
+<info>Chris (Daniel Kaluuya) é jovem negro que está prestes a conhecer a família de sua namorada caucasiana Rose (Allison Williams). A princípio, ele acredita que o comportamento excessivamente amoroso por parte da família dela é uma tentativa de lidar com o relacionamento de Rose com um rapaz negro, mas com o tempo, Chris percebe que a família esconde algo muito mais perturbador.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjEzNzE1NF5BMl5BanBnXkFtZTgwNDYwNjUzMTI@._V1_SX1777_CR0,0,1777,998_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/get_out_ver3.jpg</thumbnail>
+</item>
 
+<item>
+<title>Corra! (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/corra/</page></regex>
+<genre>Terror</genre>
+<info>Chris (Daniel Kaluuya) é jovem negro que está prestes a conhecer a família de sua namorada caucasiana Rose (Allison Williams). A princípio, ele acredita que o comportamento excessivamente amoroso por parte da família dela é uma tentativa de lidar com o relacionamento de Rose com um rapaz negro, mas com o tempo, Chris percebe que a família esconde algo muito mais perturbador.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjEzNzE1NF5BMl5BanBnXkFtZTgwNDYwNjUzMTI@._V1_SX1777_CR0,0,1777,998_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/get_out_ver3.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vida Inteligente (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/vida/</page></regex>
+<genre>Suspense,Ficção Cientifica e Terror</genre>
+<info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2017/06/cartaz-life.jpg</fanart>
+<thumbnail>http://www.hdwallpapers.in/walls/life_2017_movie-wide.jpg</thumbnail>
+</item>
+
+<item>
+<title>Vida Inteligente (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/vida/</page></regex>
+<genre>Suspense,Ficção Cientifica e Terror</genre>
+<info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2017/06/cartaz-life.jpg</fanart>
+<thumbnail>http://www.hdwallpapers.in/walls/life_2017_movie-wide.jpg</thumbnail>
+</item>
 
 <item>
 <title>Escondidos (Dublado) - 2015</title>

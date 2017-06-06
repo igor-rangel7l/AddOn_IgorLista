@@ -7,7 +7,25 @@
 
 
 
+<item>
+<title>Interestelar (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/interestelar/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5ZmViODgtODcwMC00YWViLWJkOTgtZjgyMjljZDE0NmM5L2ltYWdlXkEyXkFqcGdeQXVyNzE4NDc2Mjc@._V1_SY1000_SX1600_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/09/interestelar_t27814_14.jpg</thumbnail>
+</item>
 
+<item>
+<title>DC Vixen – O Filme (Legendado) - 2016</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/dc-vixen-o-filme/</page></regex>
+<genre>Aventura e Animação</genre>
+<info>Vixen é baseada na personagem da DC Mari McCabe / Vixen, uma super-heroína que combate o crime, com a habilidade de conseguir reproduzir qualquer poder de qualquer animal que já habitou a Terra. Se passa no mesmo universo fictício de Arrow, Flash, e Legends of Tomorrow.</info>
+<fanart>https://www.tvinsider.com/wp-content/uploads/2016/09/Vixen_S02E01_pub1_092816-1014x570.jpg</fanart>
+<thumbnail>http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/PEEFIL.png</thumbnail>
+</item>
 
 <item>
 <title>Perdido em Marte (Dublado) - 2015</title>

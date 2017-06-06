@@ -5,8 +5,45 @@
 
 
 
+<item>
+<title>Interestelar (Dublado) - 2014</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/interestelar/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5ZmViODgtODcwMC00YWViLWJkOTgtZjgyMjljZDE0NmM5L2ltYWdlXkEyXkFqcGdeQXVyNzE4NDc2Mjc@._V1_SY1000_SX1600_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/09/interestelar_t27814_14.jpg</thumbnail>
+</item>
 
+<item>
+<title>Vida Inteligente (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/vida/</page></regex>
+<genre>Suspense,Ficção Cientifica e Terror</genre>
+<info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2017/06/cartaz-life.jpg</fanart>
+<thumbnail>http://www.hdwallpapers.in/walls/life_2017_movie-wide.jpg</thumbnail>
+</item>
 
+<item>
+<title>Vida Inteligente (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/vida/</page></regex>
+<genre>Suspense,Ficção Cientifica e Terror</genre>
+<info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2017/06/cartaz-life.jpg</fanart>
+<thumbnail>http://www.hdwallpapers.in/walls/life_2017_movie-wide.jpg</thumbnail>
+</item>
+
+<item>
+<title>Logan (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/logan/</page></regex>
+<genre>Ação,Ficção Cientifica e Drama</genre>
+<info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
+<fanart>https://images3.alphacoders.com/807/thumb-1920-807544.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/14608719_1245010155537115_4558418574340565173_o.jpg</thumbnail>
+</item>
 
 <item>
 <title>Perdido em Marte (Dublado) - 2015</title>
