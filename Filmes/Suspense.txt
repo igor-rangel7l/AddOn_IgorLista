@@ -12,7 +12,7 @@
 
 <item>
 <title>Vida Inteligente (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/vida/</page></regex>
 <genre>Suspense,Ficção Cientifica e Terror</genre>
 <info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
@@ -22,7 +22,7 @@
 
 <item>
 <title>Vida Inteligente (Dublado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/vida/</page></regex>
 <genre>Suspense,Ficção Cientifica e Terror</genre>
 <info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
