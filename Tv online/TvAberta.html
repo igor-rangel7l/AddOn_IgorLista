@@ -4,7 +4,6 @@
 <items> 
  
 
-
 
 
 
@@ -15,10 +14,44 @@
 
 
 <item>
+<title>[COLOR gray]GLOBO[/COLOR] [COLOR yellow] HD[/COLOR]</title>
+<link>$doregex[Igor_Rangel_CH]|</link>
+<regex>
+<name>Igor_Rangel_CH</name>
+<expres>file:"(.*)"</expres>
+<page>$doregex[Igor_Rangel_Link]?IGOR_RANGEL</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>src="(.*widestream.*?)"</expres>
+<page>http://portalzuca.com/parceiro/bobo.html</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+<thumbnail>http://goo.gl/qx5sL9</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray]GLOBO SP[/COLOR] [COLOR yellow] SD[/COLOR]</title>
-<link>http://$doregex[rtmp]$doregex[m3u8]</link><regex><name>rtmp</name><expres>redirect=(.*)<expres><page>http://www.janjuapublisher.com:1935/loadbalancer?68223</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.janjuaplayer.com/sharedcdn/membedplayer/$doregex[Igor_Rangel_1]/$doregex[Igor_Rangel_2]/$doregex[Igor_Rangel_3]/360/$doregex[Igor_Rangel_4]</page></regex><regex><name>Igor_Rangel_1</name><expres>channel='(.*)',</expres><page>$doregex[Igor_Rangel_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_2</name><expres>g='(.*)';</expres><page>$doregex[Igor_Rangel_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_3</name><expres>ths = (.*);</expres><page>$doregex[Igor_Rangel_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex<name>Igor_Rangel_4</name><expres>fid="(.*)"</expres><page>http://www.janjuaplayer.com/sharedcdn/sharedcdnEmbed.js?channel=$doregex[Igor_Rangel_1]</page><referer>http://www.janjuaplayer.com/</referer></regex><regex><name>Igor_Rangel_Ch</name><expres>(.*)</expres><page>http://igorlista.at.ua/Canais_SD/Globo_janjuaplayer.html</page>
+<link>http://$doregex[Igor_Rangel_IP]:8088/adfree/$doregex[Igor_Rangel_Ch]/playlist.m3u8?id=Igor_Rangel&amp;pk=$doregex[Igor_Rangel_Pk]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>channel='(.*)',<expres>
+<page>http://m.tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/</page>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex><fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+</expres></expres></regex>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjuapublisher.com:1935/loadbalancer?68223</page>
+</expres></expres></regex>
+<regex>
+<name>Igor_Rangel_Pk</name>
+<expres>pk=(.*?)"</expres>
+<page>http://www.janjuaplayer.com/membedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.janjuaplayer.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
 </item>
 
@@ -51,34 +84,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/slv9/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
-<thumbnail>http://goo.gl/qx5sL9</thumbnail>
-</item>
-
-<item>
-<title>[COLOR gray]GLOBO SP[/COLOR] [COLOR gray] PxStream[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/redebobo/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
@@ -112,31 +129,38 @@
 
 <item>
 <title>[COLOR gray]GLOBO SP[/COLOR] [COLOR gray] Assistirtvonline[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge/ydpetee/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
+<link>$doregex[Igor_Rangel_CH]</link>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://widestream.io/embed-1733?IGOR_RANGEL</page>
-<referer>http://widestream.io/</referer>
+<name>Igor_Rangel_CH</name>
+<expres>file:"(.*)"</expres>
+<page>$doregex[Igor_Rangel_Link]?IGOR_RANGEL</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>src="(.*widestream.*?)"</expres>
+<page>http://www.assistirtvonline.tv/vip/globo.php</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
 </item>
 
 <item>
-<title>[COLOR gray]GLOBO RJ[/COLOR] [COLOR gray] aovivonatv[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-globo-rj/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<title>[COLOR gray]GLOBO RJ[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/boborj/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
@@ -147,9 +171,8 @@
 <link>http://cdn.widestream.io:8081/wideedge1/ch21-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://widestream.io/embed-1733?IGOR_RANGEL</page>
-<referer>http://widestream.io/</referer>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-9654?IGOR_RANGEL</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
@@ -170,18 +193,21 @@
 
 <item>
 <title>[COLOR gray]GLOBO RBS[/COLOR] [COLOR gray] PxStream[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/slv5/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/slv5/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo_rbs.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
@@ -189,37 +215,43 @@
 
 <item>
 <title>[COLOR gray]GLOBO MG[/COLOR] [COLOR gray] PxStream[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-globo-minas-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/globo-minas/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo_mg.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
 </item>
 
 <item>
-<title>[COLOR gray]GLOBO PA[/COLOR] [COLOR gray] aovivonatv[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-tv_liberal_hd_belem/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<title>[COLOR gray]GLOBO PA[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tvliberalbelem/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
@@ -227,37 +259,43 @@
 
 <item>
 <title>[COLOR gray]GLOBO BA[/COLOR] [COLOR gray] PxStream[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-tv-bahia-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tvbahiahd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
 </item>
 
 <item>
-<title>[COLOR gray]GLOBO DF[/COLOR] [COLOR gray] aovivonatv[/COLOR]</title>
+<title>[COLOR gray]GLOBO DF[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-globo-brasilia/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
@@ -265,19 +303,37 @@
                                                                                                                                                                                 
 <item>
 <title>[COLOR gray]GLOBO NORDESTE[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/71126475575815531516/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/bobonordeste/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
 </regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+<thumbnail>http://goo.gl/qx5sL9</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]GLOBO PORTUGAL PREMIUM[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/tvsat/youtube/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium </link>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png</thumbnail>
+</item>
+http://smartiptvspain.mine.nu:980/live/rese/rese/37377.ts
+
+<item>
+<title>[COLOR gray]GLOBO PORTUGAL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/tvsat/youtube/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO </link>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
 </item>
@@ -307,19 +363,34 @@
 </item>
 
 <item>
+<title>[COLOR gray]RECORD[/COLOR] [COLOR gray] EsportesTv[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch24-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/RECOR.jpg</fanart>
+<thumbnail>http://goo.gl/YQ9Ftm</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray]RECORD[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/record2278/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/RECOR.jpg</fanart>
 <thumbnail>http://goo.gl/YQ9Ftm</thumbnail>
@@ -330,7 +401,7 @@
 <link>http://cdn.widestream.io:8081/wideedge1/ch24-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
+<expres>m3u8([^\"].*)'</expres>
 <page>http://widestream.io/embed-1733?IGOR_RANGEL</page>
 <referer>http://widestream.io/</referer>
 </regex>
@@ -379,19 +450,39 @@
 </item>
 
 <item>
+<title>[COLOR gray]SBT[/COLOR] [COLOR yellow] HD[/COLOR]</title>
+<link>$doregex[Igor_Rangel_CH]|</link>
+<regex>
+<name>Igor_Rangel_CH</name>
+<expres>file:"(.*)"</expres>
+<page>$doregex[Igor_Rangel_Link]?IGOR_RANGEL</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>src="(.*widestream.*?)"</expres>
+<page>http://portalzuca.com/parceiro/sbt.html</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SBT.png</fanart>
+<thumbnail>http://goo.gl/nVXYOf</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray]SBT[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/sbt978/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SBT.png</fanart>
 <thumbnail>http://goo.gl/nVXYOf</thumbnail>
@@ -399,7 +490,7 @@
 
 <item>
 <title>[COLOR gray]SBT BH[/COLOR] [COLOR gray]Tv Alterosa[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=t_D2nmcefoI</link>
+<link>plugin://plugin.video.youtube/play/?video_id=uHyreyxV3U8</link>
 <fanart>http://igorlista.at.ua/fanart/SBT.png</fanart>
 <thumbnail>http://imgs.alterosa.com.br/Novo/alterosa-open-graph.png</thumbnail>
 </item>
@@ -422,6 +513,23 @@
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SBT.png</fanart>
 <thumbnail>http://goo.gl/nVXYOf</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BAND[/COLOR] [COLOR yellow] HD[/COLOR]</title>
+<link>$doregex[Igor_Rangel_CH]|</link>
+<regex>
+<name>Igor_Rangel_CH</name>
+<expres>file:"(.*)"</expres>
+<page>$doregex[Igor_Rangel_Link]?IGOR_RANGEL</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>src="(.*widestream.*?)"</expres>
+<page>http://portalzuca.com/parceiro/band.html</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
+<thumbnail>http://goo.gl/SZ94lw</thumbnail>
 </item>
 
 <item>
@@ -453,15 +561,30 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/agua1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
+<thumbnail>http://goo.gl/SZ94lw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]BAND[/COLOR] [COLOR gray] EsportesTv[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch22-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
 <thumbnail>http://goo.gl/SZ94lw</thumbnail>
@@ -482,7 +605,7 @@
 
 <item>
 <title>[COLOR gray]BAND CE[/COLOR]</title>
-<link>rtmp://187.18.153.240/livepkgr/ playpath=nordestv1  swfUrl=http://tribunadoceara.uol.com.br/nordestv/wp-content/themes/2015_nordestv/js/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://tribunadoceara.uol.com.br/nordestv/ao-vivo/</link>
+<link>rtmp://187.18.187.5/livepkgr/ playpath=nordestv1  swfUrl=http://tribunadoceara.uol.com.br/nordestv/wp-content/themes/2015_nordestv/js/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://tribunadoceara.uol.com.br/nordestv/ao-vivo/</link>
 <fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
 <thumbnail>http://goo.gl/SZ94lw</thumbnail>
 </item>
@@ -492,7 +615,7 @@
 <link>http://cdn.widestream.io:8081/wideedge1/ch22-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
+<expres>m3u8([^\"].*)'</expres>
 <page>http://widestream.io/embed-1733?IGOR_RANGEL</page>
 <referer>http://widestream.io/</referer>
 </regex>
@@ -505,7 +628,7 @@
 <link>$doregex[ch_Igor_Rangel]</link>
 <regex>
 <name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
+<expres>src: "([^\"].*)" </expres>
 <page>http://www.freelivestream.tv/embedPlayer.php?file=band&width=470&height=370</page>
 <referer>http://www.freelivestream.tv/</referer>
 </regex>
@@ -521,12 +644,21 @@
 
 <item>
 <title>[COLOR gray]REDE TV[/COLOR] [COLOR gray] Master[/COLOR]</title>
-<link>rtmp://163.172.41.31/loadbalance$doregex[Igor_Rangel_AuthSign]/master300</link>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/master300/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <thumbnail>http://goo.gl/A1WBTk</thumbnail>
 </item>
@@ -539,35 +671,21 @@
 
 <item>
 <title>[COLOR gray]REDE TV[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/master300/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
-</regex>
-<thumbnail>http://goo.gl/A1WBTk</thumbnail>
-</item>
-<item>
-<title>[COLOR gray]REDE TV[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-rede-tv/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>source: 'http://(.*)/loa</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)'</expres>
-<page>http://pxstream.tv/embed.php?file=IGORRANGEL</page>
-<referer>http://ekostreams.co/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <thumbnail>http://goo.gl/A1WBTk</thumbnail>
 </item>
@@ -605,6 +723,36 @@
 <link>rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?IGOR_RANGEL</link>
 <fanart>xx</fanart>
 <thumbnail>http://goo.gl/9NZpPD</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]REDE MIMAS[/COLOR]</title>
+<link>rtmp://200.198.37.134/live/ playpath=livestream  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf  pageUrl=http://www.tvonlinegratis.tv/ live=true timeout=15</link>
+<fanart>http://igorlistalogos.at.ua/fanart/rede_minas_logo.png</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/RedeMinas_marca.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]REDE SUPER[/COLOR]</title>
+<link>http://livestream-f.akamaihd.net$doregex[getPATH]master.m3u8?$doregex[getMAC]</link>
+<regex>
+<name>getPATH</name>
+<expres>acl=([^\*]+)</expres>
+<page>$doregex[getURL]</page>
+</regex>
+<regex>
+<name>getMAC</name>
+<expres>m3u8\?([^"]*)</expres>
+<page>$doregex[getURL]</page>
+</regex>
+<regex>
+<name>getURL</name>
+<expres>((?:m3u8\?dw=1)[^"]+)</expres>
+<page>http://new.livestream.com/accounts/10205943/events/3429501/player?width=468&height=360&autoPlay=true&mute=false</page>
+<referer>http://livestream.com</referer>
+</regex>
+<fanart>http://igorlistalogos.at.ua/Rede_Super.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/Rede_Super.png</thumbnail>
 </item>
 
 
