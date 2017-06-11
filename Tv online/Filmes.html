@@ -549,6 +549,28 @@
 </item>
 
 <item>
+<title>[COLOR yellow]PARAMOUNT CHANNEL[/COLOR] [COLOR gray] PxStream[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/1zrv5zbv3mlh/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/Paramount.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue]TNT[/COLOR] [COLOR gray] Pxstream[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
