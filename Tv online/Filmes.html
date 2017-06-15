@@ -44,7 +44,7 @@
 
 <item>
 <title>[COLOR blue]TELECINE PIPOCA[/COLOR] [COLOR gray] EsportesTv[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch22-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
+<link>http://cdn.widestream.io:8081/wideedge1/ch39-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8(.*)"</expres>
@@ -105,6 +105,18 @@
 <title>[COLOR blue]TELECINE PREMIUM[/COLOR] [COLOR gray] Master[/COLOR]</title>
 <sportsdevil>http://tv-msn.com/player-grande/tcpremium.html</sportsdevil>
 <referer>http://tv-msn.com/</referer>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]TELECINE PREMIUM[/COLOR] [COLOR gray] EsportesTv[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch38-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+</regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
@@ -307,6 +319,18 @@
 <expres>token=(.*?)&amp;autostart</expres>
 <page>http://abcast.net/embedd.php?file=canaldenumerotres?IGOR_RANGEL</page>
 <referer>http://tv-aovivo.nl/esportestv.html</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]HBO[/COLOR] [COLOR gray] EsportesTv[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch37-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
@@ -522,6 +546,28 @@
 </regex>
 <fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
 <thumbnail>http://goo.gl/qXR9CS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]PARAMOUNT CHANNEL[/COLOR] [COLOR gray] PxStream[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/35j9sjdaiyu6/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/Paramount.png</thumbnail>
 </item>
 
 <item>
