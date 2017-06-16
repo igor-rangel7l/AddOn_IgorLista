@@ -145,6 +145,26 @@
 </item>
 
 <item>
+<title>[COLOR gray]GLOBO SP[/COLOR] [COLOR gray] RedeCanais[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+</regex>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*myStream.*?)"</expres>
+<page>$doregex[Igor_Rangel_Site]</page>
+<referer>http://m.redecanais.com</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>src="(.*servercanais.*?)"</expres>
+<page>http://m.redecanais.com/assistir-rede-globo-nordeste-online-24-horas-ao-vivo_82944894f.html</page>
+<referer>http://m.redecanais.com/</referer>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+<thumbnail>http://goo.gl/qx5sL9</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray]GLOBO RJ[/COLOR] [COLOR gray] PxStrean[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/boborj/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
