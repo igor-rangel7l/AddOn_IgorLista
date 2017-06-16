@@ -4,6 +4,15 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+<item>
+<title>Power Rangers (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/power-rangers/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzYzMTE3NDQyN15BMl5BanBnXkFtZTgwMDA5MTkxMTI@._V1_SX1777_CR0,0,1777,934_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/IMG_20170202_184632.jpg</thumbnail>
+</item>
 
 <item>
 <title>Interestelar (Dublado) - 2014</title>
