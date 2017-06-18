@@ -41,19 +41,16 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+<expres>"http://(.*)/load"</expres>
+<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/</page><referer>http://m.tudotv.tv/</referer>
+</regex>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
+<expres>"m3u8(.*)"</expres>
+<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/</page><referer>http://m.tudotv.tv/</referer>
 </regex>
 <regex>
-<name>Igor_Rangel_Page</name>
-<expres>file: "(.*)",</expres>
-<page>http://pxstream.tv/embed/z5ydi1eyc7bu/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
-</regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
 <thumbnail>http://goo.gl/5IKysn</thumbnail>
 </item>
