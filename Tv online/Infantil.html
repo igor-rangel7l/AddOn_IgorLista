@@ -93,12 +93,18 @@
 
 <item>
 <title>[COLOR orange]CARTOON NETWORK[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/power.php?file=cartoon&width=100%&height=100%</page>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
 <referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/cartoon.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
 <thumbnail>http://goo.gl/oF6osu</thumbnail>
@@ -444,12 +450,18 @@
 
 <item>
 <title>[COLOR orange]DISCOVERY KIDS[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/power.php?file=discoverykids&width=100%&height=100%</page>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
 <referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/discoverykids.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlistalogos.at.ua/fanart/DISCOVERY_KIDS.jpg</fanart>
 <thumbnail>http://goo.gl/eVuVEw</thumbnail>

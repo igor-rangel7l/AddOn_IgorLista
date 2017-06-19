@@ -146,12 +146,18 @@
 
 <item>
 <title>[COLOR red]SPORTV[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=sportv</page>
-<referer>http://look-tvs.com/atvon/foxsport.html</referer>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/sportv.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://goo.gl/MzqDv7</thumbnail>
@@ -298,12 +304,18 @@
 
 <item>
 <title>[COLOR red]ESPN BRASIL[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=espnbr&width=470&height=370</page>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
 <referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/espnbr.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
@@ -444,12 +456,18 @@
 
 <item>
 <title>[COLOR red]FOX SPORTS[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=foxsport&width=470&height=370</page>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
 <referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/foxsport.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
@@ -650,12 +668,18 @@
 
 <item>
 <title>[COLOR red]SPORTV 2[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[get-stream] playpath=sportv2 swfUrl=http://www.look-tvs.com/tv/player.swf pageUrl=http://tv-msn.com/</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>get-stream</name>
-<expres><![CDATA[streamer=(.*)&auto]]></expres>
-<page>http://www.look-tvs.com/tv/online.php?IGOR_RANGEL</page>
-<referer>http://www.look-tvs.com/</referer>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/sportv2.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
@@ -837,12 +861,18 @@
 
 <item>
 <title>[COLOR red]PREMIERE[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=pfc</page>
-<referer>http://look-tvs.com/atvon/foxsport.html</referer>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/pfc.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>

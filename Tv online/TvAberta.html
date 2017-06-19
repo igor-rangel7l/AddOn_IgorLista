@@ -135,12 +135,18 @@
 
 <item>
 <title>[COLOR gray]GLOBO SP[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=sptv&width=480&height=370</page>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
 <referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://www.look-tvs.com/globo/</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
@@ -197,8 +203,8 @@
 <link>$doregex[ch_Igor_Rangel]</link>
 <regex>
 <name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=globo&width=480&height=370</page>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=globo</page>
 <referer>http://www.freelivestream.tv/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
@@ -422,12 +428,18 @@ http://smartiptvspain.mine.nu:980/live/rese/rese/37377.ts
 
 <item>
 <title>[COLOR gray]RECORD[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=record&width=480&height=370</page>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
 <referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/record.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/RECOR.jpg</fanart>
 <thumbnail>http://goo.gl/YQ9Ftm</thumbnail>
@@ -534,12 +546,18 @@ http://smartiptvspain.mine.nu:980/live/rese/rese/37377.ts
 
 <item>
 <title>[COLOR gray]SBT[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=sbt&width=470&height=370</page>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
 <referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/sbt.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SBT.png</fanart>
 <thumbnail>http://goo.gl/nVXYOf</thumbnail>
@@ -673,12 +691,18 @@ http://smartiptvspain.mine.nu:980/live/rese/rese/37377.ts
 
 <item>
 <title>[COLOR gray]BAND[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[ch_Igor_Rangel]</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>ch_Igor_Rangel</name>
-<expres>src: "([^\"].*)" </expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=band&width=470&height=370</page>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
 <referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/band.html</page>
+<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
 <thumbnail>http://goo.gl/SZ94lw</thumbnail>
@@ -735,6 +759,25 @@ http://smartiptvspain.mine.nu:980/live/rese/rese/37377.ts
 <item>
 <title>[COLOR gray]REDE TV[/COLOR] [COLOR gray]TV Pampa[/COLOR]</title>
 <link>rtmp://192.99.101.129:1935/rafael926 playpath=encoder  swfUrl=http://www.crosshost.com.br/playerflash/player.swf?IGOR_RANGEL  pageUrl=http://www.pampa.com.br/ver-tv.php</link>
+<thumbnail>http://goo.gl/A1WBTk</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray]REDE TV[/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>file: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/redetv.html</page>
+<referer>http://look-tvs.com</referer>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/REDE_TV.jpg</fanart>
 <thumbnail>http://goo.gl/A1WBTk</thumbnail>
 </item>
 
