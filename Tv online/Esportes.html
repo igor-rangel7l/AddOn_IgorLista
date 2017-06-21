@@ -57,14 +57,35 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/slv0_bkp/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
 </regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
+<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]SPORTV[/COLOR] [COLOR gray] Torcedor[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>src": "(.*playlist.*?)"</expres>
+<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page><referer>http://torcidatricolor.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file='(.*?)';</expres>
+<page>http://torcidatricolor.tv/brazil/jogo8.php?IGOR_RANGEL</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://goo.gl/MzqDv7</thumbnail>
 </item>
@@ -121,13 +142,16 @@
 
 <item>
 <title>[COLOR red]SPORTV[/COLOR] [COLOR gray] Master[/COLOR]</title>
-<link>rtmp://86.106.137.10/live?token=$doregex[Igor_Rangel_Token] playpath=veraac0e069e8201e780eee8d  swfUrl=http://abcast.net/ob.swf  pageUrl=http://abcast.net/embedd.php?file=canaldenumerotres&width=468&height=380</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>Igor_Rangel_Token</name>
-<expres>token=(.*?)&amp;autostart</expres>
-<page>http://abcast.net/embedd.php?file=canaldenumerotres?IGOR_RANGEL</page>
-<referer>http://tv-aovivo.nl/esportestv.html</referer>
+<name>Igor_Rangel_Ch</name>
+<expres>src": "(.*playlist.*?)"</expres>
+<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page><referer>http://torcidatricolor.tv/</referer>
 </regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file='(.*?)';</expres>
+<page>http://tv-aovivo.nl/esportestv.html?IGOR_RANGEL</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://goo.gl/MzqDv7</thumbnail>
 </item>
@@ -158,19 +182,6 @@
 <expres>file='(.*?)';</expres>
 <page>http://look-tvs.com/atvon/sportv.html</page>
 <referer>http://look-tvs.com</referer>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]SPORTV[/COLOR] [COLOR gray] Torcedor[/COLOR]</title>
-<link>rtmp://86.106.137.10/live?token=$doregex[Igor_Rangel_Token] playpath=verae1fbc10f1fe27a41f4b75  swfUrl=http://abcast.net/ob.swf  pageUrl=http://abcast.net/wp.php?file=esportet&width=468&height=360</link>
-<regex>
-<name>Igor_Rangel_Token</name>
-<expres>token=(.*?)&amp;autostart</expres>
-<page>http://abcast.net/wp.php?file=esportet?IGOR_RANGEL</page>
-<referer>http://tvonlinegratis.tv</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://goo.gl/MzqDv7</thumbnail>
@@ -245,13 +256,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/slv10/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
@@ -478,13 +494,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnmais/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
 <thumbnail>http://goo.gl/HBo8jM</thumbnail>
@@ -539,13 +560,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
@@ -617,13 +643,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte2/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
@@ -818,13 +849,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/futebol/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>
@@ -835,13 +871,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/sat1/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>
@@ -924,13 +965,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/slv1/chunks.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
 <thumbnail>http://goo.gl/q2H05k</thumbnail>
@@ -1035,13 +1081,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxsports2/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/aXJTWu</thumbnail>
@@ -1095,13 +1146,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/ch002/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/291Lwj</thumbnail>
@@ -1112,13 +1168,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-band-sports-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/291Lwj</thumbnail>
@@ -1209,13 +1270,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/max1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/EI_MAX.jpg</fanart>
 <thumbnail>http://goo.gl/DMhCKY</thumbnail>
@@ -1327,13 +1393,18 @@
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/max2/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>"http://(.*)/load</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>source: "(.*)",</expres>
+<page>http://pxstream.tv/embed/pvzzhennlmwr/?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/EI_MAX_2.jpg</fanart>
 <thumbnail>http://goo.gl/B0BXM7</thumbnail>
