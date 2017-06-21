@@ -474,12 +474,16 @@ http://pxstream.tv/embed/s2gz6dzd4kqs/
 
 <item>
 <title>[COLOR yellow]Jogo 01[/COLOR] [COLOR gray] Torcedor[/COLOR]</title>
-<link>rtmp://94.176.148.234/live?token=$doregex[Igor_Rangel_Token] playpath=ver36ec8025fc681d92b77fa1  swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf  pageUrl=http://abcast.net/wp.php?file=redebobo&width=468&height=360</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>Igor_Rangel_Token</name>
-<expres>token=(.*?)"</expres>
-<page>http://abcast.net/wp.php?file=IGORRANGEL</page>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*playlist.*?)"</expres>
+<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page>
 </regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file='(.*?)';</expres>
+<page>http://torcidatricolor.tv/brazil/jogo3.php</page></regex>
 <fanart>https://goo.gl/E2olfw</fanart>
 <thumbnail>https://goo.gl/rr69nj</thumbnail>
 </item>
