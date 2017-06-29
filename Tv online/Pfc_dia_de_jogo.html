@@ -12,13 +12,16 @@
 
 <item>
 <title>[COLOR red]JOGO Tvnopchd[/COLOR]</title>
-<link>rtmp://86.106.137.10/live?token=$doregex[Igor_Rangel_Token] playpath=ver0bae6dc71bff0f317cd9c55147148e10  swfUrl=http://abcast.net/ob.swf  pageUrl=http://abcast.net/embedd.php?file=canaldenumerotres&width=468&height=380</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>Igor_Rangel_Token</name>
-<expres>token=(.*?)&amp;autostart</expres>
-<page>http://abcast.net/embedd.php?file=canaldenumerotres?IGOR_RANGEL</page>
-<referer>http://tv-aovivo.nl/esportestv.html</referer>
+<name>Igor_Rangel_Ch</name>
+<expres>src": "(.*playlist.*?)"</expres>
+<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page><referer>http://torcidatricolor.tv/</referer>
 </regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file='(.*?)';</expres>
+<page>http://tvnopchd.tv/futbolenvivo.html?IGOR_RANGEL</page></regex>
 <fanart>https://goo.gl/E2olfw</fanart>
 <thumbnail>https://goo.gl/XgQIwT</thumbnail>
 </item>
