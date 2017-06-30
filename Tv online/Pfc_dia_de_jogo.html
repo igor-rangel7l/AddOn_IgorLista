@@ -803,15 +803,13 @@
 </item>
 
 
-http://139.59.175.35/abrhd/aovivonatv1/index.m3u8?pxAuth=5TcPpPbsE4Sg9H7Q9HDW3kULV50suUwW
-http://174.138.55.80/abrhd/aovivonatv1/abrhd/aovivonatv1/index.m3u8?pxAuth=Ox7n3hbvTWjSIx3tkSbGW1vsVlemKNVh
 
 
-http://188.226.154.133/loadbalance/pfh1/l_58839_733998_122.ts
+
 
 <item>
 <title>[COLOR maroon]Jogo 01[/COLOR] [COLOR gray] Tudotv[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/abrhd/aovivonatv1/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/tudotv1online/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>location:http://(.*)/abrhd</expres>
@@ -833,10 +831,10 @@ http://188.226.154.133/loadbalance/pfh1/l_58839_733998_122.ts
 
 <item>
 <title>[COLOR maroon]Jogo 02[/COLOR] [COLOR gray] Tudotv[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh2/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/tudotv2online/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
+<expres>location:http://(.*)/abrhd</expres>
 <page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
@@ -846,9 +844,75 @@ http://188.226.154.133/loadbalance/pfh1/l_58839_733998_122.ts
 </regex>
 <regex>
 <name>Igor_Rangel_Page</name>
-<expres>source: "(.*)",</expres>
+<expres>hls: '(.*)'</expres
 <page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
-</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream.txt</page></regex>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
+<fanart>https://goo.gl/E2olfw</fanart>
+<thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon]Jogo 03[/COLOR] [COLOR gray] Tudotv[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/tudotv3online/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/abrhd</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>hls: '(.*)'</expres
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
+<fanart>https://goo.gl/E2olfw</fanart>
+<thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon]Jogo 04[/COLOR] [COLOR gray] Tudotv[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/tudotv4online/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/abrhd</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>hls: '(.*)'</expres
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
+<fanart>https://goo.gl/E2olfw</fanart>
+<thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon]Jogo 05[/COLOR] [COLOR gray] Tudotv[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/tudotv5online/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/abrhd</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>hls: '(.*)'</expres
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
 <fanart>https://goo.gl/E2olfw</fanart>
 <thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
 </item>
