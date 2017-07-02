@@ -107,6 +107,26 @@
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://goo.gl/MzqDv7</thumbnail>
 </item>
+<item>
+<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>rtmp://$doregex[Igor_Rangel_IP]/adfree playpath=$doregex[Igor_Rangel_Ch]?id=1086&amp;pk=$doregex[Igor_Rangel_Pk]  swfUrl=http://www.fstream.me/static/scripts/fplayer.swf live=1 pageUrl=http://www.fstream.me/embedplayer/Igor_Rangel/1/500/400 conn=S:OK --live</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.pubfstream.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.fstream.me/embedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.fstream.me/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>channel='(.*?)',<expres>
+<page>http://m.tudotv.tv/assistir-sportv-ao-vivo-2400-horas-online-em-hd-gratis/opcao-4864/</page>
+<referer>http://aovivonatv.com</referer>
+</regex>
 
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
