@@ -110,28 +110,6 @@
 
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>rtmp://$doregex[Igor_Rangel_IP]/adfree playpath=$doregex[Igor_Rangel_Ch]?id=1086&amp;pk=$doregex[Igor_Rangel_Pk]  swfUrl=http://www.fstream.me/static/scripts/fplayer.swf live=1 pageUrl=http://www.fstream.me/embedplayer/Igor_Rangel/1/500/400 conn=S:OK --live</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>redirect=(.*)<expres>
-<page>http://www.pubfstream.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.fstream.me/embedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.fstream.me/</referer>
-</regex>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>channel='(.*?)',<expres>
-<page>http://m.tudotv.tv/assistir-sportv-ao-vivo-2400-horas-online-em-hd-gratis/opcao-4864/</page>
-<referer>http://aovivonatv.com</referer>
-</regex>
-</item>
-
-<item>
-<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_Ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_ip</name>
@@ -263,6 +241,28 @@
 <expres>src="(.*widestream.*?)"</expres>
 <page>http://portalzuca.com/parceiro/espnbr.html</page>
 </regex>
+<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/GwBMAl</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/95998827668617289478/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/abrhd</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>hls: '(.*)'</expres
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
 </item>
