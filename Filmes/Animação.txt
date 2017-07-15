@@ -4,6 +4,15 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+<item>
+<title>O Poderoso Chefinho (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-poderoso-chefinho/</page></regex>
+<genre>Animação e Comédia</genre>
+<info>Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4Nzc5NzY5NV5BMl5BanBnXkFtZTgwOTcxMjczMDI@._V1_SX1777_CR0,0,1777,736_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/poderoso.jpg</thumbnail>
+</item>
 
 <item>
 <title>A Bela e a Fera (Legendado) - 2017</title>
@@ -23,16 +32,6 @@
 <info>Moradora de uma pequena aldeia francesa, Bela (Emma Watson) tem o pai capturado pela Fera (Dan Stevens) e decide entregar sua vida ao estranho ser em troca da liberdade dele. No castelo, ela conhece objetos mágicos e descobre que a Fera é, na verdade, um príncipe que precisa de amor para voltar à forma humana.</info>
 <fanart>http://woomagazine.com.br/wp-content/uploads/2017/01/A-bela-e-a-fera-5.jpg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/C1qeY2GVIAAzfhZ.jpg</thumbnail>
-</item>
-
-<item>
-<title>O Poderoso Chefinho (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/o-poderoso-chefinho/</page></regex>
-<genre>Animação e Comédia</genre>
-<info>Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4Nzc5NzY5NV5BMl5BanBnXkFtZTgwOTcxMjczMDI@._V1_SX1777_CR0,0,1777,736_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/poderoso.jpg</thumbnail>
 </item>
 
 <item>
