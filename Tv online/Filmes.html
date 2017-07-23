@@ -530,25 +530,40 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
-<name>Igor_Rangel_ch</name>
-<expres>channel='(.*)',</expres>
-<page>http://m.tudotv.tv/assistir-o-canal-hbo-ao-vivo-online-24-horas/opcao-4930/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loa</expres>
+<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<expres>m3u8(.*)"</expres>
+<page>http://m.tudotv.tv/assistir-globo-rj-ao-vivo-gratis-online-em-hd/?IGOR_RANGEL</page><referer>http://m.tudotv.tv/</referer>
 </regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [B]GAME OF THRONES[/B]</title>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/aovivonatv7/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/abrhd</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>hls: '(.*)'</expres
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
 </item>
