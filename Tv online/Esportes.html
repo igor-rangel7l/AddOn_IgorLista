@@ -29,6 +29,26 @@
 </item>
 
 <item>
+<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/slv0_bkp/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
+<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (PxStream 2)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/abrhd/aovivonatv1/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -46,26 +66,6 @@
 <expres>hls: '(.*)'</expres
 <page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
-<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/slv0_bkp/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-<noredirect>true</noredirect><includeheaders/>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
-<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
-</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
-</regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://goo.gl/MzqDv7</thumbnail>
 </item>
