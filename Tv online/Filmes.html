@@ -594,12 +594,17 @@
 
 <item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
-<link>rtmp://86.106.137.10/live?token=$doregex[Igor_Rangel_Token] playpath=verba42f8bab4b71963e45251  swfUrl=http://abcast.net/ob.swf  pageUrl=http://abcast.net/embedd.php?file=canaldenumerotres&width=468&height=380</link>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>Igor_Rangel_Token</name>
-<expres>token=(.*?)&amp;autostart</expres>
-<page>http://abcast.net/embedd.php?file=canaldenumerotres?IGOR_RANGEL</page>
-<referer>http://tv-aovivo.nl/esportestv.html</referer>
+<name>Igor_Rangel_Ch</name>
+<expres>src": "(.*playlist.*?)"</expres>
+<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page><referer>http://tv-aovivo.nl/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file=(.*?)" width</expres>
+<page>http://tv-aovivo.nl/hbo.php?IGOR_RANGEL</page>
+<referer>http://tv-aovivo.nl/hbo.html</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
