@@ -29,6 +29,15 @@ http://netcine.us/o-poderoso-chefinho/
 
 
 <item>
+<title>Velozes e Furiosos 8 (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/velozes-e-furiosos-8/</page></regex>
+<genre>Ação e Policial</genre>
+<info>Agora que Dom e Letty estão em lua de mel e Brian e Mia se retiraram do jogo – e o restante da equipe foi exonerada – o time segue com uma vida normal. Mas, quando uma mulher misteriosa (Charlize Theron) seduz Dom para o mundo do crime, ele parece não conseguir escapar e a traição das pessoas próximas à ele fará com que todos sejam testados de uma forma como nunca antes foram.</info>
+<fanart>http://woomagazine.com.br/wp-content/uploads/2017/01/A-bela-e-a-fera-5.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/fate_of_the_furious_ver2_xxlg.jpg</thumbnail>
+</item>
+<item>
 <title>A Cabana (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/a-cabana/</page></regex>
@@ -146,16 +155,6 @@ http://netcine.us/o-poderoso-chefinho/
 <info>Chris (Daniel Kaluuya) é jovem negro que está prestes a conhecer a família de sua namorada caucasiana Rose (Allison Williams). A princípio, ele acredita que o comportamento excessivamente amoroso por parte da família dela é uma tentativa de lidar com o relacionamento de Rose com um rapaz negro, mas com o tempo, Chris percebe que a família esconde algo muito mais perturbador.</info>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjEzNzE1NF5BMl5BanBnXkFtZTgwNDYwNjUzMTI@._V1_SX1777_CR0,0,1777,998_AL_.jpg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/get_out_ver3.jpg</thumbnail>
-</item>
-222
-<item>
-<title>Velozes e Furiosos 8 (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*VELO20.*?)" fra</expres>
-<page>http://netcine.us/velozes-e-furiosos-8/</page></regex>
-<genre>Ação e Policial</genre>
-<info>Agora que Dom e Letty estão em lua de mel e Brian e Mia se retiraram do jogo – e o restante da equipe foi exonerada – o time segue com uma vida normal. Mas, quando uma mulher misteriosa (Charlize Theron) seduz Dom para o mundo do crime, ele parece não conseguir escapar e a traição das pessoas próximas à ele fará com que todos sejam testados de uma forma como nunca antes foram.</info>
-<fanart>http://woomagazine.com.br/wp-content/uploads/2017/01/A-bela-e-a-fera-5.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/fate_of_the_furious_ver2_xxlg.jpg</thumbnail>
 </item>
 221
 <item>
@@ -1909,7 +1908,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 96
 <item>
 <title>Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016</title>
-<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
