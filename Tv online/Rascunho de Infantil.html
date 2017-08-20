@@ -1,0 +1,648 @@
+                                                                                                                                                       
+<meta http-equiv="refresh" content="5; url=https://www.facebook.com/groups/igor.lista.iptv">
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<items> 
+                                                                                                                                                                                                                                                                                                                                           
+
+
+
+
+
+<item>
+<title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]$doregex[Igor_Rangel_Pk]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_Pk</name>
+<expres>pk=(.*?)'</expres>
+<page>$doregex[Igor_Rangel_script]/membedplayer/$doregex[Igor_Rangel_channel]/1/$doregex[Igor_Rangel_widths]/$doregex[Igor_Rangel_height]/$doregex[Igor_Rangel_fid]</page>
+<referer>http://aovivonatv.com/online/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-cartoon-network-ao-vivo-online-gratis/opcao-4928/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.p3g.tv</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
+<thumbnail>http://goo.gl/oF6osu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1847.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]CARTOON NETWORK[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
+<thumbnail>http://goo.gl/oF6osu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/cartoon-network/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
+<thumbnail>http://goo.gl/oF6osu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+</regex>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*myStream.*?)"</expres>
+<page>$doregex[Igor_Rangel_Site]</page>
+<referer>http://m.redecanais.com</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>src="(.*servercanais.*?)"</expres>
+<page>http://m.redecanais.com/assistir-cartoon-network-online-24-horas-ao-vivo_066c658d3.html</page>
+<referer>http://m.redecanais.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
+<thumbnail>http://goo.gl/oF6osu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/cartoon.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
+<thumbnail>http://goo.gl/oF6osu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>src: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/cartoon.html</page>
+<referer>http://look-tvs.com</referer>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
+<thumbnail>http://goo.gl/oF6osu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch82/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://widestream.io/embed-1733?IGOR_RANGEL</page>
+<referer>http://widestream.io/</referer>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
+<thumbnail>http://goo.gl/oF6osu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]NICK[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-nickelodeon-ao-vivo-em-hd-gratis/opcao-4932/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.p3g.tv</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/NICK.png</fanart>
+<thumbnail>http://goo.gl/mgIap8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]NICK[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/nickelodeon/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/NICK.png</fanart>
+<thumbnail>http://goo.gl/mgIap8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]NICK[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/nick.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/NICK.png</fanart>
+<thumbnail>http://goo.gl/mgIap8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]NICK[/B][/COLOR] [COLOR gray] Assistirtvonline[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]:8088/cast4u/$doregex[Igor_Rangel_CH]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_CH</name>
+<expres>channel='(.*)',</expres>
+<page>http://www.assistirtvonline.tv/vip/nick.php</page>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://live.cast4u.tv:1935/loadbalancer?</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>cast4u/IgorRangel/playlist.m3u8?(.*?)"</expres>
+<page>http://www.cast4u.tv/membedplayer/IgorRangel/1/600/450</page>
+<referer>http://www.cast4u.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/NICK.png</fanart>
+<thumbnail>http://goo.gl/mgIap8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]NICK[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+</regex>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*myStream.*?)"</expres>
+<page>$doregex[Igor_Rangel_Site]</page>
+<referer>http://m.redecanais.com</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>src="(.*servercanais.*?)"</expres>
+<page>http://m.redecanais.com/assistir-nickelodeon-online-24-horas-ao-vivo_c71d2928e.html</page>
+<referer>http://m.redecanais.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/NICK.png</fanart>
+<thumbnail>http://goo.gl/mgIap8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]NICK[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]NICK[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/NICK.png</fanart>
+<thumbnail>http://goo.gl/mgIap8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY XD[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-xd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_XD.png</fanart>
+<thumbnail>http://goo.gl/aWbwb4</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY XD[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+</regex>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*myStream.*?)"</expres>
+<page>$doregex[Igor_Rangel_Site]</page>
+<referer>http://m.redecanais.com</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>src="(.*servercanais.*?)"</expres>
+<page>http://m.redecanais.com/assistir-disney-xd-online-24-horas-ao-vivo_36944293f.html</page>
+<referer>http://m.redecanais.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_XD.png</fanart>
+<thumbnail>http://goo.gl/aWbwb4</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY XD[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/disneyxd.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_XD.png</fanart>
+<thumbnail>http://goo.gl/aWbwb4</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY XD[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]DISNEY XD[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_XD.png</fanart>
+<thumbnail>http://goo.gl/aWbwb4</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY CHANNEL[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]<|User-Agent=iPhone/link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-disney-channel-ao-vivo-online/opcao-4927/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.p3g.tv</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_CHANNEL.jpg</fanart>
+<thumbnail>http://goo.gl/nB2Tmc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY CHANNEL[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-channe/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_CHANNEL.jpg</fanart>
+<thumbnail>http://goo.gl/nB2Tmc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY CHANNEL[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/disney.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_CHANNEL.jpg</fanart>
+<thumbnail>http://goo.gl/nB2Tmc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY CHANNEL[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+</regex>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*myStream.*?)"</expres>
+<page>$doregex[Igor_Rangel_Site]</page>
+<referer>http://m.redecanais.com</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>src="(.*servercanais.*?)"</expres>
+<page>http://m.redecanais.com/assistir-disney-channel-online-24-horas-ao-vivo_ef126cb30.html</page>
+<referer>http://m.redecanais.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_CHANNEL.jpg</fanart>
+<thumbnail>http://goo.gl/nB2Tmc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY CHANNEL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]DISNEY CHANNEL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_CHANNEL.jpg</fanart>
+<thumbnail>http://goo.gl/nB2Tmc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY JR[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-junior/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_JR.jpg</fanart>
+<thumbnail>http://goo.gl/HYutK0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY JR[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/disneyjr.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_JR.jpg</fanart>
+<thumbnail>http://goo.gl/HYutK0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY JR[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]DISNEY JR[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_JR.jpg</fanart>
+<thumbnail>http://goo.gl/HYutK0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISCOVERY KIDS[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISCOVERY_KIDS.jpg</fanart>
+<thumbnail>http://goo.gl/eVuVEw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISCOVERY KIDS[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/discoverykids.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/DISCOVERY_KIDS.jpg</fanart>
+<thumbnail>http://goo.gl/eVuVEw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISCOVERY KIDS[/B][/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>src: "([^\"].*)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>file='(.*?)';</expres>
+<page>http://look-tvs.com/atvon/discoverykids.html</page>
+<referer>http://look-tvs.com</referer>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISCOVERY_KIDS.jpg</fanart>
+<thumbnail>http://goo.gl/eVuVEw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISCOVERY KIDS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1836.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]DISCOVERY KIDS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISCOVERY_KIDS.jpg</fanart>
+<thumbnail>http://goo.gl/eVuVEw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]GLOOB[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Gloob.png</fanart>
+<thumbnail>http://goo.gl/aghxnu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]GLOOB[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/gloob.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/Gloob.png</fanart>
+<thumbnail>http://goo.gl/aghxnu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]NICK JR[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/nick-jr/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Nick-Jr.png</fanart>
+<thumbnail>http://goo.gl/gZkEi0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]NICK JR[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/nickjr.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/Nick-Jr.png</fanart>
+<thumbnail>http://goo.gl/gZkEi0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]GLOOB[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]GLOOB[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Gloob.png</fanart>
+<thumbnail>http://goo.gl/aghxnu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]BOOMERANG[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/79/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Boomerang.jpg</fanart>
+<thumbnail>http://logos3.ucoz.com/Boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]BOOMERANG[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/boomerang/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+fanart>http://igorlistalogos.at.ua/fanart/Boomerang.jpg</fanart>
+<thumbnail>http://logos3.ucoz.com/Boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]BOOMERANG[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]BOOMERANG[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Boomerang.jpg</fanart>
+<thumbnail>http://logos3.ucoz.com/Boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]TOONCAST[/B][/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tooncast/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>source: "(.*)",</expres>
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstreamCH.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Tooncast.png</fanart>
+<thumbnail>http://goo.gl/9ytu52</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]TOONCAST[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR red]TOONCAST[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Tooncast.png</fanart>
+<thumbnail>http://goo.gl/9ytu52</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+</channel>  
