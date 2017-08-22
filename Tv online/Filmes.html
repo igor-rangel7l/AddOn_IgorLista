@@ -551,26 +551,6 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-<noredirect>true</noredirect><includeheaders/>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Igor_Rangel_Page]</page></regex><regex><name>Igor_Rangel_Page</name><expres>src: "(.*)",</expres>
-<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
-</regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.tv.*?)"</expres><page>https://goo.gl/jujbJ5</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
-<thumbnail>http://goo.gl/N9ccs5</thumbnail>
-</item>
-
-<item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [B]GAME OF THRONES[/B]</title>
 <link>http://$doregex[Igor_Rangel_IP]/abrhd/aovivonatv7/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
