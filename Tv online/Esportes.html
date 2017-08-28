@@ -113,24 +113,24 @@
 
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_Ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
 <regex>
 <name>Igor_Rangel_ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>channel='(.*?)',<expres>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
 <page>http://m.tudotv.tv/assistir-sportv-ao-vivo-2400-horas-online-em-hd-gratis/opcao-4760/</page>
-<referer>http://aovivonatv.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://goo.gl/MzqDv7</thumbnail>
@@ -282,12 +282,14 @@
 
 <item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
 <name>Igor_Rangel_ch</name>
-<expres>channel='(.*)',</expres>
-<page>http://aovivonatv.com/assistir-espn-brasil-ao-vivo-online-24-horas-hd/opmobile/5641/</page>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
 </regex>
 <regex>
 <name>Igor_Rangel_ip</name>
@@ -295,11 +297,9 @@
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
+<page>http://aovivonatv.com/assistir-espn-brasil-ao-vivo-online-24-horas-hd/opmobile/5641/</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
@@ -413,12 +413,14 @@
 
 <item>
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
 <name>Igor_Rangel_ch</name>
-<expres>channel='(.*)',</expres>
-<page>http://m.tudotv.tv/assistir-fox-sports-ao-vivo-online-em-hd-gratis/opcao-12/</page>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
 </regex>
 <regex>
 <name>Igor_Rangel_ip</name>
@@ -426,11 +428,9 @@
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-fox-sports-ao-vivo-online-em-hd-gratis/opcao-12/</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
@@ -1067,12 +1067,14 @@
 
 <item>
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
 <name>Igor_Rangel_ch</name>
-<expres>channel='(.*)',</expres>
-<page>http://m.tudotv.tv/assistir-fox-sports-2-ao-vivo-online-em-hd-gratis/opcao-1710/</page>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
 </regex>
 <regex>
 <name>Igor_Rangel_ip</name>
@@ -1080,11 +1082,9 @@
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-fox-sports-2-ao-vivo-online-em-hd-gratis/opcao-1710/</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
@@ -1327,24 +1327,24 @@
 
 <item>
 <title>[COLOR red][B]EI MAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_Ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
 <regex>
 <name>Igor_Rangel_ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>channel='(.*?)',<expres>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
 <page>http://m.tudotv.tv/assistir-eimaxx-ao-vivo-online-em-hd-gratis/opcao-6279/</page>
-<referer>http://aovivonatv.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/EI_MAX.jpg</fanart>
 <thumbnail>http://goo.gl/DMhCKY</thumbnail>
@@ -1405,24 +1405,24 @@
 
 <item>
 <title>[COLOR red][B]EI MAX 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_Ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
 <regex>
 <name>Igor_Rangel_ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>channel='(.*?)',<expres>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
 <page>http://m.tudotv.tv/assistir-eimaxx-2-ao-vivo-online-em-hd-gratis/opcao-6280/</page>
-<referer>http://aovivonatv.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/EI_MAX_2.jpg</fanart>
 <thumbnail>http://goo.gl/B0BXM7</thumbnail>
