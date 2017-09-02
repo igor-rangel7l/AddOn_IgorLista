@@ -7,6 +7,16 @@
 
 
 <item>
+<title>Baywatch - S.O.S. Malibu (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/baywatch-s-o-s-malibu/</page></regex>
+<genre>Ação,Comédia e Drama</genre>
+<info>Em Emerald Bay ninguém se destaca mais do que o lendário salva-vidas Mitch Buchannon (Dwayne "The Rock"). Como líder da equipe de Baywatch, Mitch tornou-se uma espécie de herói local. Mas o novo e insubordinado recruta do time Matt Brody (Zac Efron) anda tirando a sua paciência. Apesar das desavenças, os dois se unem quando descobrem uma conspiração criminosa local que ameaça o futuro da baía onde trabalham.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MDQ3MTE0NTNeQTJeQWpwZ15BbWU4MDUwOTAwMzIy._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/17991494_10155231994442052_4678730947847768271_o.jpg</thumbnail>
+</item>
+
+<item>
 <title>O Poderoso Chefinho (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-poderoso-chefinho/</page></regex>

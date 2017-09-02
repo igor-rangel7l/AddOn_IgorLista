@@ -7,6 +7,25 @@
 
 
 
+<item>
+<title>O Círculo (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-circulo/</page></regex>
+<genre>Drama e Ficção Cientifica</genre>
+<info>Mae (Emma Watson) é uma universitária cujo sonho é trabalhar na maior empresa de tecnologia do mundo, O Círculo. A organização foi fundada por Eamon Bailey (Tom Hanks) e o seu principal produto é o SeeChange, uma pequena câmera que permite aos usuários compartilharem detalhes de suas vidas com o mundo. Mae vê sua vida mudar completamente quando é contratada pela empresa e sua função passa a ser documentar sua vida em tempo integral. O que ela não imaginava, no entanto, é que toda essa exposição teria um preço, não só para ela, mas também para todos ao seu redor.</info>
+<fanart>http://br.web.img3.acsta.net/pictures/17/05/04/11/07/269427.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170317_092230.jpg</thumbnail>
+</item>
+
+<item>
+<title>Guardiões da Galáxia Vol. 2 (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/guardioes-da-galaxia-vol-2/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.</info>
+<fanart>http://bodenasala.com/wp-content/uploads/2017/04/GuardianesDeLaGalaxiaVol.2WallpaperHD_5.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170305_231021.jpg</thumbnail>
+</item>
 
 <item>
 <title>A Vigilante do Amanhã: Ghost in the Shell (Dublado) - 2017</title>
@@ -19,8 +38,8 @@
 </item>
 
 <item>
-<title>Alien: Covenant (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<title>Alien: Covenant (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/alien-covenant/</page></regex>
 <genre>Ficção Cientifica e Terror</genre>
 <info>2104. Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David (Michael Fassbender) como habitante solitário.</info>

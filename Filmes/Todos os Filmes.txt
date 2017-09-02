@@ -11,23 +11,106 @@ Todos Os Filmes
 
 
 
-
-
-Rei Arthur – A Lenda da Espada
-
-Alien: Covenant
-
-Mulher-Maravilha
+O Círculo
 
 Corra!
 
-Velozes e Furiosos
+
 
 http://netcine.us/o-poderoso-chefinho/
 
 
 
 
+
+<item>
+<title>Z: A Cidade Perdida (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/z-a-cidade-perdida/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>A verdadeira e incrível história do explorador inglês Percy Fawcett (Charlie Hunnam) ?que depois de se aventurar pelo mundo vai atrás de uma cidade perdida feita de ouro no coração da Amazônia, apoiado pela ?esposa (Sienna Miller), filho (Tom Holland) e seu ajudante (Robert Pattinson).</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZWQxNzQ3ZDgtMWU1ZS00ODYwLTgzNzUtZGM3NTRiN2ZjYzQ0L2ltYWdlXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/MV5BMjQzNTk3MTkyNF5BMl5BanBnXkFtZTgwMDA2MDQzMTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+240
+<item>
+<title>Meu Malvado Favorito 3 (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/meu-malvado-favorito-3/</page></regex>
+<genre>Animação e Comédia</genre>
+<info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
+<fanart>(https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzMTM0MDQ5OF5BMl5BanBnXkFtZTgwMDM1NDY4MDI@._V1_SX1777_CR0,0,1777,732_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/meumalvadofavorito3_5.jpg</thumbnail>
+</item>
+239
+<item>
+<title>Baywatch - S.O.S. Malibu (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/baywatch-s-o-s-malibu/</page></regex>
+<genre>Ação,Comédia e Drama</genre>
+<info>Em Emerald Bay ninguém se destaca mais do que o lendário salva-vidas Mitch Buchannon (Dwayne "The Rock"). Como líder da equipe de Baywatch, Mitch tornou-se uma espécie de herói local. Mas o novo e insubordinado recruta do time Matt Brody (Zac Efron) anda tirando a sua paciência. Apesar das desavenças, os dois se unem quando descobrem uma conspiração criminosa local que ameaça o futuro da baía onde trabalham.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MDQ3MTE0NTNeQTJeQWpwZ15BbWU4MDUwOTAwMzIy._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/17991494_10155231994442052_4678730947847768271_o.jpg</thumbnail>
+</item>
+238
+<item>
+<title>Fome de Poder (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/fome-de-poder/</page></regex>
+<genre>Drama</genre>
+<info>A história da ascenção do McDonald's. Após receber uma demanda sem precedentes e notar uma movimentação de consumidores fora do normal, o vendedor de Illinois Ray Kroc (Michael Keaton) adquire uma participação nos negócios da lanchonete dos irmãos Richard e Maurice "Mac" McDonald no sul da Califórnia e, pouco a pouco eliminando os dois da rede, transforma a marca em um gigantesco império alimentício.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDE3MjQ5NzItNjczYy00ZTFmLWJlMzYtMTUwMzYxZjljOWEwXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/cwh5uycwgaevta5-jpg.jpg</thumbnail>
+</item>
+237
+<item>
+<title>O Vendedor de Sonhos - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*HOS.*?)" fra</expres>
+<page>http://netcine.us/o-vendedor-de-sonhos/</page></regex>
+<genre>Drama</genre>
+<info>Adaptação do best-seller homônimo do psicoterapeuta e escritor Augusto Cury. Júlio César, um psicólogo decepcionado com a vida em geral, tenta o suicídio, mas é impedido de cometer o ato final por intermédio de um mendigo, o "Mestre". Uma amizade peculiar surge entre os dois e, logo, a dupla passa a tentar salvar pessoas ao apresentar um novo caminho para se viver.</info>
+<fanart>http://br.web.img3.acsta.net/pictures/16/12/01/14/18/460043.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/O_Vendedor_de_Sonhos_-_Pôster_-_Filme.jpg</thumbnail>
+</item>
+236
+<item>
+<title>O Círculo (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-circulo/</page></regex>
+<genre>Drama e Ficção Cientifica</genre>
+<info>Mae (Emma Watson) é uma universitária cujo sonho é trabalhar na maior empresa de tecnologia do mundo, O Círculo. A organização foi fundada por Eamon Bailey (Tom Hanks) e o seu principal produto é o SeeChange, uma pequena câmera que permite aos usuários compartilharem detalhes de suas vidas com o mundo. Mae vê sua vida mudar completamente quando é contratada pela empresa e sua função passa a ser documentar sua vida em tempo integral. O que ela não imaginava, no entanto, é que toda essa exposição teria um preço, não só para ela, mas também para todos ao seu redor.</info>
+<fanart>http://br.web.img3.acsta.net/pictures/17/05/04/11/07/269427.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170317_092230.jpg</thumbnail>
+</item>
+235
+<item>
+<title>Guardiões da Galáxia Vol. 2 (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/guardioes-da-galaxia-vol-2/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.</info>
+<fanart>http://bodenasala.com/wp-content/uploads/2017/04/GuardianesDeLaGalaxiaVol.2WallpaperHD_5.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170305_231021.jpg</thumbnail>
+</item>
+234
+<item>
+<title>Mulher-Maravilha (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/mulher-maravilha-2/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>Antes de ser Mulher-Maravilha, ela era Diana, princesa das Amazonas, treinada para ser uma guerreira imbatível. Criada numa ilha paraíso protegida e escondida, tudo muda quando um piloto americano chega em seu território e avisa sobre um grande conflito tomando forma no mundo. Diana deixa seu lar convencida de que pode impedir a ameaça crescente. Lutando ao lado dos homens em uma guerra para dar fim a todas as outras, Diana descobre seus poderes… e seu destino.</info>
+<fanart>http://www.diverdica.com.br/wp-content/uploads/2017/05/Mulher-Maravilha.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/C-7ZrBjXYAAjkF9.jpg</thumbnail>
+</item>
+<item>
+<title>Alien: Covenant (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/alien-covenant/</page></regex>
+<genre>Ficção Cientifica e Terror</genre>
+<info>2104. Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David (Michael Fassbender) como habitante solitário.</info>
+<fanart>http://www.hdwallpapers.in/walls/katherine_waterston_alien_covenant_2017-wide.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170323_131215.jpg</thumbnail>
+</item>
 <item>
 <title>Velozes e Furiosos 8 (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
@@ -68,8 +151,8 @@ http://netcine.us/o-poderoso-chefinho/
 </item>
 231
 <item>
-<title>Rei Arthur – A Lenda da Espada (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<title>Rei Arthur – A Lenda da Espada (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/rei-arthur-a-lenda-da-espada/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
 <info>Arthur (Charlie Hunnam) é um jovem das ruas que controla os becos de Londonium e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua família.</info>
@@ -77,25 +160,7 @@ http://netcine.us/o-poderoso-chefinho/
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170403_150228.jpg</thumbnail>
 </item>
 230
-<item>
-<title>Alien: Covenant (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/alien-covenant/</page></regex>
-<genre>Ficção Cientifica e Terror</genre>
-<info>2104. Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David (Michael Fassbender) como habitante solitário.</info>
-<fanart>http://www.hdwallpapers.in/walls/katherine_waterston_alien_covenant_2017-wide.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170323_131215.jpg</thumbnail>
-</item>
 229
-<item>
-<title>Mulher-Maravilha (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/mulher-maravilha-2/</page></regex>
-<genre>Ação e Aventura</genre>
-<info>Antes de ser Mulher-Maravilha, ela era Diana, princesa das Amazonas, treinada para ser uma guerreira imbatível. Criada numa ilha paraíso protegida e escondida, tudo muda quando um piloto americano chega em seu território e avisa sobre um grande conflito tomando forma no mundo. Diana deixa seu lar convencida de que pode impedir a ameaça crescente. Lutando ao lado dos homens em uma guerra para dar fim a todas as outras, Diana descobre seus poderes… e seu destino.</info>
-<fanart>http://www.diverdica.com.br/wp-content/uploads/2017/05/Mulher-Maravilha.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/C-7ZrBjXYAAjkF9.jpg</thumbnail>
-</item>
 228
 <item>
 <title>Okja (Dublado) - 2017</title>
@@ -167,16 +232,6 @@ http://netcine.us/o-poderoso-chefinho/
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/C1qeY2GVIAAzfhZ.jpg</thumbnail>
 </item>
 220
-<item>
-<title>O Poderoso Chefinho (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/o-poderoso-chefinho/</page></regex>
-<genre>Animação e Comédia</genre>
-<info>Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4Nzc5NzY5NV5BMl5BanBnXkFtZTgwOTcxMjczMDI@._V1_SX1777_CR0,0,1777,736_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/poderoso.jpg</thumbnail>
-</item>
-219
 <item>
 <title>A Cabana (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>

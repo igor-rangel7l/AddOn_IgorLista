@@ -5,6 +5,46 @@
 
 
 <item>
+<title>Baywatch - S.O.S. Malibu (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/baywatch-s-o-s-malibu/</page></regex>
+<genre>Ação,Comédia e Drama</genre>
+<info>Em Emerald Bay ninguém se destaca mais do que o lendário salva-vidas Mitch Buchannon (Dwayne "The Rock"). Como líder da equipe de Baywatch, Mitch tornou-se uma espécie de herói local. Mas o novo e insubordinado recruta do time Matt Brody (Zac Efron) anda tirando a sua paciência. Apesar das desavenças, os dois se unem quando descobrem uma conspiração criminosa local que ameaça o futuro da baía onde trabalham.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MDQ3MTE0NTNeQTJeQWpwZ15BbWU4MDUwOTAwMzIy._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/17991494_10155231994442052_4678730947847768271_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fome de Poder (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/fome-de-poder/</page></regex>
+<genre>Drama</genre>
+<info>A história da ascenção do McDonald's. Após receber uma demanda sem precedentes e notar uma movimentação de consumidores fora do normal, o vendedor de Illinois Ray Kroc (Michael Keaton) adquire uma participação nos negócios da lanchonete dos irmãos Richard e Maurice "Mac" McDonald no sul da Califórnia e, pouco a pouco eliminando os dois da rede, transforma a marca em um gigantesco império alimentício.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMDE3MjQ5NzItNjczYy00ZTFmLWJlMzYtMTUwMzYxZjljOWEwXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/cwh5uycwgaevta5-jpg.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Vendedor de Sonhos - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*HOS.*?)" fra</expres>
+<page>http://netcine.us/o-vendedor-de-sonhos/</page></regex>
+<genre>Drama</genre>
+<info>Adaptação do best-seller homônimo do psicoterapeuta e escritor Augusto Cury. Júlio César, um psicólogo decepcionado com a vida em geral, tenta o suicídio, mas é impedido de cometer o ato final por intermédio de um mendigo, o "Mestre". Uma amizade peculiar surge entre os dois e, logo, a dupla passa a tentar salvar pessoas ao apresentar um novo caminho para se viver.</info>
+<fanart>http://br.web.img3.acsta.net/pictures/16/12/01/14/18/460043.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/O_Vendedor_de_Sonhos_-_Pôster_-_Filme.jpg</thumbnail>
+</item>
+
+<item>
+<title>O Círculo (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-circulo/</page></regex>
+<genre>Drama e Ficção Cientifica</genre>
+<info>Mae (Emma Watson) é uma universitária cujo sonho é trabalhar na maior empresa de tecnologia do mundo, O Círculo. A organização foi fundada por Eamon Bailey (Tom Hanks) e o seu principal produto é o SeeChange, uma pequena câmera que permite aos usuários compartilharem detalhes de suas vidas com o mundo. Mae vê sua vida mudar completamente quando é contratada pela empresa e sua função passa a ser documentar sua vida em tempo integral. O que ela não imaginava, no entanto, é que toda essa exposição teria um preço, não só para ela, mas também para todos ao seu redor.</info>
+<fanart>http://br.web.img3.acsta.net/pictures/17/05/04/11/07/269427.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170317_092230.jpg</thumbnail>
+</item>
+
+<item>
 <title>A Cabana (Dublado) - 2017</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/a-cabana/</page></regex>
@@ -25,8 +65,8 @@
 </item>
 
 <item>
-<title>Rei Arthur – A Lenda da Espada (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<title>Rei Arthur – A Lenda da Espada (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/rei-arthur-a-lenda-da-espada/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
 <info>Arthur (Charlie Hunnam) é um jovem das ruas que controla os becos de Londonium e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua família.</info>
