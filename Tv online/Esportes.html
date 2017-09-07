@@ -25,7 +25,7 @@
 <page>http://portalzuca.com/parceiro/spt.html</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -44,7 +44,7 @@
 <referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -66,7 +66,7 @@
 <page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2hd.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -82,7 +82,7 @@
 <expres>file='(.*?)';</expres>
 <page>http://torcidatricolor.tv/brazil/jogo8.php?IGOR_RANGEL</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -107,7 +107,7 @@
 <referer>http://aovivonatv.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -132,7 +132,7 @@
 <page>http://m.tudotv.tv/assistir-sportv-ao-vivo-2400-horas-online-em-hd-gratis/opcao-4760/</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png/thumbnail>
 </item>
 
 <item>
@@ -150,7 +150,7 @@
 <referer>http://tv-aovivo.nl/esportestv.html</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -181,7 +181,7 @@
 <referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -193,7 +193,7 @@
 <page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -205,7 +205,7 @@
 <page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -217,7 +217,7 @@
 <page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://goo.gl/MzqDv7</thumbnail>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
@@ -231,7 +231,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>src="(.*widestream.*?)"</expres>
-<page>http://portalzuca.com/parceiro/espnbr.html</page>
+<page>http://portalzuca.com/tvonlinegratis1/espnbr.html</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
@@ -377,6 +377,25 @@
 
 <item>
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxsports/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-globo-minas-hd-ao-vivo-online-gratis/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-globo-minas-hd-ao-vivo-online-gratis/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
+<thumbnail>http://goo.gl/2GxOT7</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Widestream)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_CH</name>
@@ -1225,6 +1244,25 @@
 </regex>
 <fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/291Lwj</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/max1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-globo-minas-hd-ao-vivo-online-gratis/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-globo-minas-hd-ao-vivo-online-gratis/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/Esporte_Interativo.jpg</fanart>
+<thumbnail>http://goo.gl/rpVBtn</thumbnail>
 </item>
 
 <item>

@@ -365,6 +365,25 @@
 </item>
 
 <item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/sat6/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-globo-minas-hd-ao-vivo-online-gratis/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-globo-minas-hd-ao-vivo-online-gratis/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [B]GAME OF THRONES[/B]</title>
 <link>http://$doregex[Igor_Rangel_IP]/abrhd/aovivonatv7/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -442,7 +461,7 @@
 
 <item>
 <title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo-2/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo2hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -951,6 +970,25 @@
 </item>
 
 <item>
+<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-globo-minas-hd-ao-vivo-online-gratis/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-globo-minas-hd-ao-vivo-online-gratis/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
+<thumbnail>http://goo.gl/Hbr506</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1788.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
@@ -1041,30 +1079,6 @@
 </regex>
 <fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
 <thumbnail>http://goo.gl/zddqpQ</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]AXN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]2165.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]AXN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
-</regex>
-<fanart>http://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg</fanart>
-<thumbnail>http://goo.gl/AJUYq4</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]AXN[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1860.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]AXN[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
-</regex>
-<fanart>http://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/AMC_Black_Hero_Logo-1200x707.jpg</fanart>
-<thumbnail>http://goo.gl/AJUYq4</thumbnail>
 </item>
 
 <item>
