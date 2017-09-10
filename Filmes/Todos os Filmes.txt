@@ -34,9 +34,8 @@ http://netcine.us/o-poderoso-chefinho/
 </item>
 240
 <item>
-<title>Meu Malvado Favorito 3 (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/meu-malvado-favorito-3/</page></regex>
+<title>Meu Malvado Favorito 3 (Dublado) - 2017</title>
+<link>http://assistir.querofilmehd.com/filmes/Meu.Malvado.Favorito.3.2017.1080p.HDRip.X264-EVO.DUAL-RK.mp4</link>
 <genre>Animação e Comédia</genre>
 <info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
 <fanart>(https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzMTM0MDQ5OF5BMl5BanBnXkFtZTgwMDM1NDY4MDI@._V1_SX1777_CR0,0,1777,732_AL_.jpg</fanart>
