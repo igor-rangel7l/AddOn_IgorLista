@@ -109,7 +109,7 @@
 </regex>
 <regex>
 <name>Igor_Rangel_ID</name>
-<expres>file='(.*?)';</expres>
+<expres>file: "(.*?)",</expres>
 <page>http://torcidatricolor.tv/brazil/jogo3.php?IGOR_RANGEL</page></regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
@@ -126,7 +126,7 @@
 </regex>
 <regex>
 <name>Igor_Rangel_Site</name>
-<expres>file='(.*?)';</expres>
+<expres>file: "(.*?)",</expres>
 <page>http://www.look-tvs.com/globo/</page>
 <referer>http://look-tvs.com</referer>
 </regex>
@@ -135,8 +135,20 @@
 </item>
 
 <item>
+<title>[COLOR gray][B]GLOBO SP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR] [COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]528.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]GLOBO SP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+<thumbnail>http://goo.gl/qx5sL9</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray][B]GLOBO SP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR] [COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]GLOBO SP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]351.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]GLOBO SP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_Serve</name>
 <expres>(.*?)IGOR_RANGEL</expres>
@@ -188,7 +200,7 @@
 </regex>
 <regex>
 <name>Igor_Rangel_Site</name>
-<expres>file='(.*?)';</expres>
+<expres>file: "(.*?)",</expres>
 <page>http://www.look-tvs.com/globo/rio.html</page>
 <referer>http://look-tvs.com</referer>
 </regex>
@@ -198,7 +210,19 @@
 
 <item>
 <title>[COLOR gray][B]GLOBO RJ[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]GLOBO RJ[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]329.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]GLOBO RJ[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+<thumbnail>http://goo.gl/qx5sL9</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray][B]GLOBO RJ[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]772.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]GLOBO RJ[/B][/COLOR] [COLOR blue] [B]SD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_Serve</name>
 <expres>(.*?)IGOR_RANGEL</expres>
@@ -382,8 +406,20 @@
 </item>
 
 <item>
+<title>[COLOR gray][B]RECORD[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]313.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]RECORD[[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/RECOR.jpg</fanart>
+<thumbnail>http://goo.gl/YQ9Ftm</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray][B]RECORD[/B][/COLOR] [COLOR yellow] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1752.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]RECORD[[/B][/COLOR] [COLOR yellow] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]58.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]RECORD[[/B][/COLOR] [COLOR yellow] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_Serve</name>
 <expres>(.*?)IGOR_RANGEL</expres>
@@ -448,7 +484,7 @@
 </regex>
 <regex>
 <name>Igor_Rangel_Site</name>
-<expres>file='(.*?)';</expres>
+<expres>file: "(.*?)",</expres>
 <page>http://look-tvs.com/atvon/record.html</page>
 <referer>http://look-tvs.com</referer>
 </regex>
@@ -501,8 +537,20 @@
 </item>
 
 <item>
+<title>[COLOR gray][B]SBT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]314.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]SBT[[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SBT.png</fanart>
+<thumbnail>http://goo.gl/nVXYOf</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray][B]SBT[/B][/COLOR] [COLOR yellow] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]SBT[[/B][/COLOR] [COLOR yellow] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]47.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]SBT[[/B][/COLOR] [COLOR yellow] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_Serve</name>
 <expres>(.*?)IGOR_RANGEL</expres>
@@ -556,7 +604,7 @@
 </regex>
 <regex>
 <name>Igor_Rangel_Site</name>
-<expres>file='(.*?)';</expres>
+<expres>file: "(.*?)",</expres>
 <page>http://look-tvs.com/atvon/sbt.html</page>
 <referer>http://look-tvs.com</referer>
 </regex>
@@ -647,7 +695,7 @@
 </regex>
 <regex>
 <name>Igor_Rangel_ID</name>
-<expres>file='(.*?)';</expres>
+<expres>file: "(.*?)",</expres>
 <page>http://tv-aovivo.nl/bandsp.html?IGOR_RANGEL</page></regex>
 <fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
 <thumbnail>http://goo.gl/SZ94lw</thumbnail>
@@ -684,7 +732,7 @@
 </regex>
 <regex>
 <name>Igor_Rangel_Site</name>
-<expres>file='(.*?)';</expres>
+<expres>file: "(.*?)",</expres>
 <page>http://look-tvs.com/atvon/band.html</page>
 <referer>http://look-tvs.com</referer>
 </regex>
@@ -694,7 +742,7 @@
 
 <item>
 <title>[COLOR gray][B]BAND[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]BAND[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]296.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]BAND[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_Serve</name>
 <expres>(.*?)IGOR_RANGEL</expres>
@@ -705,7 +753,7 @@
 
 <item>
 <title>[COLOR gray][B]BAND[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]BAND[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]88.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR gray][B]BAND[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_Serve</name>
 <expres>(.*?)IGOR_RANGEL</expres>
@@ -758,7 +806,7 @@
 </regex>
 <regex>
 <name>Igor_Rangel_Site</name>
-<expres>file='(.*?)';</expres>
+<expres>file: "(.*?)",</expres>
 <page>http://look-tvs.com/atvon/redetv.html</page>
 <referer>http://look-tvs.com</referer>
 </regex>
