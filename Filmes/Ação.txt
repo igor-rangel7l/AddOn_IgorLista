@@ -4,6 +4,55 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+<item>
+<title>Transformers: O Último Cavaleiro (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/transformers-o-ultimo-cavaleiro/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ1NzEzNzcyM15BMl5BanBnXkFtZTgwMzgyOTk2MjI@._V1_SX1777_CR0,0,1777,913_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/20161221_211822.png</thumbnail>
+</item>
+
+<item>
+<title>Colossal (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/colossal/</page></regex>
+<genre>Ação e Ficção Cientifica</genre>
+<info>Glória (Anne Hathaway) é uma mulher comum que depois de perder o emprego e terminar o seu relacionamento é forçada a deixar sua vida em Nova Iorque e voltar para sua cidade natal. Quando surgem relatos noticiosos de que uma criatura gigante está destruindo Seul, na Coréia, Glória gradualmente percebe que possui uma ligação com esse fenômeno. Na medida em que os acontecimentos na Coréia saem do controle, Glória percebe a razão pela qual sua existência aparentemente insignificante tem um efeito colossal e impactará o destino do mundo.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZTBkNzc0YjUtNGViYy00MjRkLWJiNTQtMTVjY2NhZWM5MTg4XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/colossal_ver2_xxlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>Em Ritmo De Fuga (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/em-ritmo-de-fuga/</page></regex>
+<genre>Ação e Policial</genre>
+<info>O jovem Baby (Ansel Elgort) tem uma mania curiosa: ele precisa ouvir músicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na infância. Mesmo assim, o rapaz revela-se um motorista excelente, e começa a trabalhar para uma gangue de criminosos. Quando um assalto a banco não sai como planejado, ele cai na estrada em fuga.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MjE4Njc1OV5BMl5BanBnXkFtZTgwNjkzNzI2MjI@._V1_SY1000_CR0,0,1635,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/baby_driver_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Múmia (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/a-mumia/</page></regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
+<fanart>http://www.sitetarjanerd.com.br/wp-content/uploads/2017/06/mumia6.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/FB_IMG_1492572776568.jpg</thumbnail>
+</item>
+
+<item>
+<title>Piratas do Caribe – A Vingança de Salazar (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/piratas-do-caribe-a-vinganca-de-salazar/</page></regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
+<fanart>https://i.ytimg.com/vi/_jBjT5qN6Qs/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/C56Z-8xU0AABexE.jpg</thumbnail>
+</item>
 
 <item>
 <title>Z: A Cidade Perdida (Dublado) - 2017</title>

@@ -5,6 +5,35 @@
 
 
 
+<item>
+<title>Transformers: O Último Cavaleiro (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/transformers-o-ultimo-cavaleiro/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ1NzEzNzcyM15BMl5BanBnXkFtZTgwMzgyOTk2MjI@._V1_SX1777_CR0,0,1777,913_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/20161221_211822.png</thumbnail>
+</item>
+
+<item>
+<title>A Múmia (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/a-mumia/</page></regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
+<fanart>http://www.sitetarjanerd.com.br/wp-content/uploads/2017/06/mumia6.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/FB_IMG_1492572776568.jpg</thumbnail>
+</item>
+
+<item>
+<title>Piratas do Caribe – A Vingança de Salazar (Legendado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/piratas-do-caribe-a-vinganca-de-salazar/</page></regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
+<fanart>https://i.ytimg.com/vi/_jBjT5qN6Qs/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/C56Z-8xU0AABexE.jpg</thumbnail>
+</item>
 
 <item>
 <title>Z: A Cidade Perdida (Dublado) - 2017</title>

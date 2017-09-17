@@ -6,6 +6,25 @@
 
 
 
+<item>
+<title>Transformers: O Último Cavaleiro (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/transformers-o-ultimo-cavaleiro/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ1NzEzNzcyM15BMl5BanBnXkFtZTgwMzgyOTk2MjI@._V1_SX1777_CR0,0,1777,913_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/20161221_211822.png</thumbnail>
+</item>
+
+<item>
+<title>Colossal (Dublado) - 2017</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/colossal/</page></regex>
+<genre>Ação e Ficção Cientifica</genre>
+<info>Glória (Anne Hathaway) é uma mulher comum que depois de perder o emprego e terminar o seu relacionamento é forçada a deixar sua vida em Nova Iorque e voltar para sua cidade natal. Quando surgem relatos noticiosos de que uma criatura gigante está destruindo Seul, na Coréia, Glória gradualmente percebe que possui uma ligação com esse fenômeno. Na medida em que os acontecimentos na Coréia saem do controle, Glória percebe a razão pela qual sua existência aparentemente insignificante tem um efeito colossal e impactará o destino do mundo.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZTBkNzc0YjUtNGViYy00MjRkLWJiNTQtMTVjY2NhZWM5MTg4XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/colossal_ver2_xxlg.jpg</thumbnail>
+</item>
 
 <item>
 <title>O Círculo (Legendado) - 2017</title>
