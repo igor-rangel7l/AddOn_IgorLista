@@ -24,7 +24,7 @@ http://netcine.us/o-poderoso-chefinho/
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSMRTS01.mp4
 
 <item>
-<title>JJogos Mortais: O Final (Dublado) - 2010</title>
+<title>Jogos Mortais: O Final (Dublado) - 2010</title>
 <link>$doregex[Igor_Rangel_Link]JGSMRTAS07.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -167,8 +167,8 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 243
 <item>
 <title>Piratas do Caribe – A Vingança de Salazar (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/piratas-do-caribe-a-vinganca-de-salazar/</page></regex>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/piratas-do-caribe-vinganca-de-salazar-dublado/</page></regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
 <fanart>https://i.ytimg.com/vi/_jBjT5qN6Qs/maxresdefault.jpg</fanart>
