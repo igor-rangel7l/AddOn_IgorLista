@@ -1,0 +1,385 @@
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+<item>
+<title>[COLOR white]O Espaço Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-espaco-entre-nos/</page></regex>
+<genre>Aventura,Drama e Romance</genre>
+<info>O adolescente Gardner Elliot, é o primeiro humano nascido em solo marciano. Mas ele deseja fazer uma viagem à Terra para conhecer a verdade sobre seu pai biológico, e sobre seu nascimento</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MjY1NjUxNl5BMl5BanBnXkFtZTgwMzUwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/260x365_1489616713.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Descoberta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Após comprovar cientificamente a existência de vida depois da morte, um cientista vê sua descoberta liberar um verdadeiro caos em meio a população, causando uma onda de suicídios. Em meio a este turbilhão, o filho do cientista se apaixona por uma mulher que tem um passado marcado por eventos trágicos.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6tpw1kMYNvKGNzc1EDx4yy75tp6qgmeiPbjNR4kIualPcvsypCpsAb3EkpQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BMTUzNjE5ODYwN15BMl5BanBnXkFtZTgwMTY4MjQ1MTI._V1__22mrhYM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Bem Casados (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Nacional e Comédia</genre>
+<info>Heitor (Alexandre Borges) é um homem solteiro que trabalha fazendo filmagens de festas de casamento. Durante os preparativos para cobrir mais um casamento, ele conhece Penélope (Camila Morgado), uma mulher bonita e independente que quer acabar com a festa antes mesmo de começar. O objetivo de Heitor é garantir que dê tudo certo com o casamento. Já para Penélope, a cerimônia é uma oportunidade perfeita para executar seu plano.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsxSlRFZ6CFdf4dntfLryWfy-Hkr5TTkCgBXUHqAw4jLndxYn9zVsTfRJDlw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/11/bem-casados_tNone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Capitão Fantástico (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama,Romance e Comédia</genre>
+<info>Ben é o pai de seis crianças, que decide fugir da civilização e criar os filhos nas florestas selvagens do Pacífico Norte. Ele passa os seus dias dando lições às crianças, ensinando-os a praticar esportes e a combater inimigos. Um dia, no entanto, Ben é forçado a deixar o local e retornar à vida na cidade. Começa o aprendizado do pai, que deve se acostumar à vida moderna.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZL4SUtGXSy4AQBWxFzkkhxKBuzayfp3XfN195OIEgBnROu-ZT6Gecy7n_Nw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/captain_fantastic_ver3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Deidra e Laney Assaltam um Trem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Policial e Drama</genre>
+<info>Depois que sua mãe acaba na prisão, duas irmãs se voltam a roubar trens para sustentar sua família.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRefTNNbf9uFy15K3fsh6MnrJsmmojzIjaBcnnLXCRhcsqqN182AIIi3iC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/DeidraandLaney.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Ela Dança, Eu Danço 5: Tudo ou Nada (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Essa nova parte da franquia de Ela Dança, Eu Danço une as estrelas dos filmes anteriores. O filme se passa na brilhante Las Vegas, onde o pessoal terá que lutar por uma vitória que poderá definir seus sonhos e suas carreiras</info>
+<fanart>https://2.bp.blogspot.com/-xrZUOT2Tj7o/VQ7ya5BHjnI/AAAAAAAADoU/DPbqmuS_zv4/w1200-h630-p-k-no-nu/580005.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/06/ela-danca-eu-danco-5_t76917_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Ela Dança, Eu Danço 3 (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Na história, um grupo de dançarinos de rua se unem a um calouro da Universidade de Nova York para uma competição contra os melhores dançarinos no mundo, o que promete mudar as suas vidas para sempre.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5gTu9dpSuOX6Uge6lQLLFSSf_uDlUFA2G2khew9ShE1UajFqAF1TFHR4z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/09/c62e9d3699c3d880b448d6f9efb7b04c.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Ela Dança, Eu Danço 2 (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Numa tradicional escola de dança em Maryland, dois alunos dançarinos - e de formação bem diferente um do outro - se vêem às voltas com um romance apaixonado. Sequência de "Ela Dança, Eu Danço".</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYyeghUkVT25Z0uu8NL9hPOs-lQRoM5LYYC1gQ0yTeCpY0gIctnc9NweU</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/d00ce739781e4ba6a1be19d1f622c5c5.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Ela Dança, Eu Danço (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Após depredar um colégio, Tyler Gage (Channing Tatum) é enviado para fazer serviços comunitários em uma escola de artes. Lá ele conhece Nora Clark (Jenna Dewan), uma bela aluna de dança moderna que precisa urgentemente de um novo parceiro. Tyler está acostumado com as danças de rua, mas reluta à idéia de ser o novo parceiro de Nora. Aos poucos ele aceita a idéia e passa a se envolver com Nora.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYyeghUkVT25Z0uu8NL9hPOs-lQRoM5LYYC1gQ0yTeCpY0gIctnc9NweU</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/07/ela-danca-eu-danco_t4896.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Jonas (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JNS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama,Nacional e Romance</genre>
+<info>Jonas tem 20 anos, uma vida vazia e uma paixão de infância por Branca, filha da patroa de sua mãe. Na véspera do carnaval um acidente faz com que ele a seqüestre e a esconda no interior da Baleia, carro alegórico da escola de samba do bairro. Na semana entre os desfiles os dois vivem uma história de amor impossível, dentro da Baleia. Do lado de fora o drama de Jonas se intensifica à medida que a semana corre e ele tem que lidar com as consequências do sequestro.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeNs5JXTkwTYmagBKzlSJfwfS8CaDEjOQ384Yk9d5LYKRyf65tCIPJg7Xo</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/09/jonas-e-a-baleia_t93423.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]José do Egito: O Filme - (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama,Nacional e Romance</genre>
+<info>Telefilme editado a partir da minissérie de Vivian de Oliveira.
+De escravo a governador da maior nação do planeta. A história de um homem de Deus, íntegro e indulgente, que após ser vendido como escravo pelos irmãos é levado para o Egito, onde é injustiçado, caluniado, preso e humilhado. Apesar disso, a vida de José é um exemplo de pureza, paciência, amor e perdão.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/NmRAr7FLoIQIma4Q2UwaoEWkqTDkpWGbqWkmxWRJM8TnSo2bHufpGyaM7QY32wDyCmUKDXsDhhrxX5CXqfdy4pI4cyl3Sjti=w443-h332-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/joseegito.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Não Me Abandone Jamais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama,Romance e Ficção Cientifica</genre>
+<info>Kathy (Carey Mulligan), Ruth (Keira Knightley) e Tommy (Garfield) são amigos íntimos que cresceram juntos num internato inglês que possui um segredo assustador. Quando eles descobrem a excruciante verdade – que eles são clones produzidos geneticamente para serem doadores de órgãos – eles se agarram ao breve tempo que lhes resta para viver e amar.</info>
+<fanart>https://3.bp.blogspot.com/_JD9ZIeYHyqs/TH2snqxRnJI/AAAAAAAAAGg/vsHgOGVF9HA/s500/Never+let+Me+Go+Movie.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/05/nao-me-abandone-jamais_t21854_5dlqqMd.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Qualquer Gato Vira-Lata 2 (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Nacional e Comédia</genre>
+<info>Tati (Cleo Pires) e Conrado (Malvino Salvador), que terminam juntos o primeiro filme, viajam a Cancún, onde ele participa de uma conferência para o lançamento de seu livro. Pronta para dar o próximo passo, ela aproveita a ocasião para pedi-lo em casamento, com transmissão via internet para todos os amigos no Brasil. Mas, ao responder, Conrado solta apenas um “Posso pensar?”. A moça, então, se decepciona e Marcelo (Dudu Azevedo), ex de Tati, volta a ter esperanças. Para complicar, Ângela (Rita Guedes), a ex de Conrado, também é convidada para o mesmo evento no México, onde está lançando um livro, cuja tese bate de frente com a dele.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFeTxR-E-DkPqw9FkNk7TKbmyPlW2VJST3-g1-wcdp5JAD0KLwwiSq7rh1ow</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/04/qualquer-gato-vira-lata-2_t106002.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Qualquer Gato Vira-Lata (Nacional) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Nacional e Comédia</genre>
+<info>“Qualquer Gato Vira-Lata” narra a história da jovem estudante de direito Tati (Cléo Pires), que é abandonada pelo namorado Marcelo (Dudu Azevedo). Disposta a recuperar o amor, a jovem oferece como cobaia para as pesquisas do professor Conrado (Malvino Salvador). O pesquisador tem uma tese polêmica sobre a harmonia entre as conquistas amorosas das pessoas e as leis da biologia, baseando- se nas atitudes dos animais, já que normalmente as fêmeas são recatadas e os machos são audaciosos.
+Curiosamente, a própria vida amorosa do professor nega sua tese, pois sua namorada Angela (Rita Guedes) manda na relação. A experiência entre o pesquisador e a cobaia se revela ainda mais desafiadora a partir do momento que o romance começa a surgir entre os dois. 
+Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira-lata Tem Uma Vida Sexual Mais Sadia que a Nossa', de Juca de Oliveira, que levou 1 milhão de pessoas ao teatro entre 1998 e 2002.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPis-bhIqv_Me2q-cbVjLcgs7x4yr9RF8-pVgNmF6UYr2duLrfaI-N8CYl</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/06/5ffd0e46078184fba9dddd1ef2ff4ed9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Reza a Lenda (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RZALND.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Nacional e Ação</genre>
+<info>Em uma terra sem lei, a sorte favorece apenas os mais fortes e corajosos. Ara (Cauã Reymond), um homem de ação e poucas palavras, é o líder de um bando de motoqueiros armados que acredita em uma antiga lenda capaz de devolver justiça e liberdade ao povo da região. Quando realizam um ousado roubo, acabam despertando a fúria do poderoso Tenório (Humberto Martins). Agora, Tenório vai concentrar todas as suas forças em uma perseguição para destruir o bando de Ara e recuperar aquilo que acredita ser seu por direito. Durante a perseguição, a jovem Laura (Luisa Arraes) é resgatada de um acidente e tem que seguir o bando contra a sua vontade, despertando ciúmes em Severina (Sophie Charlotte), companheira de Ara.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUSAz7Vp2pk32Qfq4CTyzIiQXyWb5kAUckCbHNV1d5g1mdEiPmJp-yn1lxmQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/12/reza-a-lenda_t78778_BfZ1RI3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Lisbela e o Prisioneiro (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Nacional e Comédia</genre>
+<info>Lisbela (Débora Falabella) é uma moça que adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu (Selton Mello) é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade de Lisbela. Após se conhecerem eles logo se apaixonam, mas há um problema: Lisbela está noiva. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador (Marco Nanini) que está atrás de Leléu, devido a ele ter se envolvido com sua esposa (Virginia Cavendish).</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvaBl0vtzWppaTO_1_Sv4T4CqV7pitzrddAh3y5NsarClHGSn1b3xE44Bu5w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/03/acc8c9fc1091eeb6d4d9532cc95da6f6.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Cinquenta Tons Mais Escuros (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Quando um Christian Grey (Jamie Dornan) ferido tenta seduzir uma Ana Steele (Dakota Johnson) cautelosa de volta a sua vida, ela demanda um novo arranjo antes de dar uma nova chance a ele. Conforme os dois começam a construir confiança e encontrar estabilidade, figuras sombrias do passado de Christian começam a assombrar o casal, determinadas a destruir suas esperanças de um futuro juntos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzdX3NTnM915k_TO8s0OSNhxL5QkfHhK-vddNM-7Ycjt7WGZQ0enkgno4p</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/CzQkQT1XAAAJHRk.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance,Comédia e Drama</genre>
+<info>Conta a história do encontro de um homem e uma mulher numa cafeteria em um momento em que suas vidas estão à deriva, e o fez lembrar da importância de se atrever a sonhar.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/0Zq1DyPQf2nonPGm3qSpB8xIgMDDOkb8LEcBA2vFX-DXBRf4whtQW-aTuF9OaX6iCLbCvdK7UGYsnsGazAc9xw3UMs5A3_Jc=w443-h332-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/nuestro-amantes_t124967.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Do Que as Mulheres Gostam (Dublado) - 2001[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Após sobreviver a um grave acidente, Nick Marshall (Mel Gibson), um executivo machista que trabalha em Chicago, misteriosamente passa a ter o dom de ler os pensamentos das mulheres. Inicialmente ele usa este novo poder para agradar sua chefe, Darcy Maguire (Helen Hunt), mas aos poucos começa a conhecer melhor a intimidade das mulheres e começa a mudar seu estilo de vida.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmtwDmENAN1nnUzyQlAYJTAINVPTkfbruLMEdX409BeWM9aA1ToY-Y1AeYmA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/12/2fcb5c7958837237975ae260321689a0.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Passageiros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Romance</genre>
+<info>Durante uma viagem de rotina no espaço, dois passageiros são despertados 90 anos antes do tempo programado, por causa de um mal funcionamento de suas cabines. Sozinhos, Jim (Chris Pratt) e Aurora (Jennifer Lawrence) começam a estreitar o seu relacionamento. Entretanto, a paz é ameaçada quando eles descobrem que a nave está correndo um sério risco e que eles são os únicos capazes de salvar os mais de cinco mil colegas em sono profundo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsIAvPZJLuVtXg6r0SLGVVRRlCIR4v8Mkn4-R5SIAuRcgzwSTB-gkkVHM0</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSahQpngfscdvqRBshgF3gg4PV8R9ql-VKqXW5_0CGVGbA6oAm4</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Hora de Voltar (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevitável confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coração para a vida e para a verdadeira cura interior.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA6iJsoE2BxhWv1CmyVodJSDmWaieFVZg9MPL0U_HTQetvwsL</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/03/60e06e5290675646d60659aca9390fa1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Como Eu Era Antes de Você (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Rico e bem sucedido, Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto, ao atravessar a rua em um dia chuvoso. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas. A situação o torna depressivo e extremamente cínico, para a preocupação de seus pais (Janet McTeer e Charles Dance). É neste contexto que Louisa Clark (Emilia Clarke) é contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspirações na vida, ela faz o possível para melhorar o estado de espírito de Will e, aos poucos, acaba se envolvendo com ele.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-OaUJmugiKi37FktCzs4sJw37A4EII1yDmG2-KaBfEJD_Ckj70Dsa0tGN</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/como-eu-era-antes-de-voce_t87730_6WE5Ak5.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Amor & Amizade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Século XVIII. A bela viúva Lady Susan Vernon (Kate Beckinsale) foge das fofocas sobre seus casos amorosos buscando refúgio na fazenda dos antigos sogros. Lá reflete sobre a vida e decide arranjar um novo marido para si e um bom pretendente para a filha, Frederica (Morfydd Clark).</info>
+<fanart>https://lh3.googleusercontent.com/proxy/PDzmF3Ost00bON8iUO7rwas3wTS3CTctkrcFkuACkH2Xk_G_JECpCt9VDa5NxFAMTCCwecD5=w511-h288-nc</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqH9feFVhMxm4_-zdpscG022XueE2UOAXB_3D4r_GmWQ_l_XRCq-CQQuBdMw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Ritmo Total (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc9DdKscKaay-4XsM9R08lMitHCJkW3DAIPnSWapqxNQPdEPjByA</fanart>
+<thumbnail>https://img.fstatic.com/YY3rVSBk3WxsoBKhE2Px3-p9iBs=/fit-in/210x312/smart/https://cdn.fstatic.com/media/movies/covers/2009/03/63df1e6e7e3b1e69d389400ce863020f.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Porque é Novembro (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia e Romance</genre>
+<info>Steve sempre termina o romance com suas namoradas em novembro para impedir que a relação fique mais séria, mas desta vez ele pode se arrepender de sua decisão.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSktZ0VDWWYDyrRX2hJ2ew7LUqtnl8YJjPpCHFTa7xBrlN6loMX6g</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQurayL3CO3R7PeSIq3iv1k3W_ow72MOAwZlJmtJKlAxtVIffzH</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Namorada de Aluguel (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Comédia,Drama e Romance</genre>
+<info>Ronald Miller (Patrick Dempsey) é um jovem tímido e trabalhador, que sempre sonhou em ser popular no colégio. Quando ele descobre que Cindy Mancini (Amanda Peterson), uma garota linda que todos os garotos paqueram, está precisando de 1000 dólares ele surge com uma insólita proposta: empresta o dinheiro a ela e em troca ela deverá fingir ser sua namorada. Ela topa e, com sua ajuda, ele acaba se tornando um dos garotos mais populares do colégio.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFcu7NXFT1PIzPkRWqr8SHdC3ochsJvq24U5WNRcP6Gz3XIjeceQ</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DcVFJCkRuCdWzOYY7HJaU_rX2sXlJB_EXDV1TZ-i_kgry2v51w</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Mercy (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MERCY.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>A história gira ao redor de Lucy (Page), filha de um homem que está no corredor da morte. Mas ela acaba se envolvendo com Mercy (Mara), descrita como "uma mulher do lado oposto da causa política de sua família".</info>
+<fanart>https://lh3.googleusercontent.com/proxy/N49qheSN9yZegmCk6VP48Gbfi349XMjAzXloiwfX103UQz5BZV7j5UPiIEPY3nUi2lf7LphcGbuTnR-A5sdgvfi_OYqnSulaW1jvJliSJJ5xAfIVnS43=w511-h288-nc</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbuSoGZfWU6L919SU3GLulJzZscjGTwzPQEA3SspWAyY5luXr8Nw</thumbnail>
+</item>

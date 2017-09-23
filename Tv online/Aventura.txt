@@ -1,0 +1,670 @@
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+<item>
+<title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/transformers-o-ultimo-cavaleiro/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ1NzEzNzcyM15BMl5BanBnXkFtZTgwMzgyOTk2MjI@._V1_SX1777_CR0,0,1777,913_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/20161221_211822.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Múmia (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/a-mumia/</page></regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
+<fanart>http://www.sitetarjanerd.com.br/wp-content/uploads/2017/06/mumia6.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/FB_IMG_1492572776568.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/piratas-do-caribe-vinganca-de-salazar-dublado/</page></regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
+<fanart>https://i.ytimg.com/vi/_jBjT5qN6Qs/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/C56Z-8xU0AABexE.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Z: A Cidade Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/z-a-cidade-perdida/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>A verdadeira e incrível história do explorador inglês Percy Fawcett (Charlie Hunnam) ?que depois de se aventurar pelo mundo vai atrás de uma cidade perdida feita de ouro no coração da Amazônia, apoiado pela ?esposa (Sienna Miller), filho (Tom Holland) e seu ajudante (Robert Pattinson).</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZWQxNzQ3ZDgtMWU1ZS00ODYwLTgzNzUtZGM3NTRiN2ZjYzQ0L2ltYWdlXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/MV5BMjQzNTk3MTkyNF5BMl5BanBnXkFtZTgwMDA2MDQzMTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Guardiões da Galáxia Vol. 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/guardioes-da-galaxia-vol-2/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.</info>
+<fanart>http://bodenasala.com/wp-content/uploads/2017/04/GuardianesDeLaGalaxiaVol.2WallpaperHD_5.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170305_231021.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Rei Arthur – A Lenda da Espada (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/rei-arthur-a-lenda-da-espada/</page></regex>
+<genre>Ação,Drama e Aventura</genre>
+<info>Arthur (Charlie Hunnam) é um jovem das ruas que controla os becos de Londonium e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua família.</info>
+<fanart>https://jovemnerd.com.br/wp-content/uploads/2017/04/Rei-arthur-lenda-da-espada-trailer-396x222.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170403_150228.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Mulher-Maravilha (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/mulher-maravilha-2/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>Antes de ser Mulher-Maravilha, ela era Diana, princesa das Amazonas, treinada para ser uma guerreira imbatível. Criada numa ilha paraíso protegida e escondida, tudo muda quando um piloto americano chega em seu território e avisa sobre um grande conflito tomando forma no mundo. Diana deixa seu lar convencida de que pode impedir a ameaça crescente. Lutando ao lado dos homens em uma guerra para dar fim a todas as outras, Diana descobre seus poderes… e seu destino.</info>
+<fanart>http://www.diverdica.com.br/wp-content/uploads/2017/05/Mulher-Maravilha.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/C-7ZrBjXYAAjkF9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Okja (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/okja/</page></regex>
+<genre>Ação,Drama e Aventura</genre>
+<info>A trama acompanhará Mija, uma jovem garota que deve arriscar tudo para evitar que uma poderosa empresa multinacional de sequestrar sua melhor amiga: um animal enorme chamado de Okja.</info>
+<fanart>https://art-s.nflximg.net/a96c9/befd87a4adb1c86fe4639fb3878aded057da96c9.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/WhatsApp_Image_2017-05-12_at_22.03.06.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/kong-a-ilha-da-caveira/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>‘Kong: A Ilha da Caveira‘ recria a origem do mítico Kong numa aventura original emocionante dirigida por Jordan Vogt-Roberts. No filme, um eclético time de exploradores se aventura nas profundezas de uma desconhecida ilha do Pacífico, a Ilha da Caveira – tão bela quanto traiçoeira – sem saber que estão invadindo os domínios dos reis dos símios, o mítico Kong.</info>
+<fanart>http://jerimumgeek.oportaln10.com.br/wp-content/uploads/2017/03/Kong-Skull-Island-2017-Movie.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/15110374_1633930196900340_1411847212440370925_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Espaço Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-espaco-entre-nos/</page></regex>
+<genre>Aventura,Drama e Romance</genre>
+<info>O adolescente Gardner Elliot, é o primeiro humano nascido em solo marciano. Mas ele deseja fazer uma viagem à Terra para conhecer a verdade sobre seu pai biológico, e sobre seu nascimento</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MjY1NjUxNl5BMl5BanBnXkFtZTgwMzUwODAwOTE@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/260x365_1489616713.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/power-rangers/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzYzMTE3NDQyN15BMl5BanBnXkFtZTgwMDA5MTkxMTI@._V1_SX1777_CR0,0,1777,934_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/IMG_20170202_184632.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Interestelar (Dublado) - 2014[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/interestelar/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5ZmViODgtODcwMC00YWViLWJkOTgtZjgyMjljZDE0NmM5L2ltYWdlXkEyXkFqcGdeQXVyNzE4NDc2Mjc@._V1_SY1000_SX1600_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/09/interestelar_t27814_14.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]DC Vixen – O Filme (Legendado) - 2016[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/dc-vixen-o-filme/</page></regex>
+<genre>Aventura e Animação</genre>
+<info>Vixen é baseada na personagem da DC Mari McCabe / Vixen, uma super-heroína que combate o crime, com a habilidade de conseguir reproduzir qualquer poder de qualquer animal que já habitou a Terra. Se passa no mesmo universo fictício de Arrow, Flash, e Legends of Tomorrow.</info>
+<fanart>https://www.tvinsider.com/wp-content/uploads/2016/09/Vixen_S02E01_pub1_092816-1014x570.jpg</fanart>
+<thumbnail>http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/PEEFIL.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama,Aventura e Ficção Cientifica</genre>
+<info>Durante uma missão a Marte, o astronauta Mark Watney (Matt Damon) é dado como morto após uma feroz tempestade e é deixado para trás por sua tripulação. Mas Watney sobrevive e encontra-se sem recursos e sozinho no planeta hostil. Apenas com suprimentos escassos, Watney deve contar com a sua criatividade, engenho e espírito para subsistir e encontrar uma maneira de sinalizar à Terra que está vivo. A milhões de quilômetros de distância, a NASA e uma equipe de cientistas internacionais trabalham incansavelmente para trazer "o marciano" de volta enquanto seus colegas de tripulação simultaneamente traçam uma ousada, se não impossível, missão de resgate. Conforme essas histórias de incrível bravura se desdobram, o mundo se une para torcer pelo retorno seguro de Watney.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpM9Kii3i4YzOgSXrmv5DvBDMJWzLz1_NKFQzZZqV8ZbvoSIq3j7GI9bPFSA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/perdido-em-marte_t99530.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Ação e Aventura</genre>
+<info>Tara Markov, a Terra que contém os poderes de controlar a terra e o solo e se uniu aos Jovens Titãs durante os eventos de Liga da Justiça vs. Jovens Titãs, se tornando uma possível ameaça e deixando a questão: Será a nova heroína aliada ou inimiga? E quais são os planos do Exterminador para a jovem equipe de heróis?</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK5w519Prl8WP2aklamhHsUrEl4fHwnJjZoMyXkJw7E-oxk6up_UeOC5ttLQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BNGZlODc0YjgtNWZjNS00NGNjLTgwOTUtMTllZTEyYjE0YTMwXkEyXkFqcGdeQX_7bp</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O jovem Max McGrath (Ben Winchell) descobre que seu corpo pode gerar uma poderosa energia, e ele deve unir-se com o único ser capaz de conter esta energia: um misterioso extraterrestre tecno-orgânico chamado Steel. Unidos como o super-herói Max Steel, os dois amigos devem combater uma ameaça alienígena e desvendar os segredos do seu passado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm3cij8BBVI8S_v9wTSqKQN_ORwoa9tgPe5fUMjl8JZaDCwBPF6P8iUJTQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/max_steel_ver2_xxlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]The Warrior's Gate (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]WRISGT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Um adolescente é magicamente transportado para a China e aprende a converter suas habilidades de vídeo game em um guerreiro de Kung Fu.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/3MEKU7E2Bc0ZH54vmGRPYbRokogiWaco0j9zYq7WlFV_WcnaeZHJ0ZUdgmgzwdJRTpLWRBXV_JTRncverOOONKzL9-1CSazNlc09X3o7ERRAdsKGkO6Oub5Ajf7_X2Z9tGeo6lrKW5rA=w535-h275-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/a_9jAzVSc.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHiVl-h9wjgGDQdVkWlk0rjZM_CoxFC3xpAZF7ahshdOovwkRzSCJgSM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/rogueone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura,Nacional e Comédia</genre>
+<info>As aventuras de João Grilo (Matheus Nachtergaele), um sertanejo pobre e mentiroso, e Chicó (Selton Mello), o mais covarde dos homens. Ambos lutam pelo pão de cada dia e atravessam por vários episódios enganando a todos da pequena cidade em que vivem.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWcANA-roy5CnCipp6v_wd37QuXaeTzBtLBo7iLI-hc0w-XRC8CRPCiuzaOA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/04/0b33712fa48c7178cde24ad73ffe536f.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ABLRN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Animação</genre>
+<info>Paris, 1869. Uma sonhadora menina órfã toma uma atitude arriscada para conseguir o que quer: foge para Paris para realizar o sonho de ser uma grande bailarina. Lá ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnMlUep3GBGHyuyd2tztmcjc2yw7o5pyl9V5lK6hwvNt1bO7aoa3S3rdcQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/06/ballerina_t113785.JPG</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Best Player: Guerreiros Virtuais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Comédia</genre>
+<info>Best Player é um filme para televisão original da Nickelodeon que foi lançado em 12 de março de 2011 nos Estados Unidos. É protagonizado pelos astros da famosa série iCarly, Jennette McCurdy como Chris "Prodigy" Saunders e Jerry Trainor como Quincy. Os dois são viciados em video games online, e juntos descobrem que o mundo real pode ser tão emocionante quanto o virtual.
+Quincy, de 30 anos, é conhecido por Q nos games, e se dedica para se tornar o melhor jogador da rede. Seu mundo vira de cabeça para baixo quando seus pais decidem se mudar para a Flórida, sem ele. Com isso, a única chance de manter sua vida “perfeita” é jogar um novo game, Black Hole, que oferece um prêmio em dinheiro para seu ganhador, com o qual ele pode comprar a casa de seus pais.
+Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… até que encontra "Prodigy", um jogador que ameaça aniquilá-lo. Com a ajuda de seu amigo Wendell, eles descobrem que seu rival é na verdade uma menina chamada Chris. A fim de conhecer melhor seu inimigo, ele começa a namorar a mãe dela, Tracy, porém, o relacionamento acaba tomando um rumo imprevisível.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/Og5SHCv7mk6ekmL7hkBqqWmEeh3xW9lYp5aL0gqjmD0ZoTla3b3qMLr6vyhEliE4fmh6p2GxslgAJ_FHsM89F3ILqOpnx3FhuASXXwIerki-R7iK85i66voVGKfNJ9fxFhp6dQ=w341-h192-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/08/3e7cc593b7db7a87f0dc36a754b68de3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Halloweentown: A Cidade do Halloween (Dublado) - 1998[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Comédia</genre>
+<info>Aos 13 anos, Marnie descobre que vem de uma longa linhagem de bruxas e deve praticar para não perder seus poderes. Ao visitar a avó, que vive afastada em sua casa de Halloweentown, um misterioso lugar onde feiticeiras, duendes e outros habitantes fantásticos, Marnie descobre que uma força maligna planeja se apoderar do lugar. Ela tem que lutar para salvar o futuro da magia.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuf3rFEP_S1QeaFX4Mc5rFZig4msiX2vpSVb0NRWzbWYYrBajtTmzd6zxD</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2010/01/1eddb63bd53f966f0f6f53823e4fb985.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Lenda do Rei Macaco (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Esse filme é baseado nos capítulos do famoso clássico romantico de Wu Cheng'en's "Jornada ao Oeste", e conta a história de como o Macaco Rei se rebela contra o Imperador Jade do Céu.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkynN1xye8tyCjLXMh6xI_R6YmcK3Bpx1FI0LL8SFnv3uJMtXn7SrtwtX8</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/05/the-monkey-king_t53544_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Continuação do filme The Monkey King (Tumulto no Reino Celestial, 2012). O filme narra a origem e o lugar de nascimento da Monkey King.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkynN1xye8tyCjLXMh6xI_R6YmcK3Bpx1FI0LL8SFnv3uJMtXn7SrtwtX8</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/05/the-monkey-king-the-legend-begins_tNone.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>É uma selva lá fora para Blu, Jade e seus três filhos depois que eles deixam a cidade maravilhosa para se aventurar em uma viagem pelo Brasil até chegar na Amazônia, para uma reunião de família. Fora de casa, em um lugar desconhecido, Blu terá que enfrentar seu maior medo - seu sogro - enquanto procura escapar do plano de vingança de Nigel.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw75qSIRZCB-upK_Bn-KyOxFC2W9URRc7IFvmUNFqWn-wsNp-ICY6ua2sM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/10/rio-2_t51555_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Blu é uma arara-azul que sempre viveu em cativeiro, nunca aprendeu a voar e não sabe viver fora de casa. Um dia, o pássaro que é nativo do Brasil, mas nunca morou aqui, vai para o Rio e descobre um mundo diferente, fora da gaiola.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1y6NJgZqxQohSDuqAgaSt3N5PSNL2QACoxVAMu9DLA2jXBoKEm9Uc9jhPQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2011/07/6f7562305a97f7b3071bf5e26a167b63.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHiVl-h9wjgGDQdVkWlk0rjZM_CoxFC3xpAZF7ahshdOovwkRzSCJgSM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/rogueone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores, que é seu maior hobbie e, também, trabalho. Querendo descobrir mais sobre seu passado e ajudar sua família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Com a ajuda do lendário semideus Maiu, Moana começa sua jornada pelo mar aberto, onde vai enfrentar criaturas marinhas e descobrir antigas histórias do submundo.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHUAZAjCOt50TnVgybMt7-pptm1soJ85pLEgHMrCwlhRF3xgROubuVm_yrBw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/14324454_1253345981353667_9146061834252970531_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Assassin's Creed (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Por meio de uma tecnologia revolucionária que destrava suas memórias genéticas, Callum Lynch (Michael Fassbender) experimenta as aventuras de seu ancestral, Aguilar, na Espanha do século XV. Callum descobre que é descendente de uma misteriosa sociedade secreta, os Assassinos, e acumula conhecimentos e habilidades incríveis para enfrentar a organização opressiva e poderosa dos Templários nos dias de hoje.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ9HgkLbEeM_aONcextQhoEO6_rbGmQYXPY5tY970gqUnGJS3DvhL26mBD</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/assassin-s-creed_t61044_Zfqdrxq.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]As Aventuras de Pi (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Drama</genre>
+<info>Pi Patel, é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi, consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhB3ioikF9sPlRrX7xtnhHajuVtqcmHpZs7Ekrc_aD5a1xtCqMMOOz7Fwg0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/11/b3cc18f97fe620cef165fa0b69d9c0de.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Animais Fantásticos e Onde Habitam (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>O excêntrico magizoologista Newt Scamander (Eddie Redmayne) chega à cidade de Nova Iorque com sua maleta, um objeto mágico onde ele carrega uma coleção de fantásticos animais do mundo da magia que coletou durante as suas viagens. Em meio a comunidade bruxa norte-americana que teme muito mais a exposição aos trouxas do que os ingleses, Newt precisará usar suas habilidades e conhecimentos para capturar uma variedade de criaturas que acabam saindo da sua maleta.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudjotaMhbTOytS-LYoZu7rUqENJ6Xo4oDBKYkOjD9Xpf4zcGEc9qMHaRU</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14468241_328361007515441_1382707453064605522_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Malévola (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MLVLA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>Baseado no conto da Bela Adormecida, o filme conta a história de Malévola (Angelina Jolie), a protetora do reino dos Moors. Desde pequena, esta garota com chifres e asas mantém a paz entre dois reinos diferentes, até se apaixonar pelo garoto Stefan (Sharlto Copley). Os dois iniciam um romance, mas Stefan tem a ambição de se tornar líder do reino vizinho, e abandona Malévola para conquistar seus planos. A garota torna-se uma mulher vingativa e amarga, que decide amaldiçoar a filha recém-nascida de Stefan, Aurora (Elle Fanning). Aos poucos, no entanto, Malévola começa a desenvolver sentimentos de amizade em relação à jovem e pura Aurora.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqWUb1IfpeORZvWsgEC4vpXvoL7oWWQYTsCSDqnDn2_ik5Koc3nTcGuWO_Zw</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24g5qF-LsibmmyK2WtzLVo9ProAXNwjtZI8jxia5kM06GaIslzl-Xq2F_3A</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Doutor Estranho (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>Stephen Strange (Benedict Cumberbatch) leva uma vida bem sucedida como neurocirurgião. Sua vida muda completamente quando sofre um acidente de carro e fica com as mãos debilitadas. Devido a falhas da medicina tradicional, ele parte para um lugar inesperado em busca de cura e esperança, um misterioso enclave chamado Kamar-Taj, localizado em Katmandu. Lá descobre que o local não é apenas um centro medicinal, mas também a linha de frente contra forças malignas místicas que desejam destruir nossa realidade. Ele passa a treinar e adquire poderes mágicos, mas precisa decidir se vai voltar para sua vida comum ou defender o mundo.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/eMafwyelHRIErJ-F7z5Qqt1jiIya90jDxwigzFFhx80dtObJxNayzj7RSF-PoutAVHk36y3KVBkeiUdfmaXIIGb4oMntLtdpa8lnhx_6efO9T4XFIQDTsyVYrTrnpWz4MJQJmFxr7tcq-JcM2dIfMg=w500-h220-nc</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7uWKQrmv_Pf_XMSaCFQ8XxZFkMCBhthuudVO25pP3WBlPz12TT6hrvKPL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação e Aventura</genre>
+<info>Nesse lugar Centenas de milhares de anos após o colapso da civilização, o mundo é um deserto “pós-tech” e é habitado por tribos humanóides. A paz estabelecida entre eles é ameaçada pelo retorno de Wushen, um fantasma que muda a forma da tecnologia moderna, ameaçando escravizar a população mundial. Zhuma, uma menina de dez anos de idade é a heroína da história, acompanhada por Zhanggong, seu cachorro leão-como o mastín tibetano e seu avô. Escolhida e ajudada por uma deusa etérea, ela deve reunir aliados das tribos sobreviventes para combater Wushen e impedi-lo de ganhar o controle sobre um poder muito antigo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4hoTQXR5EnjSiQm4oyNFzbePXGaBE0wyTP5APoPxeb6Zfqj3HI3kSsHdTQ</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbp9bWqd-g0kNMjCCvi7V149Eam4KRy978VwyD0PAkJQtsuaeu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>Esse filme é baseado nos capítulos do famoso clássico romantico de Wu Cheng'en's "Jornada ao Oeste", e conta a história de como o Macaco Rei se rebela contra o Imperador Jade do Céu.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJtDUubRAgxdgkmqDTM5LdlVPYHUXizYjcTMMsbozVW2EVF8ADl86A52vieg</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLI0hBmFVOC1DbIPrU1LKlxxUMK1IFjTZt5LqZ5MHKFRytW67T</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Desventuras em Série (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Comédia</genre>
+<info>Klaus (Liam Aiken), Violet (Emily Browning) e Sunny (Kara Hoffman e Shelby Hoffman) são três irmãos que repentinamente recebem a notícia de que seus pais morreram em um incêndio. Como são menores de idade eles não podem ainda herdar a fortuna de seus pais, o que apenas ocorrerá quando Violet, a mais velha, completar 18 anos. O trio passa então a morar com o Conde Olaf (Jim Carrey), um parente distante bastante ganancioso, que deseja tomar a fortuna das crianças para si. Para atingir sua meta Olaf não medirá consequências.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGt1IFjo_5uCHX8tQBSSYiO1a0RTzWc9o5YlwjFmA_z0bOJIhUzcM74blc</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HtX_RO8qX7WIDNBNn5WO0rfejjWRdbU0jh2pJQdth0QqcPBUXacc4PTsXw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
+<thumbnail>https://lh5.googleusercontent.com/proxy/IPwx-QBvL6T7MmlaMF15lk3DovGdlZ4RdKKwmeyjhYLR_2EBdcEwhKtuuVguQnEebw8bgDCkQ1zF1eWWaIghvmAw4sePBCbp1irqYjurQce0qpVIUdIiETTjJ2cmk5W2TohfZlPL3M1XrKQfivKcRMc6fSJKC2Um5cCzcWU4qEQEuJFYescOnremgAdysSjRan2zzyNx6vGbGKfrf2kBJFc=w229-h320-nc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnckF7i4GmIwluimgbNOsWzZQHVJdKls8C29v8SIzSRETTx8qx</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNdiecZLyQfRVHf9qaI9WliBEGIUorDr0XS7hDzwfn9xC53VRJdDZ8sW4O</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJ-WHICA3ZBgsOcX76h7C8gVhpE1uF3zA21Yh55gbwKoKzneJyTWtKckU</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUD1vUdk1qP61qjKPaPogQZYmwFCtP_ivV7ITei00ulWT-pwEd</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZE-dEKmXxFJ8NtHUbgQkk8Am6AvGuYkBE5ampo0WDLdIyKUEjHg</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUD1vUdk1qP61qjKPaPogQZYmwFCtP_ivV7ITei00ulWT-pwEd</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Terror</genre>
+<info>Uma nova raça de tubarões vorazes e agressivos surgem de uma fissura no Ártico, devoram todos os presentes em uma estação de pesquisa que decidiram se aproximar das águas frias. Quando a estação fica submersa, os sobreviventes devem se armar com que estiver ao alcance para enfrentar as criaturas assassinas.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgPZP3bK2ylTRkM5uNeNTj2BkpHwJfjiC-ZFrA0M76dVEbCm7XtAN7csa</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9XbEbomZSKbeN7UDhoISDWLVLsFiXMGE_8rQ86XdhEuhXVS2Hxg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Bom Gigante Amigo (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>Sofia era uma menina órfã que vivia em um orfanato. Uma noite, em plena Hora das Bruxas, ela é raptada por um gigante orelhudo que a descobriu espiando pela janela. Mas Sofia logo descobriu que ela não precisava ter medo daquele gigante, que era amigável e tinha como função soprar sonhos nas janelas das crianças. Ao lado dele, ela bola um plano para acabar com os gigantes maus, que adoram devorar "serumanos". Um plano que envolve pesadelos terríveis e a rainha da Inglaterra.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFPvapoKpugWbK-nAVy4OsNyJuPyd8a9PwGbDeNxXXBNv_w5fuwBdENVBi</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZgOlvsD7UGzi8C-bM5VGUYUAVtvj0Es_CwM35nUqiCWFl9qJ</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Agente Mirim (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>A mãe de Olivia sai numa viagem de negócios e a deixa sozinha em casa com seu irmão Miles no comando. A primeira noite, Olivia adormece no sofá, e acorda, não percebendo o quão tarde é. Ela caminha com seu cachorro Charlie sem Miles ficar sabendo e testemunha uma mulher sendo sequestrada nas ruas de Nova York. Olivia corre para casa e diz a Miles mas ele não acredita nela. Na manhã seguinte, ela explica o que aconteceu a polícia e eles também não acreditam. Apenas a detetive cínica Dottie escuta Olivia, mas ela também é cética. Destemida, Olivia bravamente lança sua própria investigação, colocando-se em situações perigosas.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeLRqYrNVIVxxpJrylUx2LNzpM6kHMiu4JeqHlbSYvJZ8GAoi</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rM3sOwm3uVqDEcZNv8H4mLWwRS1IM4rntbpL6jOVEAfPlYCJ</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Sansão e Dalila (Dublado) - 1951[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>A história dos personagens do Velho Testamento, Sansão e Dalila, é mostrada aqui de modo monumental e com riqueza de detalhes. O épico de Cecil B. DeMille possui cenas memoráveis, como a da destruição do templo dos filisteus e cenários que até hoje impressionam por sua suntuosidade. Victor Mature e Hedy Lamarr interpretam Sansão e Dalila com brilhantismo e emoção. Um filme obrigatório para todos os amantes da 7ª arte.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNGA_OWz9dAkisVNo1mSXPMCX946Q19OLkPWqCsps9OuoSO7SLSUHKnOug</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVwhcRk25b_Y6Nfr_ufRfxuwhshNGV42MtbmgNDb0rRPBYyVUgBzh-HEt0g</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Dragão do Natal (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura e Drama</genre>
+<info>Um grupo de órfãos embarca em uma aventura para restaurar a mágica no mundo e salvar o Natal.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/zBzHWKwuMhfZiD9UzC09tlZjlaq6Z9WRQLe0MU-AMs64xMNPwX3WPnV9XUXEcPx_BGmCVWU-AFYwkVVpEEaIQ2fR12tTmxsdDnd2lA=w512-h288-nc</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrkobaJ5HT8-GxRR4t91Vzuf2-4b4hJyH7R76aonW5uzgtj_5npw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura,Animação e Ficção Científica</genre>
+<info>Ambientado em 1941, numa França Steampunk que parou no Século 19, repleta de máquinas a vapor, duas torres Eiffel e governada por Napoleão VI, os cientistas desaparecem misteriosamente. Uma garota chamada Avril (Marion Cotillard), vai em busca de seus pais cientistas desaparecidos.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/uKIpuco6CSyh0BPwrfFVgHAPr2je0ItAP8747L2Cy4fI3nBSbUFowhjs4Dl0CKmYk2bwBG6ovi4ChMhIaxyayW15n6Q77MLQW8oD0i2jgWp0breUhQPH0w_r7A=w512-h287-nc</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSNTxAUT1HqvrYYzFfvLm8fATGEiCFD3uuyinB56n0E6Jvc2xXA</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Perdidos no Pacifico (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>Uma história centrada em torno de um grupo de passageiros de elite a bordo de um luxuoso inaugural, vôo transoceânico que se transforma em um desastre.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/_mOgWiUK2gI_TnAC6yr5nGMUUVuB82vSbpVpX6XBFMAY-x8TiPUZU19_GPe8pu7Fd2TzObTc=w515-h286-nc</fanart>
+<thumbnail>https://lh4.googleusercontent.com/proxy/2hGRJpV1B9PUba9YfwRvdIvSl8z1UTfszHVrmKjhRJHkxd5RNCBmrojGnHT2RaQJ0p-I1PFkVsz-PVqZZN5lwEJkwY_4qU8KXpC_OrkpwYX5S3wcIhpeQ_DWjKOaZFoT_TTf=w270-h400-nc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Lar das Crianças Peculiares (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura</genre>
+<info>Quando seu querido avô deixa para Jake pistas sobre um mistério que se estende por diferentes mundos e tempos, ele encontra um lugar mágico conhecido como O Lar das Crianças Peculiares. Mas o mistério e o perigo se aprofundam quando ele começa a conhecer os moradores e aprende sobre seus poderes especiais… e seus poderosos inimigos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAFoH-7p8Vu-TQ_XFKbalQf671pV9zxPpqe4W6o-4HAEejLAmobrygflAT</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9chM48st1v30Xl5FnVjWWbCntkYbK46PcvtUf2e8EIc_ExcjzTMiAwSgz</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Um ano após despistar o FBI e ganhar a adulação do público com seus números de mágica ao estilo Robin Hood, os Quatro Cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco e Lizzy Caplan) ressurgem em um espetáculo que pretende expor as práticas sem ética de um magnata da tecnologia, mas ao final do número, são desmascarados e raptados por um inimigo desconhecido. O homem por trás do ato de desaparecimento dos ilusionistas é nada menos que Walter Mabry (Daniel Radcliffe), um prodígio que ameaça os mágicos e os obriga a fazer um roubo dos mais espetaculares e impossíveis. A única esperança é conseguir produzir um golpe sem precedentes para limpar seus nomes e revelar o real mandante por trás de tudo.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSojLryWak5OPW3Nlg2pTBk41tHsz3vhf6DbMuq3rijNluVhIqUYfPnf52EsQ</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE3EoJQur69G_SwWjwQUhCeqFdavbXQ4unIu3c75xaHqk0QnY5MQFy8HONWw</thumbnail>
+</item>

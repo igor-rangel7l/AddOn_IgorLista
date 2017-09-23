@@ -1,0 +1,337 @@
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+<item>
+<title>[COLOR white]Revolt (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/revolt-2017-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>A trama acompanha um soldado americano (Lee Pace) e uma trabalhadora voluntária francesa (Bérénice Marlohe) que, na África, fazem parte do último núcleo de resistência da humanidade contra uma invasão alienígena.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBD_qA5hWd555TXpWEa5JSaCkAOPdKBxyh4SkEGS-W4KaRBCPXe0Q_iL2YGQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/revolt_xlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/transformers-o-ultimo-cavaleiro/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ1NzEzNzcyM15BMl5BanBnXkFtZTgwMzgyOTk2MjI@._V1_SX1777_CR0,0,1777,913_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/20161221_211822.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Colossal (Dublado) - 2017[/COLOR][/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/colossal/</page></regex>
+<genre>Ação e Ficção Cientifica</genre>
+<info>Glória (Anne Hathaway) é uma mulher comum que depois de perder o emprego e terminar o seu relacionamento é forçada a deixar sua vida em Nova Iorque e voltar para sua cidade natal. Quando surgem relatos noticiosos de que uma criatura gigante está destruindo Seul, na Coréia, Glória gradualmente percebe que possui uma ligação com esse fenômeno. Na medida em que os acontecimentos na Coréia saem do controle, Glória percebe a razão pela qual sua existência aparentemente insignificante tem um efeito colossal e impactará o destino do mundo.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZTBkNzc0YjUtNGViYy00MjRkLWJiNTQtMTVjY2NhZWM5MTg4XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_SY1000_CR0,0,1502,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/colossal_ver2_xxlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Círculo (Legendado) - 2017[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-circulo/</page></regex>
+<genre>Drama e Ficção Cientifica</genre>
+<info>Mae (Emma Watson) é uma universitária cujo sonho é trabalhar na maior empresa de tecnologia do mundo, O Círculo. A organização foi fundada por Eamon Bailey (Tom Hanks) e o seu principal produto é o SeeChange, uma pequena câmera que permite aos usuários compartilharem detalhes de suas vidas com o mundo. Mae vê sua vida mudar completamente quando é contratada pela empresa e sua função passa a ser documentar sua vida em tempo integral. O que ela não imaginava, no entanto, é que toda essa exposição teria um preço, não só para ela, mas também para todos ao seu redor.</info>
+<fanart>http://br.web.img3.acsta.net/pictures/17/05/04/11/07/269427.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170317_092230.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Guardiões da Galáxia Vol. 2 (Dublado) - 2017[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/guardioes-da-galaxia-vol-2/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill. Antigos inimigos se tornam aliados e personagens conhecidos e amados dos quadrinhos virão ao auxílio dos nossos heróis, enquanto o Universo Cinematográfico da Marvel continua se expandindo.</info>
+<fanart>http://bodenasala.com/wp-content/uploads/2017/04/GuardianesDeLaGalaxiaVol.2WallpaperHD_5.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170305_231021.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Vigilante do Amanhã: Ghost in the Shell (Dublado) - 2017[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/a-vigilante-do-amanha-ghost-in-the-shell/</page></regex>
+<genre>Ação,Drama e Ficção Cientifica</genre>
+<info>Num mundo pós 2029, cérebros se fundem facilmente a computadores e a tecnologia está em todos os lugares. Motoko Kusanagi, conhecida como Major, é uma ciborgue com experiência militar que comanda um esquadrão de elite especializado em combater crimes cibernéticos.</info>
+<fanart>http://static.srcdn.com/wp-content/uploads/2017/01/ghost-shell-posters-2017-scarlett-johansson.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170305_231603.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Alien: Covenant (Dublado) - 2017[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/alien-covenant/</page></regex>
+<genre>Ficção Cientifica e Terror</genre>
+<info>2104. Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David (Michael Fassbender) como habitante solitário.</info>
+<fanart>http://www.hdwallpapers.in/walls/katherine_waterston_alien_covenant_2017-wide.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170323_131215.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/power-rangers/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzYzMTE3NDQyN15BMl5BanBnXkFtZTgwMDA5MTkxMTI@._V1_SX1777_CR0,0,1777,934_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/IMG_20170202_184632.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Interestelar (Dublado) - 2014[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/interestelar/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNDY5ZmViODgtODcwMC00YWViLWJkOTgtZjgyMjljZDE0NmM5L2ltYWdlXkEyXkFqcGdeQXVyNzE4NDc2Mjc@._V1_SY1000_SX1600_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/09/interestelar_t27814_14.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Vida Inteligente (Legendado) - 2017[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/vida/</page></regex>
+<genre>Suspense,Ficção Cientifica e Terror</genre>
+<info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2017/06/cartaz-life.jpg</fanart>
+<thumbnail>http://www.hdwallpapers.in/walls/life_2017_movie-wide.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Vida Inteligente (Dublado) - 2017[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/vida/</page></regex>
+<genre>Suspense,Ficção Cientifica e Terror</genre>
+<info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2017/06/cartaz-life.jpg</fanart>
+<thumbnail>http://www.hdwallpapers.in/walls/life_2017_movie-wide.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Logan (Dublado) - 2017[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/logan/</page></regex>
+<genre>Ação,Ficção Cientifica e Drama</genre>
+<info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
+<fanart>https://images3.alphacoders.com/807/thumb-1920-807544.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/14608719_1245010155537115_4558418574340565173_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama,Aventura e Ficção Cientifica</genre>
+<info>Durante uma missão a Marte, o astronauta Mark Watney (Matt Damon) é dado como morto após uma feroz tempestade e é deixado para trás por sua tripulação. Mas Watney sobrevive e encontra-se sem recursos e sozinho no planeta hostil. Apenas com suprimentos escassos, Watney deve contar com a sua criatividade, engenho e espírito para subsistir e encontrar uma maneira de sinalizar à Terra que está vivo. A milhões de quilômetros de distância, a NASA e uma equipe de cientistas internacionais trabalham incansavelmente para trazer "o marciano" de volta enquanto seus colegas de tripulação simultaneamente traçam uma ousada, se não impossível, missão de resgate. Conforme essas histórias de incrível bravura se desdobram, o mundo se une para torcer pelo retorno seguro de Watney.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpM9Kii3i4YzOgSXrmv5DvBDMJWzLz1_NKFQzZZqV8ZbvoSIq3j7GI9bPFSA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/perdido-em-marte_t99530.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O jovem Max McGrath (Ben Winchell) descobre que seu corpo pode gerar uma poderosa energia, e ele deve unir-se com o único ser capaz de conter esta energia: um misterioso extraterrestre tecno-orgânico chamado Steel. Unidos como o super-herói Max Steel, os dois amigos devem combater uma ameaça alienígena e desvendar os segredos do seu passado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm3cij8BBVI8S_v9wTSqKQN_ORwoa9tgPe5fUMjl8JZaDCwBPF6P8iUJTQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/max_steel_ver2_xxlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Maze Runner: Prova de Fogo (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Cientifica</genre>
+<info>homas (Dylan O’Brien) e seus companheiros Clareanos vão encarar seu maior desafio até agora: procurar por pistas sobre a misteriosa e poderosa organização conhecida como C.R.U.E.L. Sua jornada os leva até O Deserto, um cenário desolado repleto de obstáculos inimagináveis. Unindo-se com lutadores da resistência, os Clareanos desafiam as forças superiores da C.R.U.E.L. e descobrem seus terríveis planos para todos eles.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2xNayFMBSlKx9PYUBb0hHHVct4tK53nNGyFSJEBnwFblzG3V67RNCJqpCQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/06/maze-runner-prova-de-fogo_t106368_xKyK2Ua.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Não Me Abandone Jamais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama,Romance e Ficção Cientifica</genre>
+<info>Kathy (Carey Mulligan), Ruth (Keira Knightley) e Tommy (Garfield) são amigos íntimos que cresceram juntos num internato inglês que possui um segredo assustador. Quando eles descobrem a excruciante verdade – que eles são clones produzidos geneticamente para serem doadores de órgãos – eles se agarram ao breve tempo que lhes resta para viver e amar.</info>
+<fanart>https://3.bp.blogspot.com/_JD9ZIeYHyqs/TH2snqxRnJI/AAAAAAAAAGg/vsHgOGVF9HA/s500/Never+let+Me+Go+Movie.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/05/nao-me-abandone-jamais_t21854_5dlqqMd.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHiVl-h9wjgGDQdVkWlk0rjZM_CoxFC3xpAZF7ahshdOovwkRzSCJgSM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/rogueone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHiVl-h9wjgGDQdVkWlk0rjZM_CoxFC3xpAZF7ahshdOovwkRzSCJgSM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/rogueone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Passageiros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Romance</genre>
+<info>Durante uma viagem de rotina no espaço, dois passageiros são despertados 90 anos antes do tempo programado, por causa de um mal funcionamento de suas cabines. Sozinhos, Jim (Chris Pratt) e Aurora (Jennifer Lawrence) começam a estreitar o seu relacionamento. Entretanto, a paz é ameaçada quando eles descobrem que a nave está correndo um sério risco e que eles são os únicos capazes de salvar os mais de cinco mil colegas em sono profundo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsIAvPZJLuVtXg6r0SLGVVRRlCIR4v8Mkn4-R5SIAuRcgzwSTB-gkkVHM0</fanart>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSahQpngfscdvqRBshgF3gg4PV8R9ql-VKqXW5_0CGVGbA6oAm4</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Chegada (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Drama e Ficção Científica</genre>
+<info>Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks (Amy Adams), uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não. No entanto, a resposta para todas as perguntas e mistérios pode ameaçar a vida de Louise e a existência de toda a humanidade.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdtuUMRlQ_dD7fNibi7AZItt6fAgYdoDxxpjggfWsW_KBNfzVUPB1i8-mU8g</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR--KfRN2lB-AMbWlxqGNhbREjNIO_HZyyNy6ldbJh7t4x7Ub35xiAwcj18cQ</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Spectral (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SPCTRL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Uma equipe de operações especiais é despachada para uma inesperada missão: lutar contra seres sobrenaturais agressivos que tomaram a cidade de Nova Iorque e ameaçam a sobrevivência de todos os humanos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO-N2pGcy0haN7yKUnJcLb4C7sAAbfYiW1ciq7tcYo9GuVLrEB7smXhOZGg</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQADT9-CeVa5nKA-C5EPrT3t_yPkIK0BMEGstLUUapiLPE-ENEy</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Planeta dos Tubarões (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Científica e Terror</genre>
+<info>Em um futuro próximo, o derretimento glacial cobriu 98% da Terra. Enquanto os sobreviventes se abrigam em embarcações, os tubarões se tornaram a espécie dominate do planeta, realizando um ataque mortal através da liderança de um tubarão alfa-mutante.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUp_Nxu_j_ob40vXVoZU1T6UuqH6W8kbNVPV2JFZ-TEw5OIcNQRl97_eql</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFMvjhD0_8lr-sxBv93XNClB0Vq_RkBXNpr5s_f2mzY7OppOOtnsBoK4pCdQ</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Os Caçadores de Atlântida (Dublado) - 1983[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Mike e Washington, dois amigos mercenários, passeiam de iate pelo mar caribenho para comemorar um trabalho bem feito. Perto dali, um grupo de cientistas faz pesquisas em uma estação petrolífera e se prepara para resgatar um submarino nuclear russo naufragado. A descoberta de uma placa de pedra pertencente à antiga e lendária civilização de Atlântida coincide com um maremoto que destrói a plataforma. Os sobreviventes unem-se a Mike e Washington e chegam até terra firme, onde um batalhão de punks inicia sua missão de exterminar a humanidade para preparar o retorno dos habitantes de Atlântida.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuRNzr_rQvgr1s5JE9GHGik_rR0U8vIldr1JNYrc-Lk-feVn6Ko0n48qb</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfi-otyiubGMuL122qBDTBnoMGYcNnuiYsa5TioGbGiHCeQzR9sQ</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Cyborg: O Dragão do Futuro (Dublado) - 1989[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>No século 21, o mundo passa por processo de deterioração e anarquia social. Considerada uma praga, apenas Pearl Prophet (Dayle Haddon), uma criatura meio humana meio robô, possui o conhecimento para criar uma vacina. Mas Pearl é capturado por canibais, os Flesh Pirates, que planejam manter o antídoto apenas para eles e dominar a Terra! Pearl agora vai precisr contar com a habilidade do mestre do sabre Gibson Rickenbacker (Van Damme).</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOVozKE1uLJuQoymPDNbc_ZcAsUBkk2EgfDRo86wV_vC9dTdFqjUAAPBP0</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgS6gU6heUdWglvycj5_0JKF5GKgHLGhNA7wCKmzTtU7-XveZUFan4Jldd_g</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Stereo (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]STRO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ficção Científica</genre>
+<info>Eric é um mecânico de motocicletas que leva uma vida tranquila com sua namorada Julia e sua pequena enteada. Mas sua rotina bucólica e quase perfeita é perturbada quando Henry, uma figura estranha, começa a aparecer em sua oficina e Eric é o único capaz de vê-lo. Henry provoca Eric até levá-lo à beira da loucura, quando começam a aparecer outras figuras ainda mais sombrias, que passam a ameaçar Eric e sua família caso ele não concorde em fazer o que elas mandam. Cada vez mais confuso, Eric não tem outra saída senão confiar em Henry. Mostra Panorama, Festival de Berlim 2014.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg3AeSz4jq-MftCwJ3TWkN_fm4iOk4m4l8r153KIoQrODdgWc33DHdzq_2SQ</fanart>
+<thumbnail>https://lh4.googleusercontent.com/proxy/pJcFiYP-BdOYwE9jDcToTxz3dEm9OV7N5Z4YcNlYGLT8NaATJthnu7RNtWEuJjZ6RaxeAjbOk7D84VaVegIfAy8HAmlC3en10yW9c2rNlHj_ic52k3Zjy-A=w185-h278-nc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]iBoy (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]IBOY.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Ação e Ficção Científica</genre>
+<info>Após um acidente, Tom acorda de um coma e descobre que fragmentos do seu smart phone foram incorporados na sua cabeça. Ele também descobre que retornar à vida de um adolescente normal é impossível, pois ele desenvolveu super poderes.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkmdaFb0P_Ru6aExALvZ1t7BVRbqcQ0HAy93XvErcRv11REy6dRw</fanart>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuRHBPDMK_A21hCvsSoMQUb3BKcKAsaQtKXt7utXOyLDHjBcZFVg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Aventura,Animação e Ficção Científica</genre>
+<info>Ambientado em 1941, numa França Steampunk que parou no Século 19, repleta de máquinas a vapor, duas torres Eiffel e governada por Napoleão VI, os cientistas desaparecem misteriosamente. Uma garota chamada Avril (Marion Cotillard), vai em busca de seus pais cientistas desaparecidos.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/uKIpuco6CSyh0BPwrfFVgHAPr2je0ItAP8747L2Cy4fI3nBSbUFowhjs4Dl0CKmYk2bwBG6ovi4ChMhIaxyayW15n6Q77MLQW8oD0i2jgWp0breUhQPH0w_r7A=w512-h287-nc</fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSNTxAUT1HqvrYYzFfvLm8fATGEiCFD3uuyinB56n0E6Jvc2xXA</thumbnail>
+</item>
