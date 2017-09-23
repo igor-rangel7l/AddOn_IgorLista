@@ -10,7 +10,17 @@
 
 
 <item>
-<title>Resident Evil: A Vingança (Dublado) - 2017</title>
+<title>[COLOR white]Esta É A Sua Morte (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/esta-e-sua-morte-2017-legendado/</page></regex>
+<genre>Suspense,Terror e Drama</genre>
+<info>O público de hoje tornou-se apaixonado por assistir à degradação de outros na televisão e na internet. Eles desejam um argumento selvagem, uma luta sangrenta ou um escândalo publicitário. Esta se tornou a principal fonte de entretenimento. Mas quando os limites parecem não poderem ser mais ultrapassados, o apresentador de um game show, Adam Rogers, decide quebrar as barreiras ao colocar no ar um novo show, no qual os concorrentes arriscam suas vidas pela chance de ganhar dinheiro. Adam só ficará satisfeito se seu reality show for o número um no ranking da audiência, e ele não vai parar por nada para se certificar de que ele chega lá, mesmo que isso signifique perder sua humanidade.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/BaQBhnrJAcodMGCAZtHhDsUeqEXV4DrPDc0BSzwf6iVhOOXzVNHdsCddtY30OFhyvlmFWhu3JVfPUYsvuKSRZKijxE8Lm67DQ8_cXVXyzTHGOiz0jgx3-wPICIlNGWVGoVnPu8U3-VFC80vfAxppcQ=w454-h324-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/13_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/resident-evil-vendetta/</page></regex>
 <genre>Suspense,Ação e Terror</genre>
@@ -20,7 +30,7 @@
 </item>
 
 <item>
-<title>Vida Inteligente (Legendado) - 2017</title>
+<title>[COLOR white]Vida Inteligente (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/vida/</page></regex>
 <genre>Suspense,Ficção Cientifica e Terror</genre>
@@ -30,7 +40,7 @@
 </item>
 
 <item>
-<title>Vida Inteligente (Dublado) - 2017</title>
+<title>[COLOR white]Vida Inteligente (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/vida/</page></regex>
 <genre>Suspense,Ficção Cientifica e Terror</genre>
@@ -40,7 +50,7 @@
 </item>
 
 <item>
-<title>O Exorcismo de Anna Ecklund (Dublado) - 2017</title>
+<title>[COLOR white]O Exorcismo de Anna Ecklund (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -54,7 +64,7 @@
 </item>
 
 <item>
-<title>Jogo da Morte (Dublado) - 2014</title>
+<title>[COLOR white]Jogo da Morte (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -68,7 +78,7 @@
 </item>
 
 <item>
-<title>American Poltergeist (Dublado) - 2015</title>
+<title>[COLOR white]American Poltergeist (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>

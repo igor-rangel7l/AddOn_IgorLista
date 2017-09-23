@@ -8,9 +8,9 @@
 
 
 <item>
-<title>Em Ritmo De Fuga (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/em-ritmo-de-fuga/</page></regex>
+<title>[COLOR white]Em Ritmo De Fuga (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/em-ritmo-de-fuga-2017-dublado-hd-3/</page></regex>
 <genre>Ação e Policial</genre>
 <info>O jovem Baby (Ansel Elgort) tem uma mania curiosa: ele precisa ouvir músicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na infância. Mesmo assim, o rapaz revela-se um motorista excelente, e começa a trabalhar para uma gangue de criminosos. Quando um assalto a banco não sai como planejado, ele cai na estrada em fuga.</info>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MjE4Njc1OV5BMl5BanBnXkFtZTgwNjkzNzI2MjI@._V1_SY1000_CR0,0,1635,1000_AL_.jpg</fanart>
@@ -18,7 +18,7 @@
 </item>
 
 <item>
-<title>Velozes e Furiosos 8 (Dublado) - 2017</title>
+<title>[COLOR white]Velozes e Furiosos 8 (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/velozes-e-furiosos-8/</page></regex>
 <genre>Ação e Policial</genre>
@@ -28,7 +28,7 @@
 </item>
 
 <item>
-<title>John Wick: Um Novo Dia Para Matar (Dublado) - 2017</title>
+<title>[COLOR white]John Wick: Um Novo Dia Para Matar (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/john-wick-um-novo-dia-para-matar/</page></regex>
 <genre>Ação e Policial</genre>
@@ -38,7 +38,7 @@
 </item>
 
 <item>
-<title>Deidra e Laney Assaltam um Trem (Dublado) - 2017</title>
+<title>[COLOR white]Deidra e Laney Assaltam um Trem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -52,7 +52,7 @@
 </item>
 
 <item>
-<title>Resgate Suicida (Dublado) - 2017</title>
+<title>[COLOR white]Resgate Suicida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -66,7 +66,7 @@
 </item>
 
 <item>
-<title>Frank e Lola: Amor Obsessivo (Legendado) - 2017</title>
+<title>[COLOR white]Frank e Lola: Amor Obsessivo (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]FNKELOLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -80,7 +80,7 @@
 </item>
 
 <item>
-<title>O Desvio (Dublado) - 2011</title>
+<title>[COLOR white]O Desvio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ODSVIO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -94,7 +94,7 @@
 </item>
 
 <item>
-<title>Breaking Bad: O Filme (Legendado) - 2017</title>
+<title>[COLOR white]Breaking Bad: O Filme (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -108,7 +108,7 @@
 </item>
 
 <item>
-<title>Assassino a Preço Fixo (Dublado) - 2011</title>
+<title>[COLOR white]Assassino a Preço Fixo (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -122,7 +122,7 @@
 </item>
 
 <item>
-<title>Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016</title>
+<title>[COLOR white]Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -136,7 +136,7 @@
 </item>
 
 <item>
-<title>O Contador (Dublado) - 2016</title>
+<title>[COLOR white]O Contador (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -151,7 +151,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Nerve: Um Jogo Sem Regras (Dublado)</title>
+<title>[COLOR white]Nerve: Um Jogo Sem Regras (Dublado)[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]NRVUJSR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -165,7 +165,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Operação Dragão (Dublado) - 1973</title>
+<title>[COLOR white]Operação Dragão (Dublado) - 1973[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -179,7 +179,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Inferno (Dublado) - 2016</title>
+<title>[COLOR white]Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]INFRNO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -193,7 +193,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Gênios do Crime (Dublado) - 2016 </title>
+<title>[COLOR white]Gênios do Crime (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -207,7 +207,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Esquadrao Suicida (Dublado) - 2016</title>
+<title>[COLOR white]Esquadrao Suicida (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>

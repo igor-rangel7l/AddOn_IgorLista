@@ -9,9 +9,48 @@
 
 
 
+<item>
+<title>[COLOR white]Esta É A Sua Morte (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/esta-e-sua-morte-2017-legendado/</page></regex>
+<genre>Suspense,Terror e Drama</genre>
+<info>O público de hoje tornou-se apaixonado por assistir à degradação de outros na televisão e na internet. Eles desejam um argumento selvagem, uma luta sangrenta ou um escândalo publicitário. Esta se tornou a principal fonte de entretenimento. Mas quando os limites parecem não poderem ser mais ultrapassados, o apresentador de um game show, Adam Rogers, decide quebrar as barreiras ao colocar no ar um novo show, no qual os concorrentes arriscam suas vidas pela chance de ganhar dinheiro. Adam só ficará satisfeito se seu reality show for o número um no ranking da audiência, e ele não vai parar por nada para se certificar de que ele chega lá, mesmo que isso signifique perder sua humanidade.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/BaQBhnrJAcodMGCAZtHhDsUeqEXV4DrPDc0BSzwf6iVhOOXzVNHdsCddtY30OFhyvlmFWhu3JVfPUYsvuKSRZKijxE8Lm67DQ8_cXVXyzTHGOiz0jgx3-wPICIlNGWVGoVnPu8U3-VFC80vfAxppcQ=w454-h324-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/13_1.jpg</thumbnail>
+</item>
 
 <item>
-<title>Z: A Cidade Perdida (Dublado) - 2017</title>
+<title>[COLOR white]Revolt (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/revolt-2017-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>A trama acompanha um soldado americano (Lee Pace) e uma trabalhadora voluntária francesa (Bérénice Marlohe) que, na África, fazem parte do último núcleo de resistência da humanidade contra uma invasão alienígena.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBD_qA5hWd555TXpWEa5JSaCkAOPdKBxyh4SkEGS-W4KaRBCPXe0Q_iL2YGQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/revolt_xlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]The House (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/the-house-2017-legendado/</page></regex>
+<genre>Comédia</genre>
+<info>Um casal acidentalmente perde todo o dinheiro que haviam poupado para a universidade da filha. Para recuperar o valor, eles abrem um cassino clandestino em casa e convidam vizinhos e amigos para apostar.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpsyfRI1QNJcXlKw96i14cokiDWxt6W5_Xzb3db6LVHZi9pjoRUg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/MV5BMTc0NDYwNzU2M15BMl5BanBnXkFtZTgwOTUxNDg0MTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Annabelle 2: A Criação do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/annabelle-2-criacao-do-mal-2017-legendado-hd/</page></regex>
+<genre>Terror</genre>
+<info>nos após a trágica morte de sua filha, um habilidoso artesão de bonecas e sua esposa decidem, por caridade, acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato. Atormentado pelas lembranças traumáticas, o casal ainda precisa lidar com um amendrontador demônio do passado: Annabelle, criação do artesão.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNGe8xoOzCas6JDA5gblNKShBLYRsSdUT0wc7eLFN3gq8lNUyZFVPZ528WhA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/DC3cg6bW0AAgwDr.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Z: A Cidade Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/z-a-cidade-perdida/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -21,7 +60,7 @@
 </item>
 240
 <item>
-<title>Meu Malvado Favorito 3 (Legendado) - 2017</title>
+<title>[COLOR white]Meu Malvado Favorito 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/meu-malvado-favorito-3/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -31,7 +70,7 @@
 </item>
 239
 <item>
-<title>Baywatch - S.O.S. Malibu (Dublado) - 2017</title>
+<title>[COLOR white]Baywatch - S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/baywatch-s-o-s-malibu/</page></regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -41,7 +80,7 @@
 </item>
 238
 <item>
-<title>Fome de Poder (Dublado) - 2017</title>
+<title>[COLOR white]Fome de Poder (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/fome-de-poder/</page></regex>
 <genre>Drama</genre>
@@ -51,7 +90,7 @@
 </item>
 237
 <item>
-<title>O Vendedor de Sonhos - 2017</title>
+<title>[COLOR white]O Vendedor de Sonhos - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*HOS.*?)" fra</expres>
 <page>http://netcine.us/o-vendedor-de-sonhos/</page></regex>
 <genre>Drama</genre>
@@ -61,7 +100,7 @@
 </item>
 236
 <item>
-<title>O Círculo (Legendado) - 2017</title>
+<title>[COLOR white]O Círculo (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/o-circulo/</page></regex>
 <genre>Drama e Ficção Cientifica</genre>
@@ -71,7 +110,7 @@
 </item>
 235
 <item>
-<title>Guardiões da Galáxia Vol. 2 (Dublado) - 2017</title>
+<title>[COLOR white]Guardiões da Galáxia Vol. 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/guardioes-da-galaxia-vol-2/</page></regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -81,7 +120,7 @@
 </item>
 234
 <item>
-<title>Mulher-Maravilha (Dublado) - 2017</title>
+<title>[COLOR white]Mulher-Maravilha (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/mulher-maravilha-2/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -90,7 +129,7 @@
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/C-7ZrBjXYAAjkF9.jpg</thumbnail>
 </item>
 <item>
-<title>Alien: Covenant (Dublado) - 2017</title>
+<title>[COLOR white]Alien: Covenant (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/alien-covenant/</page></regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -99,7 +138,7 @@
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/IMG_20170323_131215.jpg</thumbnail>
 </item>
 <item>
-<title>Velozes e Furiosos 8 (Dublado) - 2017</title>
+<title>[COLOR white]Velozes e Furiosos 8 (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/velozes-e-furiosos-8/</page></regex>
 <genre>Ação e Policial</genre>
@@ -108,7 +147,7 @@
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/fate_of_the_furious_ver2_xxlg.jpg</thumbnail>
 </item>
 <item>
-<title>A Cabana (Dublado) - 2017</title>
+<title>[COLOR white]A Cabana (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/a-cabana/</page></regex>
 <genre>Drama</genre>
@@ -118,7 +157,7 @@
 </item>
 
 <item>
-<title>Resident Evil: A Vingança (Dublado) - 2017</title>
+<title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/resident-evil-vendetta/</page></regex>
 <genre>Suspense,Ação e Terror</genre>
@@ -128,7 +167,7 @@
 </item>
 
 <item>
-<title>Rei Arthur – A Lenda da Espada (Legendado) - 2017</title>
+<title>[COLOR white]Rei Arthur – A Lenda da Espada (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/rei-arthur-a-lenda-da-espada/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
@@ -138,7 +177,7 @@
 </item>
 
 <item>
-<title>Alien: Covenant (Legendado) - 2017</title>
+<title>[COLOR white]Alien: Covenant (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/alien-covenant/</page></regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -148,7 +187,7 @@
 </item>
 
 <item>
-<title>Mulher-Maravilha (Legendado) - 2017</title>
+<title>[COLOR white]Mulher-Maravilha (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/mulher-maravilha-2/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -158,7 +197,7 @@
 </item>
 
 <item>
-<title>Okja (Dublado) - 2017</title>
+<title>[COLOR white]Okja (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/okja/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
@@ -168,7 +207,7 @@
 </item>
 
 <item>
-<title>Kong: A Ilha da Caveira (Dublado) - 2017</title>
+<title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/kong-a-ilha-da-caveira/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -178,7 +217,7 @@
 </item>
 
 <item>
-<title>O Poderoso Chefinho (Dublado) - 2017</title>
+<title>[COLOR white]O Poderoso Chefinho (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-poderoso-chefinho/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -188,7 +227,7 @@
 </item>
 
 <item>
-<title>The Warrior's Gate (Dublado) - 2017</title>
+<title>[COLOR white]The Warrior's Gate (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]WRISGT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -202,7 +241,7 @@
 </item>
 
 <item>
-<title>Resident Evil 6: O Capítulo Final (Dublado) - 2017</title>
+<title>[COLOR white]Resident Evil 6: O Capítulo Final (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL06.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -216,7 +255,7 @@
 </item>
 
 <item>
-<title>Resident Evil 6: O Capítulo Final (Legendado) - 2017</title>
+<title>[COLOR white]Resident Evil 6: O Capítulo Final (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -230,7 +269,7 @@
 </item>
 
 <item>
-<title>O Chamado 3 (Dublado) - 2017</title>
+<title>[COLOR white]O Chamado 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCHMD3.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -244,7 +283,7 @@
 </item>
 
 <item>
-<title>O Chamado 3 (Legendado) - 2017</title>
+<title>[COLOR white]O Chamado 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -258,7 +297,7 @@
 </item>
 
 <item>
-<title>Max Steel (Dublado) - 2017</title>
+<title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -272,7 +311,7 @@
 </item>
 
 <item>
-<title>Lavanda (Dublado) - 2017</title>
+<title>[COLOR white]Lavanda (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]LVNDA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -286,7 +325,7 @@
 </item>
 
 <item>
-<title>Jovens Titãs: O Contrato de Judas (Dublado) - 2017</title>
+<title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -300,7 +339,7 @@
 </item>
 
 <item>
-<title>Internet: O Filme (Nacional) - 2017</title>
+<title>[COLOR white]Internet: O Filme (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]INTNET.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -314,7 +353,7 @@
 </item>
 
 <item>
-<title>Deidra e Laney Assaltam um Trem (Dublado) - 2017</title>
+<title>[COLOR white]Deidra e Laney Assaltam um Trem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -328,7 +367,7 @@
 </item>
 
 <item>
-<title>Busca Explosiva 5: Campo de Batalha (Dublado) - 2017</title>
+<title>[COLOR white]Busca Explosiva 5: Campo de Batalha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV5.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -342,7 +381,7 @@
 </item>
 
 <item>
-<title>Apostando Tudo (Dublado) - 2017</title>
+<title>[COLOR white]Apostando Tudo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -356,7 +395,7 @@
 </item>
 
 <item>
-<title>A Fabulosa Gilly Hopkins (Dublado) - 2017</title>
+<title>[COLOR white]A Fabulosa Gilly Hopkins (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -370,7 +409,7 @@
 </item>
 
 <item>
-<title>Sandy Wexler (Dublado) - 2017</title>
+<title>[COLOR white]Sandy Wexler (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -384,7 +423,7 @@
 </item>
 
 <item>
-<title>Vizinhos Nada Secretos (Dublado) - 2017</title>
+<title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -398,7 +437,7 @@
 </item>
 
 <item>
-<title>Um Limite Entre Nós (Dublado) - 2017</title>
+<title>[COLOR white]Um Limite Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMLMTENTNS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -412,7 +451,7 @@
 </item>
 
 <item>
-<title>Rufus (Dublado) - 2016</title>
+<title>[COLOR white]Rufus (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RFUS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -426,7 +465,7 @@
 </item>
 
 <item>
-<title>Nossos Amantes (Dublado) - 2017</title>
+<title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -440,7 +479,7 @@
 </item>
 
 <item>
-<title>Manchester à Beira Mar (Dublado) - 2017</title>
+<title>[COLOR white]Manchester à Beira Mar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MACHABRMR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -454,7 +493,7 @@
 </item>
 
 <item>
-<title>Fazenda Dos Cisnes (Dublado) - 2017</title>
+<title>[COLOR white]Fazenda Dos Cisnes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -468,7 +507,7 @@
 </item>
 
 <item>
-<title>Frank e Lola: Amor Obsessivo (Legendado) - 2017</title>
+<title>[COLOR white]Frank e Lola: Amor Obsessivo (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]FNKELOLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -482,7 +521,7 @@
 </item>
 
 <item>
-<title>Coragem em Campo (Dublado) - 2017</title>
+<title>[COLOR white]Coragem em Campo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -496,7 +535,7 @@
 </item>
 
 <item>
-<title>Cinquenta Tons Mais Escuros (Legendado) - 2017</title>
+<title>[COLOR white]Cinquenta Tons Mais Escuros (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -510,7 +549,7 @@
 </item>
 
 <item>
-<title>Até o Último Homem (Dublado) - 2017</title>
+<title>[COLOR white]Até o Último Homem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ATOULHMN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -524,7 +563,7 @@
 </item>
 
 <item>
-<title>Armas na Mesa (Dublado) - 2017</title>
+<title>[COLOR white]Armas na Mesa (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ARMSNMSA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -538,7 +577,7 @@
 </item>
 
 <item>
-<title>Além Da Realidade (Dublado) - 2016</title>
+<title>[COLOR white]Além Da Realidade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -552,7 +591,7 @@
 </item>
 
 <item>
-<title>A Bailarina (Dublado) - 2017</title>
+<title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ABLRN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -566,7 +605,7 @@
 </item>
 
 <item>
-<title>Resgate Suicida (Dublado) - 2017</title>
+<title>[COLOR white]Resgate Suicida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -580,7 +619,7 @@
 </item>
 
 <item>
-<title>Rogue One: Uma História Star Wars (Dublado) - 2016</title>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -594,7 +633,7 @@
 </item>
 
 <item>
-<title>Resident Evil 6: O Capítulo Final (Legendado) - 2017</title>
+<title>[COLOR white]Resident Evil 6: O Capítulo Final (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -608,7 +647,7 @@
 </item>
 
 <item>
-<title>Pandora (Dublado) - 2017</title>
+<title>[COLOR white]Pandora (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PNDRA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -622,7 +661,7 @@
 </item>
 
 <item>
-<title>Passageiros (Dublado) - 2017</title>
+<title>[COLOR white]Passageiros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -636,7 +675,7 @@
 </item>
 
 <item>
-<title>O Monstro no Armário (Dublado) - 2017</title>
+<title>[COLOR white]O Monstro no Armário (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -650,7 +689,7 @@
 </item>
 
 <item>
-<title>O Exorcismo de Anna Ecklund (Dublado) - 2017</title>
+<title>[COLOR white]O Exorcismo de Anna Ecklund (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -664,7 +703,7 @@
 </item>
 
 <item>
-<title>O Dia do Atentado (Legendado) - 2017</title>
+<title>[COLOR white]O Dia do Atentado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -678,7 +717,7 @@
 </item>
 
 <item>
-<title>Moana: Um Mar de Aventuras (Dublado) - 2017</title>
+<title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -692,7 +731,7 @@
 </item>
 
 <item>
-<title>Assassin's Creed (Dublado) - 2017</title>
+<title>[COLOR white]Assassin's Creed (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -706,7 +745,7 @@
 </item>
 
 <item>
-<title>Ouija Exorcismo (Dublado) - 2016</title>
+<title>[COLOR white]Ouija Exorcismo (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -720,7 +759,7 @@
 </item>
 
 <item>
-<title>Esquadrão de Elite (Dublado) - 2015</title>
+<title>[COLOR white]Esquadrão de Elite (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -734,7 +773,7 @@
 </item>
 
 <item>
-<title>Sacrifício (Dublado) - 2017</title>
+<title>[COLOR white]Sacrifício (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SCRFC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -746,7 +785,7 @@
 </item>
 
 <item>
-<title>Liga da Justiça Sombria (Dublado) - 2017</title>
+<title>[COLOR white]Liga da Justiça Sombria (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -760,7 +799,7 @@
 </item>
 
 <item>
-<title>iBoy (Dublado) - 2017</title>
+<title>[COLOR white]iBoy (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]IBOY.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -774,7 +813,7 @@
 </item>
 
 <item>
-<title>Abril e o Mundo Extraordinário (Dublado) - 2015</title>
+<title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -788,7 +827,7 @@
 </item>
 
 <item>
-<title>10000 Anos Depois (Dublado) - 2015</title>
+<title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -802,7 +841,7 @@
 </item>
 
 <item>
-<title>Perdidos no Pacifico (Legendado) - 2016</title>
+<title>[COLOR white]Perdidos no Pacifico (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -816,7 +855,7 @@
 </item>
 
 <item>
-<title>Inferno (Dublado) - 2016</title>
+<title>[COLOR white]Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]INFRNO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -830,7 +869,7 @@
 </item>
 
 <item>
-<title>O Lar das Crianças Peculiares (Dublado) - 2016</title>
+<title>[COLOR white]O Lar das Crianças Peculiares (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -844,7 +883,7 @@
 </item>
 
 <item>
-<title>O Contador (Dublado) - 2016</title>
+<title>[COLOR white]O Contador (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -859,7 +898,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Mais Forte que o Mundo: A História de José Aldo (Nacional) - 2016</title>
+<title>[COLOR white]Mais Forte que o Mundo: A História de José Aldo (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MSFRTQOMUND.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -873,7 +912,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Gênios do Crime (Dublado) - 2016 </title>
+<title>[COLOR white]Gênios do Crime (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -887,7 +926,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Tubarão de Gelo (Legendado) - 2016</title>
+<title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -901,7 +940,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Spectral (Dublado) - 2016</title>
+<title>[COLOR white]Spectral (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SPCTRL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -915,7 +954,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Snowden: Herói ou Traidor (Legendado) - 2016</title>
+<title>[COLOR white]Snowden: Herói ou Traidor (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SNODNHROTRIDRLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -929,7 +968,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Sete Homens e Um Destino (Legendado) - 2016</title>
+<title>[COLOR white]Sete Homens e Um Destino (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -943,7 +982,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>O Programa (Dublado) - 2016</title>
+<title>[COLOR white]O Programa (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OPRGMA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -957,7 +996,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Planeta dos Tubarões (Legendado) - 2016</title>
+<title>[COLOR white]Planeta dos Tubarões (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -971,7 +1010,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>O Mestre dos Gênios (Dublado) - 2016</title>
+<title>[COLOR white]O Mestre dos Gênios (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -985,7 +1024,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>O Bom Gigante Amigo (Dublado) - 2016 </title>
+<title>[COLOR white]O Bom Gigante Amigo (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -999,7 +1038,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Nerve: Um Jogo Sem Regras (Dublado)</title>
+<title>[COLOR white]Nerve: Um Jogo Sem Regras (Dublado)[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]NRVUJSR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1013,7 +1052,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Festa Da Salsicha (Dublado) - 2016</title>
+<title>[COLOR white]Festa Da Salsicha (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]FSTDSLSCHA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1027,7 +1066,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Come And Find Me (Legendado) - 2016</title>
+<title>[COLOR white]Come And Find Me (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1041,7 +1080,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Carrossel 2: O Sumiço de Maria Joaquina (Nacional) - 2016</title>
+<title>[COLOR white]Carrossel 2: O Sumiço de Maria Joaquina (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CARSL2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1055,7 +1094,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Agente Mirim (Dublado) - 2016</title>
+<title>[COLOR white]Agente Mirim (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1069,7 +1108,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Uma Noite Com a Família Blacks (Dublado) - 2016</title>
+<title>[COLOR white]Uma Noite Com a Família Blacks (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1083,7 +1122,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Uma Canção (Dublado) - 2016</title>
+<title>[COLOR white]Uma Canção (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1097,7 +1136,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>O Dragão do Natal (Dublado) - 2014</title>
+<title>[COLOR white]O Dragão do Natal (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1111,7 +1150,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Nosso Fiel Traidor (Dublado) - 2016</title>
+<title>[COLOR white]Nosso Fiel Traidor (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]NOSSFILTRDR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1124,7 +1163,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Esquadrao Suicida (Dublado) - 2016</title>
+<title>[COLOR white]Esquadrao Suicida (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1138,7 +1177,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Mercy (Dublado) - 2016</title>
+<title>[COLOR white]Mercy (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MERCY.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1152,7 +1191,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Jason Bourne (Dublado) - 2016</title>
+<title>[COLOR white]Jason Bourne (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1166,7 +1205,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Horas Decisivas (Dublado) - 2016</title>
+<title>[COLOR white]Horas Decisivas (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1180,7 +1219,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Honey 3: No Ritmo do Amor</title>
+<title>[COLOR white]Honey 3: No Ritmo do Amor[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HONY3.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1194,7 +1233,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Elvis & Nixon</title>
+<title>[COLOR white]Elvis & Nixon[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1208,7 +1247,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Cantando de Galo (Dublado) - 2015</title>
+<title>[COLOR white]Cantando de Galo (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CATNDGL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1222,7 +1261,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 </item>
 
 <item>
-<title>Anthropoid (Dublado) - 2016</title>
+<title>[COLOR white]Anthropoid (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ATHRPDLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1235,7 +1274,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 </item>
 
 <item>
-<title>Truque de Mestre: O Segundo Ato (Dublado) - 2016</title>
+<title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1249,7 +1288,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 </item>
 
 <item>
-<title>Quando as Luzes se Apagam (Dublado) - 2016</title>
+<title>[COLOR white]Quando as Luzes se Apagam (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]QNDASLZSAPGM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1263,7 +1302,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 </item>
 
 <item>
-<title>Assassino a Preço Fixo 2 (Dublado) - 2016</title>
+<title>[COLOR white]Assassino a Preço Fixo 2 (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1277,7 +1316,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 </item>
 
 <item>
-<title>Águas Rasas (Dublado) - 2016</title>
+<title>[COLOR white]Águas Rasas (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AGUSRAS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>

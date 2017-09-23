@@ -6,7 +6,7 @@
 
 
 <item>
-<title>Transformers: O Último Cavaleiro (Dublado) - 2017</title>
+<title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/transformers-o-ultimo-cavaleiro/</page></regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -16,7 +16,7 @@
 </item>
 
 <item>
-<title>A Múmia (Dublado) - 2017</title>
+<title>[COLOR white]A Múmia (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/a-mumia/</page></regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -26,7 +26,7 @@
 </item>
 
 <item>
-<title>Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017</title>
+<title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/piratas-do-caribe-vinganca-de-salazar-dublado/</page></regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-<title>Z: A Cidade Perdida (Dublado) - 2017</title>
+<title>[COLOR white]Z: A Cidade Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/z-a-cidade-perdida/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -46,7 +46,7 @@
 </item>
 
 <item>
-<title>Guardiões da Galáxia Vol. 2 (Dublado) - 2017</title>
+<title>[COLOR white]Guardiões da Galáxia Vol. 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/guardioes-da-galaxia-vol-2/</page></regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -56,7 +56,7 @@
 </item>
 
 <item>
-<title>Rei Arthur – A Lenda da Espada (Dublado) - 2017</title>
+<title>[COLOR white]Rei Arthur – A Lenda da Espada (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/rei-arthur-a-lenda-da-espada/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
@@ -66,7 +66,7 @@
 </item>
 
 <item>
-<title>Mulher-Maravilha (Dublado) - 2017</title>
+<title>[COLOR white]Mulher-Maravilha (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/mulher-maravilha-2/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -76,7 +76,7 @@
 </item>
 
 <item>
-<title>Okja (Dublado) - 2017</title>
+<title>[COLOR white]Okja (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/okja/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
@@ -86,7 +86,7 @@
 </item>
 
 <item>
-<title>Kong: A Ilha da Caveira (Dublado) - 2017</title>
+<title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/kong-a-ilha-da-caveira/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -96,7 +96,7 @@
 </item>
 
 <item>
-<title>O Espaço Entre Nós (Dublado) - 2017</title>
+<title>[COLOR white]O Espaço Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-espaco-entre-nos/</page></regex>
 <genre>Aventura,Drama e Romance</genre>
@@ -106,7 +106,7 @@
 </item>
 
 <item>
-<title>Power Rangers (Dublado) - 2017</title>
+<title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/power-rangers/</page></regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -116,7 +116,7 @@
 </item>
 
 <item>
-<title>Interestelar (Dublado) - 2014</title>
+<title>[COLOR white]Interestelar (Dublado) - 2014[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/interestelar/</page></regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -126,7 +126,7 @@
 </item>
 
 <item>
-<title>DC Vixen – O Filme (Legendado) - 2016</title>
+<title>[COLOR white]DC Vixen – O Filme (Legendado) - 2016[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/dc-vixen-o-filme/</page></regex>
 <genre>Aventura e Animação</genre>
@@ -136,7 +136,7 @@
 </item>
 
 <item>
-<title>Perdido em Marte (Dublado) - 2015</title>
+<title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -150,7 +150,7 @@
 </item>
 
 <item>
-<title>Jovens Titãs: O Contrato de Judas (Dublado) - 2017</title>
+<title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -164,7 +164,7 @@
 </item>
 
 <item>
-<title>Max Steel (Dublado) - 2017</title>
+<title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -178,7 +178,7 @@
 </item>
 
 <item>
-<title>The Warrior's Gate (Dublado) - 2017</title>
+<title>[COLOR white]The Warrior's Gate (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]WRISGT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -192,7 +192,7 @@
 </item>
 
 <item>
-<title>Rogue One: Uma História Star Wars (Dublado) - 2016</title>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -206,7 +206,7 @@
 </item>
 
 <item>
-<title>O Auto da Compadecida (Nacional) - 2000</title>
+<title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -220,7 +220,7 @@
 </item>
 
 <item>
-<title>A Bailarina (Dublado) - 2017</title>
+<title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ABLRN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -234,7 +234,7 @@
 </item>
 
 <item>
-<title>Best Player: Guerreiros Virtuais (Dublado) - 2011</title>
+<title>[COLOR white]Best Player: Guerreiros Virtuais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BSTPLY.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -250,7 +250,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Halloweentown: A Cidade do Halloween (Dublado) - 1998</title>
+<title>[COLOR white]Halloweentown: A Cidade do Halloween (Dublado) - 1998[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -264,7 +264,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>A Lenda do Rei Macaco (Dublado) - 2014</title>
+<title>[COLOR white]A Lenda do Rei Macaco (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -278,7 +278,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016</title>
+<title>[COLOR white]A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -292,7 +292,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Rio 2 (Dublado) - 2014</title>
+<title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -306,7 +306,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Rio (Dublado) - 2011</title>
+<title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -320,7 +320,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Rogue One: Uma História Star Wars (Legendado) - 2016</title>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -334,7 +334,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Moana: Um Mar de Aventuras (Dublado) - 2017</title>
+<title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -348,7 +348,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Assassin's Creed (Dublado) - 2017</title>
+<title>[COLOR white]Assassin's Creed (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -362,7 +362,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>As Aventuras de Pi (Dublado) - 2012</title>
+<title>[COLOR white]As Aventuras de Pi (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -376,7 +376,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Animais Fantásticos e Onde Habitam (Dublado) - 2016</title>
+<title>[COLOR white]Animais Fantásticos e Onde Habitam (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -390,7 +390,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Malévola (Dublado) - 2014</title>
+<title>[COLOR white]Malévola (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MLVLA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -404,7 +404,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Doutor Estranho (Dublado) - 2016</title>
+<title>[COLOR white]Doutor Estranho (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -418,7 +418,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>10000 Anos Depois (Dublado) - 2015</title>
+<title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -432,7 +432,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>O Rei Macaco (Legendado) - 2014</title>
+<title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -446,7 +446,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Desventuras em Série (Dublado) - 2005</title>
+<title>[COLOR white]Desventuras em Série (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -460,7 +460,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011</title>
+<title>[COLOR white]Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -474,7 +474,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011</title>
+<title>[COLOR white]Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -488,7 +488,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012</title>
+<title>[COLOR white]Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -502,7 +502,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013</title>
+<title>[COLOR white]Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -516,7 +516,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014</title>
+<title>[COLOR white]Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -530,7 +530,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015</title>
+<title>[COLOR white]Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -544,7 +544,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Tubarão de Gelo (Legendado) - 2016</title>
+<title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -558,7 +558,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>O Bom Gigante Amigo (Dublado) - 2016 </title>
+<title>[COLOR white]O Bom Gigante Amigo (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -572,7 +572,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Agente Mirim (Dublado) - 2016</title>
+<title>[COLOR white]Agente Mirim (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -586,7 +586,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Sansão e Dalila (Dublado) - 1951</title>
+<title>[COLOR white]Sansão e Dalila (Dublado) - 1951[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -600,7 +600,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>O Dragão do Natal (Dublado) - 2014</title>
+<title>[COLOR white]O Dragão do Natal (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -614,7 +614,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Abril e o Mundo Extraordinário (Dublado) - 2015</title>
+<title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -628,7 +628,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Perdidos no Pacifico (Legendado) - 2016</title>
+<title>[COLOR white]Perdidos no Pacifico (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -642,7 +642,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>O Lar das Crianças Peculiares (Dublado) - 2016</title>
+<title>[COLOR white]O Lar das Crianças Peculiares (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -656,7 +656,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Truque de Mestre: O Segundo Ato (Dublado) - 2016</title>
+<title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>

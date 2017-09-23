@@ -5,7 +5,7 @@
 
 
 <item>
-<title>Meu Malvado Favorito 3 (Legendado) - 2017</title>
+<title>[COLOR white]Meu Malvado Favorito 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/meu-malvado-favorito-3/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>O Poderoso Chefinho (Dublado) - 2017</title>
+<title>[COLOR white]O Poderoso Chefinho (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-poderoso-chefinho/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>A Bela e a Fera (Legendado) - 2017</title>
+<title>[COLOR white]A Bela e a Fera (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*ABE.*?)" fra</expres>
 <page>http://netcine.us/a-bela-e-a-fera/</page></regex>
 <genre>Animação</genre>
@@ -35,7 +35,7 @@
 </item>
 
 <item>
-<title>A Bela e a Fera (Dublado) - 2017</title>
+<title>[COLOR white]A Bela e a Fera (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/a-bela-e-a-fera/</page></regex>
 <genre>Animação</genre>
@@ -45,7 +45,7 @@
 </item>
 
 <item>
-<title>O Poderoso Chefinho (Dublado) - 2017</title>
+<title>[COLOR white]O Poderoso Chefinho (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-poderoso-chefinho/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>LEGO Batman: O Filme (Dublado) - 2017</title>
+<title>[COLOR white]LEGO Batman: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/lego-batman-o-filme/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -65,7 +65,7 @@
 </item>
 
 <item>
-<title>DC Vixen – O Filme (Legendado) - 2016</title>
+<title>[COLOR white]DC Vixen – O Filme (Legendado) - 2016[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/dc-vixen-o-filme/</page></regex>
 <genre>Aventura e Animação</genre>
@@ -75,7 +75,7 @@
 </item>
 
 <item>
-<title>Hulk: Onde os Monstros Habitam (Legendado) - 2016</title>
+<title>[COLOR white]Hulk: Onde os Monstros Habitam (Legendado) - 2016[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/hulk-onde-os-monstros-habitam/</page></regex>
 <genre>Ação e Animação</genre>
@@ -85,7 +85,7 @@
 </item>
 
 <item>
-<title>Hulk: Onde os Monstros Habitam (Dublado) - 2016</title>
+<title>[COLOR white]Hulk: Onde os Monstros Habitam (Dublado) - 2016[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/hulk-onde-os-monstros-habitam/</page></regex>
 <genre>Ação e Animação</genre>
@@ -95,7 +95,7 @@
 </item>
 
 <item>
-<title>Jovens Titãs: O Contrato de Judas (Dublado) - 2017</title>
+<title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -109,7 +109,7 @@
 </item>
 
 <item>
-<title>A Bailarina (Dublado) - 2017</title>
+<title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ABLRN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -123,7 +123,7 @@
 </item>
 
 <item>
-<title>Hop: Rebelde Sem Páscoa (Dublado) - 2011</title>
+<title>[COLOR white]Hop: Rebelde Sem Páscoa (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -137,7 +137,7 @@
 </item>
 
 <item>
-<title>Sing: Quem Canta Seus Males Espanta (Dublado) - 2016</title>
+<title>[COLOR white]Sing: Quem Canta Seus Males Espanta (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -153,7 +153,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Rio 2 (Dublado) - 2014</title>
+<title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -167,7 +167,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Rio (Dublado) - 2011</title>
+<title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -181,7 +181,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Moana: Um Mar de Aventuras (Dublado) - 2017</title>
+<title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -195,7 +195,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>As Aventuras de Peabody & Sherman (Dublado) - 2014</title>
+<title>[COLOR white]As Aventuras de Peabody & Sherman (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -209,7 +209,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Trolls (Dublado) - 2016</title>
+<title>[COLOR white]Trolls (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRLS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -223,7 +223,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>10000 Anos Depois (Dublado) - 2015</title>
+<title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -237,7 +237,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Cantando de Galo</title>
+<title>[COLOR white]Cantando de Galo[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CATNDGL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -251,7 +251,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 </item>
 
 <item>
-<title>Liga da Justiça Sombria (Dublado) - 2017</title>
+<title>[COLOR white]Liga da Justiça Sombria (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -265,7 +265,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 </item>
 
 <item>
-<title>Abril e o Mundo Extraordinário (Dublado) - 2015</title>
+<title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -279,7 +279,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 </item>
 
 <item>
-<title>Truque de Mestre: O Segundo Ato (Dublado) - 2016</title>
+<title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>

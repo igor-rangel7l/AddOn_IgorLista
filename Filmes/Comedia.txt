@@ -5,9 +5,18 @@
 
 
 
+<item>
+<title>[COLOR white]The House (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/the-house-2017-legendado/</page></regex>
+<genre>Comédia</genre>
+<info>Um casal acidentalmente perde todo o dinheiro que haviam poupado para a universidade da filha. Para recuperar o valor, eles abrem um cassino clandestino em casa e convidam vizinhos e amigos para apostar.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpsyfRI1QNJcXlKw96i14cokiDWxt6W5_Xzb3db6LVHZi9pjoRUg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/MV5BMTc0NDYwNzU2M15BMl5BanBnXkFtZTgwOTUxNDg0MTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
 
 <item>
-<title>A Múmia (Dublado) - 2017</title>
+<title>[COLOR white]A Múmia (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/a-mumia/</page></regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -17,7 +26,7 @@
 </item>
 
 <item>
-<title>Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017</title>
+<title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/piratas-do-caribe-vinganca-de-salazar-dublado/</page></regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -27,7 +36,7 @@
 </item>
 
 <item>
-<title>Baywatch - S.O.S. Malibu (Dublado) - 2017</title>
+<title>[COLOR white]Baywatch - S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/baywatch-s-o-s-malibu/</page></regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -37,7 +46,7 @@
 </item>
 
 <item>
-<title>O Poderoso Chefinho (Dublado) - 2017</title>
+<title>[COLOR white]O Poderoso Chefinho (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-poderoso-chefinho/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -47,7 +56,7 @@
 </item>
 
 <item>
-<title>O Poderoso Chefinho (Dublado) - 2017</title>
+<title>[COLOR white]O Poderoso Chefinho (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-poderoso-chefinho/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -57,7 +66,7 @@
 </item>
 
 <item>
-<title>LEGO Batman: O Filme (Dublado) - 2017</title>
+<title>[COLOR white]LEGO Batman: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/lego-batman-o-filme/</page></regex>
 <genre>Animação e Comédia</genre>
@@ -67,7 +76,7 @@
 </item>
 
 <item>
-<title>Vizinhos Nada Secretos (Dublado) - 2017</title>
+<title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -81,7 +90,7 @@
 </item>
 
 <item>
-<title>A Fabulosa Gilly Hopkins (Dublado) - 2017</title>
+<title>[COLOR white]A Fabulosa Gilly Hopkins (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -95,7 +104,7 @@
 </item>
 
 <item>
-<title>Amor em Sampa (Nacional) - 2016</title>
+<title>[COLOR white]Amor em Sampa (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AMREMSP.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -109,7 +118,7 @@
 </item>
 
 <item>
-<title>Apostando Tudo (Dublado) - 2017</title>
+<title>[COLOR white]Apostando Tudo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -123,7 +132,7 @@
 </item>
 
 <item>
-<title>Bem Casados (Nacional) - 2015</title>
+<title>[COLOR white]Bem Casados (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -137,7 +146,7 @@
 </item>
 
 <item>
-<title>Capitão Fantástico (Dublado) - 2016</title>
+<title>[COLOR white]Capitão Fantástico (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -151,7 +160,7 @@
 </item>
 
 <item>
-<title>Entre Abelhas (Nacional) - 2015</title>
+<title>[COLOR white]Entre Abelhas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -165,7 +174,7 @@
 </item>
 
 <item>
-<title>Não é Mais Um Besteirol Americano (Dublado) - 2002</title>
+<title>[COLOR white]Não é Mais Um Besteirol Americano (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]NEUMBSTRAMRCN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -179,7 +188,7 @@
 </item>
 
 <item>
-<title>O Roubo da Taça (Nacional) - 2016</title>
+<title>[COLOR white]O Roubo da Taça (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OROBDTA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -193,7 +202,7 @@
 </item>
 
 <item>
-<title>Os Normais: O Filme (Nacional) - 2003</title>
+<title>[COLOR white]Os Normais: O Filme (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -207,7 +216,7 @@
 </item>
 
 <item>
-<title>Porta Do Fundo Contrato Vitalicio (Nacional) - 2016</title>
+<title>[COLOR white]Porta Do Fundo Contrato Vitalicio (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -221,7 +230,7 @@
 </item>
 
 <item>
-<title>Qualquer Gato Vira-Lata 2 (Nacional) - 2015</title>
+<title>[COLOR white]Qualquer Gato Vira-Lata 2 (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -235,7 +244,7 @@
 </item>
 
 <item>
-<title>Qualquer Gato Vira-Lata (Nacional) - 2011</title>
+<title>[COLOR white]Qualquer Gato Vira-Lata (Nacional) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -251,7 +260,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 </item>
 
 <item>
-<title>Superpai (Nacional) - 2015</title>
+<title>[COLOR white]Superpai (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SPRPAI.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -265,7 +274,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 </item>
 
 <item>
-<title>Um Suburbano Sortudo (Nacional) - 2016</title>
+<title>[COLOR white]Um Suburbano Sortudo (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -282,7 +291,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 </item>
 
 <item>
-<title>Internet: O Filme (Nacional) - 2017</title>
+<title>[COLOR white]Internet: O Filme (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]INTNET.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -296,7 +305,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 </item>
 
 <item>
-<title>Lisbela e o Prisioneiro (Nacional) - 2003</title>
+<title>[COLOR white]Lisbela e o Prisioneiro (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -310,7 +319,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 </item>
 
 <item>
-<title>O Auto da Compadecida (Nacional) - 2000</title>
+<title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -324,7 +333,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 </item>
 
 <item>
-<title>Best Player: Guerreiros Virtuais (Dublado) - 2011</title>
+<title>[COLOR white]Best Player: Guerreiros Virtuais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BSTPLY.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -340,7 +349,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Fazenda Dos Cisnes (Dublado) - 2017</title>
+<title>[COLOR white]Fazenda Dos Cisnes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -354,7 +363,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Hop: Rebelde Sem Páscoa (Dublado) - 2011</title>
+<title>[COLOR white]Hop: Rebelde Sem Páscoa (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -368,7 +377,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Nossos Amantes (Dublado) - 2017</title>
+<title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -382,7 +391,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Halloweentown: A Cidade do Halloween (Dublado) - 1998</title>
+<title>[COLOR white]Halloweentown: A Cidade do Halloween (Dublado) - 1998[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -396,7 +405,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Do Que as Mulheres Gostam (Dublado) - 2001</title>
+<title>[COLOR white]Do Que as Mulheres Gostam (Dublado) - 2001[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -410,7 +419,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 </item>
 
 <item>
-<title>Cruzeiro das Loucas (Dublado) - 2003</title>
+vCruzeiro das Loucas (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCRZRDLCS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -426,7 +435,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 </item>
 
 <item>
-<title>Refém: O Filme (Nacional) - 2015</title>
+<title>[COLOR white]Refém: O Filme (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RFMNAC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -440,7 +449,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 </item>
 
 <item>
-<title>Sandy Wexler (Dublado) - 2017</title>
+<title>[COLOR white]Sandy Wexler (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -454,7 +463,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 </item>
 
 <item>
-<title>Sing: Quem Canta Seus Males Espanta (Dublado) - 2016</title>
+<title>[COLOR white]Sing: Quem Canta Seus Males Espanta (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -470,7 +479,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Vizinhos Nada Secretos (Dublado) - 2017</title>
+<title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -484,7 +493,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Rio 2 (Dublado) - 2014</title>
+<title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -498,7 +507,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Rio (Dublado) - 2011</title>
+<title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -512,7 +521,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Moana: Um Mar de Aventuras (Dublado) - 2017</title>
+<title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -526,7 +535,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Minha Mãe é uma Peça 2 (Nacional) - 2016</title>
+<title>[COLOR white]Minha Mãe é uma Peça 2 (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -540,7 +549,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Minha Mãe é uma Peça: O Filme (Nacional) - 2013</title>
+<title>[COLOR white]Minha Mãe é uma Peça: O Filme (Nacional) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -554,7 +563,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>A Última Ressaca Do Ano (Dublado) - 2016</title>
+<title>[COLOR white]A Última Ressaca Do Ano (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -568,7 +577,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>O Shaolin Do Sertão (Nacional) - 2016</title>
+<title>[COLOR white]O Shaolin Do Sertão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -582,7 +591,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Kick Ass: Quebrando Tudo (Dublado) - 2010</title>
+<title>[COLOR white]Kick Ass: Quebrando Tudo (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -596,7 +605,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Kick-Ass 2 (Dublado) - 2013</title>
+<title>[COLOR white]Kick-Ass 2 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]KCKASS2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -610,7 +619,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Hora de Voltar (Dublado) - 2004</title>
+<title>[COLOR white]Hora de Voltar (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -624,7 +633,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Meu Irmão Cego (Dublado) - 2016</title>
+<title>[COLOR white]Meu Irmão Cego (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -638,7 +647,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Amor & Amizade (Dublado) - 2016</title>
+<title>[COLOR white]Amor & Amizade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -652,7 +661,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Desventuras em Série (Dublado) - 2005</title>
+<title>[COLOR white]Desventuras em Série (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -666,7 +675,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Uma Noite Com a Família Blacks (Dublado) - 2016</title>
+<title>[COLOR white]Uma Noite Com a Família Blacks (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -680,7 +689,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Ritmo Total (Dublado) - 2002</title>
+<title>[COLOR white]Ritmo Total (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -694,7 +703,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Perfeita é a Mãe (Dublado) - 2016</title>
+<title>[COLOR white]Perfeita é a Mãe (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -708,7 +717,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Porque é Novembro (Dublado) - 2016</title>
+<title>[COLOR white]Porque é Novembro (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -722,7 +731,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Popstar: Sem Parar, Sem Limites (Dublado) - 2016</title>
+<title>[COLOR white]Popstar: Sem Parar, Sem Limites (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -736,7 +745,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Namorada de Aluguel (Dublado) - 1987</title>
+<title>[COLOR white]Namorada de Aluguel (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -750,7 +759,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Força Para Viver (Dublado) - 2015</title>
+<title>[COLOR white]Força Para Viver (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -764,7 +773,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Escola de Rock (Dublado) - 2004</title>
+<title>[COLOR white]Escola de Rock (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -778,7 +787,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Elvis & Nixon</title>
+<title>[COLOR white]Elvis & Nixon[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -792,7 +801,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Deu a Louca no Mundo (Dublado) - 1963</title>
+<title>[COLOR white]Deu a Louca no Mundo (Dublado) - 1963[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -806,7 +815,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Batalha de Honra (Dublado) - 1993</title>
+<title>[COLOR white]Batalha de Honra (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -820,7 +829,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Gênios do Crime (Dublado) - 2016 </title>
+<title>[COLOR white]Gênios do Crime (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -834,7 +843,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 </item>
 
 <item>
-<title>Truque de Mestre: O Segundo Ato (Dublado) - 2016</title>
+<title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>

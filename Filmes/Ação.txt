@@ -5,7 +5,17 @@
 
 
 <item>
-<title>Transformers: O Último Cavaleiro (Dublado) - 2017</title>
+<title>[COLOR white]Revolt (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/revolt-2017-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>A trama acompanha um soldado americano (Lee Pace) e uma trabalhadora voluntária francesa (Bérénice Marlohe) que, na África, fazem parte do último núcleo de resistência da humanidade contra uma invasão alienígena.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBD_qA5hWd555TXpWEa5JSaCkAOPdKBxyh4SkEGS-W4KaRBCPXe0Q_iL2YGQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/revolt_xlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/transformers-o-ultimo-cavaleiro/</page></regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -15,7 +25,7 @@
 </item>
 
 <item>
-<title>Colossal (Dublado) - 2017</title>
+<title>[COLOR white]Colossal (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/colossal/</page></regex>
 <genre>Ação e Ficção Cientifica</genre>
@@ -25,9 +35,9 @@
 </item>
 
 <item>
-<title>Em Ritmo De Fuga (Legendado) - 2017</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/em-ritmo-de-fuga/</page></regex>
+<title>[COLOR white]Em Ritmo De Fuga (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/em-ritmo-de-fuga-2017-dublado-hd-3/</page></regex>
 <genre>Ação e Policial</genre>
 <info>O jovem Baby (Ansel Elgort) tem uma mania curiosa: ele precisa ouvir músicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na infância. Mesmo assim, o rapaz revela-se um motorista excelente, e começa a trabalhar para uma gangue de criminosos. Quando um assalto a banco não sai como planejado, ele cai na estrada em fuga.</info>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MjE4Njc1OV5BMl5BanBnXkFtZTgwNjkzNzI2MjI@._V1_SY1000_CR0,0,1635,1000_AL_.jpg</fanart>
@@ -35,7 +45,7 @@
 </item>
 
 <item>
-<title>Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017</title>
+<title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/piratas-do-caribe-vinganca-de-salazar-dublado/</page></regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -45,7 +55,7 @@
 </item>
 
 <item>
-<title>Piratas do Caribe – A Vingança de Salazar (Legendado) - 2017</title>
+<title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/piratas-do-caribe-a-vinganca-de-salazar/</page></regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -55,7 +65,7 @@
 </item>
 
 <item>
-<title>Z: A Cidade Perdida (Dublado) - 2017</title>
+<title>[COLOR white]Z: A Cidade Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/z-a-cidade-perdida/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -65,7 +75,7 @@
 </item>
 
 <item>
-<title>Baywatch - S.O.S. Malibu (Dublado) - 2017</title>
+<title>[COLOR white]Baywatch - S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/baywatch-s-o-s-malibu/</page></regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -75,7 +85,7 @@
 </item>
 
 <item>
-<title>Velozes e Furiosos 8 (Dublado) - 2017</title>
+<title>[COLOR white]Velozes e Furiosos 8 (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/velozes-e-furiosos-8/</page></regex>
 <genre>Ação e Policial</genre>
@@ -85,7 +95,7 @@
 </item>
 
 <item>
-<title>A Vigilante do Amanhã: Ghost in the Shell (Dublado) - 2017</title>
+<title>[COLOR white]A Vigilante do Amanhã: Ghost in the Shell (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/a-vigilante-do-amanha-ghost-in-the-shell/</page></regex>
 <genre>Ação,Drama e Ficção Cientifica</genre>
@@ -95,7 +105,7 @@
 </item>
 
 <item>
-<title>Resident Evil: A Vingança (Dublado) - 2017</title>
+<title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/resident-evil-vendetta/</page></regex>
 <genre>Suspense,Ação e Terror</genre>
@@ -105,7 +115,7 @@
 </item>
 
 <item>
-<title>Rei Arthur – A Lenda da Espada (Dublado) - 2017</title>
+<title>[COLOR white]Rei Arthur – A Lenda da Espada (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/rei-arthur-a-lenda-da-espada/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
@@ -115,7 +125,7 @@
 </item>
 
 <item>
-<title>Mulher-Maravilha (Dublado) - 2017</title>
+<title>[COLOR white]Mulher-Maravilha (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/mulher-maravilha-2/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -125,7 +135,7 @@
 </item>
 
 <item>
-<title>Okja (Dublado) - 2017</title>
+<title>[COLOR white]Okja (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/okja/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
@@ -135,7 +145,7 @@
 </item>
 
 <item>
-<title>Kong: A Ilha da Caveira (Dublado) - 2017</title>
+<title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/kong-a-ilha-da-caveira/</page></regex>
 <genre>Ação e Aventura</genre>
@@ -145,7 +155,7 @@
 </item>
 
 <item>
-<title>Power Rangers (Dublado) - 2017</title>
+<title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/power-rangers/</page></regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -155,7 +165,7 @@
 </item>
 
 <item>
-<title>John Wick: Um Novo Dia Para Matar (Dublado) - 2017</title>
+<title>[COLOR white]John Wick: Um Novo Dia Para Matar (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/john-wick-um-novo-dia-para-matar/</page></regex>
 <genre>Ação e Policial</genre>
@@ -165,7 +175,7 @@
 </item>
 
 <item>
-<title>Hulk: Onde os Monstros Habitam (Legendado) - 2016</title>
+<title>[COLOR white]Hulk: Onde os Monstros Habitam (Legendado) - 2016[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/hulk-onde-os-monstros-habitam/</page></regex>
 <genre>Ação e Animação</genre>
@@ -175,7 +185,7 @@
 </item>
 
 <item>
-<title>Hulk: Onde os Monstros Habitam (Dublado) - 2016</title>
+<title>[COLOR white]Hulk: Onde os Monstros Habitam (Dublado) - 2016[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/hulk-onde-os-monstros-habitam/</page></regex>
 <genre>Ação e Animação</genre>
@@ -185,7 +195,7 @@
 </item>
 
 <item>
-<title>Logan (Dublado) - 2017</title>
+<title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/logan/</page></regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
@@ -195,7 +205,7 @@
 </item>
 
 <item>
-<title>Vizinhos Nada Secretos (Dublado) - 2017</title>
+<title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -209,7 +219,7 @@
 </item>
 
 <item>
-<title>Busca Explosiva 5: Campo de Batalha (Dublado) - 2017</title>
+<title>[COLOR white]Busca Explosiva 5: Campo de Batalha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV5.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -223,7 +233,7 @@
 </item>
 
 <item>
-<title>Busca Explosiva 4 (Dublado) - 2015</title>
+<title>[COLOR white]Busca Explosiva 4 (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV4.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -237,7 +247,7 @@
 </item>
 
 <item>
-<title>Busca Explosiva 3 (Dublado) - 2013</title>
+<title>[COLOR white]Busca Explosiva 3 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV3.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -251,7 +261,7 @@
 </item>
 
 <item>
-<title>Busca Explosiva 2 (Dublado) - 2009</title>
+<title>[COLOR white]Busca Explosiva 2 (Dublado) - 2009[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -265,7 +275,7 @@
 </item>
 
 <item>
-<title>Busca Explosiva (Dublado) - 2006</title>
+<title>[COLOR white]Busca Explosiva (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV1.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -279,7 +289,7 @@
 </item>
 
 <item>
-<title>Jovens Titãs: O Contrato de Judas (Dublado) - 2017</title>
+<title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -293,7 +303,7 @@
 </item>
 
 <item>
-<title>Max Steel (Dublado) - 2017</title>
+<title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -307,7 +317,7 @@
 </item>
 
 <item>
-<title>Maze Runner: Prova de Fogo (Dublado) - 2015</title>
+<title>[COLOR white]Maze Runner: Prova de Fogo (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -321,7 +331,7 @@
 </item>
 
 <item>
-<title>Reza a Lenda (Nacional) - 2016</title>
+<title>[COLOR white]Reza a Lenda (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RZALND.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -335,7 +345,7 @@
 </item>
 
 <item>
-<title>The Warrior's Gate (Dublado) - 2017</title>
+<title>[COLOR white]The Warrior's Gate (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]WRISGT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -349,7 +359,7 @@
 </item>
 
 <item>
-<title>Rogue One: Uma História Star Wars (Dublado) - 2016</title>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -363,7 +373,7 @@
 </item>
 
 <item>
-<title>Resgate Suicida (Dublado) - 2017</title>
+<title>[COLOR white]Resgate Suicida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -377,7 +387,7 @@
 </item>
 
 <item>
-<title>A Lenda do Rei Macaco (Dublado) - 2014</title>
+<title>[COLOR white]A Lenda do Rei Macaco (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -391,7 +401,7 @@
 </item>
 
 <item>
-<title>A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016</title>
+<title>[COLOR white]A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -405,7 +415,7 @@
 </item>
 
 <item>
-<title>Vizinhos Nada Secretos (Dublado) - 2017</title>
+<title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -419,7 +429,7 @@
 </item>
 
 <item>
-<title>Rogue One: Uma História Star Wars (Legendado) - 2016</title>
+<title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -433,7 +443,7 @@
 </item>
 
 <item>
-<title>Resident Evil 6: O Capítulo Final (Dublado) - 2017</title>
+<title>[COLOR white]Resident Evil 6: O Capítulo Final (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL06.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -447,7 +457,7 @@
 </item>
 
 <item>
-<title>Resident Evil 6: O Capítulo Final (Legendado) - 2017</title>
+<title>[COLOR white]Resident Evil 6: O Capítulo Final (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -461,7 +471,7 @@
 </item>
 
 <item>
-<title>Resident Evil 5: Retribuição (Dublado) - 2012</title>
+<title>[COLOR white]Resident Evil 5: Retribuição (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL05.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -478,7 +488,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Resident Evil 4: Recomeço (Dublado) - 2010</title>
+<title>[COLOR white]Resident Evil 4: Recomeço (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL04.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -492,7 +502,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Resident Evil 3: A Extinção (Dublado) - 2007</title>
+<title>[COLOR white]Resident Evil 3: A Extinção (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL03.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -506,7 +516,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Resident Evil: Apocalipse (Dublado) - 2004</title>
+<title>[COLOR white]Resident Evil: Apocalipse (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL02.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -520,7 +530,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Resident Evil: O Hóspede Maldito (Dublado) - 2002</title>
+<title>[COLOR white]Resident Evil: O Hóspede Maldito (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]REVIL01.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -534,7 +544,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Passageiros (Dublado) - 2017</title>
+<title>[COLOR white]Passageiros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -548,7 +558,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Horizonte Profundo: Desastre no Golfo (Dublado) - 2016</title>
+<title>[COLOR white]Horizonte Profundo: Desastre no Golfo (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -562,7 +572,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Hancock (Dublado) - 2008</title>
+<title>[COLOR white]Hancock (Dublado) - 2008[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HNCK.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -576,7 +586,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Assassin's Creed (Dublado) - 2017</title>
+<title>[COLOR white]Assassin's Creed (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -590,7 +600,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>O Shaolin Do Sertão (Nacional) - 2016</title>
+<title>[COLOR white]O Shaolin Do Sertão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -604,7 +614,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Kick Ass: Quebrando Tudo (Dublado) - 2010</title>
+<title>[COLOR white]Kick Ass: Quebrando Tudo (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -618,7 +628,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Kick-Ass 2 (Dublado) - 2013</title>
+<title>[COLOR white]Kick-Ass 2 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]KCKASS2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -632,7 +642,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Assassino a Preço Fixo (Dublado) - 2011</title>
+<title>[COLOR white]Assassino a Preço Fixo (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -646,7 +656,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016</title>
+<title>[COLOR white]Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -660,7 +670,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Jack Reacher: Sem Retorno (Dublado) - 2016</title>
+<title>Jack Reacher: Sem Retorno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JCKRCHSRTN.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -674,7 +684,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>A Volta do Juízo Final (Dublado) - 2016</title>
+<title>[COLOR white]A Volta do Juízo Final (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AVLTDJZFNL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -688,7 +698,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>O Rei Macaco (Legendado) - 2014</title>
+<title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -702,7 +712,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011</title>
+<title>[COLOR white]Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -716,7 +726,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011</title>
+<title>[COLOR white]Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -730,7 +740,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012</title>
+<title>[COLOR white]Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -744,7 +754,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013</title>
+<title>[COLOR white]Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -758,7 +768,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014</title>
+<title>[COLOR white]Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -772,7 +782,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015</title>
+<title>[COLOR white]Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -786,7 +796,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 </item>
 
 <item>
-<title>O Contador (Dublado) - 2016</title>
+<title>[COLOR white]O Contador (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -801,7 +811,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Tubarão de Gelo (Legendado) - 2016</title>
+<title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -815,7 +825,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Spectral (Dublado) - 2016</title>
+<title>[COLOR white]Spectral (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SPCTRL.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -829,7 +839,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Sete Homens e Um Destino (Legendado) - 2016</title>
+<title>[COLOR white]Sete Homens e Um Destino (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -843,7 +853,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Planeta dos Tubarões (Legendado) - 2016</title>
+<title>[COLOR white]Planeta dos Tubarões (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -857,7 +867,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Os Caçadores de Atlântida (Dublado) - 1983</title>
+<title>[COLOR white]Os Caçadores de Atlântida (Dublado) - 1983[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -871,7 +881,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Operação Dragão (Dublado) - 1973</title>
+<title>[COLOR white]Operação Dragão (Dublado) - 1973[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -885,7 +895,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Jogo da Morte (Dublado) - 2014</title>
+<title>[COLOR white]Jogo da Morte (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -899,7 +909,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>A Fúria do Dragão (Dublado) - 1972</title>
+<title>[COLOR white]A Fúria do Dragão (Dublado) - 1972[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AFRDRGO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -913,7 +923,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Jason Bourne (Dublado) - 2016</title>
+<title>[COLOR white]Jason Bourne (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -927,7 +937,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Jogo da Morte: A Última Jogada (Dublado) - 2014</title>
+<title>[COLOR white]Jogo da Morte: A Última Jogada (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -941,7 +951,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Horas Decisivas</title>
+<title>[COLOR white]Horas Decisivas[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -955,7 +965,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 </item>
 
 <item>
-<title>Guerra ao Terror (Dublado) - 2010</title>
+<title>[COLOR white]Guerra ao Terror (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]GURAOTER.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -970,7 +980,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 </item>
 
 <item>
-<title>Cyborg: O Dragão do Futuro (Dublado) - 1989</title>
+<title>[COLOR white]Cyborg: O Dragão do Futuro (Dublado) - 1989[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -984,7 +994,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 </item>
 
 <item>
-<title>Batalha de Honra (Dublado) - 1993</title>
+<title>[COLOR white]Batalha de Honra (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -998,7 +1008,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 </item>
 
 <item>
-<title>Esquadrão de Elite (Dublado) - 2015</title>
+<title>[COLOR white]Esquadrão de Elite (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1012,7 +1022,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 </item>
 
 <item>
-<title>iBoy (Dublado) - 2017</title>
+<title>[COLOR white]iBoy (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]IBOY.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1026,7 +1036,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 </item>
 
 <item>
-<title>Inferno (Dublado) - 2016</title>
+<title>[COLOR white]Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]INFRNO.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1040,7 +1050,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 </item>
 
 <item>
-<title>Gênios do Crime (Dublado) - 2016 </title>
+<title>[COLOR white]Gênios do Crime (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
@@ -1054,7 +1064,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 </item>
 
 <item>
-<title>Esquadrao Suicida (Dublado) - 2016</title>
+<title>[COLOR white]Esquadrao Suicida (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4</link>
 <regex>
 <name>Igor_Rangel_Link</name>
