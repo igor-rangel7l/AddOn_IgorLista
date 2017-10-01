@@ -3,6 +3,15 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+<item>
+<title>[COLOR white]Homem-Aranha: De Volta ao Lar (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/homem-aranha-de-volta-ao-lar/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODIzNjIzMF5BMl5BanBnXkFtZTgwODMzNTMzMjI@._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/18740549_1497541060277272_1871631708025038851_n.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Revolt (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
