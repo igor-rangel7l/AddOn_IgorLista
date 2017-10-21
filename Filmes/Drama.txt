@@ -4,9 +4,39 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+
+<item>
+<title>[COLOR white]Planeta dos Macacos: A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/planeta-dos-macacos-a-guerra/</page></regex>
+<genre>Ação,Drama e Aventura</genre>
+<info>César e seus macacos são forçados a um conflito mortal contra um exército de seres humanos liderados por um Coronel implacável. Depois que os macacos sofrem perdas inimagináveis, César luta contra seus instintos mais escuros e começa sua própria busca mítica para vingar sua espécie. À medida em que a jornada finalmente os coloca cara a cara, César e o Coronel se enfrentam em uma batalha épica que determinará o destino de suas espécies e o futuro do planeta.</info>
+<fanart>http://br.web.img2.acsta.net/c_400_200/newsv7/17/08/30/19/51/243260.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170401_120545.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Fala Comigo (Nacional) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/fala-comigo-2017-nacional/</page></regex>
+<genre>Nacional e Drama</genre>
+<info>Diogo, adolescente de 17 anos, gosta de ligar para as pacientes da sua mãe psicanalista e assim conhece Ângela, de 43 anos, que acabou de ser abandonada pelo marido. Os dois se apaixonam e precisarão encontrar uma maneira de permanecerem juntos, mas os obstáculos são muitos: a diferença de idade, a mãe de Diogo e, acima de tudo, seu próprio caminho em direção à idade adulta.</info>
+<fanart>https://2.bp.blogspot.com/-SjXSIE10AYo/WWfSotXX-QI/AAAAAAAAOeE/0xMbMDDwNaoILS1SPYP2wtrVMJIibNk2gCLcBGAs/s1600/Filme_Fala-Comigo_img01.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/falacomigo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]1922 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/1922-2017-dublado/</page></regex>
+<genre>Drama</genre>
+<info>Wilfred James (Thomas Jane), é um fazendeiro que assassina a própria esposa com a ajuda de seu filho. Depois do acontecido, com o remorso e uma sucessão de problemas acontecendo logo após o crime, Wilfred acredita que o espírito da sua esposa está assombrando ele.</info>
+<fanart>https://str18.vidoza.net/i/11/00447/tsltj80esfau.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/1922.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR white]Esta É A Sua Morte (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/esta-e-sua-morte-2017-legendado/</page></regex>
 <genre>Suspense,Terror e Drama</genre>
 <info>O público de hoje tornou-se apaixonado por assistir à degradação de outros na televisão e na internet. Eles desejam um argumento selvagem, uma luta sangrenta ou um escândalo publicitário. Esta se tornou a principal fonte de entretenimento. Mas quando os limites parecem não poderem ser mais ultrapassados, o apresentador de um game show, Adam Rogers, decide quebrar as barreiras ao colocar no ar um novo show, no qual os concorrentes arriscam suas vidas pela chance de ganhar dinheiro. Adam só ficará satisfeito se seu reality show for o número um no ranking da audiência, e ele não vai parar por nada para se certificar de que ele chega lá, mesmo que isso signifique perder sua humanidade.</info>

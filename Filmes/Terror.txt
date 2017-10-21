@@ -5,7 +5,7 @@
 
 <item>
 <title>[COLOR white]Esta É A Sua Morte (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/esta-e-sua-morte-2017-legendado/</page></regex>
 <genre>Suspense,Terror e Drama</genre>
 <info>O público de hoje tornou-se apaixonado por assistir à degradação de outros na televisão e na internet. Eles desejam um argumento selvagem, uma luta sangrenta ou um escândalo publicitário. Esta se tornou a principal fonte de entretenimento. Mas quando os limites parecem não poderem ser mais ultrapassados, o apresentador de um game show, Adam Rogers, decide quebrar as barreiras ao colocar no ar um novo show, no qual os concorrentes arriscam suas vidas pela chance de ganhar dinheiro. Adam só ficará satisfeito se seu reality show for o número um no ranking da audiência, e ele não vai parar por nada para se certificar de que ele chega lá, mesmo que isso signifique perder sua humanidade.</info>
@@ -15,8 +15,8 @@
 
 <item>
 <title>[COLOR white]Annabelle 2: A Criação do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/annabelle-2-criacao-do-mal-2017-legendado-hd/</page></regex>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/annabelle-2-a-criacao-do-mal-2017-dublado-hd-4/</page></regex>
 <genre>Terror</genre>
 <info>nos após a trágica morte de sua filha, um habilidoso artesão de bonecas e sua esposa decidem, por caridade, acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato. Atormentado pelas lembranças traumáticas, o casal ainda precisa lidar com um amendrontador demônio do passado: Annabelle, criação do artesão.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNGe8xoOzCas6JDA5gblNKShBLYRsSdUT0wc7eLFN3gq8lNUyZFVPZ528WhA</fanart>

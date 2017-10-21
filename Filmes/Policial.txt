@@ -9,7 +9,7 @@
 
 <item>
 <title>[COLOR white]Em Ritmo De Fuga (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/em-ritmo-de-fuga-2017-dublado-hd-3/</page></regex>
 <genre>Ação e Policial</genre>
 <info>O jovem Baby (Ansel Elgort) tem uma mania curiosa: ele precisa ouvir músicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na infância. Mesmo assim, o rapaz revela-se um motorista excelente, e começa a trabalhar para uma gangue de criminosos. Quando um assalto a banco não sai como planejado, ele cai na estrada em fuga.</info>

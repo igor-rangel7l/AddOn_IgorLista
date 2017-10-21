@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/meu-malvado-favorito-3-dublado/</page></regex>
 <genre>Animação e Comédia</genre>
 <info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
@@ -17,7 +17,7 @@
 
 <item>
 <title>[COLOR white]The House (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/casa-caiu-um-cassino-na-vizinhanca-dublado/</page></regex>
 <genre>Comédia</genre>
 <info>Um casal acidentalmente perde todo o dinheiro que haviam poupado para a universidade da filha. Para recuperar o valor, eles abrem um cassino clandestino em casa e convidam vizinhos e amigos para apostar.</info>

@@ -23,9 +23,80 @@ http://netcine.us/o-poderoso-chefinho/
 
 
 <item>
-<title>[COLOR white]Homem-Aranha: De Volta ao Lar (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/homem-aranha-de-volta-ao-lar/</page></regex>
+<title>[COLOR white]O Culto de Chucky (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-culto-de-chucky/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>Nica Pierce (Fiona Dourif) está cumprindo pena em um hospital psiquiátrico após ser acusada pelos crimes que o boneco Chucky (voz de Brad Dourif) cometeu. Agora, o brinquedo assassino dá um jeito de ir terminar o que começou, colocando a vida da moça em perigo novamente. O único que pode ajudá-la é Andy Barclay (Alex Vincent), o primeiro a enfrentar o boneco, agora adulto, e que terá sérias dificuldades quando Tiffany (Jennifer Tilly), a noiva de Chucky, retorna para ajudar o amado.</info>
+<fanart>https://i.ytimg.com/vi/_sKUDHfePNo/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/MV5BYmQ3MGFmNjgtODUzNS00ODg5LTgwZDEtNjZhNWNlMGI0OGNhXkEyXkFqcGdeQX_9PmAn3T.jpg</thumbnail>
+</item>
+265
+<item>
+<title>[COLOR white]Planeta dos Macacos: A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/planeta-dos-macacos-a-guerra/</page></regex>
+<genre>Ação,Drama e Aventura</genre>
+<info>César e seus macacos são forçados a um conflito mortal contra um exército de seres humanos liderados por um Coronel implacável. Depois que os macacos sofrem perdas inimagináveis, César luta contra seus instintos mais escuros e começa sua própria busca mítica para vingar sua espécie. À medida em que a jornada finalmente os coloca cara a cara, César e o Coronel se enfrentam em uma batalha épica que determinará o destino de suas espécies e o futuro do planeta.</info>
+<fanart>http://br.web.img2.acsta.net/c_400_200/newsv7/17/08/30/19/51/243260.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170401_120545.jpg</thumbnail>
+</item>
+264
+<item>
+<title>[COLOR white]Detetives do Prédio Azul (Nacional) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/d-p-os-detetives-do-predio-azul-o-filme-nacional/</page></regex>
+<genre>Aventura e Nacional</genre>
+<info>Os Detetives do Prédio Azul são confrontados com o maior caso de suas vidas: salvar o próprio edifício da destruição. Pippo (Pedro Henrique Motta), Sol (Letícia Braga) e Bento (Anderson Lima) se infiltram na festa de Dona Leocádia (Tamara Taxman), a terrível síndica que é, literalmente, uma bruxa. Lá eles presenciam um crime "mágico", que condena o Prédio Azul a uma demolição de emergência. Para completar, a única testemunha - o quadro falante da Vó Berta (Suely Franco) - desaparece, e Dona Leocádia é enfeitiçada para ficar boazinha. Para resolver esse caso, os detetives vão contar com a ajuda do porteiro Severino (Ronaldo Reis), que empresta sua Kombi azul novinha para ser a sede de investigação. A aventura fica completa quando Tom (Caio Manhente), Mila (Letícia Pedro) e Capim (Cauê Campos), fundadores do clubinho original, são trazidos de volta ao Rio de Janeiro para ajudar no caso.</info>
+<fanart>http://agendasorocaba.com.br/wp-content/uploads/2017/07/dpa-detetives-do-predio-azul.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/unnamed_GyPAH91.jpg</thumbnail>
+</item>
+263
+<item>
+<title>[COLOR white]Fala Comigo (Nacional) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/fala-comigo-2017-nacional/</page></regex>
+<genre>Nacional e Drama</genre>
+<info>Diogo, adolescente de 17 anos, gosta de ligar para as pacientes da sua mãe psicanalista e assim conhece Ângela, de 43 anos, que acabou de ser abandonada pelo marido. Os dois se apaixonam e precisarão encontrar uma maneira de permanecerem juntos, mas os obstáculos são muitos: a diferença de idade, a mãe de Diogo e, acima de tudo, seu próprio caminho em direção à idade adulta.</info>
+<fanart>https://2.bp.blogspot.com/-SjXSIE10AYo/WWfSotXX-QI/AAAAAAAAOeE/0xMbMDDwNaoILS1SPYP2wtrVMJIibNk2gCLcBGAs/s1600/Filme_Fala-Comigo_img01.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/falacomigo.jpg</thumbnail>
+</item>
+262
+<item>
+<title>[COLOR white]A Torre Negra (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/torre-negra-2017-dublado-hd-1/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King.</info>
+<fanart>http://cinemacomrapadura.com.br/imagens/2017/08/20170821-a-torre-negra-filme.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/a-torre-negra.jpg</thumbnail>
+</item>
+261
+<item>
+<title>[COLOR white]Wheelman (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/wheelman-2017-dublado/</page></regex>
+<genre>Drama</genre>
+<genre>Ação</genre>
+<info>Um motorista de fuga é levado a uma atividade de alto risco depois de um assalto a banco dar errado.</info>
+<fanart>https://occ-0-337-987.1.nflxso.net/art/a413c/0b43b66bd0ea582f7cf405a971050139748a413c.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/wheelman.jpg</thumbnail>
+</item>
+260
+<item>
+<title>[COLOR white]1922 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/1922-2017-dublado/</page></regex>
+<genre>Drama</genre>
+<info>Wilfred James (Thomas Jane), é um fazendeiro que assassina a própria esposa com a ajuda de seu filho. Depois do acontecido, com o remorso e uma sucessão de problemas acontecendo logo após o crime, Wilfred acredita que o espírito da sua esposa está assombrando ele.</info>
+<fanart>https://str18.vidoza.net/i/11/00447/tsltj80esfau.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/1922.jpg</thumbnail>
+</item>
+259
+<item>
+<title>[COLOR white]Homem-Aranha: De Volta ao Lar (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/assistir-homem-aranha-de-volta-ao-lar-dublado-hd-5/</page></regex>
 <genre>Ação e Aventura</genre>
 <info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.</info>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODIzNjIzMF5BMl5BanBnXkFtZTgwODMzNTMzMjI@._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
@@ -34,16 +105,7 @@ http://netcine.us/o-poderoso-chefinho/
 258
 <item>
 <title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link>
-<regex>
-<name>Filme_Igor_rangel</name>
-<expres>file:"(.*)"</expres>
-<page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page>
-<referer>https://vidoza.net/</referer>
-</regex>
-<regex>
-<name>ID_Igor_rangel</name>
-<expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/meu-malvado-favorito-3-dublado/</page></regex>
 <genre>Animação e Comédia</genre>
 <info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
@@ -52,7 +114,7 @@ http://netcine.us/o-poderoso-chefinho/
 </item>
 <item>
 <title>[COLOR white]Esta É A Sua Morte (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/esta-e-sua-morte-2017-legendado/</page></regex>
 <genre>Suspense,Terror e Drama</genre>
 <info>O público de hoje tornou-se apaixonado por assistir à degradação de outros na televisão e na internet. Eles desejam um argumento selvagem, uma luta sangrenta ou um escândalo publicitário. Esta se tornou a principal fonte de entretenimento. Mas quando os limites parecem não poderem ser mais ultrapassados, o apresentador de um game show, Adam Rogers, decide quebrar as barreiras ao colocar no ar um novo show, no qual os concorrentes arriscam suas vidas pela chance de ganhar dinheiro. Adam só ficará satisfeito se seu reality show for o número um no ranking da audiência, e ele não vai parar por nada para se certificar de que ele chega lá, mesmo que isso signifique perder sua humanidade.</info>
@@ -62,7 +124,7 @@ http://netcine.us/o-poderoso-chefinho/
 257
 <item>
 <title>[COLOR white]Revolt (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/revolt-2017-legendado/</page></regex>
 <genre>Ação,Ficção Cientifica</genre>
 <info>A trama acompanha um soldado americano (Lee Pace) e uma trabalhadora voluntária francesa (Bérénice Marlohe) que, na África, fazem parte do último núcleo de resistência da humanidade contra uma invasão alienígena.</info>
@@ -72,7 +134,7 @@ http://netcine.us/o-poderoso-chefinho/
 256
 <item>
 <title>[COLOR white]The House (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/casa-caiu-um-cassino-na-vizinhanca-dublado/</page></regex>
 <genre>Comédia</genre>
 <info>Um casal acidentalmente perde todo o dinheiro que haviam poupado para a universidade da filha. Para recuperar o valor, eles abrem um cassino clandestino em casa e convidam vizinhos e amigos para apostar.</info>
@@ -82,8 +144,8 @@ http://netcine.us/o-poderoso-chefinho/
 255
 <item>
 <title>[COLOR white]Annabelle 2: A Criação do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/annabelle-2-criacao-do-mal-2017-legendado-hd/</page></regex>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/annabelle-2-a-criacao-do-mal-2017-dublado-hd-4/</page></regex>
 <genre>Terror</genre>
 <info>nos após a trágica morte de sua filha, um habilidoso artesão de bonecas e sua esposa decidem, por caridade, acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato. Atormentado pelas lembranças traumáticas, o casal ainda precisa lidar com um amendrontador demônio do passado: Annabelle, criação do artesão.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNGe8xoOzCas6JDA5gblNKShBLYRsSdUT0wc7eLFN3gq8lNUyZFVPZ528WhA</fanart>
@@ -215,7 +277,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 245
 <item>
 <title>[COLOR white]Em Ritmo De Fuga (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/em-ritmo-de-fuga-2017-dublado-hd-3/</page></regex>
 <genre>Ação e Policial</genre>
 <info>O jovem Baby (Ansel Elgort) tem uma mania curiosa: ele precisa ouvir músicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na infância. Mesmo assim, o rapaz revela-se um motorista excelente, e começa a trabalhar para uma gangue de criminosos. Quando um assalto a banco não sai como planejado, ele cai na estrada em fuga.</info>

@@ -7,8 +7,18 @@
 
 
 <item>
+<title>[COLOR white]A Torre Negra (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/torre-negra-2017-dublado-hd-1/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King.</info>
+<fanart>http://cinemacomrapadura.com.br/imagens/2017/08/20170821-a-torre-negra-filme.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/a-torre-negra.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Revolt (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/revolt-2017-legendado/</page></regex>
 <genre>Ação,Ficção Cientifica</genre>
 <info>A trama acompanha um soldado americano (Lee Pace) e uma trabalhadora voluntária francesa (Bérénice Marlohe) que, na África, fazem parte do último núcleo de resistência da humanidade contra uma invasão alienígena.</info>

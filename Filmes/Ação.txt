@@ -4,9 +4,19 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
-<title>[COLOR white]Homem-Aranha: De Volta ao Lar (Legendado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/homem-aranha-de-volta-ao-lar/</page></regex>
+<title>[COLOR white]Planeta dos Macacos: A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/planeta-dos-macacos-a-guerra/</page></regex>
+<genre>Ação,Drama e Aventura</genre>
+<info>César e seus macacos são forçados a um conflito mortal contra um exército de seres humanos liderados por um Coronel implacável. Depois que os macacos sofrem perdas inimagináveis, César luta contra seus instintos mais escuros e começa sua própria busca mítica para vingar sua espécie. À medida em que a jornada finalmente os coloca cara a cara, César e o Coronel se enfrentam em uma batalha épica que determinará o destino de suas espécies e o futuro do planeta.</info>
+<fanart>http://br.web.img2.acsta.net/c_400_200/newsv7/17/08/30/19/51/243260.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170401_120545.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Homem-Aranha: De Volta ao Lar (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/assistir-homem-aranha-de-volta-ao-lar-dublado-hd-5/</page></regex>
 <genre>Ação e Aventura</genre>
 <info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.</info>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODIzNjIzMF5BMl5BanBnXkFtZTgwODMzNTMzMjI@._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
@@ -15,7 +25,7 @@
 
 <item>
 <title>[COLOR white]Revolt (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/revolt-2017-legendado/</page></regex>
 <genre>Ação,Ficção Cientifica</genre>
 <info>A trama acompanha um soldado americano (Lee Pace) e uma trabalhadora voluntária francesa (Bérénice Marlohe) que, na África, fazem parte do último núcleo de resistência da humanidade contra uma invasão alienígena.</info>
@@ -45,7 +55,7 @@
 
 <item>
 <title>[COLOR white]Em Ritmo De Fuga (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Server_Igor_rangel</name><expres>SRC="(.*)" FRA</expres><page>http://www.fsplayer.org/embed/e/?vidoza=$doregex[Site_Igor_Rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>$doregex[Server_Igor_rangel]</page><referer>https://vidoza.net/</referer></regex><regex><name>Site_Igor_Rangel</name><expres>doza=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/em-ritmo-de-fuga-2017-dublado-hd-3/</page></regex>
 <genre>Ação e Policial</genre>
 <info>O jovem Baby (Ansel Elgort) tem uma mania curiosa: ele precisa ouvir músicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na infância. Mesmo assim, o rapaz revela-se um motorista excelente, e começa a trabalhar para uma gangue de criminosos. Quando um assalto a banco não sai como planejado, ele cai na estrada em fuga.</info>
