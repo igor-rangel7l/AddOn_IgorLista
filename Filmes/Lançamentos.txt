@@ -8,6 +8,76 @@
 
 
 
+<item>
+<title>[COLOR white]O Culto de Chucky (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-culto-de-chucky/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>Nica Pierce (Fiona Dourif) está cumprindo pena em um hospital psiquiátrico após ser acusada pelos crimes que o boneco Chucky (voz de Brad Dourif) cometeu. Agora, o brinquedo assassino dá um jeito de ir terminar o que começou, colocando a vida da moça em perigo novamente. O único que pode ajudá-la é Andy Barclay (Alex Vincent), o primeiro a enfrentar o boneco, agora adulto, e que terá sérias dificuldades quando Tiffany (Jennifer Tilly), a noiva de Chucky, retorna para ajudar o amado.</info>
+<fanart>https://i.ytimg.com/vi/_sKUDHfePNo/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/MV5BYmQ3MGFmNjgtODUzNS00ODg5LTgwZDEtNjZhNWNlMGI0OGNhXkEyXkFqcGdeQX_9PmAn3T.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Planeta dos Macacos: A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/planeta-dos-macacos-a-guerra/</page></regex>
+<genre>Ação,Drama e Aventura</genre>
+<info>César e seus macacos são forçados a um conflito mortal contra um exército de seres humanos liderados por um Coronel implacável. Depois que os macacos sofrem perdas inimagináveis, César luta contra seus instintos mais escuros e começa sua própria busca mítica para vingar sua espécie. À medida em que a jornada finalmente os coloca cara a cara, César e o Coronel se enfrentam em uma batalha épica que determinará o destino de suas espécies e o futuro do planeta.</info>
+<fanart>http://br.web.img2.acsta.net/c_400_200/newsv7/17/08/30/19/51/243260.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170401_120545.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Detetives do Prédio Azul (Nacional) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/d-p-os-detetives-do-predio-azul-o-filme-nacional/</page></regex>
+<genre>Aventura e Nacional</genre>
+<info>Os Detetives do Prédio Azul são confrontados com o maior caso de suas vidas: salvar o próprio edifício da destruição. Pippo (Pedro Henrique Motta), Sol (Letícia Braga) e Bento (Anderson Lima) se infiltram na festa de Dona Leocádia (Tamara Taxman), a terrível síndica que é, literalmente, uma bruxa. Lá eles presenciam um crime "mágico", que condena o Prédio Azul a uma demolição de emergência. Para completar, a única testemunha - o quadro falante da Vó Berta (Suely Franco) - desaparece, e Dona Leocádia é enfeitiçada para ficar boazinha. Para resolver esse caso, os detetives vão contar com a ajuda do porteiro Severino (Ronaldo Reis), que empresta sua Kombi azul novinha para ser a sede de investigação. A aventura fica completa quando Tom (Caio Manhente), Mila (Letícia Pedro) e Capim (Cauê Campos), fundadores do clubinho original, são trazidos de volta ao Rio de Janeiro para ajudar no caso.</info>
+<fanart>http://agendasorocaba.com.br/wp-content/uploads/2017/07/dpa-detetives-do-predio-azul.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/unnamed_GyPAH91.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Fala Comigo (Nacional) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/fala-comigo-2017-nacional/</page></regex>
+<genre>Nacional e Drama</genre>
+<info>Diogo, adolescente de 17 anos, gosta de ligar para as pacientes da sua mãe psicanalista e assim conhece Ângela, de 43 anos, que acabou de ser abandonada pelo marido. Os dois se apaixonam e precisarão encontrar uma maneira de permanecerem juntos, mas os obstáculos são muitos: a diferença de idade, a mãe de Diogo e, acima de tudo, seu próprio caminho em direção à idade adulta.</info>
+<fanart>https://2.bp.blogspot.com/-SjXSIE10AYo/WWfSotXX-QI/AAAAAAAAOeE/0xMbMDDwNaoILS1SPYP2wtrVMJIibNk2gCLcBGAs/s1600/Filme_Fala-Comigo_img01.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/falacomigo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Torre Negra (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/torre-negra-2017-dublado-hd-1/</page></regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King.</info>
+<fanart>http://cinemacomrapadura.com.br/imagens/2017/08/20170821-a-torre-negra-filme.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/a-torre-negra.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Wheelman (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/wheelman-2017-dublado/</page></regex>
+<genre>Drama</genre>
+<genre>Ação</genre>
+<info>Um motorista de fuga é levado a uma atividade de alto risco depois de um assalto a banco dar errado.</info>
+<fanart>https://occ-0-337-987.1.nflxso.net/art/a413c/0b43b66bd0ea582f7cf405a971050139748a413c.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/wheelman.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]1922 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/1922-2017-dublado/</page></regex>
+<genre>Drama</genre>
+<info>Wilfred James (Thomas Jane), é um fazendeiro que assassina a própria esposa com a ajuda de seu filho. Depois do acontecido, com o remorso e uma sucessão de problemas acontecendo logo após o crime, Wilfred acredita que o espírito da sua esposa está assombrando ele.</info>
+<fanart>https://str18.vidoza.net/i/11/00447/tsltj80esfau.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/1922.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Esta É A Sua Morte (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
