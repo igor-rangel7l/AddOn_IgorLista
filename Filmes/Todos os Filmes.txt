@@ -38,7 +38,7 @@ http://netcine.us/o-poderoso-chefinho/
 <regex>
 <name>Filme_Igor_rangel</name>
 <expres>file:"(.*)"</expres>
-<page>https://vidoza.net/embed-$doregex[ID_Igor_rangel]</page>
+<page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page>
 <referer>https://vidoza.net/</referer>
 </regex>
 <regex>
