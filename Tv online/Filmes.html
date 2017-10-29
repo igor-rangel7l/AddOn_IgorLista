@@ -368,28 +368,6 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO[/B][/COLOR] [B]GAME OF THRONES[/B]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/aovivonatv7/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Page</name>
-<expres>hls: '(.*)'</expres
-<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
-</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
-<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
-<thumbnail>http://goo.gl/N9ccs5</thumbnail>
-</item>
-
-<item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
