@@ -1053,23 +1053,6 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/brasilhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://bit.ly/2hEhVeB</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://bit.ly/2hEhVeB</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
-<thumbnail>http://goo.gl/zddqpQ</thumbnail>
-</item>
-
-<item>
 <title>[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]326.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
@@ -1091,6 +1074,23 @@
 <fanart>http://w.peppermelon.tv/imagesok/proyectos/cd6ba9e667ff251927e09108f28768f705-universal.jpg</fanart>
 <thumbnail>http://goo.gl/lTL3Bs</thumbnail>
 </regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/brasilhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://bit.ly/2hEhVeB</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://bit.ly/2hEhVeB</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
+<thumbnail>http://goo.gl/zddqpQ</thumbnail>
 </item>
 
 <item>
