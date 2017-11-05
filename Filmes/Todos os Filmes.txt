@@ -19,9 +19,36 @@ Corra!
 
 http://netcine.us/o-poderoso-chefinho/
 
+http://m.redecanais.com/player3/mobileserverf3.php?vid=INVCAODML
 
-
-
+<item>
+<title>[COLOR white][COLOR white]Invocação do Mal 2 (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]INVCAODML.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Sete anos após os eventos de Invocação do Mal (2013), Lorraine (Vera Farmiga) e Ed Warren (Patrick Wilson) desembarcam na Inglaterra para ajudar uma família atormentada por uma manifestação poltergeist na filha. A trama é baseada no caso Enfield Poltergeist, registrado no final da década de 1970.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQX8XMS3_9rGnHi7H6KLt1PQz8fEipH9iMIFRitDO3wxU_YIYyzmGjdmeDQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/01/invocacao-do-mal-2_t82649_zFSXx5Q.jpg</thumbnail>
+</item>
+268
+<item>
+<title>[COLOR white][COLOR white]Invocação do Mal (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]INVCAODML.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Baseado em uma história real, o longa se passa em uma casa mal-assombrada, para onde uma família liderada por Lili Taylor e Ron Livingston se muda. Quando fica claro que uma entidade obscura os está perseguindo, eles chamam os investigadores paranormais Ed e Lorraine (Patrick Wilson e Vera Farmiga) para ajudar.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQX8XMS3_9rGnHi7H6KLt1PQz8fEipH9iMIFRitDO3wxU_YIYyzmGjdmeDQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2013/04/d0b7c5c989e1717f4c27431f9c11ad47.jpg</thumbnail>
+</item>
+267
 <item>
 <title>[COLOR white]O Culto de Chucky (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
