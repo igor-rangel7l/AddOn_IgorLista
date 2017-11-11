@@ -15,13 +15,39 @@ O Círculo
 
 Corra!
 
-http://pokemice.biz/player3/serverf3ad1.php?vid=INVCAODML2
 
 
-http://netcine.us/o-poderoso-chefinho/
 
-http://m.redecanais.com/player3/mobileserverf3.php?vid=INVCAODML
-
+<item>
+<title>[COLOR white][COLOR white]O Que Será de Nozes? 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/o-que-sera-de-nozes-2-2017-dublado/</page></regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>A aventura apresenta a continuação da história de Surly Squirrel e seus amigos. Quando o malvado prefeito de Oakton decide demolir o Liberty Park e construir um perigoso parque de diversões no local, a turma precisa se reunir para salvar sua casa, derrotar o prefeito e retomar o parque.</info>
+<fanart>http://image.tmdb.org/t/p/original/qi53EJ4079uVcGQLsmCkR4GT0dE.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/MV5BMjE2MDU0MzE1OF5BMl5BanBnXkFtZTgwNTIxNTIxMjI._V1_.jpg</thumbnail>
+</item>
+271
+<item>
+<title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/loucos-e-perigosos-dublado/</page></regex>
+<genre>Ação e Comédia</genre>
+<info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>
+<fanart>http://image.tmdb.org/t/p/original/qi53EJ4079uVcGQLsmCkR4GT0dE.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/MV5BMjE2MDU0MzE1OF5BMl5BanBnXkFtZTgwNTIxNTIxMjI._V1_.jpg</thumbnail>
+</item>
+270
+<item>
+<title>[COLOR white][COLOR white]It - A Coisa (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/it-coisa-2017-dublado-hd-6/</page></regex>
+<genre>Terror e Drama</genre>
+<info>Um grupo de crianças enfrentam seus maiores medos quando tentam descobrir a causa do desaparecimento de várias crianças em sua cidade natal, Derry. Eles acabam se deparando com uma força maligna em forma de palhaço, chamado de Pennywise, cujo histórico de mortes e violência se repetem há séculos.</info>
+<fanart>http://cosmonerd.com.br/wp-content/uploads/2017/08/It-A-Coisa-capa-post-cosmonerd-ingresso.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/17635444_1275381065842660_2087496026919231892_o.jpg</thumbnail>
+</item>
+269
 <item>
 <title>[COLOR white][COLOR white]Invocação do Mal 2 (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]INVCAODML2.mp4</link>

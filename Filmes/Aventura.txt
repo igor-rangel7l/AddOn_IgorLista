@@ -4,6 +4,17 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+
+<item>
+<title>[COLOR white][COLOR white]O Que Será de Nozes? 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/o-que-sera-de-nozes-2-2017-dublado/</page></regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>A aventura apresenta a continuação da história de Surly Squirrel e seus amigos. Quando o malvado prefeito de Oakton decide demolir o Liberty Park e construir um perigoso parque de diversões no local, a turma precisa se reunir para salvar sua casa, derrotar o prefeito e retomar o parque.</info>
+<fanart>http://image.tmdb.org/t/p/original/qi53EJ4079uVcGQLsmCkR4GT0dE.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/MV5BMjE2MDU0MzE1OF5BMl5BanBnXkFtZTgwNTIxNTIxMjI._V1_.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR white]Planeta dos Macacos: A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*PDMAG.*?)" fra</expres>

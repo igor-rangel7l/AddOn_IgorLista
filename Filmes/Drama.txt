@@ -5,6 +5,17 @@
 
 
 
+
+<item>
+<title>[COLOR white][COLOR white]It - A Coisa (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/it-coisa-2017-dublado-hd-6/</page></regex>
+<genre>Terror e Drama</genre>
+<info>Um grupo de crianças enfrentam seus maiores medos quando tentam descobrir a causa do desaparecimento de várias crianças em sua cidade natal, Derry. Eles acabam se deparando com uma força maligna em forma de palhaço, chamado de Pennywise, cujo histórico de mortes e violência se repetem há séculos.</info>
+<fanart>http://cosmonerd.com.br/wp-content/uploads/2017/08/It-A-Coisa-capa-post-cosmonerd-ingresso.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/17635444_1275381065842660_2087496026919231892_o.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR white]Planeta dos Macacos: A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*PDMAG.*?)" fra</expres>
