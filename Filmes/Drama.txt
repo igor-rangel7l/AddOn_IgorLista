@@ -8,6 +8,46 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]O Estranho Que Nós Amamos  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/o-estranho-que-nos-amamos-2017-dublado/</page></regex>
+<genre>Drama</genre>
+<info>Um soldado da União, ferido em combate durante a Guerra de Secessão, acaba encontrando refúgio e um lugar para se curar dentro de um internato para mulheres localizado em território Confederado. Lá, o soldado se recupera, mas acaba conquistando o coração de algumas das mulheres no processo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_MiGnFVclQXHSX4I_fd7xftzO75TgZk-EXBuOWKkCK3poIIybcRV8Nrs</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/IMG_20170512_140108.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Origem do Dragão  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/origem-do-dragao-2017-legendado/</page></regex>
+<genre>Ação e Drama</genre>
+<info>Bruce Lee (Philip Ng), célebre lutador de artes marciais, e seu rival, o mestre de Kung Fu Wong Jack Man (Yu Xia), tentam resolver suas desavenças e divergências em uma luta sem regras. O embate, que se deu na Califórnia com poucas testemunhas, viria a se tornar o mais importante e emblemático duelo da carreira do futuro grande ator de cinema, um marco fundamental em sua trajetória. Depois desse evento, os dois ainda se unem para lutar contra o poderio da máfia chinesa em Chinatown, São Francisco.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN0kDB7iUZUGuIfusbP8O7AymhhW43Zpd9uFCIfhgcaNaIlAfaUfRrKXrx</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/birth-of-the-dragon-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Quase 18 (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/quase-18-2017-dublado/</page></regex>
+<genre>Comédia e Drama</genre>
+<info>Crescer não é nada fácil para alguns, como para Nadine, uma estudante que está enfrentando uma difícil situação desde que sua melhor amiga, Krista, está namorando com o seu irmão mais velho, Darian. Nadine se sente mais sozinha do que nunca, ao menos até começar uma amizade com um jovem atencioso.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GPQC848spxa9e7NgwuEgv2s1DiLw_ynbRSeqvPo3lcNAPhDkd23ffG-x0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/edge_of_seventeen_xlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/sem-perdao-2017-dublado/</page></regex>
+<genre>Drama e Policial</genre>
+<info></info>
+<fanart>https://lh6.googleusercontent.com/proxy/k2h2Gv0d2lVBoddqKLzOXIbLOYGHhsT0_v_UXptjvT_L0uVPGCa90Fx_ezDCukIHQSpOadvwsA=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/shot_caller.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]It - A Coisa (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/it-coisa-2017-dublado-hd-7/</page></regex>

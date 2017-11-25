@@ -8,6 +8,16 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/sem-perdao-2017-dublado/</page></regex>
+<genre>Drama e Policial</genre>
+<info></info>
+<fanart>https://lh6.googleusercontent.com/proxy/k2h2Gv0d2lVBoddqKLzOXIbLOYGHhsT0_v_UXptjvT_L0uVPGCa90Fx_ezDCukIHQSpOadvwsA=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/shot_caller.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Em Ritmo De Fuga (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/em-ritmo-de-fuga-2017-dublado-hd-3/</page></regex>

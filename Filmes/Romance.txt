@@ -8,6 +8,16 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Singularidade  (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/singularity-2017-legendado/</page></regex>
+<genre>Romance e Ficção Cientifica</genre>
+<info>Em 2020, Elias van Dorne (John Cusack), CEO das industrias VA, a maior empresa de robótica do mundo, apresenta sua invenção mais poderosa - Kronos, um super computador projetado para acabar com todas as guerras. Quando Kronos está online, rapidamente determina que a humanidade é a maior ameaça para a paz mundial e lança um robô mundial ataque para livrar o mundo da "infecção" do homem. Noventa e sete anos depois, uma pequeno grupo de humanos permanece vivos, mas fugindo do exército robótico. Um adolescente, Andrew (Julian Schaffner) e uma adolescente Calia (Jeannine Wacker), formar uma aliança improvável para alcançar um novo mundo</info>
+<fanart>https://lh6.googleusercontent.com/proxy/TP5x3yQGREaTdkiyc83Uq7n_CQmuUjsHlT3iRTJpIaDwW0VuR1F6vmz311rcbX10G8lgSEu1jWbRYQ=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/poster_opt_Tqewby0_cAJyeel.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]O Espaço Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-espaco-entre-nos/</page></regex>

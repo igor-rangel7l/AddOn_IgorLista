@@ -6,6 +6,36 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
+<genre>Ação,Nacional e Faroeste</genre>
+<info>Criado e dirigido por Marcelo Galvão (Colegas), a história é um faroeste e acontece entre as décadas de 1910 e 1940, e conta a história de Cabeleira (Morgado), um temido matador do estado de Pernambuco. Cabeleira, criado por um cangaceiro local chamado Sete Orelhas (Montenegro), que o encontrou abandonado quando bebê, cresce no sertão completamente isolado da civilização. Agora um adulto, ele finalmente vai à cidade para procurar o desaparecido Sete Orelhas e encontra uma cidade sem lei, governada pelo tirânico Monsieur Blanchard (Chicot), um francês que domina o mercado de pedras preciosas e anteriormente empregava Sete Orelhas como seu matador.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJSF14d3SH5AGDHpIVOKpSzr24JTKW2BRb6sAUSLKh3_HNoJ3fvYkn6dco</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/OMatador_Vertical_PRE_BPO.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Detetives do Prédio Azul (Nacional) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/d-p-os-detetives-do-predio-azul-o-filme-nacional/</page></regex>
+<genre>Aventura e Nacional</genre>
+<info>Os Detetives do Prédio Azul são confrontados com o maior caso de suas vidas: salvar o próprio edifício da destruição. Pippo (Pedro Henrique Motta), Sol (Letícia Braga) e Bento (Anderson Lima) se infiltram na festa de Dona Leocádia (Tamara Taxman), a terrível síndica que é, literalmente, uma bruxa. Lá eles presenciam um crime "mágico", que condena o Prédio Azul a uma demolição de emergência. Para completar, a única testemunha - o quadro falante da Vó Berta (Suely Franco) - desaparece, e Dona Leocádia é enfeitiçada para ficar boazinha. Para resolver esse caso, os detetives vão contar com a ajuda do porteiro Severino (Ronaldo Reis), que empresta sua Kombi azul novinha para ser a sede de investigação. A aventura fica completa quando Tom (Caio Manhente), Mila (Letícia Pedro) e Capim (Cauê Campos), fundadores do clubinho original, são trazidos de volta ao Rio de Janeiro para ajudar no caso.</info>
+<fanart>http://agendasorocaba.com.br/wp-content/uploads/2017/07/dpa-detetives-do-predio-azul.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/unnamed_GyPAH91.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Fala Comigo (Nacional) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/fala-comigo-2017-nacional/</page></regex>
+<genre>Nacional e Drama</genre>
+<info>Diogo, adolescente de 17 anos, gosta de ligar para as pacientes da sua mãe psicanalista e assim conhece Ângela, de 43 anos, que acabou de ser abandonada pelo marido. Os dois se apaixonam e precisarão encontrar uma maneira de permanecerem juntos, mas os obstáculos são muitos: a diferença de idade, a mãe de Diogo e, acima de tudo, seu próprio caminho em direção à idade adulta.</info>
+<fanart>https://2.bp.blogspot.com/-SjXSIE10AYo/WWfSotXX-QI/AAAAAAAAOeE/0xMbMDDwNaoILS1SPYP2wtrVMJIibNk2gCLcBGAs/s1600/Filme_Fala-Comigo_img01.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/falacomigo.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Amor em Sampa (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AMREMSP.mp4</link>
 <regex>

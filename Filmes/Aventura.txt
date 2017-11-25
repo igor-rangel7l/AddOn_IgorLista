@@ -6,6 +6,16 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/paw-patrol-os-filhotes-salvam-o-natal-2017-dublado/</page></regex>
+<genre>Aventura e Animação</genre>
+<info>Os filhotes se equipam para consertar o trenó do Papai Noel e salvar o Natal, levar os pinguins de volta para sua casa congelada, ajudar Everest em alguns resgates na neve e muito mais!</info>
+<fanart>https://3.bp.blogspot.com/-hF06fZyBRRM/WgdpmOlh1UI/AAAAAAAAOWs/_PAhd32zvo0uk56lql1eH4KnPWfuTVE_wCLcBGAs/s1600/vlcsnap-2017-11-11-16h19m16s381.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/natal.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]O Que Será de Nozes? 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-que-sera-de-nozes-2-2017-dublado/</page></regex>

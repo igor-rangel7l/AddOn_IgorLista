@@ -8,6 +8,36 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Quase 18 (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/quase-18-2017-dublado/</page></regex>
+<genre>Comédia e Drama</genre>
+<info>Crescer não é nada fácil para alguns, como para Nadine, uma estudante que está enfrentando uma difícil situação desde que sua melhor amiga, Krista, está namorando com o seu irmão mais velho, Darian. Nadine se sente mais sozinha do que nunca, ao menos até começar uma amizade com um jovem atencioso.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GPQC848spxa9e7NgwuEgv2s1DiLw_ynbRSeqvPo3lcNAPhDkd23ffG-x0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/edge_of_seventeen_xlg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Dupla Explosiva (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/dupla-explosiva-2017-legendado/</page></regex>
+<genre>Ação e Comédia</genre>
+<info>Um guarda-costas de elite, que só trabalha para os clientes mais seletos do mundo, descobre que terá um novo cliente: um assassino de aluguel que ressurgiu das cinzas, com quem costumava se estranhar no passado. Apesar do ódio mútuo, eles terão 24 horas para viajar de Londres para a Holanda, enquanto são perseguidos pelos agentes de um ditador do Leste Europeu.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GPQC848spxa9e7NgwuEgv2s1DiLw_ynbRSeqvPo3lcNAPhDkd23ffG-x0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BNzRjZWUxNDktMWE4ZS00NjEzLTk4ZGQtYTRjYTUyMzZlZWU2XkEyXkFqcGdeQX_1zZA1kB.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Vovô Disfarçado (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/vovo-disfarcado-2017-dublado/</page></regex>
+<genre>Ação e Comédia</genre>
+<info>O encontro de Jake com a garota dos sonhos toma outro rumo quando ela desaparece. Mas o avô dele, um ex-oficial da inteligencia, está dispostoa encontrá-la.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_eHgtAbuTh3vUksYwMxTMyQaWRaLMhEsku_-1yTU8zJLGEC96DP_4TuG</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/Undercover_Grandpa_da.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]O Que Será de Nozes? 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-que-sera-de-nozes-2-2017-dublado/</page></regex>
@@ -18,8 +48,8 @@
 </item>
 
 <item>
-<title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Viidlox)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>","(.*mp4.*?)"</expres><page>https://vidlox.tv/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidlox.tv/</referer></regex><regex><name>ID_Igor_rangel</name><expres>vidlox=(.*?)&</expres>
+<title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/loucos-e-perigosos-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>

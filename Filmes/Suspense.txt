@@ -10,6 +10,36 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Olhos Famintos 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/olhos-famintos-3-2017-legendado/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>No último dia de alimentação de vinte e três dias do Creeper, as equipes policiais do Sargento Tubbs reúnem uma força-tarefa, na missão de destruir o Creeper para sempre. O Creeper trava uma batalha sangrenta enquanto seus inimigos se aproximam de descobrir o segredo de suas origens sombrias.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtT6bee3MG0ThcoTpSlb85Qf-Pqi30Nv9a5Z6gO_a2JFCXesg7HHuNm-Uj8A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/jeepers-creepers-3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Bunnyman Vengeance (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/bunnyman-vengeance-2017-legendado/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>Bunnyman volta para casa para encontrar sua família executando uma atração assombrada da casa. Eles o recebem em casa, mas logo percebem que você não pode domesticar um animal selvagem. A morte e o caos ocorrem quando eles se entregam para satisfazer suas luxúrias de sangue.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7AlscMWUFIFN9PYQqHDAZ80t8yTisBNerwTRo5og7xLSl6QFZokq93oVc9g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/MV5BMWIwMjM4OWYtYjFmZC00OWM1LWE1MWUtNTM2YzkwNDk5NDlmXkEyXkFqcGdeQX_yg2yJPs.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Culto de Chucky (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-culto-de-chucky/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>Nica Pierce (Fiona Dourif) está cumprindo pena em um hospital psiquiátrico após ser acusada pelos crimes que o boneco Chucky (voz de Brad Dourif) cometeu. Agora, o brinquedo assassino dá um jeito de ir terminar o que começou, colocando a vida da moça em perigo novamente. O único que pode ajudá-la é Andy Barclay (Alex Vincent), o primeiro a enfrentar o boneco, agora adulto, e que terá sérias dificuldades quando Tiffany (Jennifer Tilly), a noiva de Chucky, retorna para ajudar o amado.</info>
+<fanart>https://i.ytimg.com/vi/_sKUDHfePNo/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/MV5BYmQ3MGFmNjgtODUzNS00ODg5LTgwZDEtNjZhNWNlMGI0OGNhXkEyXkFqcGdeQX_9PmAn3T.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Esta É A Sua Morte (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/esta-e-sua-morte-2017-legendado/</page></regex>

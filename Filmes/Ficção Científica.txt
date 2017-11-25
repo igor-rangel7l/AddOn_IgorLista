@@ -7,6 +7,56 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Liga da Justiça  (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/liga-da-justica-2017-dublado/</page></regex>
+<genre>Ação e Ficção Cientifica</genre>
+<info>Movido por sua fé restaurada na humanidade e inspirado pelo sacrifício do Superman, Bruce Wayne conta com a ajuda de sua nova aliada, Diana Prince, para enfrentar um inimigo ainda maior. Juntos, Batman e Mulher-Maravilha trabalham rápido para encontrar e recrutar uma equipe de metahumanos para se opor à nova ameaça. Mas apesar da formação dessa liga de heróis sem precedentes – Batman, Mulher-Maravilha, Aquaman, Flash, e Ciborgue – pode ser tarde demais para salvar o planeta de um ataque de proporções catastróficas.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQabs_40PlbXL9JKUBisnVqsuzopZCRFEtpO-sstVfzFNv2vzto8vGRmPJUVA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_t%C3%ADtulo_7EoNVEj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Desastre Da Terra  (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/desastre-da-terra-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Em um clarão de luz branca, e sem aviso, um minuto nossa lua está lá, a próxima se foi. Em seguida, um segundo flash. E essa é a última coisa que alguém na Terra pode se lembrar. 11 meses depois, não é pós-apocalíptico; É apocalíptico porque a terra foi sugada através de um wormhole, literalmente rasgando nosso planeta do interior para fora. Com desastres bizarros e civilização em colapso, nossos heróis devem encontrar uma maneira de sobreviver e chegar a “terreno seguro” antes que seja tarde demais.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtcdAd1tWPLW2Rua1KrspkK0FvEM18vIopLnEuGiYzAW3YNKTeFiI4wCA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/timthumb.php_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Singularidade  (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/singularity-2017-legendado/</page></regex>
+<genre>Romance e Ficção Cientifica</genre>
+<info>Em 2020, Elias van Dorne (John Cusack), CEO das industrias VA, a maior empresa de robótica do mundo, apresenta sua invenção mais poderosa - Kronos, um super computador projetado para acabar com todas as guerras. Quando Kronos está online, rapidamente determina que a humanidade é a maior ameaça para a paz mundial e lança um robô mundial ataque para livrar o mundo da "infecção" do homem. Noventa e sete anos depois, uma pequeno grupo de humanos permanece vivos, mas fugindo do exército robótico. Um adolescente, Andrew (Julian Schaffner) e uma adolescente Calia (Jeannine Wacker), formar uma aliança improvável para alcançar um novo mundo</info>
+<fanart>https://lh6.googleusercontent.com/proxy/TP5x3yQGREaTdkiyc83Uq7n_CQmuUjsHlT3iRTJpIaDwW0VuR1F6vmz311rcbX10G8lgSEu1jWbRYQ=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/poster_opt_Tqewby0_cAJyeel.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Atomica: Ameaça Oculta (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/operacao-avalanche-dublado/</page></regex>
+<genre>Ficção Cientifica</genre>
+<info>Em um futuro próximo, quando as comunicações caem em uma usina nuclear no deserto, uma jovem inspetora de segurança, Abby Dixon, é forçada a ir até o loca para para restabelecer a conexão. Uma vez dentro da instalação, pistas misteriosas e comportamentos estranhos fazem com que Abby tenha dúvidas sobre a sanidade, e talvez identidades, dos dois funcionários no local.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThjLqpeoRE-SEALFFQigTgMYtTac82rE0WgKEaq0ncfRiWepob8OjTL_k7Pw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/deep-burial_t113880.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Valerian e a Cidade dos Mil Planetas (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/seuls-2017-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwdNawBYN5f1_Du8_xVTfQEJb6iFsVcypseAbDseNJg5SIHmvpMKP6lTiP</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/valerian.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]A Torre Negra (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/torre-negra-2017-dublado-hd-1/</page></regex>

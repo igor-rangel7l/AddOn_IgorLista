@@ -5,8 +5,88 @@
 
 
 <item>
-<title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Viidlox)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>","(.*mp4.*?)"</expres><page>https://vidlox.tv/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidlox.tv/</referer></regex><regex><name>ID_Igor_rangel</name><expres>vidlox=(.*?)&</expres>
+<title>[COLOR white][COLOR white]Liga da Justiça  (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/liga-da-justica-2017-dublado/</page></regex>
+<genre>Ação e Ficção Cientifica</genre>
+<info>Movido por sua fé restaurada na humanidade e inspirado pelo sacrifício do Superman, Bruce Wayne conta com a ajuda de sua nova aliada, Diana Prince, para enfrentar um inimigo ainda maior. Juntos, Batman e Mulher-Maravilha trabalham rápido para encontrar e recrutar uma equipe de metahumanos para se opor à nova ameaça. Mas apesar da formação dessa liga de heróis sem precedentes – Batman, Mulher-Maravilha, Aquaman, Flash, e Ciborgue – pode ser tarde demais para salvar o planeta de um ataque de proporções catastróficas.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQabs_40PlbXL9JKUBisnVqsuzopZCRFEtpO-sstVfzFNv2vzto8vGRmPJUVA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_t%C3%ADtulo_7EoNVEj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Desastre Da Terra  (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/desastre-da-terra-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Em um clarão de luz branca, e sem aviso, um minuto nossa lua está lá, a próxima se foi. Em seguida, um segundo flash. E essa é a última coisa que alguém na Terra pode se lembrar. 11 meses depois, não é pós-apocalíptico; É apocalíptico porque a terra foi sugada através de um wormhole, literalmente rasgando nosso planeta do interior para fora. Com desastres bizarros e civilização em colapso, nossos heróis devem encontrar uma maneira de sobreviver e chegar a “terreno seguro” antes que seja tarde demais.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtcdAd1tWPLW2Rua1KrspkK0FvEM18vIopLnEuGiYzAW3YNKTeFiI4wCA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/timthumb.php_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Bon Cop, Bad Cop 2  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/bon-cop-bad-cop-2-2017-legendado/</page></regex>
+<genre>Ação</genre>
+<info>Seis anos se passaram desde Martin Ward e David Bouchard reuniram-se em uma maneira espetacular na fronteira Quebec / Ontario. Os dois homens ficaram amigos, mas o tempo tem seu preço e eles não se falam há quase um ano. Neste segundo capítulo, Ward e Bouchard deve enfrentar uma importante quadrilha de roubo de carro que acaba por ser muito mais do que esperava: um onde os carros roubados servirá como bombas em um ataque terrorista bem planejado.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupAZQfVnmVNCGSRNVemnvzmPbYKu34joYWcP8Jz7xFmNmVlOOp7nKX7qy5g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/MV5BNjE2YjVhN2YtZGNjNi00ZWFlLWFjMTAtOTBiODU4MTYxMmI5XkEyXkFqcGdeQX_ANm6Zq1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Origem do Dragão  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/origem-do-dragao-2017-legendado/</page></regex>
+<genre>Ação e Drama</genre>
+<info>Bruce Lee (Philip Ng), célebre lutador de artes marciais, e seu rival, o mestre de Kung Fu Wong Jack Man (Yu Xia), tentam resolver suas desavenças e divergências em uma luta sem regras. O embate, que se deu na Califórnia com poucas testemunhas, viria a se tornar o mais importante e emblemático duelo da carreira do futuro grande ator de cinema, um marco fundamental em sua trajetória. Depois desse evento, os dois ainda se unem para lutar contra o poderio da máfia chinesa em Chinatown, São Francisco.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN0kDB7iUZUGuIfusbP8O7AymhhW43Zpd9uFCIfhgcaNaIlAfaUfRrKXrx</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/birth-of-the-dragon-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
+<genre>Ação,Nacional e Faroeste</genre>
+<info>Criado e dirigido por Marcelo Galvão (Colegas), a história é um faroeste e acontece entre as décadas de 1910 e 1940, e conta a história de Cabeleira (Morgado), um temido matador do estado de Pernambuco. Cabeleira, criado por um cangaceiro local chamado Sete Orelhas (Montenegro), que o encontrou abandonado quando bebê, cresce no sertão completamente isolado da civilização. Agora um adulto, ele finalmente vai à cidade para procurar o desaparecido Sete Orelhas e encontra uma cidade sem lei, governada pelo tirânico Monsieur Blanchard (Chicot), um francês que domina o mercado de pedras preciosas e anteriormente empregava Sete Orelhas como seu matador.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJSF14d3SH5AGDHpIVOKpSzr24JTKW2BRb6sAUSLKh3_HNoJ3fvYkn6dco</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/OMatador_Vertical_PRE_BPO.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Dupla Explosiva (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/dupla-explosiva-2017-legendado/</page></regex>
+<genre>Ação e Comédia</genre>
+<info>Um guarda-costas de elite, que só trabalha para os clientes mais seletos do mundo, descobre que terá um novo cliente: um assassino de aluguel que ressurgiu das cinzas, com quem costumava se estranhar no passado. Apesar do ódio mútuo, eles terão 24 horas para viajar de Londres para a Holanda, enquanto são perseguidos pelos agentes de um ditador do Leste Europeu.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GPQC848spxa9e7NgwuEgv2s1DiLw_ynbRSeqvPo3lcNAPhDkd23ffG-x0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BNzRjZWUxNDktMWE4ZS00NjEzLTk4ZGQtYTRjYTUyMzZlZWU2XkEyXkFqcGdeQX_1zZA1kB.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Valerian e a Cidade dos Mil Planetas (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/seuls-2017-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwdNawBYN5f1_Du8_xVTfQEJb6iFsVcypseAbDseNJg5SIHmvpMKP6lTiP</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/valerian.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Vovô Disfarçado (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/vovo-disfarcado-2017-dublado/</page></regex>
+<genre>Ação e Comédia</genre>
+<info>O encontro de Jake com a garota dos sonhos toma outro rumo quando ela desaparece. Mas o avô dele, um ex-oficial da inteligencia, está dispostoa encontrá-la.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_eHgtAbuTh3vUksYwMxTMyQaWRaLMhEsku_-1yTU8zJLGEC96DP_4TuG</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/Undercover_Grandpa_da.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/loucos-e-perigosos-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>

@@ -17,10 +17,261 @@ Corra!
 
 
 
-
 <item>
-<title>[COLOR white][COLOR white]O Que Será de Nozes? 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Viidlox)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>","(.*mp4.*?)"</expres><page>https://vidlox.tv/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidlox.tv/</referer></regex><regex><name>ID_Igor_rangel</name><expres>vidlox=(.*?)&</expres>
+<title>[COLOR white][COLOR white]Liga da Justiça  (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/liga-da-justica-2017-dublado/</page></regex>
+<genre>Ação e Ficção Cientifica</genre>
+<info>Movido por sua fé restaurada na humanidade e inspirado pelo sacrifício do Superman, Bruce Wayne conta com a ajuda de sua nova aliada, Diana Prince, para enfrentar um inimigo ainda maior. Juntos, Batman e Mulher-Maravilha trabalham rápido para encontrar e recrutar uma equipe de metahumanos para se opor à nova ameaça. Mas apesar da formação dessa liga de heróis sem precedentes – Batman, Mulher-Maravilha, Aquaman, Flash, e Ciborgue – pode ser tarde demais para salvar o planeta de um ataque de proporções catastróficas.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQabs_40PlbXL9JKUBisnVqsuzopZCRFEtpO-sstVfzFNv2vzto8vGRmPJUVA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_t%C3%ADtulo_7EoNVEj.png</thumbnail>
+</item>
+298
+<item>
+<title>[COLOR white][COLOR white]Desastre Da Terra  (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/desastre-da-terra-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Em um clarão de luz branca, e sem aviso, um minuto nossa lua está lá, a próxima se foi. Em seguida, um segundo flash. E essa é a última coisa que alguém na Terra pode se lembrar. 11 meses depois, não é pós-apocalíptico; É apocalíptico porque a terra foi sugada através de um wormhole, literalmente rasgando nosso planeta do interior para fora. Com desastres bizarros e civilização em colapso, nossos heróis devem encontrar uma maneira de sobreviver e chegar a “terreno seguro” antes que seja tarde demais.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtcdAd1tWPLW2Rua1KrspkK0FvEM18vIopLnEuGiYzAW3YNKTeFiI4wCA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/timthumb.php_.jpg</thumbnail>
+</item>
+297
+<item>
+<title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/paw-patrol-os-filhotes-salvam-o-natal-2017-dublado/</page></regex>
+<genre>Aventura e Animação</genre>
+<info>Os filhotes se equipam para consertar o trenó do Papai Noel e salvar o Natal, levar os pinguins de volta para sua casa congelada, ajudar Everest em alguns resgates na neve e muito mais!</info>
+<fanart>https://3.bp.blogspot.com/-hF06fZyBRRM/WgdpmOlh1UI/AAAAAAAAOWs/_PAhd32zvo0uk56lql1eH4KnPWfuTVE_wCLcBGAs/s1600/vlcsnap-2017-11-11-16h19m16s381.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/natal.png</thumbnail>
+</item>
+296
+<item>
+<title>[COLOR white][COLOR white]Singularidade  (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/singularity-2017-legendado/</page></regex>
+<genre>Romance e Ficção Cientifica</genre>
+<info>Em 2020, Elias van Dorne (John Cusack), CEO das industrias VA, a maior empresa de robótica do mundo, apresenta sua invenção mais poderosa - Kronos, um super computador projetado para acabar com todas as guerras. Quando Kronos está online, rapidamente determina que a humanidade é a maior ameaça para a paz mundial e lança um robô mundial ataque para livrar o mundo da "infecção" do homem. Noventa e sete anos depois, uma pequeno grupo de humanos permanece vivos, mas fugindo do exército robótico. Um adolescente, Andrew (Julian Schaffner) e uma adolescente Calia (Jeannine Wacker), formar uma aliança improvável para alcançar um novo mundo</info>
+<fanart>https://lh6.googleusercontent.com/proxy/TP5x3yQGREaTdkiyc83Uq7n_CQmuUjsHlT3iRTJpIaDwW0VuR1F6vmz311rcbX10G8lgSEu1jWbRYQ=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/poster_opt_Tqewby0_cAJyeel.jpg</thumbnail>
+</item>
+295
+<item>
+<title>[COLOR white][COLOR white]O Estranho Que Nós Amamos  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/o-estranho-que-nos-amamos-2017-dublado/</page></regex>
+<genre>Drama</genre>
+<info>Um soldado da União, ferido em combate durante a Guerra de Secessão, acaba encontrando refúgio e um lugar para se curar dentro de um internato para mulheres localizado em território Confederado. Lá, o soldado se recupera, mas acaba conquistando o coração de algumas das mulheres no processo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_MiGnFVclQXHSX4I_fd7xftzO75TgZk-EXBuOWKkCK3poIIybcRV8Nrs</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/IMG_20170512_140108.jpg</thumbnail>
+</item>
+294
+<item>
+<title>[COLOR white][COLOR white]Bon Cop, Bad Cop 2  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/bon-cop-bad-cop-2-2017-legendado/</page></regex>
+<genre>Ação</genre>
+<info>Seis anos se passaram desde Martin Ward e David Bouchard reuniram-se em uma maneira espetacular na fronteira Quebec / Ontario. Os dois homens ficaram amigos, mas o tempo tem seu preço e eles não se falam há quase um ano. Neste segundo capítulo, Ward e Bouchard deve enfrentar uma importante quadrilha de roubo de carro que acaba por ser muito mais do que esperava: um onde os carros roubados servirá como bombas em um ataque terrorista bem planejado.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupAZQfVnmVNCGSRNVemnvzmPbYKu34joYWcP8Jz7xFmNmVlOOp7nKX7qy5g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/MV5BNjE2YjVhN2YtZGNjNi00ZWFlLWFjMTAtOTBiODU4MTYxMmI5XkEyXkFqcGdeQX_ANm6Zq1.jpg</thumbnail>
+</item>
+293
+<item>
+<title>[COLOR white][COLOR white]A Origem do Dragão  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/origem-do-dragao-2017-legendado/</page></regex>
+<genre>Ação e Drama</genre>
+<info>Bruce Lee (Philip Ng), célebre lutador de artes marciais, e seu rival, o mestre de Kung Fu Wong Jack Man (Yu Xia), tentam resolver suas desavenças e divergências em uma luta sem regras. O embate, que se deu na Califórnia com poucas testemunhas, viria a se tornar o mais importante e emblemático duelo da carreira do futuro grande ator de cinema, um marco fundamental em sua trajetória. Depois desse evento, os dois ainda se unem para lutar contra o poderio da máfia chinesa em Chinatown, São Francisco.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN0kDB7iUZUGuIfusbP8O7AymhhW43Zpd9uFCIfhgcaNaIlAfaUfRrKXrx</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/birth-of-the-dragon-poster.jpg</thumbnail>
+</item>
+292
+<item>
+<title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
+<genre>Ação,Nacional e Faroeste</genre>
+<info>Criado e dirigido por Marcelo Galvão (Colegas), a história é um faroeste e acontece entre as décadas de 1910 e 1940, e conta a história de Cabeleira (Morgado), um temido matador do estado de Pernambuco. Cabeleira, criado por um cangaceiro local chamado Sete Orelhas (Montenegro), que o encontrou abandonado quando bebê, cresce no sertão completamente isolado da civilização. Agora um adulto, ele finalmente vai à cidade para procurar o desaparecido Sete Orelhas e encontra uma cidade sem lei, governada pelo tirânico Monsieur Blanchard (Chicot), um francês que domina o mercado de pedras preciosas e anteriormente empregava Sete Orelhas como seu matador.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJSF14d3SH5AGDHpIVOKpSzr24JTKW2BRb6sAUSLKh3_HNoJ3fvYkn6dco</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/OMatador_Vertical_PRE_BPO.jpg</thumbnail>
+</item>
+291
+<item>
+<title>[COLOR white][COLOR white]Atomica: Ameaça Oculta (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/operacao-avalanche-dublado/</page></regex>
+<genre>Ficção Cientifica</genre>
+<info>Em um futuro próximo, quando as comunicações caem em uma usina nuclear no deserto, uma jovem inspetora de segurança, Abby Dixon, é forçada a ir até o loca para para restabelecer a conexão. Uma vez dentro da instalação, pistas misteriosas e comportamentos estranhos fazem com que Abby tenha dúvidas sobre a sanidade, e talvez identidades, dos dois funcionários no local.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThjLqpeoRE-SEALFFQigTgMYtTac82rE0WgKEaq0ncfRiWepob8OjTL_k7Pw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/deep-burial_t113880.jpg</thumbnail>
+</item>
+290
+<item>
+<title>[COLOR white][COLOR white]Crash Pad: Dando o Troco (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/operacao-avalanche-dublado/</page></regex>
+<info>1967. Dois agentes da CIA investigam russos na NASA, que na época estavam fortemente envolvidos na corrida para a lua. O que eles descobrem acaba por ser muito mais chocante do que a espionagem russa. Um segredo de Estado que pode nunca, jamais pode ser revelado.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSamNefQEGwuUz5IqakLyQ7ZsKXbVz93RydHtcGuSBEg4y-EH8IUr9YuXHv</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/crash_pad.jpg</thumbnail>
+</item>
+289
+<item>
+<title>[COLOR white][COLOR white]Operação Avalanche (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/operacao-avalanche-dublado/</page></regex>
+<info>1967. Dois agentes da CIA investigam russos na NASA, que na época estavam fortemente envolvidos na corrida para a lua. O que eles descobrem acaba por ser muito mais chocante do que a espionagem russa. Um segredo de Estado que pode nunca, jamais pode ser revelado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcDE6F-vj-M4bkEJ0eaBhnbuw9ZL7VMxJ3oWmvjVf244QhfcoQm48l1HlYVA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/operation-avalanche_tNone.jpg</thumbnail>
+</item>
+288
+<item>
+<title>[COLOR white][COLOR white]Quase 18 (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/quase-18-2017-dublado/</page></regex>
+<genre>Comédia e Drama</genre>
+<info>Crescer não é nada fácil para alguns, como para Nadine, uma estudante que está enfrentando uma difícil situação desde que sua melhor amiga, Krista, está namorando com o seu irmão mais velho, Darian. Nadine se sente mais sozinha do que nunca, ao menos até começar uma amizade com um jovem atencioso.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GPQC848spxa9e7NgwuEgv2s1DiLw_ynbRSeqvPo3lcNAPhDkd23ffG-x0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/edge_of_seventeen_xlg.jpg</thumbnail>
+</item>
+287
+<item>
+<title>[COLOR white][COLOR white]Dupla Explosiva (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/dupla-explosiva-2017-legendado/</page></regex>
+<genre>Ação e Comédia</genre>
+<info>Um guarda-costas de elite, que só trabalha para os clientes mais seletos do mundo, descobre que terá um novo cliente: um assassino de aluguel que ressurgiu das cinzas, com quem costumava se estranhar no passado. Apesar do ódio mútuo, eles terão 24 horas para viajar de Londres para a Holanda, enquanto são perseguidos pelos agentes de um ditador do Leste Europeu.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GPQC848spxa9e7NgwuEgv2s1DiLw_ynbRSeqvPo3lcNAPhDkd23ffG-x0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BNzRjZWUxNDktMWE4ZS00NjEzLTk4ZGQtYTRjYTUyMzZlZWU2XkEyXkFqcGdeQX_1zZA1kB.jpg</thumbnail>
+</item>
+286
+<item>
+<title>[COLOR white][COLOR white]Olhos Famintos 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/olhos-famintos-3-2017-legendado/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>No último dia de alimentação de vinte e três dias do Creeper, as equipes policiais do Sargento Tubbs reúnem uma força-tarefa, na missão de destruir o Creeper para sempre. O Creeper trava uma batalha sangrenta enquanto seus inimigos se aproximam de descobrir o segredo de suas origens sombrias.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtT6bee3MG0ThcoTpSlb85Qf-Pqi30Nv9a5Z6gO_a2JFCXesg7HHuNm-Uj8A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/jeepers-creepers-3.jpg</thumbnail>
+</item>
+285
+<item>
+<title>[COLOR white][COLOR white]Valerian e a Cidade dos Mil Planetas (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/seuls-2017-legendado/</page></regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwdNawBYN5f1_Du8_xVTfQEJb6iFsVcypseAbDseNJg5SIHmvpMKP6lTiP</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/valerian.jpg</thumbnail>
+</item>
+284
+<item>
+<title>[COLOR white][COLOR white]Sozinhos (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/seuls-2017-legendado/</page></regex>
+<info>Cinco adolescentes acordam um dia e descobrem que estão sozinhos. Não apenas em suas casas, mas na cidade não encontram ninguém. Até para proteção mútua, eles decidem ficar juntos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpWmYv0c2brUPW6yuqiuritNXzrV3Ien_dCwbUpyYF87j9N-fkg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/seuls-2017.jpg</thumbnail>
+</item>
+283
+<item>
+<title>[COLOR white][COLOR white]O Jantar (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/salt-and-fire-dublado/</page></regex>
+<info>Dois casais se encontram em um elegante restaurante de Amsterdã. Enquanto a comida vai e vem, eles começam a conversar, passando por banalidades da vida até assuntos mais complicados. A discussão chega ao seu limite quando falam sobre seus filhos adolescentes, dois rapazes que estão envolvidos em uma complicada investigação policial.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVh6JqP3smE4b7j3zMqyVSRY3qzEYMTKHDA-Irk7-2XV4ff6QlSYPxSkrd</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/Poster_O_Jantar.jpg</thumbnail>
+</item>
+282
+<item>
+<title>[COLOR white][COLOR white]Deserto em Fogo (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/salt-and-fire-dublado/</page></regex>
+<info>Ambientado na América do Sul o filme foca em uma cientista que entra em conflito com o chefe de uma corporação responsável por um desastre ecológico. Quando um vulcão do local começa a apresentar sinais de erupção, a cientista precisa se unir ao desafeto para prevenir mais uma catástrofe.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/QXPpVy06GxdNakxjTfG3So1FwuPLWC933NYF0i_2PN79RlRte97kLOf2LYFDMaWcx9IlgvYoogeMCYubgF5DTF-fZJGHOn-NyxSkbLsJ_JLMEOQ4r8jq8v-H50zWHSi6JveqQQ=w469-h314-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/Undercover_Grandpa_da.jpg</thumbnail>
+</item>
+281
+<item>
+<title>[COLOR white][COLOR white]Vovô Disfarçado (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/vovo-disfarcado-2017-dublado/</page></regex>
+<genre>Ação e Comédia</genre>
+<info>O encontro de Jake com a garota dos sonhos toma outro rumo quando ela desaparece. Mas o avô dele, um ex-oficial da inteligencia, está dispostoa encontrá-la.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_eHgtAbuTh3vUksYwMxTMyQaWRaLMhEsku_-1yTU8zJLGEC96DP_4TuG</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/Undercover_Grandpa_da.jpg</thumbnail>
+</item>
+280
+<item>
+<title>[COLOR white][COLOR white]Área 51 - A Invasão Alien (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/alien-domicile-2017-legendado/</page></regex>
+<genre>Terror</genre>
+<info>Após décadas de teorias da conspiração e segredos, a CIA finalmente reconheceu a existência da Área 51. Mas isso não foi o suficiente, pois o que acontece lá dentro ainda é um mistério. Agora, um grupo heterogêneo, que inclui membros do exército e funcionários do governo, está preso nesse ambiente infame e precisa descobrir uma saída. Mas esse lugar trará surpresas horríveis pelo caminho, quando eles são forçados a enfrentar sinistros experimentos e seres de outros planetas. Eles saberão exatamente o que está acontecendo lá, para o bem ou para o mal.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/w2O3F9gL905P2uZmzzMw0QrHGPdtYyEFLNJgRMXFGYl9bo3QGricIiQnqglLD6XXgNL-HFOmh7s8ArkxAFJ11v6aO-zx6O5aeSYIua0atSTwb5wSUNGKYw=w512-h287-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/011_ezKg1vt.jpg</thumbnail>
+</item>
+279
+<item>
+<title>[COLOR white][COLOR white]O Filho do Satã (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/o-filho-do-sata-2017-legendado/</page></regex>
+<genre>Terror</genre>
+<info>Após um estranho incidente durante seu chá de bebê, a enfermeira Allison é levada para o hospital às pressas, para o parto do prematuro Neron. Depois do nascimento, a vida de Allison é cercada por misteriosos acontecimentos, ilusões, sonhos e assassinatos sem explicação. Todos os eventos acabam tendo uma ligação com bebê Neron e sua mãe tem premonições repentinas que revelam as próximas vítimas de seu filho. Em busca de ajuda, ela conhece o Reverendo Jones que tentará de todas as formas libertar o garoto deste poder maligno.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOE3NLlO5srGi5V5BIz7l5kbVH78L62gl7CV4vw1hmeTepLKVbxhXK9VPWA</fanart>
+<thumbnail>https://2.bp.blogspot.com/-xW7Kw9SGUo8/WgGaM9cE6xI/AAAAAAAABkQ/p5XcsC1uod8PafQzWB4-sivyL6IbQydtwCLcBGAs/s1600/Child.Of_.Satan_.2017.jpg</thumbnail>
+</item>
+278
+<item>
+<title>[COLOR white][COLOR white]24 Horas para Viver (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/24-hours-to-live-2017-legendado/</page></regex>
+<info>O longa conta a história de um assassino que recebe uma chance de redenção quando é trazido de volta a vida por seu empregador, momentos depois de ter sido morto durante um trabalho.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmutC_HIDAsdaqk6O1jog4MuDzKLLSX86d2agqvvAh1MAquwPS9Ld4IY2q</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/twenty_four_hours_to_live.jpg</thumbnail>
+</item>
+276
+<item>
+<title>[COLOR white][COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/sem-perdao-2017-dublado/</page></regex>
+<genre>Drama e Policial</genre>
+<info></info>
+<fanart>https://lh6.googleusercontent.com/proxy/k2h2Gv0d2lVBoddqKLzOXIbLOYGHhsT0_v_UXptjvT_L0uVPGCa90Fx_ezDCukIHQSpOadvwsA=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/shot_caller.jpg</thumbnail>
+</item>
+275
+<item>
+<title>[COLOR white][COLOR white]Bunnyman Vengeance (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/bunnyman-vengeance-2017-legendado/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>Bunnyman volta para casa para encontrar sua família executando uma atração assombrada da casa. Eles o recebem em casa, mas logo percebem que você não pode domesticar um animal selvagem. A morte e o caos ocorrem quando eles se entregam para satisfazer suas luxúrias de sangue.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7AlscMWUFIFN9PYQqHDAZ80t8yTisBNerwTRo5og7xLSl6QFZokq93oVc9g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/MV5BMWIwMjM4OWYtYjFmZC00OWM1LWE1MWUtNTM2YzkwNDk5NDlmXkEyXkFqcGdeQX_yg2yJPs.jpg</thumbnail>
+</item>
+274
+<item>
+<title>[COLOR white][COLOR white]6 Dias (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/6-dias-2017-dublado/</page></regex>
+<info>O filme é baseado nos eventos de abril de 1980, quando seis homens armados invadiram a embaixada iraniana em Londres e tomaram mais de 20 pessoas como reféns por seis dias.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpzYiSYy9Ze9VlBZW9_Dmfd0_sdA5Gdj2Ac-_bkNFrBsMbCTPAahc26EuRew</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/poster_opt1_5vxlgiJ.jpg</thumbnail>
+</item>
+273
+<item>
+<title>[COLOR white][COLOR white]Operação Antropoide (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/anthropoid-dublado/</page></regex>
+<info>Baseado em um dos grandes eventos da Segunda Guerra Mundial, a Operação Antropoid, que visava matar o general Heydrich, que era protetor do reich. Terceiro homem mais poderoso do período nazista, ele foi o principal arquiteto da solução final das questões judáicas e da ocupação nazista na Tchecoslováquia. Suas ações fizeram com que soldados aliados se unissem para mudar o futuro da Europa.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT2ku53H1Fxoddbuqiug5RmEx4pGYKtNWdW-b_khqUHulmPcuqbDII1XLjyA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/anthropoid.jpg</thumbnail>
+</item>
+272
+<item>
+<title>[COLOR white][COLOR white]O Que Será de Nozes? 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-que-sera-de-nozes-2-2017-dublado/</page></regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>A aventura apresenta a continuação da história de Surly Squirrel e seus amigos. Quando o malvado prefeito de Oakton decide demolir o Liberty Park e construir um perigoso parque de diversões no local, a turma precisa se reunir para salvar sua casa, derrotar o prefeito e retomar o parque.</info>
@@ -29,8 +280,8 @@ Corra!
 </item>
 271
 <item>
-<title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Viidlox)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>","(.*mp4.*?)"</expres><page>https://vidlox.tv/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidlox.tv/</referer></regex><regex><name>ID_Igor_rangel</name><expres>vidlox=(.*?)&</expres>
+<title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/loucos-e-perigosos-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>
