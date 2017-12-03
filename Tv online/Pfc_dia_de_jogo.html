@@ -550,6 +550,28 @@
 <thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR maroon]Jogo 05[/COLOR] [COLOR gray] Tudotv[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/tudotv5online/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/abrhd</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>hls: '(.*)'</expres
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
+<fanart>https://goo.gl/E2olfw</fanart>
+<thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
+</item>
+
 
 
 
@@ -674,6 +696,50 @@
 <expres>hls: '(.*)'</expres
 <page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2.txt</page></regex>
+<fanart>https://goo.gl/E2olfw</fanart>
+<thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon]Jogo 06[/COLOR] [COLOR gray] PxStream 2[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/aovivonatv6/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>hls: '(.*)'</expres
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream.txt</page></regex>
+<fanart>https://goo.gl/E2olfw</fanart>
+<thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon]Jogo 07[/COLOR] [COLOR gray] PxStream 2[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/aovivonatv7/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>hls: '(.*)'</expres
+<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream.txt</page></regex>
 <fanart>https://goo.gl/E2olfw</fanart>
 <thumbnail>http://igorlistalogos.at.ua/Futebol/thumbnail/Futebol.png</thumbnail>
 </item>
