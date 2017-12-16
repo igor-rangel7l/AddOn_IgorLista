@@ -8,6 +8,20 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]A Lei da Noite (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ALEIDNOT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Boston, década de 1920. Joe Coughlin, filho mais novo de um capitão de polícia, se envolve com o crime organizado. Ele aproveita seus dias rodeado de dinheiro e poder, mas suas escolhas podem levá-lo à prisão, ou até mesmo à morte. Adaptação do livro escrito por Dennis Lehane.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXvZvt1VTGqpRXnuyZ19PpTFj0uULznE0Crvo_hshKqmtFiE1M-pTwFoER</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14258329_1085569191490516_5810397544794220614_o.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/sem-perdao-2017-dublado/</page></regex>

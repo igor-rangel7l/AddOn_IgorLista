@@ -5,6 +5,20 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Atomica: Agente Especial (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ATMCAGNTESPC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação</genre>
+<info>Lorraine Broughton (Charlize Theron), uma agente disfarçada do MI6, é enviada para Berlim durante a Guerra Fria para investigar o assassinato de um oficial e recuperar uma lista perdida de agentes duplos. Ao lado de David Percival (James McAvoy), chefe da localidade, a assassina brutal usará todas as suas habilidades nesse confronto de espiões.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTD-mOXEn8MyKM-Cp9RqbPYMHOPddQ6Xx-9syXlQT1QBgrlSe4qBncYFBu</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/atômica.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Liga da Justiça  (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/liga-da-justica-2017-dublado/</page></regex>

@@ -7,6 +7,36 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Conexão Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ficção Cientifica e Terror</genre>
+<info>O artista gráfico Clay Riddell (Cusack) se vê numa caçada alucinante em meio a criaturas que antes eram simples mortais. Em um rápido momento, todas as pessoas que estavam falando no celular enlouquecem. Fora de si, começam a atacar e matar quem passa pela frente. O desafio é sobreviver num mundo virado às avessas.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTECRuIEcYGXd17f7UxhMH_JDgPrAvwYdfCVroyvBQ64Cpw7GMYMvEpq3MC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/04/celular_t68372.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Blame! (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BLME.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ficção Cientifica</genre>
+<info>A história se passa num futuro distante, onde os seres humanos restantes vivem dentro de um perigoso e gigantesco labirinto chamado de Megaestrutura, que ficou totalmente fora de controle. No meio disso tudo, conhecemos Killy, um homem misterioso e de poucas palavras que está determinado a salvar a a humanidade do esquecimento.
+Publicado entre 1997 e 2003 com um total de dez volumes, o mangá de Blame! conta ainda com uma adaptação em formato OVA, lançada em 2003. A produção de um filme chegou a ser anunciada em 2007, mas foi cancelada por conta da falência do estúdio Micott & Basara. 
+Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serviço de streaming Netflix, que ainda vai contar com o inovador formato High Dynamic Range (HDR).</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9yTo2Vb1bSR92O3mVa6qMCpTj5s53Jizw8zbYP-O3kYgVAbJ7Kt8VEZxA4A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/365e763ffe3d1554d944babecf3100b83cfd205f.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Liga da Justiça  (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/liga-da-justica-2017-dublado/</page></regex>

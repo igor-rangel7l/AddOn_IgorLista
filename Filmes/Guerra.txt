@@ -12,6 +12,20 @@
 
 
 <item>
+<title>[COLOR white]Castelo de Areia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>Ambientado durante a ocupação do Iraque, um pelotão de soldados norte-americanos tentam proteger uma pequena aldeia.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9cmhxGT0aExGQzN2G58pkx-qI-OPwT-VKfEh_UTABAJ3ZFmUHpQE4gnGYHQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/7j0wzI6r7NZOTQtiMCsVwa2ga9y.jpg</thumbnail>
+</item>
+
+<item>
 <title>Guerra ao Terror (Dublado) - 2010</title>
 <link>$doregex[Igor_Rangel_Link]GURAOTER.mp4</link>
 <regex>

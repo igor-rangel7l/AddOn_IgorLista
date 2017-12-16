@@ -8,6 +8,20 @@
 
 
 <item>
+<title>[COLOR white]Cinquenta Tons Mais Escuros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Quando um Christian Grey (Jamie Dornan) ferido tenta seduzir uma Ana Steele (Dakota Johnson) cautelosa de volta a sua vida, ela demanda um novo arranjo antes de dar uma nova chance a ele. Conforme os dois começam a construir confiança e encontrar estabilidade, figuras sombrias do passado de Christian começam a assombrar o casal, determinadas a destruir suas esperanças de um futuro juntos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzdX3NTnM915k_TO8s0OSNhxL5QkfHhK-vddNM-7Ycjt7WGZQ0enkgno4p</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/CzQkQT1XAAAJHRk.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Singularidade  (Legendado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/singularity-2017-legendado/</page></regex>

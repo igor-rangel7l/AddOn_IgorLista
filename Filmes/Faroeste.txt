@@ -12,6 +12,20 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Amaldiçoada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Faroeste</genre>
+<info>iz (Dakota Fanning) é uma corajosa mulher que tenta fugir de seu passado, mas passa a ser perseguida por um fanático diabólico (Guy Pearce). Diante dessa adversidade, Liz é uma verdadeira sobrevivente, que vai lutar para criar uma vida melhor para ela e sua filha. Custe o que custar, Liz fará de tudo para trazer retribuição.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCXMVoZBaJYhCU63fITxjvnP8B6kqVoiNs_OwTMvHJmqYfEc7AKp9Zsy9ETw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/MV5BMTU4MzAyNjg0Ml5BMl5BanBnXkFtZTgwMzk3ODYyMTI._V1_SY1000_CR007081000_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
