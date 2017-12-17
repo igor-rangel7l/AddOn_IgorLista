@@ -5,6 +5,36 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB*?)" fra</expres>
+<page>http://netcine.us/os-guardioes/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>A trama se passa durante a Guerra Fria, quando uma organização chamada "Patriot" criou um esquadrão de super-heróis, que inclui membros de várias repúblicas soviéticas. Durante anos, os heróis tiveram que esconder suas identidades, mas em tempos difíceis eles precisam se revelar novamente.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvVOC3mgWJy8mDVJo_qOKoffP0X4tiUFFEyryQBFShBiXEcujw9kmtAd9kvA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/guardians-2017-movie-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/kingsman-o-circulo-dourado/</page></regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>Eggsy (Taron Egerton) é um jovem com problemas de disciplina que parece perto de se tornar um criminoso. Determinado dia, ele entra em contato com Harry (Colin Firth), que lhe apresenta à agência de espionagem Kingsman. O jovem se une a um time de recrutas em busca de uma vaga na agência. Ao mesmo tempo, Harry tenta impedir a ascensão do vilão Valentine (Samuel L. Jackson). Adaptação da série de quadrinhos criada por Mark Millar e Dave Gibbons.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_DiLaxWV3eDniC6g6ICu9ujz7cvmij13L1yyGmy04Y-UD0MDHoAsG78o6</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/01/kingsman-servico-secreto_t73787.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Dupla Explosiva (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/dupla-explosiva/</page></regex>
+<genre>Ação e Comédia</genre>
+<info>Um guarda-costas de elite, que só trabalha para os clientes mais seletos do mundo, descobre que terá um novo cliente: um assassino de aluguel que ressurgiu das cinzas, com quem costumava se estranhar no passado. Apesar do ódio mútuo, eles terão 24 horas para viajar de Londres para a Holanda, enquanto são perseguidos pelos agentes de um ditador do Leste Europeu.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GPQC848spxa9e7NgwuEgv2s1DiLw_ynbRSeqvPo3lcNAPhDkd23ffG-x0A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BNzRjZWUxNDktMWE4ZS00NjEzLTk4ZGQtYTRjYTUyMzZlZWU2XkEyXkFqcGdeQX_1zZA1kB.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Atomica: Agente Especial (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ATMCAGNTESPC.mp4</link>
 <regex>
@@ -66,16 +96,6 @@
 <info>Criado e dirigido por Marcelo Galvão (Colegas), a história é um faroeste e acontece entre as décadas de 1910 e 1940, e conta a história de Cabeleira (Morgado), um temido matador do estado de Pernambuco. Cabeleira, criado por um cangaceiro local chamado Sete Orelhas (Montenegro), que o encontrou abandonado quando bebê, cresce no sertão completamente isolado da civilização. Agora um adulto, ele finalmente vai à cidade para procurar o desaparecido Sete Orelhas e encontra uma cidade sem lei, governada pelo tirânico Monsieur Blanchard (Chicot), um francês que domina o mercado de pedras preciosas e anteriormente empregava Sete Orelhas como seu matador.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJSF14d3SH5AGDHpIVOKpSzr24JTKW2BRb6sAUSLKh3_HNoJ3fvYkn6dco</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/OMatador_Vertical_PRE_BPO.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][COLOR white]Dupla Explosiva (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/dupla-explosiva-2017-legendado/</page></regex>
-<genre>Ação e Comédia</genre>
-<info>Um guarda-costas de elite, que só trabalha para os clientes mais seletos do mundo, descobre que terá um novo cliente: um assassino de aluguel que ressurgiu das cinzas, com quem costumava se estranhar no passado. Apesar do ódio mútuo, eles terão 24 horas para viajar de Londres para a Holanda, enquanto são perseguidos pelos agentes de um ditador do Leste Europeu.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GPQC848spxa9e7NgwuEgv2s1DiLw_ynbRSeqvPo3lcNAPhDkd23ffG-x0A</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BNzRjZWUxNDktMWE4ZS00NjEzLTk4ZGQtYTRjYTUyMzZlZWU2XkEyXkFqcGdeQX_1zZA1kB.jpg</thumbnail>
 </item>
 
 <item>

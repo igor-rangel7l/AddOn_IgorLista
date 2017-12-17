@@ -7,6 +7,26 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Polícia Federal: A Lei É para Todos (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*POFE20117.*?)" fra</expres>
+<page>http://netcine.us/policia-federal-a-lei-e-para-todos/</page></regex>
+<genre>Nacional e Drama</genre>
+<info>O filme conta a saga da maior e mais bem-sucedida operação de combate à corrupção da história do país – a Operação Lava Jato. Pelo ponto de vista do delegado Ivan (Antonio Calloni) e de sua equipe da Polícia Federal, em conjunto com a força-tarefa do Ministério Público Federal, o longa revela os esforços para desvendar o esquema de lavagem de dinheiro e pagamento de propinas a executivos de uma estatal de petróleo, empreiteiras, partidos políticos e parlamentares. O thriller mostra ainda o papel decisivo da Justiça para que a investigação não fosse destruída pelas forças políticas envolvidas.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-DMQFZJAt_lA-Bga7NbjFRjKO7Lb9XhCwn6GBAM3l1M-_HnQ8w5mjagS6yA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Polícia_Federal_-_A_Lei_é_Para_Todos.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Polícia Federal: A Lei É para Todos (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*POFE20117.*?)" fra</expres>
+<page>http://netcine.us/crise-na-terra-x-o-filme/</page></regex>
+<genre>Nacional e Drama</genre>
+<info>O filme conta a saga da maior e mais bem-sucedida operação de combate à corrupção da história do país – a Operação Lava Jato. Pelo ponto de vista do delegado Ivan (Antonio Calloni) e de sua equipe da Polícia Federal, em conjunto com a força-tarefa do Ministério Público Federal, o longa revela os esforços para desvendar o esquema de lavagem de dinheiro e pagamento de propinas a executivos de uma estatal de petróleo, empreiteiras, partidos políticos e parlamentares. O thriller mostra ainda o papel decisivo da Justiça para que a investigação não fosse destruída pelas forças políticas envolvidas.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-DMQFZJAt_lA-Bga7NbjFRjKO7Lb9XhCwn6GBAM3l1M-_HnQ8w5mjagS6yA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Polícia_Federal_-_A_Lei_é_Para_Todos.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Castelo de Areia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4</link>
 <regex>

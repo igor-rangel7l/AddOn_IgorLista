@@ -6,6 +6,46 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Crise na Terra X (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/crise-na-terra-x-o-filme/</page></regex>
+<genre>Aventura</genre>
+<info>O ÉPICO CROSSOVER ENTRE ARROW, SUPERGIRL, THE FLASH E LEGENDS OF TOMORROW TEM INÍCIO – O casamento de Barry (Grant Gustin) e Iris (Candice Patton) reúne todo o grupo, mas as coisas acabam fora de controle quando vilões da Terra-X atacam a cerimônia. Todos os super-heróis do universo alternativo se unem para salvar seus aliados, como o Cidadão Frio (Wentworth Miller), The Ray (Russell Tovey), Felicity Smoak (Emily Bett Rickards), Iris West e Alex Danvers (Chyler Leigh). Todos tentam derrotar os mais formidáveis vilões. Enquanto isso, os maiores heróis da Terra – Arqueiro Verde (Stephen Amell), Flash, Supergirl (Melissa Benoist) e Canário Branco (Caity Lotz) – lideram suas equipes para salvar o mundo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaHw8GaF6VBmwaV52QKXHAfT84pOinVovwkluwXNxqojwZgklKV8Je1RL5g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/dpro6dwwsaai7md-1-.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB*?)" fra</expres>
+<page>http://netcine.us/os-guardioes/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>A trama se passa durante a Guerra Fria, quando uma organização chamada "Patriot" criou um esquadrão de super-heróis, que inclui membros de várias repúblicas soviéticas. Durante anos, os heróis tiveram que esconder suas identidades, mas em tempos difíceis eles precisam se revelar novamente.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvVOC3mgWJy8mDVJo_qOKoffP0X4tiUFFEyryQBFShBiXEcujw9kmtAd9kvA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/guardians-2017-movie-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Crise na Terra X (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/crise-na-terra-x-o-filme/</page></regex>
+<genre>Aventura</genre>
+<info>O ÉPICO CROSSOVER ENTRE ARROW, SUPERGIRL, THE FLASH E LEGENDS OF TOMORROW TEM INÍCIO – O casamento de Barry (Grant Gustin) e Iris (Candice Patton) reúne todo o grupo, mas as coisas acabam fora de controle quando vilões da Terra-X atacam a cerimônia. Todos os super-heróis do universo alternativo se unem para salvar seus aliados, como o Cidadão Frio (Wentworth Miller), The Ray (Russell Tovey), Felicity Smoak (Emily Bett Rickards), Iris West e Alex Danvers (Chyler Leigh). Todos tentam derrotar os mais formidáveis vilões. Enquanto isso, os maiores heróis da Terra – Arqueiro Verde (Stephen Amell), Flash, Supergirl (Melissa Benoist) e Canário Branco (Caity Lotz) – lideram suas equipes para salvar o mundo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaHw8GaF6VBmwaV52QKXHAfT84pOinVovwkluwXNxqojwZgklKV8Je1RL5g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/dpro6dwwsaai7md-1-.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/kingsman-o-circulo-dourado/</page></regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>Eggsy (Taron Egerton) é um jovem com problemas de disciplina que parece perto de se tornar um criminoso. Determinado dia, ele entra em contato com Harry (Colin Firth), que lhe apresenta à agência de espionagem Kingsman. O jovem se une a um time de recrutas em busca de uma vaga na agência. Ao mesmo tempo, Harry tenta impedir a ascensão do vilão Valentine (Samuel L. Jackson). Adaptação da série de quadrinhos criada por Mark Millar e Dave Gibbons.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_DiLaxWV3eDniC6g6ICu9ujz7cvmij13L1yyGmy04Y-UD0MDHoAsG78o6</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/01/kingsman-servico-secreto_t73787.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/paw-patrol-os-filhotes-salvam-o-natal-2017-dublado/</page></regex>
