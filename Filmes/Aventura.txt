@@ -27,7 +27,7 @@
 
 <item>
 <title>[COLOR white][COLOR white]Crise na Terra X (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CRISENATERRA.*?)" fra</expres>
 <page>http://netcine.us/crise-na-terra-x-o-filme/</page></regex>
 <genre>Aventura</genre>
 <info>O ÉPICO CROSSOVER ENTRE ARROW, SUPERGIRL, THE FLASH E LEGENDS OF TOMORROW TEM INÍCIO – O casamento de Barry (Grant Gustin) e Iris (Candice Patton) reúne todo o grupo, mas as coisas acabam fora de controle quando vilões da Terra-X atacam a cerimônia. Todos os super-heróis do universo alternativo se unem para salvar seus aliados, como o Cidadão Frio (Wentworth Miller), The Ray (Russell Tovey), Felicity Smoak (Emily Bett Rickards), Iris West e Alex Danvers (Chyler Leigh). Todos tentam derrotar os mais formidáveis vilões. Enquanto isso, os maiores heróis da Terra – Arqueiro Verde (Stephen Amell), Flash, Supergirl (Melissa Benoist) e Canário Branco (Caity Lotz) – lideram suas equipes para salvar o mundo.</info>
