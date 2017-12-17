@@ -8,7 +8,7 @@
 
 <item>
 <title>[COLOR white][COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*POFE20117.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CSATO.*?)" fra</expres>
 <page>http://netcine.us/como-se-tornar-o-pior-aluno-da-escola/</page></regex>
 <genre>Comédia e Nacional</genre>
 <info>Bernado (Bruno Munhoz) e Pedro (Daniel Pimentel) são estudantes e enfrentam as clássicas tarefas de cumprir as obrigações escolares, tirar boas notas, ter bom comportamento e cumprir as regras da escola, cada vez mais elaboradas graças ao diretor Ademar (Carlos Villagrán). Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego, o que leva os dois amigos a seguirem as dicas do caderno.</info>

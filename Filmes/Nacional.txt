@@ -6,6 +6,26 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CSATO.*?)" fra</expres>
+<page>http://netcine.us/como-se-tornar-o-pior-aluno-da-escola/</page></regex>
+<genre>Comédia e Nacional</genre>
+<info>Bernado (Bruno Munhoz) e Pedro (Daniel Pimentel) são estudantes e enfrentam as clássicas tarefas de cumprir as obrigações escolares, tirar boas notas, ter bom comportamento e cumprir as regras da escola, cada vez mais elaboradas graças ao diretor Ademar (Carlos Villagrán). Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego, o que leva os dois amigos a seguirem as dicas do caderno.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRerQero_94sX4Yz5zQL3py7E4s-IbZgSBhUm_Ae962oNfrFb6mBA5HB7Mscw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/cartaz_como_se_tornar_o_pior_aluno_da_escola.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Polícia Federal: A Lei É para Todos (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*POFE20117.*?)" fra</expres>
+<page>http://netcine.us/policia-federal-a-lei-e-para-todos/</page></regex>
+<genre>Nacional e Drama</genre>
+<info>O filme conta a saga da maior e mais bem-sucedida operação de combate à corrupção da história do país – a Operação Lava Jato. Pelo ponto de vista do delegado Ivan (Antonio Calloni) e de sua equipe da Polícia Federal, em conjunto com a força-tarefa do Ministério Público Federal, o longa revela os esforços para desvendar o esquema de lavagem de dinheiro e pagamento de propinas a executivos de uma estatal de petróleo, empreiteiras, partidos políticos e parlamentares. O thriller mostra ainda o papel decisivo da Justiça para que a investigação não fosse destruída pelas forças políticas envolvidas.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-DMQFZJAt_lA-Bga7NbjFRjKO7Lb9XhCwn6GBAM3l1M-_HnQ8w5mjagS6yA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Polícia_Federal_-_A_Lei_é_Para_Todos.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
