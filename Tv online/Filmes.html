@@ -13,6 +13,60 @@
 
 
 <item>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -42,47 +96,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE PIPOCA HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE PIPOCA SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
 <item>
@@ -141,47 +205,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE PREMIUM HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
-<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
+<thumbnail>http://goo.gl/P79aKf</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE PREMIUM SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
-<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
+<thumbnail>http://goo.gl/P79aKf</thumbnail>
 </item>
 
 <item>
@@ -227,47 +301,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE ACTION HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
-<thumbnail>http://goo.gl/P79aKf</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
+<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE ACTION SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
-<thumbnail>http://goo.gl/P79aKf</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
+<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
 </item>
 
 <item>
@@ -288,47 +372,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE FUN HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
-<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
+<thumbnail>http://goo.gl/AfJkib</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE FUN SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
-<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
+<thumbnail>http://goo.gl/AfJkib</thumbnail>
 </item>
 
 <item>
@@ -349,47 +443,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE TOUCH HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
-<thumbnail>http://goo.gl/AfJkib</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
+<thumbnail>http://goo.gl/fLmSUL</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE TOUCH SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
-<thumbnail>http://goo.gl/AfJkib</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
+<thumbnail>http://goo.gl/fLmSUL</thumbnail>
 </item>
 
 <item>
@@ -410,47 +514,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE CULT HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
-<thumbnail>http://goo.gl/fLmSUL</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TELECINE CULT SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
-<thumbnail>http://goo.gl/fLmSUL</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
 </item>
 
 <item>
@@ -518,47 +632,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>HBO HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
-<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>HBO SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
-<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
 </item>
 
 <item>
@@ -587,47 +711,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>HBO2 HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
-<thumbnail>http://goo.gl/yrDz67</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-family.jpg</fanart>
+<thumbnail>http://goo.gl/2BXhGr</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>HBO2 SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
-<thumbnail>http://goo.gl/yrDz67</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-family.jpg</fanart>
+<thumbnail>http://goo.gl/2BXhGr</thumbnail>
 </item>
 
 <item>
@@ -648,47 +782,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>HBO FAMILY HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/hbo-family.jpg</fanart>
-<thumbnail>http://goo.gl/2BXhGr</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/HBO_Plus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>HBO FAMILY SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/hbo-family.jpg</fanart>
-<thumbnail>http://goo.gl/2BXhGr</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/HBO_Plus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
 </item>
 
 <item>
@@ -717,47 +861,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>HBO PLUS HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/HBO_Plus.jpg</fanart>
-<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-signature.jpg</fanart>
+<thumbnail>http://goo.gl/pTRcv8</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>HBO PLUS SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/HBO_Plus.jpg</fanart>
-<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-signature.jpg</fanart>
+<thumbnail>http://goo.gl/pTRcv8</thumbnail>
 </item>
 
 <item>
@@ -795,47 +949,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]SPACE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>SPORTV_HD"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/hbo-signature.jpg</fanart>
-<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
+<thumbnail>http://goo.gl/wOXdmw</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]SPACE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>SPORTV_HD"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/hbo-signature.jpg</fanart>
-<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
+<thumbnail>http://goo.gl/wOXdmw</thumbnail>
 </item>
 
 <item>
@@ -856,47 +1020,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]SPACE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>SPACE HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
-<thumbnail>http://goo.gl/wOXdmw</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]SPACE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>SPACE SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
-<thumbnail>http://goo.gl/wOXdmw</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
 </item>
 
 <item>
@@ -935,47 +1109,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>MEGAPIX HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
-<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
+<thumbnail>https://goo.gl/iwCiPM</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>MEGAPIX SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
-<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/Paramount.png</thumbnail>
 </item>
 
 <item>
@@ -996,47 +1180,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>PARAMOUNT CHANNEL HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
-<thumbnail>https://goo.gl/iwCiPM</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TNT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>PARAMOUNT CHANNEL SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
-<thumbnail>http://igorlistalogos.at.ua/thumbnail/Paramount.png</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
 </item>
 
 <item>
@@ -1077,47 +1271,30 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]TCM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TCM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TNT HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
-<thumbnail>http://goo.gl/vUl6oy</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TNT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
-<name>Igor_Rangel_2</name>
-<expres>TNT SD:"(.*)"</expres>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<regex>
-<name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
-<thumbnail>http://goo.gl/vUl6oy</thumbnail>
+<fanart>http://igorlistalogos.at.ua/fanart/tmc.png</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/TCM.png</thumbnail>
 </item>
 
 <item>
@@ -1138,25 +1315,58 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TCM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TCM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>TCM SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/tmc.png</fanart>
-<thumbnail>http://igorlistalogos.at.ua/thumbnail/TCM.png</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
+<thumbnail>https://goo.gl/oDAihL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
+<thumbnail>https://goo.gl/oDAihL</thumbnail>
 </item>
 
 <item>
@@ -1177,47 +1387,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>CINEMAX HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
-<thumbnail>https://goo.gl/oDAihL</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MAX.png</fanart>
+<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>CINEMAX SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
-<thumbnail>https://goo.gl/oDAihL</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MAX.png</fanart>
+<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
 </item>
 
 <item>
@@ -1238,47 +1458,57 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>MAX UP HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/MAX.png</fanart>
-<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
+<thumbnail>http://goo.gl/Hbr506</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>MAX UP SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/MAX.png</fanart>
-<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
+<thumbnail>http://goo.gl/Hbr506</thumbnail>
 </item>
 
 <item>
@@ -1299,61 +1529,54 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>MAX UP HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
-<thumbnail>http://goo.gl/Hbr506</thumbnail>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/maxprimeb.png</fanart>
+<thumbnail>http://goo.gl/JG4dUv</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>MAX UP SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
-<thumbnail>http://goo.gl/Hbr506</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tvmsnmaxxprime/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <fanart>http://igorlistalogos.at.ua/fanart/maxprimeb.png</fanart>
 <thumbnail>http://goo.gl/JG4dUv</thumbnail>
@@ -1377,65 +1600,26 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_2</name>
-<expres>MAX PRIME HD:"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/maxprimeb.png</fanart>
-<thumbnail>http://goo.gl/JG4dUv</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_2</name>
-<expres>MAX PRIME SD:"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/maxprimeb.png</fanart>
-<thumbnail>http://goo.gl/JG4dUv</thumbnail>
-</item>
-
-<item>
 <title>[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>STUDIO HD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <fanart>http://w.peppermelon.tv/imagesok/proyectos/cd6ba9e667ff251927e09108f28768f705-universal.jpg</fanart>
@@ -1448,21 +1632,80 @@
 <link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_2</name>
-<expres>STUDIO SD:"(.*)"</expres>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <regex>
 <name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <fanart>http://w.peppermelon.tv/imagesok/proyectos/cd6ba9e667ff251927e09108f28768f705-universal.jpg</fanart>
 <thumbnail>http://goo.gl/lTL3Bs</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR]  [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CANAL BRASIL[/B][/COLOR]  [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
+<thumbnail>http://goo.gl/zddqpQ</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
+<thumbnail>http://goo.gl/zddqpQ</thumbnail>
 </item>
 
 <item>
@@ -1477,50 +1720,6 @@
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
-<thumbnail>http://goo.gl/zddqpQ</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR]  [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CANAL BRASIL[/B][/COLOR]  [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_2</name>
-<expres>CANAL BRASIL HD:"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
-<thumbnail>http://goo.gl/zddqpQ</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_1</name>
-<expres>server"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_2</name>
-<expres>CANAL BRASIL SD:"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_3</name>
-<expres>Ts"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
 <thumbnail>http://goo.gl/zddqpQ</thumbnail>
