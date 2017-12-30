@@ -8,6 +8,62 @@
 
 
 <item>
+<title>[COLOR white]La La Land: Cantando Estações (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama,Romance e Comédia</genre>
+<info>Ao chegar em Los Angeles, o pianista de jazz Sebastian (Ryan Gosling) conhece a atriz iniciante Mia (Emma Stone) e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva cidade, os jovens tentam fazer o relacionamento amoroso dar certo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9yzrL-0v2sBcaL_98j7Q5IWOBGvk_W3qwrYTGEN9lK5mr1whDi5bh-WlcOQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/08/097062.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Nossas Noites (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NOSNITS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Uma viúva solitária tenta se conectar com seu vizinho de décadas após ele também perder a esposa. Os dois moraram lado a lado por anos e quase não se conheceram – agora, na velhice, começam a estabelecer uma conexão e descobrir uma química perfeita.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8MsiRxR0u61OlX0MIviz9oNfrtXlxFRO-B_LqbwSyA-vpWPsdGVjjAUvz</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/our_souls_at_night.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Amor e Tulipas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Holanda, século XVII. O artista Jan van Loos (Dane DeHaan) é contratado para pintar o retrato do casal Sandvoort e imediatamente se apaixona pela jovem esposa do rico comerciante, Sophia (Alicia Vikander). Completamente envolvida no tórrido romance e cansada da existência infeliz ao lado do marido, ela decide fugir de casa para viver o amor.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOqmX_0P6c5rX1xhe1fff6l2wbrwbdHPmMvy3gFa1jQcCBquHPvIFeGpu1NQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/tulip-fever_t82275.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Cartão de Natal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRTAODNTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Romance</genre>
+<info>É uma comédia romântica original Netflix, sobre uma socialite rica que é enviada para uma cidade pequena para entregar uma mensagem para um tio e lá, encontra um amor verdadeiro no meio de uma tempestade de neve.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/6JcdFW2w3RTsnfVI2OWaSYcouWFzDdXEtAGvhOgZh0xo4XZ4tJzNvr5b_d23uilnZoyjBm4aoaunFyMmtPGlI-TTkRN6tIuHMao1cgu4o_T5PX4Jj2iRKZ4uu-5bZczyR3eWUjWKrhcPz1IRTSvZrqwv=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/image_DTLuiPj.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Cinquenta Tons Mais Escuros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4</link>
 <regex>
