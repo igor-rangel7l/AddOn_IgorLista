@@ -5,15 +5,144 @@
 
 
 
+<item>
+<title>[COLOR white][COLOR white]Fechando Negócio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Um estudante do ensino médio lutando para ajudar a sua mãe instável e seu cão doente forma uma improvável amizade com uma bela fugitiva.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW0uHSYvDiOZFtFQPN1aWyxTz0CsD2HjGwYRXIm_9uVThYZrllQ1RYGDz6</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/hard-sell-poster.jpg</thumbnail>
+</item>
 
 <item>
-<title>[COLOR white][COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CSATO.*?)" fra</expres>
-<page>http://netcine.us/como-se-tornar-o-pior-aluno-da-escola/</page></regex>
+<title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>Após um ataque ao quartel general da Kingsman, Eggsy e Merlin viajam para os Estados Unidos, onde afiliam-se à Statesman, versão americana da organização de espionagem.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaj550ROU8KjklMjuSYZSeaTap6Soa-pcPhgE1xDZ5f7cD0u4R5-j6g6RB</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/20953553_1388097174630785_6669241522658130435_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]La La Land: Cantando Estações (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama,Romance e Comédia</genre>
+<info>Ao chegar em Los Angeles, o pianista de jazz Sebastian (Ryan Gosling) conhece a atriz iniciante Mia (Emma Stone) e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva cidade, os jovens tentam fazer o relacionamento amoroso dar certo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9yzrL-0v2sBcaL_98j7Q5IWOBGvk_W3qwrYTGEN9lK5mr1whDi5bh-WlcOQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/08/097062.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Alibi.com (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ALBCM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Comédia</genre>
+<info>Greg fundou uma empresa chamada Alibi.com que cria qualquer tipo de álibi. Com seu parceiro Augustin, e Medhi, seu novo funcionário, eles desenvolvem truques e encenações para cobrir seus clientes. Mas o surgimento de Flo, uma loira bonita que odeia homens mentirosos, vai complicar a vida de Greg, começando com a descoberta da verdadeira natureza dos seus negócios. Durante a apresentação aos pais, Greg inclui o pai de Flo, Gérard, que também é um dos seus clientes ...</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVuw4dGl621IPbXEMpyWMxBnAmu6MWHrjBnhA9DeRJCNAkD-9YOtuE7JGKWA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/alibi-com-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
 <genre>Comédia e Nacional</genre>
 <info>Bernado (Bruno Munhoz) e Pedro (Daniel Pimentel) são estudantes e enfrentam as clássicas tarefas de cumprir as obrigações escolares, tirar boas notas, ter bom comportamento e cumprir as regras da escola, cada vez mais elaboradas graças ao diretor Ademar (Carlos Villagrán). Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego, o que leva os dois amigos a seguirem as dicas do caderno.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRerQero_94sX4Yz5zQL3py7E4s-IbZgSBhUm_Ae962oNfrFb6mBA5HB7Mscw</fanart>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIhpekBf0XDl5njAjPTVV19Jz_Xb7CsZ-NERar1SislX3b-ZjV8yB2iM011w</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/cartaz_como_se_tornar_o_pior_aluno_da_escola.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Animação e Comédia</genre>
+<info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzMTM0MDQ5OF5BMl5BanBnXkFtZTgwMDM1NDY4MDI@._V1_SX1777_CR0,0,1777,732_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/meumalvadofavorito3_5.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Logan Lucky: Roubo em Família (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ELGNLCKYRBEMFML.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Comédia</genre>
+<info>Durante uma corrida de automóveis da NASCAR, o maior campeonato de stock car dos Estados Unidos, uma dupla de irmãos caipiras tenta realizar um ambicioso assalto.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR357s73jumlhMw4vQE3Y88k03ud1BZSMk5Y7m68nx3KQt3DrS7ErEhxCH8</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/logan_lucky_PXPumS7.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Bar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OBAR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Em um café no centro de Madrid, pessoas tomam o seu café da manhã tranquilamente, como de costume. Mas, quando um dos clientes leva um tiro na cabeça ao colocar os pés fora da loja, o clima de tensão invade o local. Agora, eles estão presos, e temem sair do local e acabar terminando com o mesmo destino do homem. O problema é que a convivência com estranhos pode ser tão perigosa quanto sair dali.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTewTZ6iE5pNZBLVp4vogqZOMJvAknZwJUrad_CzioUNTt9zziVCjm30uyN7g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/el-bar-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Reino Gelado: Fogo e Gelo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Após heroicamente derrotar a Rainha da Neve, Gerda ainda não conseguiu encontrar a paz. Seu sonho é encontrar os pais dela que foram levados pelo Vento do Norte e finalmente reunir a família. Então, Gerda e seus amigos embarcam em uma excitante jornada para buscar seus pais e encontram novos desafios pelo caminho: Eles descobrem um antigo artefato mágico dos Trolls, a Pedra do Desejo. A partir deste momento, as coisas não saem mais como planejado... será que Gerda conseguirá domar as poderosas forças dos elementos mágicos e conseguir ter sua família de volta? A resposta será revelada agora. Essa é uma história que inclui tudo que as crianças gostam: Bondade, bravura, amizade, mistério, amor fraternal e um final feliz, é claro!</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg69fM3OVeTpJpLHhzzymStNJ8Ls_5hYm4rxSDN-68O9Q-h31r0TneijjP</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/Poster_O_Reino_Gelado_-_Fogo_e_Gelo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]#REALITYHIGH (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RALTYHGH.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Comédia</genre>
+<info>Quando a nerd adolescente, Dani finalmente atrai o interesse de sua paixão de longa data, ela também precisará enfrentar a antiga namorada dele, uma celebridade conhecida das redes sociais.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMYYokk_gUNRo21BZlMlHssFI6t29-eLDvkYU4uiPS6sfM3q0yByT4ah3Oqw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/d38f24c5b48414b5b9432790538060719ad37403.jpg</thumbnail>
 </item>
 
 <item>
@@ -84,16 +213,6 @@
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>
 <fanart>http://image.tmdb.org/t/p/original/qi53EJ4079uVcGQLsmCkR4GT0dE.jpg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/MV5BMjE2MDU0MzE1OF5BMl5BanBnXkFtZTgwNTIxNTIxMjI._V1_.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/meu-malvado-favorito-3-dublado/</page></regex>
-<genre>Animação e Comédia</genre>
-<info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
-<fanart>(https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzMTM0MDQ5OF5BMl5BanBnXkFtZTgwMDM1NDY4MDI@._V1_SX1777_CR0,0,1777,732_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/meumalvadofavorito3_5.jpg</thumbnail>
 </item>
 
 <item>

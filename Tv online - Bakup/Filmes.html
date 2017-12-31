@@ -1,0 +1,1102 @@
+                                                                                                                                                       
+<meta http-equiv="refresh" content="5; url=https://www.facebook.com/groups/igor.lista.iptv">
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<items> 
+                                                                                                                                                                                                                                                                                                                                           
+
+
+                                                                                                                                                                                    
+
+
+
+
+<item>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch39-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]149.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]550.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-telecine-premium-ao-vivo-24-horas/opcao-4933/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch38-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]147.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]146.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
+<thumbnail>http://goo.gl/P79aKf</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-telecine-action-ao-vivo-24-horas/opcao-4926/</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
+<thumbnail>http://goo.gl/P79aKf</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]153.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
+<thumbnail>http://goo.gl/P79aKf</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]152.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
+<thumbnail>http://goo.gl/P79aKf</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinefun/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
+<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]151.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
+<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]150.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
+<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
+<thumbnail>http://goo.gl/AfJkib</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]145.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
+<thumbnail>http://goo.gl/AfJkib</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]144.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
+<thumbnail>http://goo.gl/AfJkib</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/78821716219658219924/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
+<thumbnail>http://goo.gl/fLmSUL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]453.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
+<thumbnail>http://goo.gl/fLmSUL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]143.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
+<thumbnail>http://goo.gl/fLmSUL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/sat6/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*playlist.*?)"</expres>
+<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page><referer>http://tv-aovivo.nl/</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file=(.*?)" width</expres>
+<page>http://tv-aovivo.nl/hbo.php?IGOR_RANGEL</page>
+<referer>http://tv-aovivo.nl/hbo.html</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch37-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]138.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]137.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo2hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/hbo2.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]142.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]141.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbofamily/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-family.jpg</fanart>
+<thumbnail>http://goo.gl/2BXhGr</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]140.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-family.jpg</fanart>
+<thumbnail>http://goo.gl/2BXhGr</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]139.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-family.jpg</fanart>
+<thumbnail>http://goo.gl/2BXhGr</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/HBO_Plus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/hboplus.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://igorlistalogos.at.ua/fanart/HBO_Plus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]366.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/HBO_Plus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]135.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/HBO_Plus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/108/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-signature.jpg</fanart>
+<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/28347661835572978857/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-signature.jpg</fanart>
+<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]365.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-signature.jpg</fanart>
+<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]133.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/hbo-signature.jpg</fanart>
+<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/spacehd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
+<thumbnail>http://goo.gl/wOXdmw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]108.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]SPACE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
+<thumbnail>http://goo.gl/wOXdmw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]109.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]SPACE[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
+<thumbnail>http://goo.gl/wOXdmw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
+<link>$doregex[Igor_Rangel_CH]|User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko</link>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2987.133 Safari/537.36</agent>
+<regex>
+<name>Igor_Rangel_CH</name>
+<expres>file:"(.*)"</expres>
+<page>$doregex[Igor_Rangel_Link]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>src="(.*)" width="468</expres>
+<page>http://www.assistirtvonline.tv/vip/megapix.php</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]121.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]122.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/Paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]111.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/Paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]110.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/Paramount-Channel.jpg</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/Paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+</regex>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*myStream.*?)"</expres>
+<page>$doregex[Igor_Rangel_Site]</page>
+<referer>http://m.redecanais.com</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_Site</name>
+<expres>src="(.*servercanais.*?)"</expres>
+<page>http://m.redecanais.com/assistir-tnt-online-24-horas-ao-vivo_6f4b44b3b.html</page>
+<referer>http://m.redecanais.com/</referer>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]131.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]130.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TNT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TCM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tcm/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/tmc.png</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/TCM.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TCM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]103.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TCM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/tmc.png</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/TCM.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/cinemax-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
+<thumbnail>https://goo.gl/oDAihL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]545.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CINEMAXV[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
+<thumbnail>https://goo.gl/oDAihL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]112.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CINEMAXV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
+<thumbnail>https://goo.gl/oDAihL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MAX.png</fanart>
+<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]411.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MAX.png</fanart>
+<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]118.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MAX.png</fanart>
+<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
+<thumbnail>http://goo.gl/Hbr506</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]487.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
+<thumbnail>http://goo.gl/Hbr506</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]488.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
+<thumbnail>http://goo.gl/Hbr506</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tvmsnmaxxprime/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/maxprimeb.png</fanart>
+<thumbnail>http://goo.gl/JG4dUv</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxprime/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/maxprimeb.png</fanart>
+<thumbnail>http://goo.gl/JG4dUv</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]412.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/maxprimeb.png</fanart>
+<thumbnail>http://goo.gl/JG4dUv</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]117.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/maxprimeb.png</fanart>
+<thumbnail>http://goo.gl/JG4dUv</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]456.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<fanart>http://w.peppermelon.tv/imagesok/proyectos/cd6ba9e667ff251927e09108f28768f705-universal.jpg</fanart>
+<thumbnail>http://goo.gl/lTL3Bs</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]105.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<fanart>http://w.peppermelon.tv/imagesok/proyectos/cd6ba9e667ff251927e09108f28768f705-universal.jpg</fanart>
+<thumbnail>http://goo.gl/lTL3Bs</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/brasilhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
+<thumbnail>http://goo.gl/zddqpQ</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR]  [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]459.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
+<thumbnail>http://goo.gl/zddqpQ</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]154.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_Serve</name>
+<expres>(.*?)IGOR_RANGEL</expres>
+<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
+<thumbnail>http://goo.gl/zddqpQ</thumbnail>
+</item>
+
+
+
+
+
+</channel>  

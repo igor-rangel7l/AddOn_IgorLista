@@ -5,6 +5,61 @@
 
 
 
+<item>
+<title>[COLOR white][COLOR white]Invasão Alienígena (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]INVSALIEN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ficção Cientifica</genre>
+<info>História sobre cinco amigos de férias em uma remota casa do lago, que não estão cientes de que a Terra está sob uma invasão alienígena e abdução em massa.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfVIu4MZdQh2hjrm_xtt2pJii2C4sxQ0baMrqBCIKYvrvU6MvE_ItUkhy</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/poster_opt_1_Q65TeOC.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LOGN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Drama</genre>
+<info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
+<fanart>https://images3.alphacoders.com/807/thumb-1920-807544.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/14608719_1245010155537115_4558418574340565173_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Fim do Dia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Terror</genre>
+<info>Anos depois de uma misteriosa praga ter devastado o planeta e transformado a maioria da humanidade em criaturas famintas por fome, um andarilho malandro em uma caçada vingativa se depara com um grupo de sobreviventes em uma delegacia abandonada e concorda em tentar ajudá-los a se defender e escapar para o santuário que tão desesperadamente necessitam.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfAG45h2pMbFEJ0lu7C0EFZ5Xm02FXvNXQBvGibmGt3uQGMOoJgrlKhjMfVA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/01/daylight-s-end_t84635.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzYzMTE3NDQyN15BMl5BanBnXkFtZTgwMDA5MTkxMTI@._V1_SX1777_CR0,0,1777,934_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/IMG_20170202_184632.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white][COLOR white]Conexão Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
@@ -167,16 +222,6 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 </item>
 
 <item>
-<title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/power-rangers/</page></regex>
-<genre>Ação,Aventura e Ficção Cientifica</genre>
-<info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzYzMTE3NDQyN15BMl5BanBnXkFtZTgwMDA5MTkxMTI@._V1_SX1777_CR0,0,1777,934_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/IMG_20170202_184632.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]Interestelar (Dublado) - 2014[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/interestelar/</page></regex>
@@ -204,16 +249,6 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <info>Voltando de uma viagem de exploração, a equipe de uma estação espacial descobre vestígios de vida inteligente em Marte. Ao examinar o achado, constata que o organismo tem inteligência e cresce rapidamente, tornando-se uma ameaça para os terráqueos.</info>
 <fanart>https://cdn.fstatic.com/media/movies/covers/2017/06/cartaz-life.jpg</fanart>
 <thumbnail>http://www.hdwallpapers.in/walls/life_2017_movie-wide.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Logan (Dublado) - 2017[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/logan/</page></regex>
-<genre>Ação,Ficção Cientifica e Drama</genre>
-<info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
-<fanart>https://images3.alphacoders.com/807/thumb-1920-807544.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/14608719_1245010155537115_4558418574340565173_o.jpg</thumbnail>
 </item>
 
 <item>

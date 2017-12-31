@@ -4,7 +4,75 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+<item>
+<title>[COLOR white][COLOR white]Emoji: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Textopolis é a cidade onde os Emojis favoritos dos usuários de smartphones vivem e trabalham. Lá, todos eles vivem em função de um sonho: serem usados nos textos dos humanos. Todos estão acostumados a ter somente uma expressão facial - com exceção de Gene, que nasceu com um bug em seu sistema, que o permite trocar de rosto através de um filtro especial. Determinado à se tornar um emoji normal como todos os outros, eles vai encarar uma jornada fantásticas através dos aplicativos de celular mais populares desta geração - e no meio do caminho, claro, fazer novos amigos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJUqVDrYEthkGhlKQIzrlxItMyFOKjhFk_3uGwdeNUqJytCQYakJel7fHM</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/emoji_movie_ver12_xxlg.jpg</thumbnail>
+</item>
 
+<item>
+<title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Animação e Comédia</genre>
+<info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzMTM0MDQ5OF5BMl5BanBnXkFtZTgwMDM1NDY4MDI@._V1_SX1777_CR0,0,1777,732_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/meumalvadofavorito3_5.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Monster High: Eletrizante (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Quando Clawdeen sonha em abrir um salão feito para monstros e normies, Frankie encontra o local perfeito - uma estação de energia fora da cidade. Mas a ideia dá uma reviravolta quando Moanica tem planos para arruinar tudo, e substitui a celebração com algo um pouco mais... chocante!</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIAPOw5vxicVBJQIu6GRGtHb76xIxCy1IIC64ZlofxuVds0lLNIKWPhS5mbA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/IMG_20170103_081632.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Reino Gelado: Fogo e Gelo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Após heroicamente derrotar a Rainha da Neve, Gerda ainda não conseguiu encontrar a paz. Seu sonho é encontrar os pais dela que foram levados pelo Vento do Norte e finalmente reunir a família. Então, Gerda e seus amigos embarcam em uma excitante jornada para buscar seus pais e encontram novos desafios pelo caminho: Eles descobrem um antigo artefato mágico dos Trolls, a Pedra do Desejo. A partir deste momento, as coisas não saem mais como planejado... será que Gerda conseguirá domar as poderosas forças dos elementos mágicos e conseguir ter sua família de volta? A resposta será revelada agora. Essa é uma história que inclui tudo que as crianças gostam: Bondade, bravura, amizade, mistério, amor fraternal e um final feliz, é claro!</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg69fM3OVeTpJpLHhzzymStNJ8Ls_5hYm4rxSDN-68O9Q-h31r0TneijjP</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/Poster_O_Reino_Gelado_-_Fogo_e_Gelo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Os Smurfs e a Vila Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Aventura e Animação</genre>
+<info>Smurfette (Demi Lovato) não está contente: ela começa a perceber que todos os homens do vilarejo dos Smurfs têm uma função precisa na comunidade, menos ela. Indignada, ela parte em busca de novas descobertas, e conhece uma Floresta Encantada, com diversas criaturas mágicas. Enquanto isso, o vilão Gargamel segue os seus passos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTNOIW33IzPAPSd8ycB27DVE2VEStYIma73DKUy9U3h0fXMubZyQvZ89jf</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/CzuJtj7XcAAyoLs.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>

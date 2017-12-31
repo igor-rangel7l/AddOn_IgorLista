@@ -4,10 +4,253 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+
 <item>
-<title>[COLOR white][COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB*?)" fra</expres>
-<page>http://netcine.us/os-guardioes/</page></regex>
+<title>[COLOR white]Dunkirk (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DUKRK.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Drama e Guerra</genre>
+<info>Na Operação Dínamo, mais conhecida como a Evacuação de Dunquerque, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial. A história acompanha três momentos distintos: uma hora de confronto no céu, onde o piloto Farrier (Tom Hardy) precisa destruir um avião inimigo, um dia inteiro em alto mar, onde o civil britânico Dawson (Mark Rylance) leva seu barco de passeio para ajudar a resgatar o exército de seu país, e uma semana na praia, onde o jovem soldado Tommy (Fionn Whitehead) busca escapar a qualquer preço.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9PuQe_nSKy_iK72oHkWHjiZvgjA0_eeweQDZdvnZSXJDXY0g-4173G1KnQQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/dunkirk.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Kickboxer: A Vingança Do Dragão (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]KCKBXRVNGA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação</genre>
+<info>Que tal ganhar dinheiro em uma competição sem regras, sem juízes e ter a chance de ser eternizado? Eric Sloane (Darren Shahlavi), lutador campeão na Califórnia, vai parar em Hong Kong atraído pela proposta, ignorando que tudo pode dar errado e acabar em morte. É o que acontece e então seu irmão Kurt Sloan (Alain Moussi) decide se vingar do carrasco assassino, de nome Tong Po (Dave Bautista).</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jRi7dTGY3iACfLv_2PucieWH93I5A7D4VEvZz8L-QtIQCZxcX2P-LOBXFA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/1_Ugk9wvQ.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>Após um ataque ao quartel general da Kingsman, Eggsy e Merlin viajam para os Estados Unidos, onde afiliam-se à Statesman, versão americana da organização de espionagem.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaj550ROU8KjklMjuSYZSeaTap6Soa-pcPhgE1xDZ5f7cD0u4R5-j6g6RB</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/20953553_1388097174630785_6669241522658130435_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>‘Kong: A Ilha da Caveira‘ recria a origem do mítico Kong numa aventura original emocionante dirigida por Jordan Vogt-Roberts. No filme, um eclético time de exploradores se aventura nas profundezas de uma desconhecida ilha do Pacífico, a Ilha da Caveira – tão bela quanto traiçoeira – sem saber que estão invadindo os domínios dos reis dos símios, o mítico Kong.</info>
+<fanart>http://jerimumgeek.oportaln10.com.br/wp-content/uploads/2017/03/Kong-Skull-Island-2017-Movie.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/15110374_1633930196900340_1411847212440370925_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Kite: Anjo Da Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]KTANJDVNGC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação</genre>
+<info>Uma jovem vive em um mundo pós-colapso financeiro, onde uma força de segurança corrupta lucra traficando garotas. Quando o pai dela, um policial, é morto por um tira corrupto, ela jura vingança e parte para encontrar o responsável com a ajuda do ex-parceiro do pai.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVeE_J-v00Gc5Auju9clIBgzNlGX692CE0mvqbA5_f2tYYsOTAyKY8GhJCw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/09/kite_t91843_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LOGN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Drama</genre>
+<info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
+<fanart>https://images3.alphacoders.com/807/thumb-1920-807544.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/14608719_1245010155537115_4558418574340565173_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Coração de Dragão (Dublado) - 1997[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>No século X, durante uma revolta de camponeses, o rei, um terrível tirano, morre nos combates. Seu filho, um jovem príncipe, presencia tudo, além de ser gravemente ferido. A rainha, vendo o estado do filho, invoca o poder mágico de um dragão para salvá-lo, mas este só concorda em socorrê-lo dividindo o seu coração quando o príncipe jura que será bom e justo. No entanto, ele se torna um rei mais perverso que o pai e um jovem cavaleiro acredita que foi o coração do dragão que modificou o príncipe. Assim, decide eliminar todos os dragões, mas quando falta apenas um para ser morto o cavaleiro passa a ter uma visão real dos fatos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnO5wiq2s47woDsjsx4HIf4WAh4i5hQMc4Cio5aqpht93edgApx5_gbioC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/01/c95c10f436d9566d903e1543a65daa29.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Coração de Dragão 2: Um Novo Começo (Dublado) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>Quando um garoto solitário e órfão descobre aquele que pode ser o último dragão vivo na terra, ele percebe que seu sonho de se tornar um cavalheiro pode virar realidade. Entre desafios e obstáculos, a dupla vai vivendo heroicas aventuras, mas algo maior se aproxima. Eles estariam preparados para grandes desafios?</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnO5wiq2s47woDsjsx4HIf4WAh4i5hQMc4Cio5aqpht93edgApx5_gbioC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2009/04/dragonheart2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Coração de Dragão 3: A Maldição do Feiticeiro (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>Quando o jovem escudeiro Gareth vai em busca de um cometa caído, ele acredita que detém ouro que ele pode usar para pagar a sua cavalaria . Em vez de encontrar um cometa, Gareth encontra o Drago dragão que tem caído na Terra e está sendo caçado por um malvado feiticeiro . Após Drago salva a vida de Gareth , os dois se tornam intrinsecamente ligados e devem trabalhar juntos para derrotar o feiticeiro e parar seu reinado de terror. Ao longo do caminho , Gareth aprende o verdadeiro significado de ser um cavaleiro .</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnO5wiq2s47woDsjsx4HIf4WAh4i5hQMc4Cio5aqpht93edgApx5_gbioC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/02/coracao-de-dragao-3-a-maldicao-do-feiticeiro_t111940.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Coração de Dragão 4: A Batalha Pelo Coração de Fogo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Drama</genre>
+<info>Ação, aventura e fantasia esperam por você neste novo capítulo da saga “Coração de Dragão”. Drago, um dragão que compartilha seu coração com o Rei da Britânia, precisa encontrar um herdeiro para o trono por causa do falecimento do Rei. Mas os possíveis herdeiros, os irmãos gêmeos Edric e Meghan, usam sua força e habilidade de controlar o fogo herdados do dragão um contr o outro.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnO5wiq2s47woDsjsx4HIf4WAh4i5hQMc4Cio5aqpht93edgApx5_gbioC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/Dragonheart-Battle-for-the-Heartfire-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Mecânica das Sombras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MECMDSMBRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação</genre>
+<info>O desempregado Duval é contactado por uma misteriosa organização para transcrever as chamadas interceptadas. Ele aceita o trabalho sem suspeitas, uma vez que restaura a estabilidade à sua vida. Aos poucos, no entanto, ele vai ser colocado no centro de uma trama política, mergulhando no submundo brutal e bizarro do serviço secreto.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwqgEp3hT27DhsxsbEvttjleIrhT0q19ymke3PcZmaBAn2ddgIc2RZqPIv</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/la-mecanique-de-l-ombre-2016-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Dia De Trabalho Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>O que parece ser um dia normal na Belko Industries se mostra o início de uma história de terror: seus funcionários descobrem que se tornaram cobaias em um experimento social – conduzido por uma voz misteriosa em um alto-falante – no qual são obrigados a matar uns aos outros.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/ndpw22klIGJVTfKlKLuuJZkESc-F4usbPyuAEQOcbl69u5aS9gLNXoSw-JgUqJe2OpX1zbhWG4QY43fq8LQutxpf8vLhhMEyzif3HT8cjxYeDC-dCE5AhY4c2mFB93nGmJ98MTRql5_M03h8VjOP9JwVzzvll96ozq6UT8BKlYg6_7UVAADynOA8Dy5pbtWLYU8glCc8i7q_9a7NtOJerICm8PYLN3E9-iLKIOsXDKP1Rmt5ps-hvayQ7vIF1E1S5LR4rlf-kl9F109Adt1O6IYDX_yjejVrlw6IzsmMpg=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Fim do Dia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Terror</genre>
+<info>Anos depois de uma misteriosa praga ter devastado o planeta e transformado a maioria da humanidade em criaturas famintas por fome, um andarilho malandro em uma caçada vingativa se depara com um grupo de sobreviventes em uma delegacia abandonada e concorda em tentar ajudá-los a se defender e escapar para o santuário que tão desesperadamente necessitam.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfAG45h2pMbFEJ0lu7C0EFZ5Xm02FXvNXQBvGibmGt3uQGMOoJgrlKhjMfVA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/01/daylight-s-end_t84635.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Grande Roubo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OGRNDRB.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação</genre>
+<info>A CIA pede a um ladrão profissional para invadir o cofre na parte superior da prisão de Guantanamo Bay e recuperar informações importantes e confidenciais que estão armazenadas lá. Quando o Chefe do cartel local descobre que o cofre foi invadido e que além das informações, milhões de dolares em dinheiro que estavam armazenados no cofre também foram levados, ele envia um alerta a todos os bandidos e profissionais para tentar recuperar o dinheiro antes que o exército mexicano apareça com reforços.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/5uDCIHSQxx3tZj6fDDryCN0mKZnkRzMk6owV_f34V9qzS2UuNLKM0g0b-vU6kQQv_a3RvoZuPAATZcMW-bbJ1VyukrrQ1mIl=w443-h332-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/04/larceny_t126669.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Operação Mekong (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Inspirado na história real de navios mercantes atacados por bandidos no delta do rio Mekong. As autoridades chinesas se juntam com as forças policiais da Tailândia, Laos e Birmânia para iniciar uma investigação.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmUYkozKZPRH9uwAJ68dqSYshmoO0ygapByIYqwlJv_NIEadwenvSuxti6</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/25da769edd4e1bdbcecad5850c014c4eeb38ea34.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzYzMTE3NDQyN15BMl5BanBnXkFtZTgwMDA5MTkxMTI@._V1_SX1777_CR0,0,1777,934_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/IMG_20170202_184632.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Suspense,Ação e Terror</genre>
+<info>Chris Redfield, da organização anti-bioterrorista B.S.A.A., baseado numa certa informação, invade uma mansão que era a base de uma organização de tráfico de armas. Durante a investigação Chris confronta Glenn Alias, um criminoso procurado internacionalmente. Ele acaba testemunhando uma cena inacreditável e Alias consegue escapar. Enquanto isso, Rebecca Chambers, ex-membro das forças especiais da polícia de Raccoon City, S.T.A.R.S., é atualmente uma professora universitária e está conduzindo uma pesquisa a respeito de um misterioso incidente envolvendo a ressurreição de mortos. De acordo com a pesquisa de Rebecca, há um novo tipo de vírus envolvido e os esforços dela para descobrir a verdade a levaram ao desenvolvimento de uma cura. Em seguida, uma pessoa misteriosa invade seu laboratório e Rebecca sofre uma tentativa de assassinato, mas é salva por Chris e a B.S.A.A. Após o ataque, Chris e Rebecca recorrem ao agente do governo dos EUA, Leon S. Kennedy, devido ao seu conhecimento sobre esse tipo de incidente. Chris e Leon se reencontram e os dois acreditam que a motivação de Alias é o bioterrorismo. Ao lado de Rebecca, eles vão para Nova York para impedir Arias e salvar a humanidade.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWE5YWU2NDUtNWZiZC00ZmFkLTlkZGMtZGQ1ODVjMjFkODgyXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,960_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/poster_opt.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
 <genre>Ação e Aventura</genre>
 <info>A trama se passa durante a Guerra Fria, quando uma organização chamada "Patriot" criou um esquadrão de super-heróis, que inclui membros de várias repúblicas soviéticas. Durante anos, os heróis tiveram que esconder suas identidades, mas em tempos difíceis eles precisam se revelar novamente.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvVOC3mgWJy8mDVJo_qOKoffP0X4tiUFFEyryQBFShBiXEcujw9kmtAd9kvA</fanart>
@@ -253,16 +496,6 @@
 </item>
 
 <item>
-<title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/resident-evil-vendetta/</page></regex>
-<genre>Suspense,Ação e Terror</genre>
-<info>Chris Redfield, da organização anti-bioterrorista B.S.A.A., baseado numa certa informação, invade uma mansão que era a base de uma organização de tráfico de armas. Durante a investigação Chris confronta Glenn Alias, um criminoso procurado internacionalmente. Ele acaba testemunhando uma cena inacreditável e Alias consegue escapar. Enquanto isso, Rebecca Chambers, ex-membro das forças especiais da polícia de Raccoon City, S.T.A.R.S., é atualmente uma professora universitária e está conduzindo uma pesquisa a respeito de um misterioso incidente envolvendo a ressurreição de mortos. De acordo com a pesquisa de Rebecca, há um novo tipo de vírus envolvido e os esforços dela para descobrir a verdade a levaram ao desenvolvimento de uma cura. Em seguida, uma pessoa misteriosa invade seu laboratório e Rebecca sofre uma tentativa de assassinato, mas é salva por Chris e a B.S.A.A. Após o ataque, Chris e Rebecca recorrem ao agente do governo dos EUA, Leon S. Kennedy, devido ao seu conhecimento sobre esse tipo de incidente. Chris e Leon se reencontram e os dois acreditam que a motivação de Alias é o bioterrorismo. Ao lado de Rebecca, eles vão para Nova York para impedir Arias e salvar a humanidade.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWE5YWU2NDUtNWZiZC00ZmFkLTlkZGMtZGQ1ODVjMjFkODgyXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,960_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/poster_opt.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]Rei Arthur – A Lenda da Espada (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/rei-arthur-a-lenda-da-espada/</page></regex>
@@ -303,16 +536,6 @@
 </item>
 
 <item>
-<title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/power-rangers/</page></regex>
-<genre>Ação,Aventura e Ficção Cientifica</genre>
-<info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNzYzMTE3NDQyN15BMl5BanBnXkFtZTgwMDA5MTkxMTI@._V1_SX1777_CR0,0,1777,934_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/IMG_20170202_184632.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]John Wick: Um Novo Dia Para Matar (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/john-wick-um-novo-dia-para-matar/</page></regex>
@@ -340,16 +563,6 @@
 <info>O vilão Pesadelo planeja conquistar o mundo através dos sonhos, convertendo cada sonhador em um monstro. Para combatê-lo, Hulk vai contar com a ajuda do Doutor Estranho e de um esquadrão peculiar da S.H.I.E.L.D..</info>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzY3ZDEwOTctMzQzOC00YjM2LWJkMGUtYTBiZGRlMmUzMTE1XkEyXkFqcGdeQXVyMjg1MTU1NjI@._V1_.jpg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/HULK-WhereMonstersDwell-00.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/logan/</page></regex>
-<genre>Ação,Ficção Cientifica e Drama</genre>
-<info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
-<fanart>https://images3.alphacoders.com/807/thumb-1920-807544.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/14608719_1245010155537115_4558418574340565173_o.jpg</thumbnail>
 </item>
 
 <item>

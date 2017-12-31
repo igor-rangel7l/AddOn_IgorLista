@@ -10,6 +10,60 @@
 
 
 <item>
+<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MULTISHOW HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MULTISHOW.png</fanart>
+<thumbnail>http://goo.gl/7LIjII</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MULTISHOW SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MULTISHOW.png</fanart>
+<thumbnail>http://goo.gl/7LIjII</thumbnail>
+</item>
+
+<item>
 <title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/show/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -39,30 +93,6 @@
 </item>
 
 <item>
-<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]34.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/MULTISHOW.png</fanart>
-<thumbnail>http://goo.gl/7LIjII</thumbnail>
-</item>
-
-<item>
-<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]33.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/MULTISHOW.png</fanart>
-<thumbnail>http://goo.gl/7LIjII</thumbnail>
-</item>
-
-<item>
 <title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
@@ -81,6 +111,60 @@
 <thumbnail>http://goo.gl/7LIjII</thumbnail>
 </item>
 
+<item>
+<title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MTV[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MTV HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MTV.jpg</fanart>
+<thumbnail>http://goo.gl/XQfSPS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MTV[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MTV SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MTV.jpg</fanart>
+<thumbnail>http://goo.gl/XQfSPS</thumbnail>
+</item>
+
 <ite
 <item>
 <title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
@@ -95,30 +179,6 @@
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/MTV.jpg</fanart>
-<thumbnail>http://goo.gl/XQfSPS</thumbnail>
-</item>
-
-<item>
-<title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]475.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MTV[/B][/COLOR] [COLOR yellow] [B]HD[/B][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/MTV.jpg</fanart>
-<thumbnail>http://goo.gl/XQfSPS</thumbnail>
-</item>
-
-<item>
-<title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]30.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MTV[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
 </regex>
 <fanart>http://igorlistalogos.at.ua/fanart/MTV.jpg</fanart>
 <thumbnail>http://goo.gl/XQfSPS</thumbnail>
@@ -149,6 +209,60 @@
 </item>
 
 <item>
+<title>[COLOR maroon][B]GNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]GNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>GNT HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/GNT.jpg</fanart>
+<thumbnail>http://goo.gl/YyHiwq</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]GNT[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]GNT[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>GNT SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/GNT.jpg</fanart>
+<thumbnail>http://goo.gl/YyHiwq</thumbnail>
+</item>
+
+<item>
 <title>[COLOR maroon][B]GNT[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/53745895287193198754/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -166,27 +280,57 @@
 </item>
 
 <item>
-<title>[COLOR maroon][B]GNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]472.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]GNT[/B][/COLOR][COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/GNT.jpg</fanart>
-<thumbnail>http://goo.gl/YyHiwq</thumbnail>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>VIVA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/VIVA.jpg</fanart>
+<thumbnail>http://goo.gl/qnQSX0</thumbnail>
 </item>
 
 <item>
-<title>[COLOR maroon][B]GNT[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]27.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]GNT[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/GNT.jpg</fanart>
-<thumbnail>http://goo.gl/YyHiwq</thumbnail>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>VIVA SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/VIVA.jpg</fanart>
+<thumbnail>http://goo.gl/qnQSX0</thumbnail>
 </item>
 
 <item>
@@ -263,15 +407,57 @@
 </item>
 
 <item>
-<title>[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]160.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR maroon][B]BIS[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]BIS[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/VIVA.jpg</fanart>
-<thumbnail>http://goo.gl/qnQSX0</thumbnail>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>BIS HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/BIS.jpg</fanart>
+<thumbnail>https://goo.gl/09Wgmh</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]BIS[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]BIS[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>BIS SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/BIS.jpg</fanart>
+<thumbnail>https://goo.gl/09Wgmh</thumbnail>
 </item>
 
 <item>
@@ -292,27 +478,84 @@
 </item>
 
 <item>
-<title>[COLOR maroon][B]BIS[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]37.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]BIS[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR maroon][B]FISH TV[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]FISH TV[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>FISH TV SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
 <fanart>http://igorlistalogos.at.ua/fanart/BIS.jpg</fanart>
-<thumbnail>https://goo.gl/09Wgmh</thumbnail>
+<thumbnail>http://goo.gl/Lcrqe6</thumbnail>
 </item>
 
 <item>
-<title>[COLOR maroon][B]BIS[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]36.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]BIS[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR maroon][B]OFF[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]OFF[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/BIS.jpg</fanart>
-<thumbnail>https://goo.gl/09Wgmh</thumbnail>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>OFF HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/off.jpg</fanart>
+<thumbnail>https://goo.gl/B5pwdb</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]OFF[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]OFF[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>OFF SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/off.jpg</fanart>
+<thumbnail>https://goo.gl/B5pwdb</thumbnail>
 </item>
 
 <item>
@@ -346,27 +589,57 @@
 </item>
 
 <item>
-<title>[COLOR maroon][B]OFF[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]62.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]OFF[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/off.jpg</fanart>
-<thumbnail>https://goo.gl/B5pwdb</thumbnail>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>HOME & HEALTH HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/HOME_HEALTH.jpg</fanart>
+<thumbnail>http://goo.gl/ewCTK1</thumbnail>
 </item>
 
 <item>
-<title>[COLOR maroon][B]OFF[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]61.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]OFF[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
 </regex>
-<fanart>http://igorlistalogos.at.ua/fanart/off.jpg</fanart>
-<thumbnail>https://goo.gl/B5pwdb</thumbnail>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>HOME & HEALTH SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/HOME_HEALTH.jpg</fanart>
+<thumbnail>http://goo.gl/ewCTK1</thumbnail>
 </item>
 
 <item>
@@ -381,30 +654,6 @@
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/HOME_HEALTH.jpg</fanart>
-<thumbnail>http://goo.gl/ewCTK1</thumbnail>
-</item>
-
-<item>
-<title>[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]55.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR yellow] HD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/HOME_HEALTH.jpg</fanart>
-<thumbnail>http://goo.gl/ewCTK1</thumbnail>
-</item>
-
-<item>
-<title>[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_Serve]54.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR blue] SD[/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
-<regex>
-<name>Igor_Rangel_Serve</name>
-<expres>(.*?)IGOR_RANGEL</expres>
-<page>http://igorlista.at.ua/Serves/f4mTester.txt</page>
 </regex>
 <fanart>http://igorlistalogos.at.ua/fanart/HOME_HEALTH.jpg</fanart>
 <thumbnail>http://goo.gl/ewCTK1</thumbnail>

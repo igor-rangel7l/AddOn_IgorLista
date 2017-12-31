@@ -10,6 +10,34 @@
 
 
 <item>
+<title>[COLOR white]Demônio de Neon (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Suspense,Terror e Drama</genre>
+<info>Jesse (Elle Fannng) é uma jovem de 18 anos que acaba de chegar a Los Angeles. Dona de uma beleza natural impressionante, ela tenta a sorte como modelo profissional. Após tirar algumas fotos mórbidas para um jovem fotógrafo, é contratada por uma conceituada agência de modelos. Bastante ingênua, ela passa a lidar com o ego sempre inflado das demais modelos e também com a maquiadora Ruby (Jena Malone), que possui intenções ocultas com a jovem.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm9LDhghd99MX4Zysp1YzCz86sb3gvIbiv2mQKXmcMuj2Zx94JMeR-ES7mEw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/08/neon_demon_ver7.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Suspense,Ação e Terror</genre>
+<info>Chris Redfield, da organização anti-bioterrorista B.S.A.A., baseado numa certa informação, invade uma mansão que era a base de uma organização de tráfico de armas. Durante a investigação Chris confronta Glenn Alias, um criminoso procurado internacionalmente. Ele acaba testemunhando uma cena inacreditável e Alias consegue escapar. Enquanto isso, Rebecca Chambers, ex-membro das forças especiais da polícia de Raccoon City, S.T.A.R.S., é atualmente uma professora universitária e está conduzindo uma pesquisa a respeito de um misterioso incidente envolvendo a ressurreição de mortos. De acordo com a pesquisa de Rebecca, há um novo tipo de vírus envolvido e os esforços dela para descobrir a verdade a levaram ao desenvolvimento de uma cura. Em seguida, uma pessoa misteriosa invade seu laboratório e Rebecca sofre uma tentativa de assassinato, mas é salva por Chris e a B.S.A.A. Após o ataque, Chris e Rebecca recorrem ao agente do governo dos EUA, Leon S. Kennedy, devido ao seu conhecimento sobre esse tipo de incidente. Chris e Leon se reencontram e os dois acreditam que a motivação de Alias é o bioterrorismo. Ao lado de Rebecca, eles vão para Nova York para impedir Arias e salvar a humanidade.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWE5YWU2NDUtNWZiZC00ZmFkLTlkZGMtZGQ1ODVjMjFkODgyXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,960_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/poster_opt.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Olhos Famintos 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/olhos-famintos-3-2017-legendado/</page></regex>
@@ -47,16 +75,6 @@
 <info>O público de hoje tornou-se apaixonado por assistir à degradação de outros na televisão e na internet. Eles desejam um argumento selvagem, uma luta sangrenta ou um escândalo publicitário. Esta se tornou a principal fonte de entretenimento. Mas quando os limites parecem não poderem ser mais ultrapassados, o apresentador de um game show, Adam Rogers, decide quebrar as barreiras ao colocar no ar um novo show, no qual os concorrentes arriscam suas vidas pela chance de ganhar dinheiro. Adam só ficará satisfeito se seu reality show for o número um no ranking da audiência, e ele não vai parar por nada para se certificar de que ele chega lá, mesmo que isso signifique perder sua humanidade.</info>
 <fanart>https://lh3.googleusercontent.com/proxy/BaQBhnrJAcodMGCAZtHhDsUeqEXV4DrPDc0BSzwf6iVhOOXzVNHdsCddtY30OFhyvlmFWhu3JVfPUYsvuKSRZKijxE8Lm67DQ8_cXVXyzTHGOiz0jgx3-wPICIlNGWVGoVnPu8U3-VFC80vfAxppcQ=w454-h324-nc</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/13_1.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/resident-evil-vendetta/</page></regex>
-<genre>Suspense,Ação e Terror</genre>
-<info>Chris Redfield, da organização anti-bioterrorista B.S.A.A., baseado numa certa informação, invade uma mansão que era a base de uma organização de tráfico de armas. Durante a investigação Chris confronta Glenn Alias, um criminoso procurado internacionalmente. Ele acaba testemunhando uma cena inacreditável e Alias consegue escapar. Enquanto isso, Rebecca Chambers, ex-membro das forças especiais da polícia de Raccoon City, S.T.A.R.S., é atualmente uma professora universitária e está conduzindo uma pesquisa a respeito de um misterioso incidente envolvendo a ressurreição de mortos. De acordo com a pesquisa de Rebecca, há um novo tipo de vírus envolvido e os esforços dela para descobrir a verdade a levaram ao desenvolvimento de uma cura. Em seguida, uma pessoa misteriosa invade seu laboratório e Rebecca sofre uma tentativa de assassinato, mas é salva por Chris e a B.S.A.A. Após o ataque, Chris e Rebecca recorrem ao agente do governo dos EUA, Leon S. Kennedy, devido ao seu conhecimento sobre esse tipo de incidente. Chris e Leon se reencontram e os dois acreditam que a motivação de Alias é o bioterrorismo. Ao lado de Rebecca, eles vão para Nova York para impedir Arias e salvar a humanidade.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWE5YWU2NDUtNWZiZC00ZmFkLTlkZGMtZGQ1ODVjMjFkODgyXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX1777_CR0,0,1777,960_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/poster_opt.jpg</thumbnail>
 </item>
 
 <item>

@@ -6,12 +6,30 @@
 
 
 <item>
-<title>[COLOR white][COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CSATO.*?)" fra</expres>
-<page>http://netcine.us/como-se-tornar-o-pior-aluno-da-escola/</page></regex>
+<title>[COLOR white]Bingo: O Rei das Manhãs (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>No Brasil dos anos 1980, Augusto Mendes é um ator frustrado que faz sucesso em pornochanchadas, mas sonha com os holofotes. Sua grande chance surge ao se tornar “Bingo”, palhaço apresentador de um programa infantil na televisão. Graças ao jeito irreverente de Augusto, Bingo se torna um sucesso absoluto. Mas uma cláusula no contrato não permite que ele revele quem é o homem por trás da máscara, tornando-o o anônimo mais famoso do Brasil. Livremente inspirado na história real de Arlindo Barreto, um dos intérpretes do palhaço Bozo no programa do SBT.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo5Kp0Eo1nFJ7MTCnRuJwHytCUouHA4DpvqPEK-vz6SnT8LXp4DjzvBgOzlA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/bingoposterbr.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
 <genre>Comédia e Nacional</genre>
 <info>Bernado (Bruno Munhoz) e Pedro (Daniel Pimentel) são estudantes e enfrentam as clássicas tarefas de cumprir as obrigações escolares, tirar boas notas, ter bom comportamento e cumprir as regras da escola, cada vez mais elaboradas graças ao diretor Ademar (Carlos Villagrán). Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego, o que leva os dois amigos a seguirem as dicas do caderno.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRerQero_94sX4Yz5zQL3py7E4s-IbZgSBhUm_Ae962oNfrFb6mBA5HB7Mscw</fanart>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIhpekBf0XDl5njAjPTVV19Jz_Xb7CsZ-NERar1SislX3b-ZjV8yB2iM011w</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/cartaz_como_se_tornar_o_pior_aluno_da_escola.jpg</thumbnail>
 </item>
 
