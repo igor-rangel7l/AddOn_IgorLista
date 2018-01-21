@@ -5,8 +5,48 @@
 
 
 
+<item>
+<title>[COLOR white]Um Reino Unido (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Seretse Khama (David Oyelowo), primeiro presidente do Botswana, causa uma polêmica de proporções nacionais ao se casar com uma mulher branca.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1b35lIgGmZ7UP0TaS-ekcm9PTVqH6DE2hW1pLbgeY2ChqvtmrmdlvTD1jZw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/united_kingdom_ver5.jpg</thumbnail>
+</item>
 
+</item>
+<item>
+<title>[COLOR white]Um Reino Unido (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Seretse Khama (David Oyelowo), primeiro presidente do Botswana, causa uma polêmica de proporções nacionais ao se casar com uma mulher branca.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1b35lIgGmZ7UP0TaS-ekcm9PTVqH6DE2hW1pLbgeY2ChqvtmrmdlvTD1jZw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/united_kingdom_ver5.jpg</thumbnail>
+</item>
 
+<item>
+<title>[COLOR white]De Canção em Canção (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Dois triângulos amorosos se cruzam. É uma história de obsessão sexual e traição em meio à cena musical em Austin, no estado americano do Texas.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBjgX-GbUWieO5yZpTMp3EWXKy1OZvAJepnisOXLXQIC8wMI4clf9fEajb</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/16649280_1387131658028419_8012031743000949461_n.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR white]La La Land: Cantando Estações (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4</link>

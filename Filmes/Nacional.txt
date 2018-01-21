@@ -4,6 +4,19 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+<item>
+<title>[COLOR white]Como Nossos Pais (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama,Nacional e Comédia</genre>
+<info>Rosa se cobra por ter que dar conta de todas as suas obrigações, mas descobre que não consegue e também que a vida é cheia de surpresas, principalmente, as vindas de sua própria mãe.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbIRrDc9g4124ZlM6eVzag8A9bzr4fgjVXmE0juzxg-Uj1hoC67usVXk7J</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/FB_IMG_1499389336549.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Bingo: O Rei das Manhãs (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>

@@ -3,7 +3,33 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+<item>
+<title>[COLOR white]Amityville: O Despertar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMTVLODSPRTR.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Belle, sua irmã mais nova e seu irmão gêmeo em coma se mudam para uma nova casa com sua mãe solteira, Joan, para guardar dinheiro para pagar pelo caro tratamento do jovem. Porém, quando estranhos fenômenos começam a acontecer na casa, incluindo a milagrosa recuperação de seu irmão, Belle começa a suspeitar que sua mãe não está dizendo toda a verdade e logo percebe que eles se mudaram para a infame casa Amityville.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvyr8bglsLyb2K0JYzD2Fdz3en-4IpBp4PreZrXFGhXghCD1Go0jKcEMda</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/amityville-the-awakening_t73281.jpg</thumbnail>
+</item>
 
+<item>
+<title>[COLOR white]A Transfiguração (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>Quando o jovem problemático Milo, fascinado por vampiros, conhece a igualmente alienada Sophie, os dois formam um laço que começa a enevoar a linha do garoto entre a realidade e a fantasia.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdhRWCjz8SnZVvf-tAzBgWPjlIMBWROuxKwxDFzS94ABNkvwI32VvKkG45</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/the-transfiguration_t206024.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Sam Was Here (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>

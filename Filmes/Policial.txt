@@ -6,6 +6,47 @@
 
 
 
+<item>
+<title>[COLOR white]Bright (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BRGHT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Um thriller policial contemporâneo com elementos fantásticos, incluindo orcs e fadas. Tikka (Lucy Fry), uma jovem elfo detentora de uma varinha com poderes mágicos será protegida por Scott Ward (Will Smith), um ser humano e por Nick Jakoby (Joel Edgerton), um orc.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3CkCQE1TiWhJRqeaAR2uJoeP_3l1GP4WAorWoQ7G8J28B3w4P3XaT58hj</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/bright.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Despedida em Grande Estilo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DESPDAEMGRNDESTLO.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Comédia e Policial</genre>
+<info>Refilmagem da comédia “Despedida em Grande Estilo” (1979), clássico de Martin Brest premiado no Festival de Veneza. Três amigos idosos, que vivem de doações e, para sair da pobreza, decidem tramar o roubo de um banco.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKXqBH6asJ3PDPk8XfMCthHCOxFOdD1vItFuqnp3YawudXoCc8gK_Km9YY</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/15443192_1180365345344233_2634884270285597929_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Velozes e Furiosos 8 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VLZEFROSOS08.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Agora que Dom e Letty estão em lua de mel e Brian e Mia se retiraram do jogo – e o restante da equipe foi exonerada – o time segue com uma vida normal. Mas, quando uma mulher misteriosa (Charlize Theron) seduz Dom para o mundo do crime, ele parece não conseguir escapar e a traição das pessoas próximas à ele fará com que todos sejam testados de uma forma como nunca antes foram.</info>
+<fanart>http://woomagazine.com.br/wp-content/uploads/2017/01/A-bela-e-a-fera-5.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/fate_of_the_furious_ver2_xxlg.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white][COLOR white]Feito na América (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
@@ -60,17 +101,6 @@
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MjE4Njc1OV5BMl5BanBnXkFtZTgwNjkzNzI2MjI@._V1_SY1000_CR0,0,1635,1000_AL_.jpg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/baby_driver_ver2.jpg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR white]Velozes e Furiosos 8 (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/velozes-e-furiosos-8/</page></regex>
-<genre>Ação e Policial</genre>
-<info>Agora que Dom e Letty estão em lua de mel e Brian e Mia se retiraram do jogo – e o restante da equipe foi exonerada – o time segue com uma vida normal. Mas, quando uma mulher misteriosa (Charlize Theron) seduz Dom para o mundo do crime, ele parece não conseguir escapar e a traição das pessoas próximas à ele fará com que todos sejam testados de uma forma como nunca antes foram.</info>
-<fanart>http://woomagazine.com.br/wp-content/uploads/2017/01/A-bela-e-a-fera-5.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/fate_of_the_furious_ver2_xxlg.jpg</thumbnail>
-</item>
-
 <item>
 <title>[COLOR white]John Wick: Um Novo Dia Para Matar (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>

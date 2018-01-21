@@ -3,7 +3,47 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+<item>
+<title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ1NzEzNzcyM15BMl5BanBnXkFtZTgwMzgyOTk2MjI@._V1_SX1777_CR0,0,1777,913_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/20161221_211822.png</thumbnail>
+</item>
 
+<item>
+<title>[COLOR white][COLOR white]Valerian e a Cidade dos Mil Planetas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwdNawBYN5f1_Du8_xVTfQEJb6iFsVcypseAbDseNJg5SIHmvpMKP6lTiP</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/valerian.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Blade Runner 2049 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Ficção Cientifica</genre>
+<info>Trinta anos após os acontecimentos do primeiro filme, a humanidade está novamente ameaçada, e dessa vez o perigo pode ser ainda maior. Isso porque o novato oficial K (Ryan Gosling), desenterrou um terrível segredo que tem o potencial de mergulhar a sociedade no completo caos. A descoberta acaba levando-o a uma busca frenética por Rick Deckard (Harrison Ford), desaparecido há 30 anos.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0QLqwz3dYOEO853zOCTdsDECpkXrm7MSR3nLCQoG1uuxVyplAd2oSWZtYkw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/image_M23J2L8.jpeg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white][COLOR white]Invasão Alienígena (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
@@ -132,16 +172,6 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 </item>
 
 <item>
-<title>[COLOR white][COLOR white]Valerian e a Cidade dos Mil Planetas (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/seuls-2017-legendado/</page></regex>
-<genre>Ação,Ficção Cientifica</genre>
-<info>Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwdNawBYN5f1_Du8_xVTfQEJb6iFsVcypseAbDseNJg5SIHmvpMKP6lTiP</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/valerian.jpg</thumbnail>
-</item>
-
-<item>
 <title>[COLOR white]A Torre Negra (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/torre-negra-2017-dublado-hd-1/</page></regex>
@@ -159,16 +189,6 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <info>A trama acompanha um soldado americano (Lee Pace) e uma trabalhadora voluntária francesa (Bérénice Marlohe) que, na África, fazem parte do último núcleo de resistência da humanidade contra uma invasão alienígena.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBD_qA5hWd555TXpWEa5JSaCkAOPdKBxyh4SkEGS-W4KaRBCPXe0Q_iL2YGQ</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/revolt_xlg.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/transformers-o-ultimo-cavaleiro/</page></regex>
-<genre>Ação,Aventura e Ficção Cientifica</genre>
-<info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ1NzEzNzcyM15BMl5BanBnXkFtZTgwMzgyOTk2MjI@._V1_SX1777_CR0,0,1777,913_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/20161221_211822.png</thumbnail>
 </item>
 
 <item>
