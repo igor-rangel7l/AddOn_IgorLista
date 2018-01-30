@@ -4,6 +4,25 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]A Morte Te Dá Parabéns (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/morte-te-da-parabens/</page></regex>
+<genre>Terror</genre>
+<info>Tree (Jessica Rothe) é uma jovem que é assassinada no seu aniversário e tem que reviver o dia de sua morte várias e várias vezes, tentando descobrir quem foi seu assassino, antes que suas chances se acabem.</info>
+<fanart>http://dresslikethat.com/wp-content/uploads/2017/10/babyface-killer-happy-death-day-costume-001.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/HDD_LA_TEASER_0606_RGB_1.jpg</thumbnail>
+</item>
+408
+<item>
+<title>[COLOR white]Jogos Mortais: Jigsaw (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/jigsaw/</page></regex>
+<genre>Terror</genre>
+<info>Corpos estão aparecendo pela cidade, cada um tendo encontrado uma morte terrível. Conforme a investigação segue, as evidências apontam para um homem: John Kramer. Mas como pode ser? O homem conhecido como Jigsaw está morto há mais de dez anos. Ou um aprendiz está seguindo os passos de Jigsaw, talvez até alguém de dentro da própria investigação?</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjBmZmE1ODAtMzE4Ny00MTI2LWEwNjQtNDhiYjhlNDk2Y2Y3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1500,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/8DB9F16F-2235-44C0-9234-47F29045CA26.jpeg</thumbnail>
+</item>
+<item>
 <title>[COLOR white]Amityville: O Despertar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AMTVLODSPRTR.mp4</link>
 <regex>

@@ -17,6 +17,36 @@ Corra!
 
 
 <item>
+<title>[COLOR white]Thor: Ragnarok (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/thor-ragnarok/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
+<fanart>https://www.comunidadeculturaearte.com/wp-content/uploads/2017/11/thor-ragnarok-marvel.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_título_V7HvcGS.png</thumbnail>
+</item>
+409
+<item>
+<title>[COLOR white]A Morte Te Dá Parabéns (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/morte-te-da-parabens/</page></regex>
+<genre>Terror</genre>
+<info>Tree (Jessica Rothe) é uma jovem que é assassinada no seu aniversário e tem que reviver o dia de sua morte várias e várias vezes, tentando descobrir quem foi seu assassino, antes que suas chances se acabem.</info>
+<fanart>http://dresslikethat.com/wp-content/uploads/2017/10/babyface-killer-happy-death-day-costume-001.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/HDD_LA_TEASER_0606_RGB_1.jpg</thumbnail>
+</item>
+408
+<item>
+<title>[COLOR white]Jogos Mortais: Jigsaw (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/jigsaw/</page></regex>
+<genre>Terror</genre>
+<info>Corpos estão aparecendo pela cidade, cada um tendo encontrado uma morte terrível. Conforme a investigação segue, as evidências apontam para um homem: John Kramer. Mas como pode ser? O homem conhecido como Jigsaw está morto há mais de dez anos. Ou um aprendiz está seguindo os passos de Jigsaw, talvez até alguém de dentro da própria investigação?</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjBmZmE1ODAtMzE4Ny00MTI2LWEwNjQtNDhiYjhlNDk2Y2Y3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1500,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/8DB9F16F-2235-44C0-9234-47F29045CA26.jpeg</thumbnail>
+</item>
+407
+<item>
 <title>[COLOR white]De Canção em Canção (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4</link>
 <regex>
