@@ -13,6 +13,50 @@
 
 
 <item>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
@@ -67,8 +111,47 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch39-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
+<thumbnail>http://goo.gl/5IKysn</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE PREMIUM HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -79,20 +162,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch39-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
 <item>
@@ -150,24 +221,6 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
-<thumbnail>http://goo.gl/XaOWO6</thumbnail>
-</item>
-
-
-<item>
 <title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
@@ -202,6 +255,50 @@
 </regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE ACTION HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
+<thumbnail>http://goo.gl/P79aKf</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
+<thumbnail>http://goo.gl/P79aKf</thumbnail>
 </item>
 
 <item>
@@ -259,23 +356,6 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
-<thumbnail>http://goo.gl/P79aKf</thumbnail>
-</item>
-
-<item>
 <title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
@@ -298,6 +378,50 @@
 </regex>
 <fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
 <thumbnail>http://goo.gl/P79aKf</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE FUN HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
+<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinefun/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
+<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
 </item>
 
 <item>
@@ -355,8 +479,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinefun/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE TOUCH HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
+<thumbnail>http://goo.gl/AfJkib</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -367,8 +518,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
-<thumbnail>http://goo.gl/Dk6F7h</thumbnail>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
+<thumbnail>http://goo.gl/AfJkib</thumbnail>
 </item>
 
 <item>
@@ -426,8 +577,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TELECINE CULT HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
+<thumbnail>http://goo.gl/fLmSUL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/78821716219658219924/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -438,8 +616,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
-<thumbnail>http://goo.gl/AfJkib</thumbnail>
+<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
+<thumbnail>http://goo.gl/fLmSUL</thumbnail>
 </item>
 
 <item>
@@ -497,8 +675,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/78821716219658219924/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>HBO HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -509,8 +714,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
-<thumbnail>http://goo.gl/fLmSUL</thumbnail>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
 </item>
 
 <item>
@@ -569,23 +774,6 @@
 
 <item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
-<thumbnail>http://goo.gl/N9ccs5</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/sat6/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -629,6 +817,50 @@
 </regex>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>HBO 2 HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo2hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
 </item>
 
 <item>
@@ -686,8 +918,43 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo2hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
+<sportsdevil>http://tv-msn.com/hbo2.html</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>HBO FAMILY HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboFamily.jpg</fanart>
+<thumbnail>http://goo.gl/2BXhGr</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbofamily/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -698,16 +965,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
-<thumbnail>http://goo.gl/yrDz67</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
-<sportsdevil>http://tv-msn.com/hbo2.html</sportsdevil>
-<referer>http://tv-msn.com/</referer>
-<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
-<thumbnail>http://goo.gl/yrDz67</thumbnail>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboFamily.jpg</fanart>
+<thumbnail>http://goo.gl/2BXhGr</thumbnail>
 </item>
 
 <item>
@@ -765,8 +1024,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbofamily/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>HBO PLUS HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -777,8 +1063,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboFamily.jpg</fanart>
-<thumbnail>http://goo.gl/2BXhGr</thumbnail>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
 </item>
 
 <item>
@@ -836,8 +1122,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>HBO SIGNATURE HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HBOSignature.jpg</fanart>
+<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/28347661835572978857/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -848,16 +1161,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
-<thumbnail>http://goo.gl/ISXYSM</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
-<sportsdevil>http://tv-msn.com/hboplus.html</sportsdevil>
-<referer>http://tv-msn.com/</referer>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
-<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HBOSignature.jpg</fanart>
+<thumbnail>http://goo.gl/pTRcv8</thumbnail>
 </item>
 
 <item>
@@ -915,25 +1220,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/108/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
 <regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+<name>Igor_Rangel_2</name>
+<expres>SPACE HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
 </regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HBOSignature.jpg</fanart>
-<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
+<thumbnail>http://goo.gl/wOXdmw</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/28347661835572978857/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/spacehd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -944,8 +1259,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HBOSignature.jpg</fanart>
-<thumbnail>http://goo.gl/pTRcv8</thumbnail>
+<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
+<thumbnail>http://goo.gl/wOXdmw</thumbnail>
 </item>
 
 <item>
@@ -1003,8 +1318,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/spacehd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MEGAPIX HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -1015,8 +1357,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
-<thumbnail>http://goo.gl/wOXdmw</thumbnail>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
 </item>
 
 <item>
@@ -1074,8 +1416,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>PARAMOUNT CHANNEL HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/PramountChannel.jpg</fanart>
+<thumbnail>https://goo.gl/iwCiPM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -1086,26 +1455,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
-<thumbnail>http://goo.gl/qXR9CS</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] Vertv.net[/COLOR]</title>
-<link>$doregex[Igor_Rangel_CH]|User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko</link>
-<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2987.133 Safari/537.36</agent>
-<regex>
-<name>Igor_Rangel_CH</name>
-<expres>file:"(.*)"</expres>
-<page>$doregex[Igor_Rangel_Link]</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>src="(.*)" width="468</expres>
-<page>http://www.assistirtvonline.tv/vip/megapix.php</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
-<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/PramountChannel.jpg</fanart>
+<thumbnail>https://goo.gl/iwCiPM</thumbnail>
 </item>
 
 <item>
@@ -1163,8 +1514,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>TNT HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -1175,8 +1553,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/PramountChannel.jpg</fanart>
-<thumbnail>https://goo.gl/iwCiPM</thumbnail>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
 </item>
 
 <item>
@@ -1228,23 +1606,6 @@
 <name>Igor_Rangel_4</name>
 <expres>T"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
-<thumbnail>http://goo.gl/vUl6oy</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
 <thumbnail>http://goo.gl/vUl6oy</thumbnail>
@@ -1315,6 +1676,50 @@
 </item>
 
 <item>
+<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>CINEMAX HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
+<thumbnail>https://goo.gl/oDAihL</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/cinemax-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
+<thumbnail>https://goo.gl/oDAihL</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
@@ -1336,7 +1741,6 @@
 <name>Igor_Rangel_4</name>
 <expres>T"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
 <thumbnail>https://goo.gl/oDAihL</thumbnail>
@@ -1370,8 +1774,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/cinemax-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MAX HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Max.jpg</fanart>
+<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -1382,8 +1813,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
-<thumbnail>https://goo.gl/oDAihL</thumbnail>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Max.jpg</fanart>
+<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
 </item>
 
 <item>
@@ -1441,8 +1872,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MAX UP HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
+<thumbnail>http://goo.gl/Hbr506</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -1453,8 +1911,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Max.jpg</fanart>
-<thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
+<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
+<thumbnail>http://goo.gl/Hbr506</thumbnail>
 </item>
 
 <item>
@@ -1512,8 +1970,35 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MAX PRIME HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/MaxPrime.jpg</fanart>
+<thumbnail>http://goo.gl/JG4dUv</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxprime/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>http://(.*)/loadbalance</expres>
@@ -1524,8 +2009,8 @@
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
-<fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
-<thumbnail>http://goo.gl/Hbr506</thumbnail>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/MaxPrime.jpg</fanart>
+<thumbnail>http://goo.gl/JG4dUv</thumbnail>
 </item>
 
 <item>
@@ -1583,20 +2068,31 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxprime/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR yellow] [B]HD[/B]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
 <regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
 </regex>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+<name>Igor_Rangel_2</name>
+<expres>STUDIO UNIVERSAL HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
 </regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/MaxPrime.jpg</fanart>
-<thumbnail>http://goo.gl/JG4dUv</thumbnail>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://w.peppermelon.tv/imagesok/proyectos/cd6ba9e667ff251927e09108f28768f705-universal.jpg</fanart>
+<thumbnail>http://goo.gl/lTL3Bs</thumbnail>
+</regex>
 </item>
 
 <item>
