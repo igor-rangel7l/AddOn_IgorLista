@@ -11,6 +11,50 @@
 
 <item>
 <title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
+<regex>
+<name>Igor_Rangel_1</name>
+<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_2</name>
+<expres>MULTISHOW HD$doregex[Igor_Rangel_4]:"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_3</name>
+<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<regex>
+<name>Igor_Rangel_4</name>
+<expres>T"(.*)"</expres>
+<page>http://igorlista.at.ua/Serves/Igor_Rangel2.txt</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MULTISHOW.png</fanart>
+<thumbnail>http://goo.gl/7LIjII</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/show/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlistalogos.at.ua/fanart/MULTISHOW.png</fanart>
+<thumbnail>http://goo.gl/7LIjII</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
 <regex>
 <name>Igor_Rangel_1</name>
@@ -58,23 +102,6 @@
 <name>Igor_Rangel_4</name>
 <expres>T"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<fanart>http://igorlistalogos.at.ua/fanart/MULTISHOW.png</fanart>
-<thumbnail>http://goo.gl/7LIjII</thumbnail>
-</item>
-
-<item>
-<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/show/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>http://(.*)/loadbalance</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8([^\"].*)"</expres>
-<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
 <fanart>http://igorlistalogos.at.ua/fanart/MULTISHOW.png</fanart>
 <thumbnail>http://goo.gl/7LIjII</thumbnail>
@@ -708,6 +735,23 @@
 <name>Igor_Rangel_4</name>
 <expres>T"(.*)"</expres>
 <page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+</regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/foodnetwork.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/Food_Network.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]FOOD NETWORK[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/55238371675456437141/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/foodnetwork.jpg</fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/Food_Network.png</thumbnail>

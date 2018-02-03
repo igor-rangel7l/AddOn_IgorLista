@@ -255,6 +255,7 @@
 <expres>src="(.*servercanais.*?)"</expres>
 <page>http://m.redecanais.com/assistir-fox-online-24-horas-ao-vivo_71b939a76.html</page>
 <referer>http://m.redecanais.com/</referer>
+</regex>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
 <thumbnail>http://goo.gl/13gfQq</thumbnail>
 </item>
@@ -314,27 +315,17 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]FOX PREMIUM 1[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow][B]FOX PREMIUM 1[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR yellow][B]FOX PREMIUM 1[/B] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/13945963548438544165/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
-<name>Igor_Rangel_1</name>
-<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
 <regex>
-<name>Igor_Rangel_2</name>
-<expres>FOX PREMIUM 1 SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_3</name>
-<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_4</name>
-<expres>T"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX%20PREMIUM%201.png</fanart>
 <thumbnail>https://goo.gl/Tjbghz</thumbnail>
@@ -368,27 +359,17 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]FOX PREMIUM 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow][B]FOX PREMIUM 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR][COLOR gray] (f4mTester)[/COLOR]</link>
+<title>[COLOR yellow][B]FOX PREMIUM 2[/B][/COLOR] [COLOR blue] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/86286526837465378731/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
-<name>Igor_Rangel_1</name>
-<expres>server$doregex[Igor_Rangel_4]"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+<name>Igor_Rangel_IP</name>
+<expres>http://(.*)/loadbalance</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
 <regex>
-<name>Igor_Rangel_2</name>
-<expres>FOX PREMIUM 2 SD$doregex[Igor_Rangel_4]:"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_3</name>
-<expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
-</regex>
-<regex>
-<name>Igor_Rangel_4</name>
-<expres>T"(.*)"</expres>
-<page>http://igorlista.at.ua/Serves/Igor_Rangel.txt</page>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)"</expres>
+<page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
 </regex>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX%20PREMIUM%202.png</fanart>
 <thumbnail>https://goo.gl/PCAV8s</thumbnail>
