@@ -220,7 +220,7 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] Portalzuca[/COLOR]</title>
+<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [/COLOR][COLOR gray] Portalzuca[/COLOR]</title>
 <link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_CH</name>
@@ -276,6 +276,19 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=epnbr</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/GwBMAl</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (Futeboltvaovivo)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8</link>
 <regex>
@@ -294,25 +307,6 @@ z
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8(.*)"</expres>
 <page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
-<thumbnail>http://goo.gl/GwBMAl</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>"(.*m3u8.*?)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
-<referer>http://www.freelivestream.tv/</referer>
-</regex>
-<regex>
-<name>Igor_Rangel_Site</name>
-<expres>file='(.*?)';</expres>
-<page>http://look-tvs.com/atvon/espnbr.html</page>
-<referer>http://look-tvs.com</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
@@ -385,12 +379,42 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=foxsports</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
+<thumbnail>http://goo.gl/2GxOT7</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Futeboltvaovivo)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8</link>
 <regex>
 <name>Igor_Rangel_Ch</name>
 <expres>live=(.*)m3u8</expres>
 <page>https://www.futeboltv.com/canais-esportivos/assistir-fox-sports-ao-vivo-em-hd-gratis-2</page><referer>http://www.futeboltv.com/</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
+<thumbnail>http://goo.gl/2GxOT7</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_CH</name>
+<expres>file:"(.*)"</expres>
+<page>$doregex[Igor_Rangel_Link]</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>src="(.*widestream.*?)"</expres>
+<page>http://portalzuca.com/canais/foxsports1.php</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
@@ -422,42 +446,12 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_CH</name>
-<expres>file:"(.*)"</expres>
-<page>$doregex[Igor_Rangel_Link]</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>src="(.*widestream.*?)"</expres>
-<page>http://portalzuca.com/canais/foxsports1.php</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
-<thumbnail>http://goo.gl/2GxOT7</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
 <link>http://cdn.widestream.io:8081/wideedge1/ch13-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8(.*)"</expres>
 <page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
-<thumbnail>http://goo.gl/2GxOT7</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>"(.*m3u8.*?)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=foxsports</page>
-<referer>http://www.freelivestream.tv/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
@@ -475,6 +469,19 @@ z
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
+<thumbnail>http://goo.gl/HBo8jM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=espnmais</page>
+<referer>http://www.freelivestream.tv/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
 <thumbnail>http://goo.gl/HBo8jM</thumbnail>
@@ -510,12 +517,13 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch06-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR red][B]ESPN[/B] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=espn</page>
+<referer>http://www.freelivestream.tv/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
@@ -528,6 +536,18 @@ z
 <name>Igor_Rangel_Ch</name>
 <expres>live=(.*)m3u8</expres>
 <page>https://www.futeboltv.com/canais-esportivos/espn-assistir-ao-vivo</page><referer>http://www.futeboltv.com/</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
+<thumbnail>http://goo.gl/Pgcyh0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch06-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
@@ -556,7 +576,7 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
+<title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_CH</name>
@@ -584,6 +604,19 @@ z
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
+<thumbnail>http://goo.gl/vtGyTX</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=sportv2</page>
+<referer>http://www.freelivestream.tv/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
@@ -644,25 +677,6 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>"(.*m3u8.*?)"</expres>
-<page>http://www.freelivestream.tv/embedPlayer.php?file=$doregex[Igor_Rangel_Site]</page>
-<referer>http://www.freelivestream.tv/</referer>
-</regex>
-<regex>
-<name>Igor_Rangel_Site</name>
-<expres>file='(.*?)';</expres>
-<page>http://look-tvs.com/atvon/sportv2.html</page>
-<referer>http://look-tvs.com</referer>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
-<thumbnail>http://goo.gl/vtGyTX</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte3/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -674,6 +688,19 @@ z
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
+<thumbnail>http://goo.gl/6ju0FK</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]SPORTV 3[/B][/COLOR][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=sportv3</page>
+<referer>http://www.freelivestream.tv/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
 <thumbnail>http://goo.gl/6ju0FK</thumbnail>
@@ -701,44 +728,6 @@ z
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
 <thumbnail>http://goo.gl/6ju0FK</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
-<link>$doregex[getFile]|User-Agent=iPad</link>
-<regex>
-<name>getFile</name>
-<expres>file:"(.*?)"</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-encrypted</name>
-<expres><![CDATA[(?s)</div>\s+\n\s+<script type="text/javascript">;eval\(function\(w,i,s,e\).*}\((.*?)\)]]></expres>
-<page>http://megadash.xyz/hls_nm.php?id=31437&width=468&height=380</page>
-<referer>http://tv-aovivo.nl/</referer>
-<agent>Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3</agent>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
-<thumbnail>http://goo.gl/6ju0FK</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]PFC[/B][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=9etjxdg9mmnf06a  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf?IGOR_RANGEL  pageUrl=http://www.iguide.to/embedplayer_new.php?width=600&height=450&channel=32623&autoplay=true token=#ed%h0#w18623jsda6523lDGDVe</link>
-<fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
-<thumbnail>http://goo.gl/Avc8uz</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]PFC[/B][/COLOR]</title>
-<link>rtmp://213.152.180.151:17247/sstream/1bdlLe7dro.stream</link>
-<fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
-<thumbnail>http://goo.gl/Avc8uz</thumbnail>
 </item>
 
 <item>
@@ -786,18 +775,6 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch84-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
-<thumbnail>http://goo.gl/YpLC7E</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
@@ -811,6 +788,18 @@ z
 <expres>file='(.*?)';</expres>
 <page>http://look-tvs.com/atvon/pfc.html</page>
 <referer>http://look-tvs.com</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
+<thumbnail>http://goo.gl/YpLC7E</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch84-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>
@@ -962,48 +951,6 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_CH</name>
-<expres>file:"(.*)"</expres>
-<page>$doregex[Igor_Rangel_Link]?IGOR_RANGEL</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>src="(.*widestream.*?)"</expres>
-<page>http://portalzuca.com/canais/foxsports2.php</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
-<thumbnail>http://goo.gl/2GxOT7</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
-<regex>
-<name>Igor_Rangel_ch</name>
-<expres>" \+ ea \+ "(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
-<referer>http://m.tudotv.tv/</referer>
-<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>Igor_Rangel_ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.p3gpublish.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>Igor_Rangel_id</name>
-<expres>channel='(.*)',</expres>
-<page>http://m.tudotv.tv/assistir-fox-sports-2-ao-vivo-online-em-hd-gratis/opcao-1710/</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
-<thumbnail>http://goo.gl/2GxOT7</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
 <regex>
@@ -1070,6 +1017,19 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[ch_Igor_Rangel]</link>
+<regex>
+<name>ch_Igor_Rangel</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=foxsports2</page>
+<referer>http://look-tvs.com/atvon/foxsport.html</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
+<thumbnail>http://goo.gl/aXJTWu</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (Futeboltvaovivo)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8</link>
 <regex>
@@ -1079,6 +1039,48 @@ z
 </regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/aXJTWu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_CH</name>
+<expres>file:"(.*)"</expres>
+<page>$doregex[Igor_Rangel_Link]?IGOR_RANGEL</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>src="(.*widestream.*?)"</expres>
+<page>http://portalzuca.com/canais/foxsports2.php</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
+<thumbnail>http://goo.gl/2GxOT7</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-fox-sports-2-ao-vivo-online-em-hd-gratis/opcao-1710/</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
+<thumbnail>http://goo.gl/2GxOT7</thumbnail>
 </item>
 
 <item>
@@ -1118,12 +1120,13 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]BAND SPORTS[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch10/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR red][B]BAND SPORTS[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[ch_Igor_Rangel]</link>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+<name>ch_Igor_Rangel</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=bandsports</page>
+<referer>http://look-tvs.com/atvon/foxsport.html</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/291Lwj</thumbnail>
@@ -1136,6 +1139,18 @@ z
 <name>Igor_Rangel_Ch</name>
 <expres>live=(.*)m3u8</expres>
 <page>https://www.futeboltv.com/canais-esportivos/band-assistir-ao-vivo</page><referer>http://www.futeboltv.com/</referer>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
+<thumbnail>http://goo.gl/291Lwj</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]BAND SPORTS[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
+<link>http://cdn.widestream.io:8081/wideedge1/ch10/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)"</expres>
+<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/291Lwj</thumbnail>
@@ -1169,23 +1184,6 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_CH</name>
-<expres>file:"(.*)"</expres>
-<page>$doregex[Igor_Rangel_Link]?IGOR_RANGEL</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>src="(.*widestream.*?)"</expres>
-<page>http://portalzuca.com/canais/ei.php</page>
-</regex>
-<fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
-<thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/max1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -1197,6 +1195,23 @@ z
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8([^\"].*)"</expres>
 <page>http://m.tudotv.tv/assistir-record-ao-vivo-online-em-hd-gratis/opcao-1695/</page>
+</regex>
+<fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_CH</name>
+<expres>file:"(.*)"</expres>
+<page>$doregex[Igor_Rangel_Link]?IGOR_RANGEL</page>
+</regex>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>src="(.*widestream.*?)"</expres>
+<page>http://portalzuca.com/canais/ei.php</page>
 </regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
@@ -1220,6 +1235,19 @@ z
 <expres>hls: '(.*)'</expres
 <page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2hd.txt</page></regex>
+<fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[ch_Igor_Rangel]</link>
+<regex>
+<name>ch_Igor_Rangel</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=ie</page>
+<referer>http://look-tvs.com/atvon/foxsport.html</referer>
+</regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
 </item>
@@ -1306,31 +1334,6 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
-<regex>
-<name>Igor_Rangel_ch</name>
-<expres>" \+ ea \+ "(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
-<referer>http://m.tudotv.tv/</referer>
-<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>Igor_Rangel_ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.p3gpublish.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>Igor_Rangel_id</name>
-<expres>channel='(.*)',</expres>
-<page>http://m.tudotv.tv/assistir-eimaxx-2-ao-vivo-online-em-hd-gratis/opcao-13661/</page>
-</regex>
-<fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
-<thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B][B]Esporte Interativo 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/max2/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -1365,6 +1368,44 @@ z
 <expres>hls: '(.*)'</expres
 <page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
 </regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream2hd.txt</page></regex>
+<fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[ch_Igor_Rangel]</link>
+<regex>
+<name>ch_Igor_Rangel</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/embedPlayer.php?file=ei</page>
+<referer>http://look-tvs.com/atvon/foxsport.html</referer>
+</regex>
+<fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_id</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-eimaxx-2-ao-vivo-online-em-hd-gratis/opcao-13661/</page>
+</regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
 </item>
