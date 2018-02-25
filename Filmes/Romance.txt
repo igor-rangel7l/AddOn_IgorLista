@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLOR white]Um Reino Unido (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -22,7 +22,7 @@
 </item>
 <item>
 <title>[COLOR white]Um Reino Unido (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -36,7 +36,7 @@
 
 <item>
 <title>[COLOR white]De Canção em Canção (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -49,7 +49,7 @@
 </item>
 <item>
 <title>[COLOR white]La La Land: Cantando Estações (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -63,7 +63,7 @@
 
 <item>
 <title>[COLOR white]Nossas Noites (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSNITS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NOSNITS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -77,7 +77,7 @@
 
 <item>
 <title>[COLOR white]Amor e Tulipas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -91,7 +91,7 @@
 
 <item>
 <title>[COLOR white]Cartão de Natal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRTAODNTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRTAODNTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -105,7 +105,7 @@
 
 <item>
 <title>[COLOR white]Cinquenta Tons Mais Escuros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -139,7 +139,7 @@
 
 <item>
 <title>[COLOR white]A Descoberta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -153,7 +153,7 @@
 
 <item>
 <title>[COLOR white]Bem Casados (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -167,7 +167,7 @@
 
 <item>
 <title>[COLOR white]Capitão Fantástico (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -181,7 +181,7 @@
 
 <item>
 <title>[COLOR white]Deidra e Laney Assaltam um Trem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -195,7 +195,7 @@
 
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 5: Tudo ou Nada (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -209,7 +209,7 @@
 
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 3 (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -223,7 +223,7 @@
 
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 2 (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -237,7 +237,7 @@
 
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -251,7 +251,7 @@
 
 <item>
 <title>[COLOR white]Jonas (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JNS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -265,7 +265,7 @@
 
 <item>
 <title>[COLOR white]José do Egito: O Filme - (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -280,7 +280,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Não Me Abandone Jamais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -294,7 +294,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Qualquer Gato Vira-Lata 2 (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -308,7 +308,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Qualquer Gato Vira-Lata (Nacional) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -324,7 +324,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Reza a Lenda (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RZALND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RZALND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -338,7 +338,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Lisbela e o Prisioneiro (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -352,7 +352,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Cinquenta Tons Mais Escuros (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -366,7 +366,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -380,7 +380,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Do Que as Mulheres Gostam (Dublado) - 2001[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -394,7 +394,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Passageiros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -408,7 +408,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Hora de Voltar (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -422,7 +422,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Como Eu Era Antes de Você (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -436,7 +436,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Amor & Amizade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -450,7 +450,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Ritmo Total (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -464,7 +464,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Porque é Novembro (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -478,7 +478,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Namorada de Aluguel (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -492,7 +492,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Mercy (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MERCY.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MERCY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>

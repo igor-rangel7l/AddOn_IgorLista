@@ -16,6 +16,132 @@ O Círculo
 Corra!
 
 
+
+
+<item>
+<title>[COLOR white]Espelho (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/looking-glass/</page></regex>
+<info>Depois de experimentar uma perda trágica, um casal adquire um motel deserto onde descobre uma série de eventos perturbadores e inexplicáveis que ocorrem dentro de um dos quartos frequentemente solicitados.</info>
+<fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/01/nic-1.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/looking-glass-poster.jpg</thumbnail>
+</item>
+420
+<item>
+<title>[COLOR white]Mudo (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/mudo/</page></regex>
+<genre>Ficção Cientifica</genre>
+<info>Berlim. 40 anos no futuro. Leo Beiler (Alexander Skarsgard), um barman mudo, tem apenas um motivo para viver aqui, e ela desapareceu. Mas quando a busca de Leo o leva para o submundo da cidade, um curioso par de cirurgiões americanos parece ter as respostas que ele precisa, mas Leo não sabe se deve confiar neles ou temê-los.</info>
+<fanart>https://cdn.movieweb.com/img.news.tops/NE2QGiZ969WJ5b_2_b/Mute-Movie-Teaser-Video-2018-Netflix-Original.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MUTE_Vertical-MAIN_PRE_BPO.jpg</thumbnail>
+</item>
+419
+<item>
+<title>[COLOR white]Três Anúncios Para um Crime (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/tres-anuncios-para-um-crime/</page></regex>
+<genre>Drama e Comédia</genre>
+<info>Inconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes (Frances McDormand) decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby (Woody Harrelson), responsável pela investigação.</info>
+<fanart>https://i1.wp.com/nosbastidores.com.br/wp-content/uploads/2017/10/three-billboards-outside-ebbing-missouri-5a431edbcdad4.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/three_billboards_outside_ebbing_missouri.jpg</thumbnail>
+</item>
+418
+<item>
+<title>[COLOR white]Fullmetal Alchemist (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/fullmetal-alchemist/</page></regex>
+<genre>Ação</genre>
+<info>Escrito por Arakawa Hiromu, o mundo de "Fullmetal Alchemist" é baseado no período pós-Revolução Industrial europeu. Situado num universo ficcional em que a alquimia é uma das mais avançadas técnicas científicas conhecidas pelo homem, a trama acompanha a jornada de Edward e Alphonse Elric, que desejam restaurar os seus corpos após uma desastrosa tentativa de trazer a sua mãe falecida de volta à vida através da alquimia.</info>
+<fanart>https://i0.wp.com/www.fatosdesconhecidos.com.br/wp-content/uploads/2018/01/img-pos2_k22q.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/filme_40_8Yk5tr2.png</thumbnail>
+</item>
+417
+<item>
+<title>[COLOR white]Viva: A Vida é uma Festa (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/viva-a-vida-e-uma-festa/</page></regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>A nova animação da Disney Pixar será dirigido por Lee Unkrich e contará com a produção de Darla Anderson. A trama será ambientada em uma das datas mais importantes e comemorada no México, o Dia dos Mortos, onde todos os moradores comemoram os parentes e amigos que faleceram.</info>
+<fanart>http://www.popzara.com/wp-content/uploads/2017/12/coco2017_feature.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/Viva_-_A_Vida_é_uma_Festa_-_Pôster_Nacional_-_03.jpg</thumbnail>
+</item>
+416
+<item>
+<title>[COLOR white]Espião Por Acaso (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/espiao-por-acaso/</page></regex>
+<genre>Aventura e Comédia</genre>
+<info>Uma aventura incrível e uma amizade verdadeira.
+Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, quando ele e sua família se mudam para um velho hotel situado na região costeira do país. Tim está sofrendo para se adaptar ao novo lar até que ele conhece Simon, um rapaz peculiar que acabou de despertar de um sono que o manteve sem contato algum com a sociedade desde 1974. Com Simon se ajustando ao mundo de hoje e Tim aprendendo a gostar de sua nova casa, a dupla forma uma bela amizade. Quando Tim decide ajudar Simon a encarar o mundo, o menino descobre que seu novo amigo é um antigo espião e eles estão para embarcar em uma incrível aventura!</info>
+<fanart>https://image.tmdb.org/t/p/original/4hgQuIVFehFTA73ROmSJbkWRYAc.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MV5BOTlkN2Y4ODMtZTc0MS00ZmY3LWJjYTUtOGQ1OWZiZDI3Yzk3XkEyXkFqcGdeQX_pr6bnl1.jpg</thumbnail>
+</item>
+415
+<item>
+<title>[COLOR white]O Destino de Uma Nação (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-destino-de-uma-nacao/</page></regex>
+<genre>Drama</genre>
+<info>Winston Churchill (Gary Oldman) está prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Grã-Bretanha. Paralelamente, ele começa a costurar um tratado de paz com a alemanhã Nazista que pode significar o fim de anos de conflito.</info>
+<fanart>https://image.tmdb.org/t/p/original/krrhg14FJJdvV39EUxEP9eADCH1.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/image005.jpg</thumbnail>
+</item>
+414
+<item>
+<title>[COLOR white]The Post: A Guerra Secreta (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/the-post-a-guerra-secreta/</page></regex>
+<genre>Drama</genre>
+<info>Um encobrimento escandaloso que abrangeu quatro mandados presidenciais dos Estados Unidos força a primeira editora jornalística do país (Meryl Streep) e um editor difícil de trabalhar (Tom Hanks) a juntarem forças numa batalha sem precedentes entre os jornalistas e o governo.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMzNzczNjY4M15BMl5BanBnXkFtZTgwNzY5NzA1NDM@._V1_SY1000_CR0,0,1430,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/3649186.jpg</thumbnail>
+</item>
+414
+<item>
+<title>[COLOR white]O Paradoxo Cloverfield (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-paradoxo-cloverfield/</page></regex>
+<genre>Ficção Cientifica e Terror</genre>
+<info>Em órbita sobre um planeta prestes a entrar em guerra, cientistas testam uma possível solução para a crise de energia, mas acabam em uma realidade alternativa.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWUzZjBmNWQtNDZmOS00ZmUwLTlkMGMtMzNhYjcyMDc1ZmJhXkEyXkFqcGdeQXVyNjAxMTUzMDQ@._V1_SY1000_CR0,0,1335,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/paradox.jpg</thumbnail>
+</item>
+413
+<item>
+<title>[COLOR white]Um Conto de Batman: Gotham City 1889 (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/batman-gotham-by-gaslight/</page></regex>
+<genre>Animação</genre>
+<info>Gotham, na virada do século, está passando por uma época de descoberta e indústria, mas nos becos mais sombrios há um assassino à solta. Trabalhando juntos, Batman e o comandante da Polícia James Gordon tentam capturar o temível Jack, o estripador.
+Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Gotham City 1889, ganhará um filme animado. A primeira história do selo Elseworlds escrita por Brian Augustyn e desenhada por Mike Mignola, reimagina o Batman na Era Vitoriana e o coloca contra Jack: O Estripador.</info>
+<fanart>https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/batman-gotham-by-gaslight-first-look.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/p14591934_p_v8_ab.jpg</thumbnail>
+</item>
+412
+<item>
+<title>[COLOR white]Vende-se Esta Casa (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/vende-se-esta-casa/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>Um adolescente (Dylan Minnette) e sua mãe (Piercey Dalton) se mudam para uma nova casa e se veem na presença de forças ameaçadoras.</info>
+<fanart>https://occ-0-2433-444.1.nflxso.net/art/ff26e/452ec91e0bbe5eabe828efb5a5912e9ce58ff26e.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/ope.png</thumbnail>
+</item>
+411
+<item>
+<title>[COLOR white]Voldemort: A Origem do Herdeiro (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/voldemort-origins-of-the-heir/</page></regex>
+<genre>Aventura</genre>
+<info>Um filme independente criada por fãs da saga Harry Potter. 
+Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle desaparece. Ele volta dez anos depois, com novos poderes e um novo nome. Sua jornada em busca dos segredos da magia negra mudou profundamente ele, e dois velhos conhecidos vão atrás para detê-lo antes que ele atinja seu objetivo: a imortalidade.</info>
+<fanart>https://i.pinimg.com/originals/b1/95/03/b195032a4733d1d17c35ae3100735679.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/17309628_1308393695922292_8872296210723889150_n.jpg</thumbnail>
+</item>
+410
+
+
 <item>
 <title>[COLOR white]Thor: Ragnarok (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
@@ -48,7 +174,7 @@ Corra!
 407
 <item>
 <title>[COLOR white]De Canção em Canção (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -62,7 +188,7 @@ Corra!
 406
 <item>
 <title>[COLOR white]Como se Tornar um Conquistador (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMSTNRUMCONQSTDR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CMSTNRUMCONQSTDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -76,7 +202,7 @@ Corra!
 405
 <item>
 <title>[COLOR white]Como Nossos Pais (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -90,7 +216,7 @@ Corra!
 404
 <item>
 <title>[COLOR white]Churchill (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHRCHL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CHRCHL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -104,7 +230,7 @@ Corra!
 403
 <item>
 <title>[COLOR white]Caçada Brutal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CACDBRTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CACDBRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -119,7 +245,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 402
 <item>
 <title>[COLOR white]Blade Runner 2049 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -133,7 +259,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 401
 <item>
 <title>[COLOR white]A Transfiguração (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -147,7 +273,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 400
 <item>
 <title>[COLOR white]As Tribos de Palos Verdes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASTRBDPLSVRDS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASTRBDPLSVRDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -161,7 +287,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 399
 <item>
 <title>[COLOR white]Amityville: O Despertar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMTVLODSPRTR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMTVLODSPRTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -175,7 +301,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 398
 <item>
 <title>[COLOR white]Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VNGA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]VNGA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -189,7 +315,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 397
 <item>
 <title>[COLOR white]Velozes e Furiosos 8 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VLZEFROSOS08.mp4</link>
+<link>$doregex[Igor_Rangel_Link]VLZEFROSOS08.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -202,7 +328,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]Um Reino Unido (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -216,7 +342,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 396
 <item>
 <title>[COLOR white][COLOR white]Valerian e a Cidade dos Mil Planetas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -229,7 +355,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]Um Reino Unido (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -243,7 +369,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 395
 <item>
 <title>[COLOR white]Uma Noite de Loucuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMANTDLOCRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMANTDLOCRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -257,7 +383,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 394
 <item>
 <title>[COLOR white]Uma Agente Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -271,7 +397,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 393
 <item>
 <title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4</link>
+<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -285,7 +411,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 391
 <item>
 <title>[COLOR white]Rei Arthur – A Lenda da Espada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -298,7 +424,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]Rainha do Mundo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RANHDMND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RANHDMND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -313,7 +439,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 389
 <item>
 <title>[COLOR white]O Poder e o Impossível (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPDREOIMPSVL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OPDREOIMPSVL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -327,7 +453,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 388
 <item>
 <title>[COLOR white]Despedida em Grande Estilo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DESPDAEMGRNDESTLO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DESPDAEMGRNDESTLO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -341,7 +467,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 387
 <item>
 <title>[COLOR white]Bright (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRGHT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BRGHT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -355,7 +481,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 386
 <item>
 <title>[COLOR white]Assassinos Múltiplos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASSNSMULT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASSNSMULT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -369,7 +495,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 385
 <item>
 <title>[COLOR white]Os Smurfs e a Vila Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -383,7 +509,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 384
 <item>
 <title>[COLOR white]Sono Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SONMRTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SONMRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -396,7 +522,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 383
 <item>
 <title>[COLOR white]Snowden: Herói ou Traidor (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNODNHROTRIDR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SNODNHROTRIDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -409,7 +535,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]Resposta Armada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RESPSTARMDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RESPSTARMDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -422,7 +548,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 382
 <item>
 <title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -435,7 +561,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]Resposta Armada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RESPSTARMDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RESPSTARMDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -448,7 +574,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 381
 <item>
 <title>[COLOR white]#REALITYHIGH (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RALTYHGH.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RALTYHGH.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -462,7 +588,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 380
 <item>
 <title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -475,7 +601,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]O Zoológico de Varsóvia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OZOLGCDVRSVIA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OZOLGCDVRSVIA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -489,7 +615,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 379
 <item>
 <title>[COLOR white]O Túnel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OTNEL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OTNEL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -503,7 +629,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 378
 <item>
 <title>[COLOR white]Os Meninos que Enganavam Nazistas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSMENQENGNVMNZIS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSMENQENGNVMNZIS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -517,7 +643,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 377
 <item>
 <title>[COLOR white][COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -530,7 +656,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]Os Caminhos do Terror (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSCMNHSDOTRO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSCMNHSDOTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -544,7 +670,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 376
 <item>
 <title>[COLOR white]Operação Mekong (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -558,7 +684,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 375
 <item>
 <title>[COLOR white]O Mago das Mentiras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMGDSMENTRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OMGDSMENTRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -572,7 +698,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 374
 <item>
 <title>[COLOR white]O Grande Roubo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OGRNDRB.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OGRNDRB.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -586,7 +712,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 373
 <item>
 <title>[COLOR white]O Fim do Dia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -600,7 +726,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 372
 <item>
 <title>[COLOR white][COLOR white]O Estranho Que Nós Amamos  (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OESTNHQNSAMAMS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OESTNHQNSAMAMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -613,7 +739,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]O Castelo de Vidro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCSTLDVDR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OCSTLDVDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -627,7 +753,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 371
 <item>
 <title>[COLOR white]O Reino Gelado: Fogo e Gelo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -641,7 +767,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 369
 <item>
 <title>[COLOR white]O Criador do Boneco Robert (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCRADRDBNCORBRT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OCRADRDBNCORBRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -655,7 +781,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 368
 <item>
 <title>[COLOR white]O Bar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OBAR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OBAR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -669,7 +795,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 367
 <item>
 <title>[COLOR white]Na Batida do Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NABTDADAMR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NABTDADAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -683,7 +809,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 366
 <item>
 <title>[COLOR white]Logan Lucky: Roubo em Família (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELGNLCKYRBEMFML.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELGNLCKYRBEMFML.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -697,7 +823,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 365
 <item>
 <title>[COLOR white]Em Busca de Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EMBSCDVNG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]EMBSCDVNG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -711,7 +837,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 364
 <item>
 <title>[COLOR white]Dia De Trabalho Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -725,7 +851,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 363
 <item>
 <title>[COLOR white]Cartão de Natal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRTAODNTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRTAODNTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -739,7 +865,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 362
 <item>
 <title>[COLOR white]Amor e Tulipas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -753,7 +879,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 361
 <item>
 <title>[COLOR white]Moonlight: Sob a Luz do Luar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONLGHTSBLZDLR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MONLGHTSBLZDLR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -767,7 +893,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 360
 <item>
 <title>[COLOR white][COLOR white]It - A Coisa (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ITACOS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ITACOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -780,7 +906,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 </item>
 <item>
 <title>[COLOR white]No Topo do Poder (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NTOPDPDR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NTOPDPDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -794,7 +920,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 358
 <item>
 <title>[COLOR white]Nosso Reino (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSRNO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NOSRNO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -808,7 +934,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 357
 <item>
 <title>[COLOR white]Nossas Noites (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSNITS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NOSNITS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -822,7 +948,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 356
 <item>
 <title>[COLOR white]Natal em El Camino (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NTLEMELCMNO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NTLEMELCMNO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -835,7 +961,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 355
 <item>
 <title>[COLOR white]Na Mira Do Atirador (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NAMRDATRDR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NAMRDATRDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -849,7 +975,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 354
 <item>
 <title>[COLOR white]Monster High: Eletrizante (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -863,7 +989,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 353
 <item>
 <title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -876,7 +1002,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 </item>
 <item>
 <title>[COLOR white]Mecânica das Sombras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MECMDSMBRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MECMDSMBRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -890,7 +1016,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 353
 <item>
 <title>[COLOR white]Mãe! (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MAE.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MAE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -904,7 +1030,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 352
 <item>
 <title>[COLOR white]Coração de Dragão 4: A Batalha Pelo Coração de Fogo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -918,7 +1044,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 351
 <item>
 <title>[COLOR white]Coração de Dragão 3: A Maldição do Feiticeiro (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -932,7 +1058,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 350
 <item>
 <title>[COLOR white]Coração de Dragão 2: Um Novo Começo (Dublado) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -946,7 +1072,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 349
 <item>
 <title>[COLOR white]Coração de Dragão (Dublado) - 1997[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -960,7 +1086,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 348
 <item>
 <title>[COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -974,7 +1100,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 347
 <item>
 <title>[COLOR white]Bingo: O Rei das Manhãs (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -988,7 +1114,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 346
 <item>
 <title>[COLOR white]Alibi.com (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALBCM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ALBCM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1002,7 +1128,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 345
 <item>
 <title>[COLOR white]Lendas do Templo Perdido: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1016,7 +1142,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 344
 <item>
 <title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOGN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1029,7 +1155,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 </item>
 <item>
 <title>[COLOR white]Long Shot (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNGSHT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LNGSHT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1042,7 +1168,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 343
 <item>
 <title>[COLOR white]Lendas do Templo Perdido: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1056,7 +1182,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 342
 <item>
 <title>[COLOR white]La La Land: Cantando Estações (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1070,7 +1196,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 341
 <item>
 <title>[COLOR white]Kite: Anjo Da Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KTANJDVNGC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]KTANJDVNGC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1084,7 +1210,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 340
 <item>
 <title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1098,7 +1224,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 339
 <item>
 <title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1112,7 +1238,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 339
 <item>
 <title>[COLOR white][COLOR white]Kickboxer: A Vingança Do Dragão (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKBXRVNGA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]KCKBXRVNGA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1126,7 +1252,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 338
 <item>
 <title>[COLOR white][COLOR white]Invasão Alienígena (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INVSALIEN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]INVSALIEN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1140,7 +1266,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 337
 <item>
 <title>[COLOR white][COLOR white]Herbert (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1154,7 +1280,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 336
 <item>
 <title>[COLOR white][COLOR white]Honra e Lealdade (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1168,7 +1294,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 335
 <item>
 <title>[COLOR white][COLOR white]Farol das Orcas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FRLDSORCS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]FRLDSORCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1182,7 +1308,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 334
 <item>
 <title>[COLOR white][COLOR white]Fechando Negócio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1196,7 +1322,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 333
 <item>
 <title>[COLOR white][COLOR white]Estrelas Além do Tempo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1211,7 +1337,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 331
 <item>
 <title>[COLOR white][COLOR white]Estarei em Casa Para o Natal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESTREMCSPONTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ESTREMCSPONTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1225,7 +1351,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 330
 <item>
 <title>[COLOR white][COLOR white]Emoji: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1239,7 +1365,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 329
 <item>
 <title>[COLOR white][COLOR white]Desconhecida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSCNHCD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DSCNHCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1253,7 +1379,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 328
 <item>
 <title>[COLOR white]Dominação (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DMNCAO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DMNCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1267,7 +1393,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 327
 <item>
 <title>[COLOR white]Em Defesa de Cristo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EMDEFDCRST.mp4</link>
+<link>$doregex[Igor_Rangel_Link]EMDEFDCRST.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1281,7 +1407,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 326
 <item>
 <title>[COLOR white]Dunkirk (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DUKRK.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DUKRK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1295,7 +1421,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 325
 <item>
 <title>[COLOR white]Demônio de Neon (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1309,7 +1435,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 324
 <item>
 <title>[COLOR white]DOCINHO DA AMÉRICA (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DCNHDAMRC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DCNHDAMRC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1323,7 +1449,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 323
 <item>
 <title>[COLOR white]Andorinhas e Amazonas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANDRNHSEAMZNS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ANDRNHSEAMZNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1338,7 +1464,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 322
 <item>
 <title>[COLOR white]Sam Was Here (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SAMWSHRE.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SAMWSHRE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1402,7 +1528,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 315
 <item>
 <title>[COLOR white]Death Note (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DTHNT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DTHNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1415,7 +1541,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 314
 <item>
 <title>[COLOR white]Castelo de Areia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1429,7 +1555,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 313
 <item>
 <title>[COLOR white]Cinquenta Tons Mais Escuros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1443,7 +1569,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 312
 <item>
 <title>[COLOR white][COLOR white]Clowntergeist (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1457,7 +1583,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 311
 <item>
 <title>[COLOR white][COLOR white]Conexão Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1471,7 +1597,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 310
 <item>
 <title>[COLOR white][COLOR white]Chet Baker: A Lenda do Jazz (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHTBKRALNDJZ.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CHTBKRALNDJZ.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1485,7 +1611,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 309
 <item>
 <title>[COLOR white][COLOR white]Christine (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHRSTINE.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CHRSTINE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1499,7 +1625,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 308
 <item>
 <title>[COLOR white][COLOR white]Código de Silêncio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CDGDSLNC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CDGDSLNC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1513,7 +1639,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 307
 <item>
 <title>[COLOR white][COLOR white]Blame! (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BLME.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BLME.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1529,7 +1655,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 306
 <item>
 <title>[COLOR white][COLOR white]Amaldiçoada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1543,7 +1669,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 305
 <item>
 <title>[COLOR white][COLOR white]Atomica: Agente Especial (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATMCAGNTESPC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ATMCAGNTESPC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1557,7 +1683,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 304
 <item>
 <title>[COLOR white][COLOR white]A Síndrome de Berlin (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASNDRMDBRLM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASNDRMDBRLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1570,7 +1696,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 303
 <item>
 <title>[COLOR white][COLOR white]A Mulher Mais Odiada dos Estados Unidos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMLHRMSODADEUA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMLHRMSODADEUA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1583,7 +1709,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 302
 <item>
 <title>[COLOR white][COLOR white]A Mala e os Errantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1597,7 +1723,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 301
 <item>
 <title>[COLOR white][COLOR white]A Lei da Noite (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALEIDNOT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ALEIDNOT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1611,7 +1737,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 300
 <item>
 <title>[COLOR white][COLOR white]A Colheita da Fé (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACLHTDFE.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ACLHTDFE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1645,7 +1771,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 297
 <item>
 <title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/paw-patrol-os-filhotes-salvam-o-natal-2017-dublado/</page></regex>
 <genre>Aventura e Animação</genre>
 <info>Os filhotes se equipam para consertar o trenó do Papai Noel e salvar o Natal, levar os pinguins de volta para sua casa congelada, ajudar Everest em alguns resgates na neve e muito mais!</info>
@@ -1666,7 +1792,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 294
 <item>
 <title>[COLOR white][COLOR white]Bon Cop, Bad Cop 2  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/bon-cop-bad-cop-2-2017-legendado/</page></regex>
 <genre>Ação</genre>
 <info>Seis anos se passaram desde Martin Ward e David Bouchard reuniram-se em uma maneira espetacular na fronteira Quebec / Ontario. Os dois homens ficaram amigos, mas o tempo tem seu preço e eles não se falam há quase um ano. Neste segundo capítulo, Ward e Bouchard deve enfrentar uma importante quadrilha de roubo de carro que acaba por ser muito mais do que esperava: um onde os carros roubados servirá como bombas em um ataque terrorista bem planejado.</info>
@@ -1676,7 +1802,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 293
 <item>
 <title>[COLOR white][COLOR white]A Origem do Dragão  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/origem-do-dragao-2017-legendado/</page></regex>
 <genre>Ação e Drama</genre>
 <info>Bruce Lee (Philip Ng), célebre lutador de artes marciais, e seu rival, o mestre de Kung Fu Wong Jack Man (Yu Xia), tentam resolver suas desavenças e divergências em uma luta sem regras. O embate, que se deu na Califórnia com poucas testemunhas, viria a se tornar o mais importante e emblemático duelo da carreira do futuro grande ator de cinema, um marco fundamental em sua trajetória. Depois desse evento, os dois ainda se unem para lutar contra o poderio da máfia chinesa em Chinatown, São Francisco.</info>
@@ -1686,7 +1812,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 292
 <item>
 <title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
 <genre>Ação,Nacional e Faroeste</genre>
 <info>Criado e dirigido por Marcelo Galvão (Colegas), a história é um faroeste e acontece entre as décadas de 1910 e 1940, e conta a história de Cabeleira (Morgado), um temido matador do estado de Pernambuco. Cabeleira, criado por um cangaceiro local chamado Sete Orelhas (Montenegro), que o encontrou abandonado quando bebê, cresce no sertão completamente isolado da civilização. Agora um adulto, ele finalmente vai à cidade para procurar o desaparecido Sete Orelhas e encontra uma cidade sem lei, governada pelo tirânico Monsieur Blanchard (Chicot), um francês que domina o mercado de pedras preciosas e anteriormente empregava Sete Orelhas como seu matador.</info>
@@ -1696,7 +1822,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 291
 <item>
 <title>[COLOR white][COLOR white]Atomica: Ameaça Oculta (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/operacao-avalanche-dublado/</page></regex>
 <genre>Ficção Cientifica</genre>
 <info>Em um futuro próximo, quando as comunicações caem em uma usina nuclear no deserto, uma jovem inspetora de segurança, Abby Dixon, é forçada a ir até o loca para para restabelecer a conexão. Uma vez dentro da instalação, pistas misteriosas e comportamentos estranhos fazem com que Abby tenha dúvidas sobre a sanidade, e talvez identidades, dos dois funcionários no local.</info>
@@ -1706,7 +1832,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 290
 <item>
 <title>[COLOR white][COLOR white]Crash Pad: Dando o Troco (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/operacao-avalanche-dublado/</page></regex>
 <info>1967. Dois agentes da CIA investigam russos na NASA, que na época estavam fortemente envolvidos na corrida para a lua. O que eles descobrem acaba por ser muito mais chocante do que a espionagem russa. Um segredo de Estado que pode nunca, jamais pode ser revelado.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSamNefQEGwuUz5IqakLyQ7ZsKXbVz93RydHtcGuSBEg4y-EH8IUr9YuXHv</fanart>
@@ -1715,7 +1841,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 289
 <item>
 <title>[COLOR white][COLOR white]Operação Avalanche (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/operacao-avalanche-dublado/</page></regex>
 <info>1967. Dois agentes da CIA investigam russos na NASA, que na época estavam fortemente envolvidos na corrida para a lua. O que eles descobrem acaba por ser muito mais chocante do que a espionagem russa. Um segredo de Estado que pode nunca, jamais pode ser revelado.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcDE6F-vj-M4bkEJ0eaBhnbuw9ZL7VMxJ3oWmvjVf244QhfcoQm48l1HlYVA</fanart>
@@ -1724,7 +1850,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 288
 <item>
 <title>[COLOR white][COLOR white]Quase 18 (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/quase-18-2017-dublado/</page></regex>
 <genre>Comédia e Drama</genre>
 <info>Crescer não é nada fácil para alguns, como para Nadine, uma estudante que está enfrentando uma difícil situação desde que sua melhor amiga, Krista, está namorando com o seu irmão mais velho, Darian. Nadine se sente mais sozinha do que nunca, ao menos até começar uma amizade com um jovem atencioso.</info>
@@ -1735,7 +1861,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 286
 <item>
 <title>[COLOR white][COLOR white]Olhos Famintos 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/olhos-famintos-3-2017-legendado/</page></regex>
 <genre>Suspense e Terror</genre>
 <info>No último dia de alimentação de vinte e três dias do Creeper, as equipes policiais do Sargento Tubbs reúnem uma força-tarefa, na missão de destruir o Creeper para sempre. O Creeper trava uma batalha sangrenta enquanto seus inimigos se aproximam de descobrir o segredo de suas origens sombrias.</info>
@@ -1746,7 +1872,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 284
 <item>
 <title>[COLOR white][COLOR white]Sozinhos (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/seuls-2017-legendado/</page></regex>
 <info>Cinco adolescentes acordam um dia e descobrem que estão sozinhos. Não apenas em suas casas, mas na cidade não encontram ninguém. Até para proteção mútua, eles decidem ficar juntos.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpWmYv0c2brUPW6yuqiuritNXzrV3Ien_dCwbUpyYF87j9N-fkg</fanart>
@@ -1755,7 +1881,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 283
 <item>
 <title>[COLOR white][COLOR white]O Jantar (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/salt-and-fire-dublado/</page></regex>
 <info>Dois casais se encontram em um elegante restaurante de Amsterdã. Enquanto a comida vai e vem, eles começam a conversar, passando por banalidades da vida até assuntos mais complicados. A discussão chega ao seu limite quando falam sobre seus filhos adolescentes, dois rapazes que estão envolvidos em uma complicada investigação policial.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVh6JqP3smE4b7j3zMqyVSRY3qzEYMTKHDA-Irk7-2XV4ff6QlSYPxSkrd</fanart>
@@ -1773,7 +1899,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 281
 <item>
 <title>[COLOR white][COLOR white]Vovô Disfarçado (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/vovo-disfarcado-2017-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>O encontro de Jake com a garota dos sonhos toma outro rumo quando ela desaparece. Mas o avô dele, um ex-oficial da inteligencia, está dispostoa encontrá-la.</info>
@@ -1783,7 +1909,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 280
 <item>
 <title>[COLOR white][COLOR white]Área 51 - A Invasão Alien (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/alien-domicile-2017-legendado/</page></regex>
 <genre>Terror</genre>
 <info>Após décadas de teorias da conspiração e segredos, a CIA finalmente reconheceu a existência da Área 51. Mas isso não foi o suficiente, pois o que acontece lá dentro ainda é um mistério. Agora, um grupo heterogêneo, que inclui membros do exército e funcionários do governo, está preso nesse ambiente infame e precisa descobrir uma saída. Mas esse lugar trará surpresas horríveis pelo caminho, quando eles são forçados a enfrentar sinistros experimentos e seres de outros planetas. Eles saberão exatamente o que está acontecendo lá, para o bem ou para o mal.</info>
@@ -1793,7 +1919,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 279
 <item>
 <title>[COLOR white][COLOR white]O Filho do Satã (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-filho-do-sata-2017-legendado/</page></regex>
 <genre>Terror</genre>
 <info>Após um estranho incidente durante seu chá de bebê, a enfermeira Allison é levada para o hospital às pressas, para o parto do prematuro Neron. Depois do nascimento, a vida de Allison é cercada por misteriosos acontecimentos, ilusões, sonhos e assassinatos sem explicação. Todos os eventos acabam tendo uma ligação com bebê Neron e sua mãe tem premonições repentinas que revelam as próximas vítimas de seu filho. Em busca de ajuda, ela conhece o Reverendo Jones que tentará de todas as formas libertar o garoto deste poder maligno.</info>
@@ -1803,7 +1929,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 278
 <item>
 <title>[COLOR white][COLOR white]24 Horas para Viver (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/24-hours-to-live-2017-legendado/</page></regex>
 <info>O longa conta a história de um assassino que recebe uma chance de redenção quando é trazido de volta a vida por seu empregador, momentos depois de ter sido morto durante um trabalho.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmutC_HIDAsdaqk6O1jog4MuDzKLLSX86d2agqvvAh1MAquwPS9Ld4IY2q</fanart>
@@ -1812,7 +1938,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 276
 <item>
 <title>[COLOR white][COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/sem-perdao-2017-dublado/</page></regex>
 <genre>Drama e Policial</genre>
 <info></info>
@@ -1832,7 +1958,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 274
 <item>
 <title>[COLOR white][COLOR white]6 Dias (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/6-dias-2017-dublado/</page></regex>
 <info>O filme é baseado nos eventos de abril de 1980, quando seis homens armados invadiram a embaixada iraniana em Londres e tomaram mais de 20 pessoas como reféns por seis dias.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpzYiSYy9Ze9VlBZW9_Dmfd0_sdA5Gdj2Ac-_bkNFrBsMbCTPAahc26EuRew</fanart>
@@ -1860,7 +1986,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 271
 <item>
 <title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/loucos-e-perigosos-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>
@@ -1871,7 +1997,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 269
 <item>
 <title>[COLOR white][COLOR white]Invocação do Mal 2 (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INVCAODML2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]INVCAODML2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -1885,7 +2011,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 268
 <item>
 <title>[COLOR white][COLOR white]Invocação do Mal (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INVCAODML.mp4</link>
+<link>$doregex[Igor_Rangel_Link]INVCAODML.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2000,7 +2126,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 256
 <item>
 <title>[COLOR white]The House (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACSCUCSNVIZ.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ACSCUCSNVIZ.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2024,7 +2150,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 -----------------------
 <item>
 <title>[COLOR white][COLOR white]Jogos Mortais: O Final (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS07.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS07.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2038,7 +2164,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 253
 <item>
 <title>[COLOR white]Jogos Mortais 6 (Dublado) - 2009[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTS06.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTS06.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2053,7 +2179,7 @@ No entanto, quando a investigação do FBI se aproxima do detetive, ele é obrigado
 252
 <item>
 <title>[COLOR white]Jogos Mortais 5 (Dublado) - 2008[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS05.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2070,7 +2196,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 251
 <item>
 <title>[COLOR white]Jogos Mortais 4 (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS04.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS04.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2084,7 +2210,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 250
 <item>
 <title>[COLOR white]Jogos Mortais 3 (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS03.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS03.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2098,7 +2224,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 249
 <item>
 <title>[COLOR white]Jogos Mortais 2 (Dublado) - 2005[/COLOR] [COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS02.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS02.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2112,7 +2238,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 248
 <item>
 <title>[COLOR white]Jogos Mortais (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTS01.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTS01.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2166,7 +2292,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 243
 <item>
 <title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2416,7 +2542,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 212
 <item>
 <title>[COLOR white]Internet: O Filme (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INTNET.mp4</link>
+<link>$doregex[Igor_Rangel_Link]INTNET.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2430,7 +2556,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 211
 <item>
 <title>[COLOR white]The Warrior's Gate (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]WRISGT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]WRISGT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2444,7 +2570,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 210
 <item>
 <title>[COLOR white]Um Suburbano Sortudo (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2461,7 +2587,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 209
 <item>
 <title>[COLOR white]Sete Minutos Depois da Meia-Noite (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STMNDPSDMENTDUB.mp4</link>
+<link>$doregex[Igor_Rangel_Link]STMNDPSDMENTDUB.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2474,7 +2600,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 </item>
 <item>
 <title>[COLOR white]Sete Minutos Depois da Meia-Noite (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STMNDPSDMENT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]STMNDPSDMENT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2488,7 +2614,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 208
 <item>
 <title>[COLOR white]Superpai (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SPRPAI.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SPRPAI.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2502,7 +2628,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 207
 <item>
 <title>[COLOR white]Reza a Lenda (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RZALND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RZALND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2516,7 +2642,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 206
 <item>
 <title>[COLOR white]Resident Evil 6: O Capítulo Final (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL06.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL06.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2530,7 +2656,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 205
 <item>
 <title>[COLOR white]Resident Evil 6: O Capítulo Final (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2544,7 +2670,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 204
 <item>
 <title>[COLOR white]Qualquer Gato Vira-Lata 2 (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2558,7 +2684,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 203
 <item>
 <title>[COLOR white]Qualquer Gato Vira-Lata (Nacional) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2574,7 +2700,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 202
 <item>
 <title>[COLOR white]Porta Do Fundo Contrato Vitalicio (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2588,7 +2714,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 201
 <item>
 <title>[COLOR white]Ouro Suor e Lagrimas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OURSURELGRM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OURSURELGRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2602,7 +2728,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 200
 <item>
 <title>[COLOR white]Os Normais: O Filme (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2616,7 +2742,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 199
 <item>
 <title>[COLOR white]Os Amores de Anne (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSAMRSDANLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSAMRSDANLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2630,7 +2756,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 198
 <item>
 <title>[COLOR white]O Roubo da Taça (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OROBDTA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OROBDTA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2644,7 +2770,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 197
 <item>
 <title>[COLOR white]O Chamado (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2658,7 +2784,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 196
 <item>
 <title>[COLOR white]O Chamado 2 (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMDII.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OCHMDII.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2672,7 +2798,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 197
 <item>
 <title>[COLOR white]O Chamado 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2686,7 +2812,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 196
 <item>
 <title>[COLOR white]O Chamado 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2700,7 +2826,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 195
 <item>
 <title>[COLOR white]Não Me Abandone Jamais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2714,7 +2840,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 194
 <item>
 <title>[COLOR white]Não é Mais Um Besteirol Americano (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NEUMBSTRAMRCN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NEUMBSTRAMRCN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2728,7 +2854,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 193
 <item>
 <title>[COLOR white]Maze Runner: Prova de Fogo (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2742,7 +2868,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 192
 <item>
 <title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2756,7 +2882,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 191
 <item>
 <title>[COLOR white]Mundo Cão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNDCA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MNDCA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2770,7 +2896,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 190
 <item>
 <title>[COLOR white]Mãe Só Há Uma (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MASHUM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MASHUM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2784,7 +2910,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 188
 <item>
 <title>[COLOR white]Lavanda (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LVNDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LVNDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2798,7 +2924,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 187
 <item>
 <title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2812,7 +2938,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 186
 <item>
 <title>[COLOR white]José do Egito: O Filme - (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2827,7 +2953,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 185
 <item>
 <title>[COLOR white]Jonas (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JNS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2841,7 +2967,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 184
 <item>
 <title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2855,7 +2981,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 183
 <item>
 <title>[COLOR white]Escondidos (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESCNDS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ESCNDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2869,7 +2995,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 182
 <item>
 <title>[COLOR white]Entre Abelhas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2883,7 +3009,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 181
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 5: Tudo ou Nada (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2897,7 +3023,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 180
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 3 (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2911,7 +3037,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 179
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 2 (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2925,7 +3051,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 178
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2939,7 +3065,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 174
 <item>
 <title>[COLOR white]Depois de Tudo (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DPSDTD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DPSDTD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2953,7 +3079,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 173
 <item>
 <title>[COLOR white]Deidra e Laney Assaltam um Trem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2967,7 +3093,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 172
 <item>
 <title>[COLOR white]Capitão Fantástico (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2981,7 +3107,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 171
 <item>
 <title>[COLOR white]Busca Explosiva 5: Campo de Batalha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV5.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV5.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -2995,7 +3121,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 170
 <item>
 <title>[COLOR white]Busca Explosiva 4 (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV4.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV4.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3009,7 +3135,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 169
 <item>
 <title>[COLOR white]Busca Explosiva 3 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3023,7 +3149,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 168
 <item>
 <title>[COLOR white]Busca Explosiva 2 (Dublado) - 2009[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3037,7 +3163,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 167
 <item>
 <title>[COLOR white]Busca Explosiva (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV1.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3051,7 +3177,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 166
 <item>
 <title>[COLOR white]Bem Casados (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3065,7 +3191,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 165
 <item>
 <title>[COLOR white]Aquarius (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AQRIS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AQRIS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3079,7 +3205,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 164
 <item>
 <title>[COLOR white]Apostando Tudo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3093,7 +3219,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 163
 <item>
 <title>[COLOR white]Amor em Sampa (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREMSP.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMREMSP.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3107,7 +3233,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 162
 <item>
 <title>[COLOR white]A Fabulosa Gilly Hopkins (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3121,7 +3247,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 161
 <item>
 <title>[COLOR white]A Descoberta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3135,7 +3261,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 160
 <item>
 <title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3149,7 +3275,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 159
 <item>
 <title>[COLOR white]Um Limite Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMLMTENTNS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMLMTENTNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3163,7 +3289,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 158
 <item>
 <title>[COLOR white]Sing: Quem Canta Seus Males Espanta (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3179,7 +3305,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 157
 <item>
 <title>[COLOR white]Sangue Azul (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGAZL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SNGAZL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3193,7 +3319,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 156
 <item>
 <title>[COLOR white]Sandy Wexler (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3207,7 +3333,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 155
 <item>
 <title>[COLOR white]Rufus (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RFUS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RFUS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3221,7 +3347,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 154
 <item>
 <title>[COLOR white]Refém: O Filme (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RFMNAC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RFMNAC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3235,7 +3361,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 153
 <item>
 <title>[COLOR white]O Olho do Mal (Dublado) - 2008[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OLHDML.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OLHDML.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3249,7 +3375,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 152
 <item>
 <title>[COLOR white]O Desvio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODSVIO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ODSVIO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3263,7 +3389,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 151
 <item>
 <title>[COLOR white]Cruzeiro das Loucas (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCRZRDLCS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OCRZRDLCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3279,7 +3405,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 150
 <item>
 <title>[COLOR white]Do Que as Mulheres Gostam (Dublado) - 2001[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3293,7 +3419,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 149
 <item>
 <title>[COLOR white]A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3307,7 +3433,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 148
 <item>
 <title>[COLOR white]A Lenda do Rei Macaco (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3321,7 +3447,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 147
 <item>
 <title>[COLOR white]Halloweentown: A Cidade do Halloween (Dublado) - 1998[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3335,7 +3461,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 146
 <item>
 <title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3349,7 +3475,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 145
 <item>
 <title>[COLOR white]Manchester à Beira Mar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MACHABRMR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MACHABRMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3363,7 +3489,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 144
 <item>
 <title>[COLOR white]Hop: Rebelde Sem Páscoa (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3377,7 +3503,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 143
 <item>
 <title>[COLOR white]Fazenda Dos Cisnes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3391,7 +3517,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 142
 <item>
 <title>[COLOR white]Frank e Lola: Amor Obsessivo (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FNKELOLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]FNKELOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3405,7 +3531,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 141
 <item>
 <title>[COLOR white]Coragem em Campo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3419,7 +3545,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 140
 <item>
 <title>[COLOR white]Best Player: Guerreiros Virtuais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3435,7 +3561,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 138
 <item>
 <title>[COLOR white]Até o Último Homem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATOULHMN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ATOULHMN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3449,7 +3575,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 137
 <item>
 <title>[COLOR white]Armas na Mesa (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ARMSNMSA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ARMSNMSA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3463,7 +3589,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 136
 <item>
 <title>[COLOR white]Além Da Realidade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3477,7 +3603,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 135
 <item>
 <title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABLRN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3491,7 +3617,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 134
 <item>
 <title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3505,7 +3631,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 133
 <item>
 <title>[COLOR white]Lisbela e o Prisioneiro (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3519,7 +3645,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 132
 <item>
 <title>[COLOR white]Resgate Suicida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3533,7 +3659,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 131
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3547,7 +3673,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 130
 <item>
 <title>[COLOR white]Monster Trucks (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNSTRRCK.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MNSTRRCK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3561,7 +3687,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 129
 <item>
 <title>[COLOR white]12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMNTDCRM3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3577,7 +3703,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 128
 <item>
 <title>[COLOR white]Uma Noite de Crime 2: Anarquia (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMNTDCRM2ARQU.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM2ARQU.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3591,7 +3717,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 127
 <item>
 <title>[COLOR white]Uma Noite de Crime (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMNTDCRM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3605,7 +3731,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 126
 <item>
 <title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3619,7 +3745,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 125
 <item>
 <title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3633,7 +3759,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 124
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3647,7 +3773,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 123
 <item>
 <title>[COLOR white]Resident Evil 6: O Capítulo Final (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL06.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL06.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3660,7 +3786,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 </item>
 <item>
 <title>[COLOR white]Resident Evil 6: O Capítulo Final (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3674,7 +3800,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 122
 <item>
 <title>[COLOR white]Resident Evil 5: Retribuição (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL05.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3691,7 +3817,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 121
 <item>
 <title>[COLOR white]Resident Evil 4: Recomeço (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL04.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL04.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3705,7 +3831,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 120
 <item>
 <title>[COLOR white]Resident Evil 3: A Extinção (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL03.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL03.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3719,7 +3845,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 119
 <item>
 <title>[COLOR white]Resident Evil: Apocalipse (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL02.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL02.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3733,7 +3859,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 118
 <item>
 <title>[COLOR white]Resident Evil: O Hóspede Maldito (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL01.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVIL01.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3747,7 +3873,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 117
 <item>
 <title>[COLOR white]Pandora (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PNDRA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PNDRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3761,7 +3887,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 116
 <item>
 <title>[COLOR white]Passageiros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3775,7 +3901,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 115
 <item>
 <title>[COLOR white]O Monstro no Armário (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3789,7 +3915,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 114
 <item>
 <title>[COLOR white]O Exorcismo de Anna Ecklund (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3803,7 +3929,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 113
 <item>
 <title>[COLOR white]O Dia do Atentado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3817,7 +3943,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 112
 <item>
 <title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3831,7 +3957,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 111
 <item>
 <title>[COLOR white]Minha Mãe é uma Peça 2 (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3845,7 +3971,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 110
 <item>
 <title>[COLOR white]Horizonte Profundo: Desastre no Golfo (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3859,7 +3985,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 109
 <item>
 <title>[COLOR white]Hancock (Dublado) - 2008[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HNCK.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HNCK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3873,7 +3999,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 108
 <item>
 <title>[COLOR white]Call to Duty: Fora de Alcance (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CLTDTY.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CLTDTY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3887,7 +4013,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 107
 <item>
 <title>[COLOR white]Breaking Bad: O Filme (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3901,7 +4027,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 106
 <item>
 <title>[COLOR white]A Última Ressaca Do Ano (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3915,7 +4041,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 105
 <item>
 <title>[COLOR white]Assassin's Creed (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3929,7 +4055,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 104
 <item>
 <title>[COLOR white]O Shaolin Do Sertão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3943,7 +4069,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 103
 <item>
 <title>[COLOR white]Minha Mãe é uma Peça: O Filme (Nacional) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3957,7 +4083,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 102
 <item>
 <title>[COLOR white]Kick Ass: Quebrando Tudo (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3971,7 +4097,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 101
 <item>
 <title>[COLOR white]Kick-Ass 2 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3985,7 +4111,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 100
 <item>
 <title>[COLOR white]Hora de Voltar (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -3999,7 +4125,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 99
 <item>
 <title>[COLOR white]Como Eu Era Antes de Você (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4013,7 +4139,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 98
 <item>
 <title>[COLOR white]As Aventuras de Pi (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4027,7 +4153,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 97
 <item>
 <title>[COLOR white]Assassino a Preço Fixo (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4041,7 +4167,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 96
 <item>
 <title>[COLOR white]Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4055,7 +4181,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 95
 <item>
 <title>[COLOR white]Animais Fantásticos e Onde Habitam (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4069,7 +4195,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 94
 <item>
 <title>[COLOR white]As Aventuras de Peabody & Sherman (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4083,7 +4209,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 93
 <item>
 <title>[COLOR white]Ouija: Origem Do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OUJORGMDML.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OUJORGMDML.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4097,7 +4223,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 92
 <item>
 <title>[COLOR white]Ouija Exorcismo (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OUJEXRCMS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OUJEXRCMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4111,7 +4237,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 91
 <item>
 <title>[COLOR white]Ouija: Onde Tudo Começo (Dublado) - 2011.[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4125,7 +4251,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 90
 <item>
 <title>[COLOR white]Liga da Justiça Sombria (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4139,7 +4265,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 89
 <item>
 <title>[COLOR white]iBoy (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]IBOY.mp4</link>
+<link>$doregex[Igor_Rangel_Link]IBOY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4153,7 +4279,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 88
 <item>
 <title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4167,7 +4293,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 87
 <item>
 <title>[COLOR white]Esquadrao Suicida (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4181,7 +4307,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 86
 <item>
 <title>[COLOR white]Esquadrão de Elite (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4195,7 +4321,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 85
 <item>
 <title>[COLOR white]Malévola (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MLVLA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MLVLA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4209,7 +4335,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 84
 <item>
 <title>[COLOR white]Meu Irmão Cego (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4223,7 +4349,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 83
 <item>
 <title>[COLOR white]Jack Reacher: Sem Retorno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JCKRCHSRTN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JCKRCHSRTN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4237,7 +4363,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 82
 <item>
 <title>[COLOR white]Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INFRNO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]INFRNO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4251,7 +4377,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 81
 <item>
 <title>[COLOR white]O Lar das Crianças Peculiares (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4265,7 +4391,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 80
 <item>
 <title>[COLOR white]Fugindo Do Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FGNDINFNO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]FGNDINFNO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4279,7 +4405,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 79
 <item>
 <title>[COLOR white]Doutor Estranho (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4293,7 +4419,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 78
 <item>
 <title>[COLOR white]A Volta do Juízo Final (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVLTDJZFNL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AVLTDJZFNL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4307,7 +4433,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 77
 <item>
 <title>[COLOR white]Amor Estranho Amor (Nacional) - 1982[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRESTNHAMR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMRESTNHAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4321,7 +4447,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 76
 <item>
 <title>[COLOR white]A Chegada (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4335,7 +4461,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 75
 <item>
 <title>[COLOR white]Bruxa de Blair (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRXDBLR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BRXDBLR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4349,7 +4475,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 74
 <item>
 <title>[COLOR white]A Bruxa de Blair 2: O Livro das Sombras (Dublado) - 2001[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRXDBLR2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ABRXDBLR2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4363,7 +4489,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 73
 <item>
 <title>[COLOR white]A Bruxa de Blair (Dublado) - 1999[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRXDBLR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ABRXDBLR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4377,7 +4503,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 72
 <item>
 <title>[COLOR white]100 Streets (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]100STRTS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]100STRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4391,7 +4517,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 71
 <item>
 <title>[COLOR white]Trolls (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRLS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]TRLS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4405,7 +4531,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 69
 <item>
 <title>[COLOR white]Amor & Amizade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4419,7 +4545,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 68
 <item>
 <title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4433,7 +4559,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 67
 <item>
 <title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4447,7 +4573,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 66
 <item>
 <title>[COLOR white]Perdidos no Pacifico (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4461,7 +4587,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 65
 <item>
 <title>[COLOR white]Desventuras em Série (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4475,7 +4601,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 64
 <item>
 <title>[COLOR white]Anjos e Demônios (Dublado) - 2009[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANJSEDMNIS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ANJSEDMNIS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4489,7 +4615,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 63
 <item>
 <title>[COLOR white]Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4503,7 +4629,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 62
 <item>
 <title>[COLOR white]Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4517,7 +4643,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 61
 <item>
 <title>[COLOR white]Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4531,7 +4657,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 60
 <item>
 <title>[COLOR white]Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4545,7 +4671,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 59
 <item>
 <title>[COLOR white]Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4559,7 +4685,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 58
 <item>
 <title>[COLOR white]Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4573,7 +4699,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 57
 <item>
 <title>[COLOR white]O Contador (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCNTDR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4588,7 +4714,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 56
 <item>
 <title>[COLOR white]Mais Forte que o Mundo: A História de José Aldo (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MSFRTQOMUND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MSFRTQOMUND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4602,7 +4728,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 55
 <item>
 <title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4616,7 +4742,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 54
 <item>
 <title>[COLOR white]Spectral (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SPCTRL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SPCTRL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4631,7 +4757,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 52
 <item>
 <title>[COLOR white]Sete Homens e Um Destino (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4645,7 +4771,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 51
 <item>
 <title>[COLOR white]O Programa (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRGMA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OPRGMA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4659,7 +4785,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 50
 <item>
 <title>[COLOR white]Planeta dos Tubarões (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4673,7 +4799,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 49
 <item>
 <title>[COLOR white]O Mestre dos Gênios (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4687,7 +4813,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 48
 <item>
 <title>[COLOR white]O Bom Gigante Amigo (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4701,7 +4827,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 47
 <item>
 <title>[COLOR white]Nerve: Um Jogo Sem Regras (Dublado)[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NRVUJSR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NRVUJSR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4717,7 +4843,7 @@ xx
 45
 <item>
 <title>[COLOR white]Come And Find Me (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4731,7 +4857,7 @@ xx
 44
 <item>
 <title>[COLOR white]Carrossel 2: O Sumiço de Maria Joaquina (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CARSL2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CARSL2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4745,7 +4871,7 @@ xx
 43
 <item>
 <title>[COLOR white]Agente Mirim (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4759,7 +4885,7 @@ xx
 42
 <item>
 <title>[COLOR white]Uma Noite Com a Família Blacks (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4773,7 +4899,7 @@ xx
 41
 <item>
 <title>[COLOR white]Uma Canção (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4787,7 +4913,7 @@ xx
 40
 <item>
 <title>[COLOR white]Sansão e Dalila (Dublado) - 1951[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4801,7 +4927,7 @@ xx
 39
 <item>
 <title>[COLOR white]Ritmo Total (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4815,7 +4941,7 @@ xx
 38
 <item>
 <title>[COLOR white]Perfeita é a Mãe (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4829,7 +4955,7 @@ xx
 37
 <item>
 <title>[COLOR white]Porque é Novembro (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4843,7 +4969,7 @@ xx
 36
 <item>
 <title>[COLOR white]Popstar: Sem Parar, Sem Limites (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4857,7 +4983,7 @@ xx
 35
 <item>
 <title>[COLOR white]O Vôo do Dragão (Dublado) - 1973[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OVODRGO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OVODRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4871,7 +4997,7 @@ xx
 34
 <item>
 <title>[COLOR white]Os Pássaros (Dublado) - 1963[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSPSRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSPSRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4885,7 +5011,7 @@ xx
 33
 <item>
 <title>[COLOR white]Os Embalos de Sábado à Noite (Dublado) - 1978[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSEMBLDSBDANT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSEMBLDSBDANT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4899,7 +5025,7 @@ xx
 32
 <item>
 <title>[COLOR white]Os Caçadores de Atlântida (Dublado) - 1983[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4913,7 +5039,7 @@ xx
 31
 <item>
 <title>[COLOR white]Operação Dragão (Dublado) - 1973[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4927,7 +5053,7 @@ xx
 30
 <item>
 <title>[COLOR white]Jogo da Morte (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4941,7 +5067,7 @@ xx
 29
 <item>
 <title>[COLOR white]O Dragão do Natal (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4955,7 +5081,7 @@ xx
 28
 <item>
 <title>[COLOR white]O Dragão do Natal (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODRGOCHNS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ODRGOCHNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4969,7 +5095,7 @@ xx
 27
 <item>
 <title>[COLOR white]O Aviador (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OAVADR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OAVADR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4983,7 +5109,7 @@ xx
 26
 <item>
 <title>[COLOR white]Nosso Fiel Traidor (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSSFILTRDR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NOSSFILTRDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -4996,7 +5122,7 @@ xx
 25
 <item>
 <title>[COLOR white]Namorada de Aluguel (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5010,7 +5136,7 @@ xx
 24
 <item>
 <title>[COLOR white]A Fúria do Dragão (Dublado) - 1972[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AFRDRGO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AFRDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5024,7 +5150,7 @@ xx
 23
 <item>
 <title>[COLOR white]Mercy (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MERCY.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MERCY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5038,7 +5164,7 @@ xx
 22
 <item>
 <title>[COLOR white]Jason Bourne (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5052,7 +5178,7 @@ xx
 21
 <item>
 <title>[COLOR white]Jogo da Morte: A Última Jogada (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5066,7 +5192,7 @@ xx
 20
 <item>
 <title>[COLOR white]Jogo da Morte: A Última Jogada (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5080,7 +5206,7 @@ xx
 19
 <item>
 <title>[COLOR white]Horas Decisivas (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5094,7 +5220,7 @@ xx
 18
 <item>
 <title>[COLOR white]Honey 3: No Ritmo do Amor[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONY3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HONY3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5108,7 +5234,7 @@ xx
 17
 <item>
 <title>[COLOR white]Honey 2: No Ritmo dos Sonhos (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONY2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HONY2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5122,7 +5248,7 @@ xx
 16
 <item>
 <title>[COLOR white]Honey: No Ritmo dos Seus Sonhos (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONY1.mp4</link>
+<link>$doregex[Igor_Rangel_Link]HONY1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5136,7 +5262,7 @@ xx
 15
 <item>
 <title>[COLOR white]Guerra ao Terror (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GURAOTER.mp4</link>
+<link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5151,7 +5277,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 14
 <item>
 <title>[COLOR white]Força Para Viver (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4</link>
+<link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5165,7 +5291,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 13
 <item>
 <title>[COLOR white]Escola de Rock (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5179,7 +5305,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 12
 <item>
 <title>[COLOR white]Elvis & Nixon[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5193,7 +5319,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 11
 <item>
 <title>[COLOR white]Deu a Louca no Mundo (Dublado) - 1963[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5207,7 +5333,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 10
 <item>
 <title>[COLOR white]Cavalo de Guerra (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5221,7 +5347,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 9
 <item>
 <title>[COLOR white]Cyborg: O Dragão do Futuro (Dublado) - 1989[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5235,7 +5361,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 8
 <item>
 <title>[COLOR white]Cantando de Galo (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CATNDGL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CATNDGL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5249,7 +5375,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 7
 <item>
 <title>[COLOR white]Batalha de Honra (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5263,7 +5389,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 6
 <item>
 <title>[COLOR white]Anthropoid (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATHRPDLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ATHRPDLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5276,7 +5402,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 5
 <item>
 <title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5290,7 +5416,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 4
 <item>
 <title>[COLOR white]Quando as Luzes se Apagam (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QNDASLZSAPGM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]QNDASLZSAPGM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5304,7 +5430,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 3
 <item>
 <title>[COLOR white]As Torres Gêmeas (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASTRSGMS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASTRSGMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5318,7 +5444,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 2
 <item>
 <title>[COLOR white]Amor e Revolução (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRERVLC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMRERVLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -5332,7 +5458,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 1
 <item>
 <title>[COLOR white]American Poltergeist (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>

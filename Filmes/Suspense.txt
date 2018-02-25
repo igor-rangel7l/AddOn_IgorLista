@@ -9,8 +9,18 @@
 
 
 <item>
+<title>[COLOR white]Vende-se Esta Casa (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/vende-se-esta-casa/</page></regex>
+<genre>Suspense e Terror</genre>
+<info>Um adolescente (Dylan Minnette) e sua mãe (Piercey Dalton) se mudam para uma nova casa e se veem na presença de forças ameaçadoras.</info>
+<fanart>https://occ-0-2433-444.1.nflxso.net/art/ff26e/452ec91e0bbe5eabe828efb5a5912e9ce58ff26e.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/ope.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VNGA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]VNGA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -24,7 +34,7 @@
 
 <item>
 <title>[COLOR white]Demônio de Neon (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -38,7 +48,7 @@
 
 <item>
 <title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -52,7 +62,7 @@
 
 <item>
 <title>[COLOR white][COLOR white]Olhos Famintos 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/olhos-famintos-3-2017-legendado/</page></regex>
 <genre>Suspense e Terror</genre>
 <info>No último dia de alimentação de vinte e três dias do Creeper, as equipes policiais do Sargento Tubbs reúnem uma força-tarefa, na missão de destruir o Creeper para sempre. O Creeper trava uma batalha sangrenta enquanto seus inimigos se aproximam de descobrir o segredo de suas origens sombrias.</info>
@@ -112,7 +122,7 @@
 
 <item>
 <title>[COLOR white]O Exorcismo de Anna Ecklund (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -126,7 +136,7 @@
 
 <item>
 <title>[COLOR white]Jogo da Morte (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -140,7 +150,7 @@
 
 <item>
 <title>[COLOR white]American Poltergeist (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>

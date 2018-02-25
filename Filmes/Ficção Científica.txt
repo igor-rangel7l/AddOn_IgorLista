@@ -4,6 +4,26 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Mudo (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/mudo/</page></regex>
+<genre>Ficção Cientifica</genre>
+<info>Berlim. 40 anos no futuro. Leo Beiler (Alexander Skarsgard), um barman mudo, tem apenas um motivo para viver aqui, e ela desapareceu. Mas quando a busca de Leo o leva para o submundo da cidade, um curioso par de cirurgiões americanos parece ter as respostas que ele precisa, mas Leo não sabe se deve confiar neles ou temê-los.</info>
+<fanart>https://cdn.movieweb.com/img.news.tops/NE2QGiZ969WJ5b_2_b/Mute-Movie-Teaser-Video-2018-Netflix-Original.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MUTE_Vertical-MAIN_PRE_BPO.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Paradoxo Cloverfield (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-paradoxo-cloverfield/</page></regex>
+<genre>Ficção Cientifica e Terror</genre>
+<info>Em órbita sobre um planeta prestes a entrar em guerra, cientistas testam uma possível solução para a crise de energia, mas acabam em uma realidade alternativa.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWUzZjBmNWQtNDZmOS00ZmUwLTlkMGMtMzNhYjcyMDc1ZmJhXkEyXkFqcGdeQXVyNjAxMTUzMDQ@._V1_SY1000_CR0,0,1335,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/paradox.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Thor: Ragnarok (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/thor-ragnarok/</page></regex>
@@ -15,7 +35,7 @@
 
 <item>
 <title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4</link>
+<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -29,7 +49,7 @@
 
 <item>
 <title>[COLOR white][COLOR white]Valerian e a Cidade dos Mil Planetas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -43,7 +63,7 @@
 
 <item>
 <title>[COLOR white]Blade Runner 2049 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -57,7 +77,7 @@
 
 <item>
 <title>[COLOR white][COLOR white]Invasão Alienígena (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INVSALIEN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]INVSALIEN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -71,7 +91,7 @@
 
 <item>
 <title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOGN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -85,7 +105,7 @@
 
 <item>
 <title>[COLOR white]O Fim do Dia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -99,7 +119,7 @@
 
 <item>
 <title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -113,7 +133,7 @@
 
 <item>
 <title>[COLOR white][COLOR white]Conexão Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -127,7 +147,7 @@
 
 <item>
 <title>[COLOR white][COLOR white]Blame! (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BLME.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BLME.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -173,7 +193,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white][COLOR white]Atomica: Ameaça Oculta (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/operacao-avalanche-dublado/</page></regex>
 <genre>Ficção Cientifica</genre>
 <info>Em um futuro próximo, quando as comunicações caem em uma usina nuclear no deserto, uma jovem inspetora de segurança, Abby Dixon, é forçada a ir até o loca para para restabelecer a conexão. Uma vez dentro da instalação, pistas misteriosas e comportamentos estranhos fazem com que Abby tenha dúvidas sobre a sanidade, e talvez identidades, dos dois funcionários no local.</info>
@@ -283,7 +303,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -297,7 +317,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -311,7 +331,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Maze Runner: Prova de Fogo (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -325,7 +345,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Não Me Abandone Jamais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -339,7 +359,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -353,7 +373,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -367,7 +387,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Passageiros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -381,7 +401,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]A Chegada (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -395,7 +415,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Spectral (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SPCTRL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SPCTRL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -409,7 +429,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Planeta dos Tubarões (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -423,7 +443,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Os Caçadores de Atlântida (Dublado) - 1983[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -437,7 +457,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Cyborg: O Dragão do Futuro (Dublado) - 1989[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -451,7 +471,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Stereo (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STRO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]STRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -465,7 +485,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]iBoy (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]IBOY.mp4</link>
+<link>$doregex[Igor_Rangel_Link]IBOY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -479,7 +499,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 
 <item>
 <title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>

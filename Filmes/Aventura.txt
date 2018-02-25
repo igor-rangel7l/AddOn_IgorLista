@@ -4,6 +4,38 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Viva: A Vida é uma Festa (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/viva-a-vida-e-uma-festa/</page></regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>A nova animação da Disney Pixar será dirigido por Lee Unkrich e contará com a produção de Darla Anderson. A trama será ambientada em uma das datas mais importantes e comemorada no México, o Dia dos Mortos, onde todos os moradores comemoram os parentes e amigos que faleceram.</info>
+<fanart>http://www.popzara.com/wp-content/uploads/2017/12/coco2017_feature.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/Viva_-_A_Vida_é_uma_Festa_-_Pôster_Nacional_-_03.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Espião Por Acaso (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/espiao-por-acaso/</page></regex>
+<genre>Aventura e Comédia</genre>
+<info>Uma aventura incrível e uma amizade verdadeira.
+Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, quando ele e sua família se mudam para um velho hotel situado na região costeira do país. Tim está sofrendo para se adaptar ao novo lar até que ele conhece Simon, um rapaz peculiar que acabou de despertar de um sono que o manteve sem contato algum com a sociedade desde 1974. Com Simon se ajustando ao mundo de hoje e Tim aprendendo a gostar de sua nova casa, a dupla forma uma bela amizade. Quando Tim decide ajudar Simon a encarar o mundo, o menino descobre que seu novo amigo é um antigo espião e eles estão para embarcar em uma incrível aventura!</info>
+<fanart>https://image.tmdb.org/t/p/original/4hgQuIVFehFTA73ROmSJbkWRYAc.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MV5BOTlkN2Y4ODMtZTc0MS00ZmY3LWJjYTUtOGQ1OWZiZDI3Yzk3XkEyXkFqcGdeQX_pr6bnl1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Voldemort: A Origem do Herdeiro (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/voldemort-origins-of-the-heir/</page></regex>
+<genre>Aventura</genre>
+<info>Um filme independente criada por fãs da saga Harry Potter. 
+Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle desaparece. Ele volta dez anos depois, com novos poderes e um novo nome. Sua jornada em busca dos segredos da magia negra mudou profundamente ele, e dois velhos conhecidos vão atrás para detê-lo antes que ele atinja seu objetivo: a imortalidade.</info>
+<fanart>https://i.pinimg.com/originals/b1/95/03/b195032a4733d1d17c35ae3100735679.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/17309628_1308393695922292_8872296210723889150_n.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Thor: Ragnarok (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/thor-ragnarok/</page></regex>
@@ -15,7 +47,7 @@
 
 <item>
 <title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4</link>
+<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -29,7 +61,7 @@
 
 <item>
 <title>[COLOR white]Andorinhas e Amazonas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANDRNHSEAMZNS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ANDRNHSEAMZNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -44,7 +76,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -58,7 +90,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -72,7 +104,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Lendas do Templo Perdido: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -86,7 +118,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Lendas do Templo Perdido: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -100,7 +132,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Coração de Dragão (Dublado) - 1997[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -114,7 +146,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Coração de Dragão 2: Um Novo Começo (Dublado) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -128,7 +160,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Coração de Dragão 3: A Maldição do Feiticeiro (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -142,7 +174,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Coração de Dragão 4: A Batalha Pelo Coração de Fogo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -156,7 +188,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]O Reino Gelado: Fogo e Gelo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -170,7 +202,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Operação Mekong (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -184,7 +216,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -198,7 +230,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Os Smurfs e a Vila Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -222,7 +254,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white][COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -256,7 +288,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/paw-patrol-os-filhotes-salvam-o-natal-2017-dublado/</page></regex>
 <genre>Aventura e Animação</genre>
 <info>Os filhotes se equipam para consertar o trenó do Papai Noel e salvar o Natal, levar os pinguins de volta para sua casa congelada, ajudar Everest em alguns resgates na neve e muito mais!</info>
@@ -318,7 +350,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]A Múmia (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -332,7 +364,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -436,7 +468,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -450,7 +482,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -464,7 +496,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MXSTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -478,7 +510,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]The Warrior's Gate (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]WRISGT.mp4</link>
+<link>$doregex[Igor_Rangel_Link]WRISGT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -492,7 +524,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -506,7 +538,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -520,7 +552,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABLRN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -534,7 +566,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Best Player: Guerreiros Virtuais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4</link>
+<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -550,7 +582,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Halloweentown: A Cidade do Halloween (Dublado) - 1998[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -564,7 +596,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]A Lenda do Rei Macaco (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -578,7 +610,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -592,7 +624,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -606,7 +638,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -620,7 +652,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -634,7 +666,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -648,7 +680,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Assassin's Creed (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -662,7 +694,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]As Aventuras de Pi (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -676,7 +708,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Animais Fantásticos e Onde Habitam (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -690,7 +722,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Malévola (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MLVLA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]MLVLA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -704,7 +736,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Doutor Estranho (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -718,7 +750,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -732,7 +764,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -746,7 +778,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Desventuras em Série (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4</link>
+<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -760,7 +792,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -774,7 +806,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -788,7 +820,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -802,7 +834,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -816,7 +848,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -830,7 +862,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -844,7 +876,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -858,7 +890,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]O Bom Gigante Amigo (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -872,7 +904,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Agente Mirim (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4</link>
+<link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -886,7 +918,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Sansão e Dalila (Dublado) - 1951[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4</link>
+<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -900,7 +932,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]O Dragão do Natal (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -914,7 +946,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4</link>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -928,7 +960,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Perdidos no Pacifico (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4</link>
+<link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -942,7 +974,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]O Lar das Crianças Peculiares (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4</link>
+<link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
@@ -956,7 +988,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4</link>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>(.*)</expres>
