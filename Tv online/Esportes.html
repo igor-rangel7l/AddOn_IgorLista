@@ -161,6 +161,24 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*playlist.*?)"</expres>
+<page>http://abcast.net/embed4.php?file=$doregex[Igor_Rangel_ID]</page>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file=(.*?)"</expres>
+<page>http://www.futebolaovivo.in/sportv.php?IGOR_RANGEL</page>
+<regex>
+<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
@@ -306,6 +324,24 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*playlist.*?)"</expres>
+<page>http://abcast.net/embed4.php?file=$doregex[Igor_Rangel_ID]</page>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file=(.*?)"</expres>
+<page>http://www.futebolaovivo.in/espnbrasil.php?IGOR_RANGEL</page>
+<regex>
+<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/GwBMAl</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
 <link>http://cdn.widestream.io:8081/wideedge1/ch05-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
@@ -363,7 +399,7 @@ z
 
 <item>
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (PxStream 2)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/abrhd/foxsportshd/tracks-v2a1/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<link>http://$doregex[Igor_Rangel_IP]/abrhd/foxsportshd/tracks-v1a1/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>location:http://(.*)/abrhd</expres>
@@ -404,6 +440,24 @@ z
 <expres>live=(.*)m3u8</expres>
 <page>https://www.futeboltv.com/canais-esportivos/assistir-fox-sports-ao-vivo-em-hd-gratis-2</page><referer>http://www.futeboltv.com/</referer>
 </regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
+<thumbnail>http://goo.gl/2GxOT7</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*playlist.*?)"</expres>
+<page>http://abcast.net/embed4.php?file=$doregex[Igor_Rangel_ID]</page>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_ID</name>
+<expres>file=(.*?)"</expres>
+<page>http://www.futebolaovivo.in/foxsports.php?IGOR_RANGEL</page>
+<regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
 </item>
