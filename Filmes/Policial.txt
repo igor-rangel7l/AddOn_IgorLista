@@ -5,6 +5,15 @@
 
 
 
+<item>
+<title>[COLOR white]Hangman (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/hangman/</page></regex>
+<genre>Policial</genre>
+<info>Dois detetives (Pacino e Urban) se unem para encontrar um serial killer, que faz suas vítimas com base no jogo infantil da forca.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxZDc5MjUtZWIxOC00ZjcwLTk0OGItODU2MTYzOGY4ZjliXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/p14637688_p_v8_aa.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Bright (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>

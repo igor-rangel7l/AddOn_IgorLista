@@ -3,6 +3,18 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+
+<item>
+<title>[COLOR white]Thor: Ragnarok (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BUB.*?)" fra</expres>
+<page>http://netcine.us/thor-ragnarok/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
+<fanart>https://www.comunidadeculturaearte.com/wp-content/uploads/2017/11/thor-ragnarok-marvel.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_título_V7HvcGS.png</thumbnail>
+</item>
+
+
 <item>
 <title>[COLOR white]Viva: A Vida é uma Festa (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
@@ -33,16 +45,6 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle desaparece. Ele volta dez anos depois, com novos poderes e um novo nome. Sua jornada em busca dos segredos da magia negra mudou profundamente ele, e dois velhos conhecidos vão atrás para detê-lo antes que ele atinja seu objetivo: a imortalidade.</info>
 <fanart>https://i.pinimg.com/originals/b1/95/03/b195032a4733d1d17c35ae3100735679.jpg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/17309628_1308393695922292_8872296210723889150_n.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Thor: Ragnarok (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/thor-ragnarok/</page></regex>
-<genre>Ação,Aventura e Ficção Cientifica</genre>
-<info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
-<fanart>https://www.comunidadeculturaearte.com/wp-content/uploads/2017/11/thor-ragnarok-marvel.png</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_título_V7HvcGS.png</thumbnail>
 </item>
 
 <item>

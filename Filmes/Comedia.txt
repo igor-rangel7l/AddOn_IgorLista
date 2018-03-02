@@ -3,6 +3,25 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+<item>
+<title>[COLOR white]Os Parças (Nacional) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*OSPARCAS2018.*?)" fra</expres>
+<page>http://netcine.us/os-parcas/</page></regex>
+<genre>Comédia e Nacional</genre>
+<info>A história segue quatro amigos que resolvem abrir uma agência de casamentos.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjJiNTU3ZWQtNTdiNC00MGY1LTg5MmItYTY3MmIwNmNhZGI0XkEyXkFqcGdeQXVyMTA3MDI4MDY@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/os-parcas-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Doentes de Amor (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/doentes-de-amor/</page></regex>
+<genre>Romance e Comédia</genre>
+<info>O paquistanês Kumail e sua namorada americana Emily têm que superar as expectativas sufocantes de sua família e das tradições de 1.400 anos de idade. Contra esses obstáculos, o amor parece impossível, e sua separação parece permanente. Em seguida, vem a tragédia e Emily entra em um misterioso coma.</info>
+<fanart>https://static01.nyt.com/images/2017/06/23/arts/23BIGSICK1/23BIGSICK1-master768.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/fin01_bigsick_1sht_group_trim.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Três Anúncios Para um Crime (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>

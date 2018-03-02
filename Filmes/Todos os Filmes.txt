@@ -18,6 +18,68 @@ Corra!
 
 
 
+
+<item>
+<title>[COLOR white]Os Parças (Nacional) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*OSPARCAS2018.*?)" fra</expres>
+<page>http://netcine.us/os-parcas/</page></regex>
+<genre>Comédia e Nacional</genre>
+<info>A história segue quatro amigos que resolvem abrir uma agência de casamentos.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjJiNTU3ZWQtNTdiNC00MGY1LTg5MmItYTY3MmIwNmNhZGI0XkEyXkFqcGdeQXVyMTA3MDI4MDY@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/os-parcas-2017.jpg</thumbnail>
+</item>
+424
+<item>
+<title>[COLOR white]A Forma da Água (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/a-forma-da-agua/</page></regex>
+<genre>Drama e Romance</genre>
+<info>Uma história de amor num mundo mágico e misterioso na América em 1963. Elisa (Sally Hawkins) é uma zeladora muda que trabalha em um laboratório onde um homem anfíbio está sendo mantido em cativeiro. Quando Elisa se apaixona com a criatura, ela elabora um plano para ajudá-lo a escapar com a ajuda de seu vizinho. O mundo exterior do laboratório, no entanto, pode revelar-se mais perigoso para o homem anfíbio do que Elisa poderia ter previsto.</info>
+<fanart>http://razaodeaspecto.com/wp-content/uploads/2018/01/the_shape_of_water_sally_hawkins_courtesy_fox_searchlight.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/THE-SHAPE-OF-WATER.jpg</thumbnail>
+</item>
+423
+
+<item>
+<title>[COLOR white]Jogos Mortais: Jigsaw (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/jigsaw/</page></regex>
+<genre>Terror</genre>
+<info>Corpos estão aparecendo pela cidade, cada um tendo encontrado uma morte terrível. Conforme a investigação segue, as evidências apontam para um homem: John Kramer. Mas como pode ser? O homem conhecido como Jigsaw está morto há mais de dez anos. Ou um aprendiz está seguindo os passos de Jigsaw, talvez até alguém de dentro da própria investigação?</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjBmZmE1ODAtMzE4Ny00MTI2LWEwNjQtNDhiYjhlNDk2Y2Y3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1500,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/8DB9F16F-2235-44C0-9234-47F29045CA26.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Hangman (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/hangman/</page></regex>
+<genre>Policial</genre>
+<info>Dois detetives (Pacino e Urban) se unem para encontrar um serial killer, que faz suas vítimas com base no jogo infantil da forca.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxZDc5MjUtZWIxOC00ZjcwLTk0OGItODU2MTYzOGY4ZjliXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/p14637688_p_v8_aa.jpg</thumbnail>
+</item>
+422
+<item>
+<title>[COLOR white]Doentes de Amor (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/doentes-de-amor/</page></regex>
+<genre>Romance e Comédia</genre>
+<info>O paquistanês Kumail e sua namorada americana Emily têm que superar as expectativas sufocantes de sua família e das tradições de 1.400 anos de idade. Contra esses obstáculos, o amor parece impossível, e sua separação parece permanente. Em seguida, vem a tragédia e Emily entra em um misterioso coma.</info>
+<fanart>https://static01.nyt.com/images/2017/06/23/arts/23BIGSICK1/23BIGSICK1-master768.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/fin01_bigsick_1sht_group_trim.jpg</thumbnail>
+</item>
+421
+<item>
+<title>[COLOR white]Thor: Ragnarok (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BUB.*?)" fra</expres>
+<page>http://netcine.us/thor-ragnarok/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
+<fanart>https://www.comunidadeculturaearte.com/wp-content/uploads/2017/11/thor-ragnarok-marvel.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_título_V7HvcGS.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR white]Espelho (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
@@ -142,15 +204,6 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 410
 
 
-<item>
-<title>[COLOR white]Thor: Ragnarok (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/thor-ragnarok/</page></regex>
-<genre>Ação,Aventura e Ficção Cientifica</genre>
-<info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
-<fanart>https://www.comunidadeculturaearte.com/wp-content/uploads/2017/11/thor-ragnarok-marvel.png</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_título_V7HvcGS.png</thumbnail>
-</item>
 409
 <item>
 <title>[COLOR white]A Morte Te Dá Parabéns (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
@@ -163,14 +216,6 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 </item>
 408
 <item>
-<title>[COLOR white]Jogos Mortais: Jigsaw (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/jigsaw/</page></regex>
-<genre>Terror</genre>
-<info>Corpos estão aparecendo pela cidade, cada um tendo encontrado uma morte terrível. Conforme a investigação segue, as evidências apontam para um homem: John Kramer. Mas como pode ser? O homem conhecido como Jigsaw está morto há mais de dez anos. Ou um aprendiz está seguindo os passos de Jigsaw, talvez até alguém de dentro da própria investigação?</info>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjBmZmE1ODAtMzE4Ny00MTI2LWEwNjQtNDhiYjhlNDk2Y2Y3XkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_CR0,0,1500,1000_AL_.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/8DB9F16F-2235-44C0-9234-47F29045CA26.jpeg</thumbnail>
-</item>
 407
 <item>
 <title>[COLOR white]De Canção em Canção (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>

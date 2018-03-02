@@ -5,6 +5,16 @@
 
 
 <item>
+<title>[COLOR white]Os Parças (Nacional) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*OSPARCAS2018.*?)" fra</expres>
+<page>http://netcine.us/os-parcas/</page></regex>
+<genre>Comédia e Nacional</genre>
+<info>A história segue quatro amigos que resolvem abrir uma agência de casamentos.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjJiNTU3ZWQtNTdiNC00MGY1LTg5MmItYTY3MmIwNmNhZGI0XkEyXkFqcGdeQXVyMTA3MDI4MDY@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/os-parcas-2017.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Como Nossos Pais (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
