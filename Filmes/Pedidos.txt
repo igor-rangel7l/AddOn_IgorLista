@@ -2,6 +2,15 @@
 
 
 
+<item>
+<title>[COLOR white][COLOR white]Extraordinário (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
+<page>http://filmeseseriesonline.net/extraordinario-2017-dublado/</page></regex>
+<genre>Drama</genre>
+<info>August Pullman é um garotinho que nasceu com uma desordem craniofacial congênita. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4R25s_AXPCdf3dTMT_5C6629C2xeKtwxMcvAGwh6VSJa0VQZ16bLsOjD-PA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/wonder_ver11.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Titanic (Dublado) - 1997[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
