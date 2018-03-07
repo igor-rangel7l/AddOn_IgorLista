@@ -18,11 +18,20 @@ Corra!
 
 
 
+<item>
+<title>[COLOR white]Thor: Ragnarok (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/thor-ragnarok/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
+<fanart>https://www.comunidadeculturaearte.com/wp-content/uploads/2017/11/thor-ragnarok-marvel.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_título_V7HvcGS.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white][COLOR white]Extraordinário (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
 <link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/extraordinario-2017-dublado/</page></regex>
+<page>http://filmeseseriesonline.net/extraordinario-2017-dublado/</page><referer>http://filmeseseriesonline.net/</referer></regex>
 <genre>Drama</genre>
 <info>August Pullman é um garotinho que nasceu com uma desordem craniofacial congênita. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4R25s_AXPCdf3dTMT_5C6629C2xeKtwxMcvAGwh6VSJa0VQZ16bLsOjD-PA</fanart>
@@ -80,15 +89,6 @@ Corra!
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/fin01_bigsick_1sht_group_trim.jpg</thumbnail>
 </item>
 421
-<item>
-<title>[COLOR white]Thor: Ragnarok (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BUB.*?)" fra</expres>
-<page>http://netcine.us/thor-ragnarok/</page></regex>
-<genre>Ação,Aventura e Ficção Cientifica</genre>
-<info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
-<fanart>https://www.comunidadeculturaearte.com/wp-content/uploads/2017/11/thor-ragnarok-marvel.png</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_título_V7HvcGS.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR white]Espelho (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
