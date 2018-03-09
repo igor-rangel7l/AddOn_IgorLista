@@ -3,6 +3,26 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+
+<item>
+<title>[COLOR white]Jumanji: Bem-Vindo à Selva (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/jumanji-bem-vindo-a-selva/</page></regex>
+<genre>Aventura</genre>
+<info>Vinte anos após os eventos do primeiro filme, o infame jogo de tabuleiro evoluiu para um vídeo-game e enquanto limpam o porão da escola por detenção, quatro adolescentes descobrem e são transportados para a mesma selva onde Alan Parrish foi levado, anos atrás. Eles se tornam seus próprios personagens no jogo e descobrem que a única forma de saírem de lá é finalizando o jogo.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODU1MTMzMF5BMl5BanBnXkFtZTgwODY5MDkzNDM@._V1_SY1000_CR0,0,1367,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/DDfmUAFW0AAyT9c.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR white]Batman Vs. Duas-Caras (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BATMANDUASCARAS.*?)" fra</expres>
+<page>http://netcine.us/batman-vs-two-face/</page></regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Marcado como último trabalho de Adam West, ”Batman vs. Duas-Caras”, sequência de ”Batman & Robin: O Retorno da Dupla Dinâmica”, teve sua capa e data de lançamento revelados há pouco pelo Best Buy, a animação será disponibilizada em 17 de outubro.
+No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Ward como Robin, além da chegada de William Shatner como o vilão Duas-Caras.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhmYjVkN2UtMDRiZi00YTAzLTg5MGQtZGQyMGRiODY1MGUxXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/Batman.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR white]Thor: Ragnarok (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>

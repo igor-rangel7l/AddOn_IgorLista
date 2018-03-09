@@ -7,6 +7,15 @@
 
 
 <item>
+<title>[COLOR white]A Silent Voice (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/a-silent-voice/</page></regex>
+<genre>Drama e Romance</genre>
+<info>Shouko Nishimiya é uma estudante com deficiência auditiva. Durante o ensino fundamental, após se transferir para uma nova escola, Shouko passa a ser alvo de bullying e em pouco tempo precisa se transferir. O que ela não esperava é que alguns anos depois, Ishida Shouya, um dos valentões que tanto a fez sofrer no passado, surgisse de novo em sua vida com um novo propósito.</info>
+<fanart>http://miblogotaku.com/wp-content/uploads/2017/05/koe-no-katachi.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/koe_no_katachis_filmow_poster.jpg</thumbnail>
+</item>
+<item>
 <title>[COLOR white]A Forma da Água (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/a-forma-da-agua/</page></regex>

@@ -11,11 +11,80 @@ Todos Os Filmes
 
 
 
-O Círculo
+<item>
+<title>[COLOR white]Batman Vs. Duas-Caras (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BATMANDUASCARAS.*?)" fra</expres>
+<page>http://netcine.us/batman-vs-two-face/</page></regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Marcado como último trabalho de Adam West, ”Batman vs. Duas-Caras”, sequência de ”Batman & Robin: O Retorno da Dupla Dinâmica”, teve sua capa e data de lançamento revelados há pouco pelo Best Buy, a animação será disponibilizada em 17 de outubro.
+No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Ward como Robin, além da chegada de William Shatner como o vilão Duas-Caras.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhmYjVkN2UtMDRiZi00YTAzLTg5MGQtZGQyMGRiODY1MGUxXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/Batman.jpg</thumbnail>
+</item>
+431
 
-Corra!
+
+<item>
+<title>[COLOR white]Annabelle 2: A Criação do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/annabelle-2-a-criacao-do-mal/</page></regex>
+<genre>Terror</genre>
+<info>nos após a trágica morte de sua filha, um habilidoso artesão de bonecas e sua esposa decidem, por caridade, acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato. Atormentado pelas lembranças traumáticas, o casal ainda precisa lidar com um amendrontador demônio do passado: Annabelle, criação do artesão.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNGe8xoOzCas6JDA5gblNKShBLYRsSdUT0wc7eLFN3gq8lNUyZFVPZ528WhA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/DC3cg6bW0AAgwDr.jpg</thumbnail>
+</item>
 
 
+<item>
+<title>[COLOR white]Jumanji: Bem-Vindo à Selva (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/jumanji-bem-vindo-a-selva/</page></regex>
+<genre>Aventura</genre>
+<info>Vinte anos após os eventos do primeiro filme, o infame jogo de tabuleiro evoluiu para um vídeo-game e enquanto limpam o porão da escola por detenção, quatro adolescentes descobrem e são transportados para a mesma selva onde Alan Parrish foi levado, anos atrás. Eles se tornam seus próprios personagens no jogo e descobrem que a única forma de saírem de lá é finalizando o jogo.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODU1MTMzMF5BMl5BanBnXkFtZTgwODY5MDkzNDM@._V1_SY1000_CR0,0,1367,1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/DDfmUAFW0AAyT9c.jpg</thumbnail>
+</item>
+430
+<item>
+<title>[COLOR white]O Rei do Show (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-rei-do-show/</page></regex>
+<genre>Drama</genre>
+<info>P. T. Barnum, um showman que tem uma tendência natural de enganar seu público, decide montar um circo na esperança de ficar famoso. Durante sua saga há ainda uma importante questão pendente em sua vida, uma paixão cega pela cantora Jenny Lind.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYTE0ZTE1MTAtZWQ3OS00MTc2LTg0OTUtZmIzYzc1NzMzOThmXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/23519217_1402072619923533_4678360081776644191_n.jpg</thumbnail>
+</item>
+429
+<item>
+<title>[COLOR white]Com Amor, Van Gogh (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/com-amor-van-gogh/</page></regex>
+<genre>Animação e Drama<</genre>
+<info>Investigação aprofundada sobre a vida e a misteriosa morte de Vincent Van Gogh através das suas pinturas e dos personagens que habitam suas telas. Animado com a técnica de pintura a óleo do pintor holandês, os personagens mais próximos são entrevistados e há reconstruções dos acontecimentos que precederam sua morte.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ4NDlhODAtM2UxZS00OTNkLWE0ZDUtODVlZTNhMjVhN2U2XkEyXkFqcGdeQXVyNjc5MDQ1NDI@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BNmE2OWVlMjAtYTI2ZC00ZTZlLWJkNTktOWRhMmU1YzE3MTg1XkEyXkFqcGdeQX_4kWgWqe.jpg</thumbnail>
+</item>
+428
+<item>
+<title>[COLOR white]A Estrela de Belém (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BELEM.*?)" fra</expres>
+<page>http://netcine.us/a-estrela-de-belem/</page></regex>
+<genre>Animação</genre>
+<info>Um pequeno, mas valente burro e seus amigos animais tornam-se os heróis desconhecidos da maior história já contada, o primeiro Natal.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGJkMjBmMGUtMzdhOC00Y2E2LWFjMzktNjYxYmM1MjM1YzI5XkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/1219557.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+427
+<item>
+<title>[COLOR white]A Silent Voice (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/a-silent-voice/</page></regex>
+<genre>Drama e Romance</genre>
+<info>Shouko Nishimiya é uma estudante com deficiência auditiva. Durante o ensino fundamental, após se transferir para uma nova escola, Shouko passa a ser alvo de bullying e em pouco tempo precisa se transferir. O que ela não esperava é que alguns anos depois, Ishida Shouya, um dos valentões que tanto a fez sofrer no passado, surgisse de novo em sua vida com um novo propósito.</info>
+<fanart>http://miblogotaku.com/wp-content/uploads/2017/05/koe-no-katachi.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/koe_no_katachis_filmow_poster.jpg</thumbnail>
+</item>
+426
 
 
 <item>
@@ -203,7 +272,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 411
 <item>
 <title>[COLOR white]Voldemort: A Origem do Herdeiro (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*VOLDEMORT2018.*?)" fra</expres>
 <page>http://netcine.us/voldemort-origins-of-the-heir/</page></regex>
 <genre>Aventura</genre>
 <info>Um filme independente criada por fãs da saga Harry Potter. 
@@ -2192,15 +2261,6 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/MV5BMTc0NDYwNzU2M15BMl5BanBnXkFtZTgwOTUxNDg0MTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
 </item>
 255
-<item>
-<title>[COLOR white]Annabelle 2: A Criação do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (Vidoza)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*)"</expres><page>https://vidoza.net/embed-$doregex[ID_Igor_rangel].html</page><referer>https://vidoza.net/</referer></regex><regex><name>ID_Igor_rangel</name><expres>doza=(.*?)&</expres>
-<page>http://filmeseseriesonline.net/annabelle-2-a-criacao-do-mal-2017-dublado-hd-4/</page></regex>
-<genre>Terror</genre>
-<info>nos após a trágica morte de sua filha, um habilidoso artesão de bonecas e sua esposa decidem, por caridade, acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato. Atormentado pelas lembranças traumáticas, o casal ainda precisa lidar com um amendrontador demônio do passado: Annabelle, criação do artesão.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNGe8xoOzCas6JDA5gblNKShBLYRsSdUT0wc7eLFN3gq8lNUyZFVPZ528WhA</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/DC3cg6bW0AAgwDr.jpg</thumbnail>
-</item>
 254
 -----------------------
 <item>

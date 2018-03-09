@@ -3,6 +3,34 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+<item>
+<title>[COLOR white]A Estrela de Belém (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BELEM.*?)" fra</expres>
+<page>http://netcine.us/a-estrela-de-belem/</page></regex>
+<genre>Animação</genre>
+<info>Um pequeno, mas valente burro e seus amigos animais tornam-se os heróis desconhecidos da maior história já contada, o primeiro Natal.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGJkMjBmMGUtMzdhOC00Y2E2LWFjMzktNjYxYmM1MjM1YzI5XkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/1219557.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR white]Com Amor, Van Gogh (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/com-amor-van-gogh/</page></regex>
+<genre>Animação e Drama<</genre>
+<info>Investigação aprofundada sobre a vida e a misteriosa morte de Vincent Van Gogh através das suas pinturas e dos personagens que habitam suas telas. Animado com a técnica de pintura a óleo do pintor holandês, os personagens mais próximos são entrevistados e há reconstruções dos acontecimentos que precederam sua morte.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ4NDlhODAtM2UxZS00OTNkLWE0ZDUtODVlZTNhMjVhN2U2XkEyXkFqcGdeQXVyNjc5MDQ1NDI@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/MV5BNmE2OWVlMjAtYTI2ZC00ZTZlLWJkNTktOWRhMmU1YzE3MTg1XkEyXkFqcGdeQX_4kWgWqe.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR white]Batman Vs. Duas-Caras (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BATMANDUASCARAS.*?)" fra</expres>
+<page>http://netcine.us/batman-vs-two-face/</page></regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Marcado como último trabalho de Adam West, ”Batman vs. Duas-Caras”, sequência de ”Batman & Robin: O Retorno da Dupla Dinâmica”, teve sua capa e data de lançamento revelados há pouco pelo Best Buy, a animação será disponibilizada em 17 de outubro.
+No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Ward como Robin, além da chegada de William Shatner como o vilão Duas-Caras.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BNjhmYjVkN2UtMDRiZi00YTAzLTg5MGQtZGQyMGRiODY1MGUxXkEyXkFqcGdeQXVyNDU4MDA0NTM@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/Batman.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Viva: A Vida é uma Festa (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
