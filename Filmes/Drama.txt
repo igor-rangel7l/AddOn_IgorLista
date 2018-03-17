@@ -6,6 +6,15 @@
 
 
 <item>
+<title>[COLOR white]Dívida Perigosa (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/divida-perigosa/</page></regex>
+<genre>Drama e Policial</genre>
+<info>Com direção de Martin Zandvliet, longa é ambientado após a Segunda Guerra Mundial, no Japão. The Outsider mostra um soldado americano que é libertado com a ajuda de seu colega de cela, membro da Yakuza, e se vê obrigado a se juntar à organização criminal para pagar sua dívida.</info>
+<fanart>https://movies.gamesource.it/wp-content/uploads/sites/2/2018/02/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/MV5BMjAxMjUxMjAzOF5BMl5BanBnXkFtZTgwNjQzOTc4NDM._V1_SY1000_SX675_AL_.jpg</thumbnail>
+</item>
+<item>
 <title>[COLOR white]A Silent Voice (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/a-silent-voice/</page></regex>

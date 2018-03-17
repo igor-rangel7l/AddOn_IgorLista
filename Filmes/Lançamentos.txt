@@ -7,6 +7,55 @@
 
 
 
+<item>
+<title>[COLOR white]Lego DC Comics Super Heroes: The Flash (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/lego-dc-comics-super-heroes-the-flash/</page></regex>
+<genre>Animação</genre>
+<info>Na trama, o Flash Reverso usa a força de aceleração para voltar no tempo e afetar a vida do Flash. Batman, Superman, Mulher-Maravilha, Ciborgue, Zatanna e Senhor Destino são alguns dos personagens do filme.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZTNkZjk5Y2YtZWI1YS00MTFjLTlhMGMtYjFmY2FlNzEyN2QyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/lego_dc_superheroes_flash_keyart.jpg</thumbnail>
+</item>
+436
+<item>
+<title>[COLOR white]Braven (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/braven/</page></regex>
+<genre>Ação</genre>
+<info>Na trama, Jason Momoa viverá um humilde madereiro que reside na fronteira dos EUA e Canadá e é confrontado com um grupo de traficantes de drogas. Ele então é forçado a fazer tudo que for possível para proteger sua família.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4NTE3MjYwMl5BMl5BanBnXkFtZTgwOTIxMzY1NDM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MV5BMjM1ODUzMTU1NV5BMl5BanBnXkFtZTgwMzcwMzY1NDM._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+435
+<item>
+<title>[COLOR white]O Estrangeiro (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-estrangeiro/</page></regex>
+<genre>Aventura</genre>
+<info>Quan (Jackie Chan) é dono de um típico restaurantes chinês em Londres, capital da Inglaterra. Após um misterioso ataque de um grupo de terroristas irlandeses ao seu estabelecimento, ele tem sua vida e família devastadas. Sem muito apoio da polícia local, ele terá que ultrapassar seus limites físicos e morais, buscando vingança com suas próprias mãos.</info>
+<fanart>https://images.alphacoders.com/849/849393.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/59baeba8afae327ec6942ad06.jpg</thumbnail>
+</item>
+434
+<item>
+<title>[COLOR white]Dívida Perigosa (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/divida-perigosa/</page></regex>
+<genre>Drama e Policial</genre>
+<info>Com direção de Martin Zandvliet, longa é ambientado após a Segunda Guerra Mundial, no Japão. The Outsider mostra um soldado americano que é libertado com a ajuda de seu colega de cela, membro da Yakuza, e se vê obrigado a se juntar à organização criminal para pagar sua dívida.</info>
+<fanart>https://movies.gamesource.it/wp-content/uploads/sites/2/2018/02/maxresdefault.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/MV5BMjAxMjUxMjAzOF5BMl5BanBnXkFtZTgwNjQzOTc4NDM._V1_SY1000_SX675_AL_.jpg</thumbnail>
+</item>
+433
+<item>
+<title>[COLOR white]Star Wars: Os Últimos Jedi (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/star-wars-os-ultimos-jedi/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Tendo dado seus primeiros passos no universo Jedi, Rey se junta à Luke Skywalker numa aventura com Leia, Finn e Poe que revela os mistérios da Força e os segredos do passado.</info>
+<fanart>https://static.rogerebert.com/uploads/review/primary_image/reviews/star-wars-the-last-jedi-2017/hero_Last_Jedi.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/thelastjedi.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]A Silent Voice (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
@@ -54,8 +103,8 @@
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/23519217_1402072619923533_4678360081776644191_n.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR white]Jumanji: Bem-Vindo à Selva (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<title>[COLOR white]Jumanji: Bem-Vindo à Selva (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/jumanji-bem-vindo-a-selva/</page></regex>
 <genre>Aventura</genre>
 <info>Vinte anos após os eventos do primeiro filme, o infame jogo de tabuleiro evoluiu para um vídeo-game e enquanto limpam o porão da escola por detenção, quatro adolescentes descobrem e são transportados para a mesma selva onde Alan Parrish foi levado, anos atrás. Eles se tornam seus próprios personagens no jogo e descobrem que a única forma de saírem de lá é finalizando o jogo.</info>

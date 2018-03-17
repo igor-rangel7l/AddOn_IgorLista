@@ -4,6 +4,15 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Lego DC Comics Super Heroes: The Flash (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/lego-dc-comics-super-heroes-the-flash/</page></regex>
+<genre>Animação</genre>
+<info>Na trama, o Flash Reverso usa a força de aceleração para voltar no tempo e afetar a vida do Flash. Batman, Superman, Mulher-Maravilha, Ciborgue, Zatanna e Senhor Destino são alguns dos personagens do filme.</info>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZTNkZjk5Y2YtZWI1YS00MTFjLTlhMGMtYjFmY2FlNzEyN2QyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/lego_dc_superheroes_flash_keyart.jpg</thumbnail>
+</item>
+<item>
 <title>[COLOR white]A Estrela de Belém (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BELEM.*?)" fra</expres>
 <page>http://netcine.us/a-estrela-de-belem/</page></regex>

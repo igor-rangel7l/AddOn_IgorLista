@@ -3,6 +3,15 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <item>
+<title>[COLOR white]Star Wars: Os Últimos Jedi (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/star-wars-os-ultimos-jedi/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Tendo dado seus primeiros passos no universo Jedi, Rey se junta à Luke Skywalker numa aventura com Leia, Finn e Poe que revela os mistérios da Força e os segredos do passado.</info>
+<fanart>https://static.rogerebert.com/uploads/review/primary_image/reviews/star-wars-the-last-jedi-2017/hero_Last_Jedi.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/thelastjedi.png</thumbnail>
+</item>
+<item>
 <title>[COLOR white]Thor: Ragnarok (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/thor-ragnarok/</page></regex>

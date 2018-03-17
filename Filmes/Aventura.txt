@@ -5,8 +5,26 @@
 
 
 <item>
-<title>[COLOR white]Jumanji: Bem-Vindo à Selva (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<title>[COLOR white]O Estrangeiro (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-estrangeiro/</page></regex>
+<genre>Aventura</genre>
+<info>Quan (Jackie Chan) é dono de um típico restaurantes chinês em Londres, capital da Inglaterra. Após um misterioso ataque de um grupo de terroristas irlandeses ao seu estabelecimento, ele tem sua vida e família devastadas. Sem muito apoio da polícia local, ele terá que ultrapassar seus limites físicos e morais, buscando vingança com suas próprias mãos.</info>
+<fanart>https://images.alphacoders.com/849/849393.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/59baeba8afae327ec6942ad06.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR white]Star Wars: Os Últimos Jedi (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/star-wars-os-ultimos-jedi/</page></regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Tendo dado seus primeiros passos no universo Jedi, Rey se junta à Luke Skywalker numa aventura com Leia, Finn e Poe que revela os mistérios da Força e os segredos do passado.</info>
+<fanart>https://static.rogerebert.com/uploads/review/primary_image/reviews/star-wars-the-last-jedi-2017/hero_Last_Jedi.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/thelastjedi.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white]Jumanji: Bem-Vindo à Selva (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/jumanji-bem-vindo-a-selva/</page></regex>
 <genre>Aventura</genre>
 <info>Vinte anos após os eventos do primeiro filme, o infame jogo de tabuleiro evoluiu para um vídeo-game e enquanto limpam o porão da escola por detenção, quatro adolescentes descobrem e são transportados para a mesma selva onde Alan Parrish foi levado, anos atrás. Eles se tornam seus próprios personagens no jogo e descobrem que a única forma de saírem de lá é finalizando o jogo.</info>
