@@ -42,7 +42,7 @@
 <item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
 <thumbnail>http://goo.gl/5IKysn</thumbnail>
 </item>
@@ -62,12 +62,20 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch39-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tcpipocaaovivo/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
 <thumbnail>http://goo.gl/5IKysn</thumbnail>
@@ -103,7 +111,7 @@
 <item>
 <title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
@@ -128,7 +136,7 @@
 <regex>
 <name>Igor_Rangel_ch</name>
 <expres>" \+ ea \+ "(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<page>http://www.p3g.tv/membedplayer/tvtcpremumaovivo/1/1280/669</page>
 <referer>http://m.tudotv.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
 <cookieJar></cookieJar>
@@ -137,23 +145,6 @@
 <name>Igor_Rangel_ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>Igor_Rangel_id</name>
-<expres>channel='(.*)',</expres>
-<page>http://m.tudotv.tv/assistir-telecine-premium-ao-vivo-24-horas/opcao-4933/</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
-<thumbnail>http://goo.gl/XaOWO6</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch38-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
@@ -189,7 +180,7 @@
 <item>
 <title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
 <thumbnail>http://goo.gl/P79aKf</thumbnail>
 </item>
@@ -214,7 +205,7 @@
 <regex>
 <name>Igor_Rangel_ch</name>
 <expres>" \+ ea \+ "(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/$doregex[Igor_Rangel_id]/1/700/500</page>
+<page>http://www.p3g.tv/membedplayer/tcacionaovivo2/1/1280/669</page>
 <referer>http://m.tudotv.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
 <cookieJar></cookieJar>
@@ -223,11 +214,6 @@
 <name>Igor_Rangel_ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>Igor_Rangel_id</name>
-<expres>channel='(.*)',</expres>
-<page>http://m.tudotv.tv/assistir-telecine-action-ao-vivo-24-horas/opcao-4926/</page>
 </regex>
 <fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
 <thumbnail>http://goo.gl/P79aKf</thumbnail>
@@ -263,7 +249,7 @@
 <item>
 <title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinefun/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
 <thumbnail>http://goo.gl/Dk6F7h</thumbnail>
 </item>
@@ -312,7 +298,7 @@
 <item>
 <title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
 <thumbnail>http://goo.gl/AfJkib</thumbnail>
 </item>
@@ -361,7 +347,7 @@
 <item>
 <title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/78821716219658219924/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
 <thumbnail>http://goo.gl/fLmSUL</thumbnail>
 </item>
@@ -410,7 +396,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
 </item>
@@ -430,6 +416,26 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 </item>
 
 <item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvhboaovivo2/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
@@ -442,18 +448,6 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <expres>file=(.*?)" width</expres>
 <page>http://tv-aovivo.nl/hbo.php?IGOR_RANGEL</page>
 <referer>http://tv-aovivo.nl/hbo.html</referer>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
-<thumbnail>http://goo.gl/N9ccs5</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch37-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
@@ -489,7 +483,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo2hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
 <thumbnail>http://goo.gl/yrDz67</thumbnail>
 </item>
@@ -503,6 +497,26 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=hbo2</page>
 <referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvhbo2aovivo/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
 <thumbnail>http://goo.gl/yrDz67</thumbnail>
@@ -538,7 +552,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbofamily/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboFamily.jpg</fanart>
 <thumbnail>http://goo.gl/2BXhGr</thumbnail>
 </item>
@@ -587,7 +601,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
 <thumbnail>http://goo.gl/ISXYSM</thumbnail>
 </item>
@@ -601,6 +615,26 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=hboplus</page>
 <referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvhboplusaovivo/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
 <thumbnail>http://goo.gl/ISXYSM</thumbnail>
@@ -636,7 +670,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/28347661835572978857/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HBOSignature.jpg</fanart>
 <thumbnail>http://goo.gl/pTRcv8</thumbnail>
 </item>
@@ -685,7 +719,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/spacehd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
 <thumbnail>http://goo.gl/wOXdmw</thumbnail>
 </item>
@@ -734,7 +768,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
 <thumbnail>http://goo.gl/qXR9CS</thumbnail>
 </item>
@@ -748,6 +782,26 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=megapix</page>
 <referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvmegapixaovivo/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
 <thumbnail>http://goo.gl/qXR9CS</thumbnail>
@@ -783,7 +837,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/PramountChannel.jpg</fanart>
 <thumbnail>https://goo.gl/iwCiPM</thumbnail>
 </item>
@@ -818,7 +872,27 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
+<thumbnail>http://goo.gl/vUl6oy</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvtntaovivo/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
 <fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
 <thumbnail>http://goo.gl/vUl6oy</thumbnail>
 </item>
@@ -826,7 +900,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]TCM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/tcm/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/tmc.jpg</fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/TCM.png</thumbnail>
 </item>
@@ -861,7 +935,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/cinemax-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
 <thumbnail>https://goo.gl/oDAihL</thumbnail>
 </item>
@@ -896,7 +970,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Max.jpg</fanart>
 <thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
 </item>
@@ -931,7 +1005,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
 <thumbnail>http://goo.gl/Hbr506</thumbnail>
 </item>
@@ -980,7 +1054,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxprime/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/MaxPrime.jpg</fanart>
 <thumbnail>http://goo.gl/JG4dUv</thumbnail>
 </item>
@@ -1030,7 +1104,7 @@ http://159.65.243.195/loadbalance/hbohd/chunks.m3u8
 <item>
 <title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/brasilhd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-canal-fx-ao-vivo-24-horas-online/opmobile/10121/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
 <thumbnail>http://goo.gl/zddqpQ</thumbnail>
 </item>
