@@ -98,7 +98,7 @@
 
 <item>
 <title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR yellow][B] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]:8088/adfree/$doregex[Igor_Rangel_Ch]/playlist.m3u8?id=1086&amp;pk=$doregex[Igor_Rangel_Pk]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_IP]:8088/adfree/tvfoxaovivo1/playlist.m3u8?id=1086&amp;pk=$doregex[Igor_Rangel_Pk]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>redirect=(.*)<expres>
@@ -111,11 +111,6 @@
 <referer>http://www.fstream.me/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>channel='(.*?)',<expres>
-<page>http://m.tudotv.tv/assistir-the-walking-dead-ao-vivo-online-gratis/opcao-8748/</page>
-<referer>http://aovivonatv.com</referer>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
 <thumbnail>http://goo.gl/13gfQq</thumbnail>
 </item>
@@ -224,6 +219,26 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]FOX PREMIUM 1[/B] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvfoxpremium1aovivo/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX%20PREMIUM%201.png</fanart>
+<thumbnail>https://goo.gl/Tjbghz</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]FOX PREMIUM 2[/B] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36&Referer=http://www.aovivohdtv.com/esportes/espn-brasil-hd</link>
 <regex>
@@ -254,6 +269,26 @@
 <title>[COLOR yellow][B]FOX PREMIUM 2[/B][/COLOR] [COLOR blue] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/86286526837465378731/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX%20PREMIUM%202.png</fanart>
+<thumbnail>https://goo.gl/PCAV8s</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]FOX PREMIUM 2[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvfoxpremium2aovivo/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX%20PREMIUM%202.png</fanart>
 <thumbnail>https://goo.gl/PCAV8s</thumbnail>
 </item>
@@ -377,25 +412,20 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]WARNER[/B][/COLOR] [COLOR yellow][B] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR yellow][B]WARNER[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
 <name>Igor_Rangel_ch</name>
-<expres>channel='(.*)',</expres>
-<page>http://aovivonatv.com/assistir-warner-channel-ao-vivo-24-horas-gratis/opmobile/5637/</page>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/warneraovivo2/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
 </regex>
 <regex>
 <name>Igor_Rangel_ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Warner_Bros.png</fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/Warner.png</thumbnail>
@@ -445,24 +475,20 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]INVESTIGAÇÃO DISCOVERY[/B][/COLOR] [COLOR yellow][B] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<title>[COLOR yellow][B]INVESTIGAÇÃO DISCOVERY[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
 <name>Igor_Rangel_ch</name>
-<expres>channel='(.*)',</expres>
-<page>http://m.tudotv.tv/assistir-investigacao-discovery-ao-vivo/opcao-4934/</page>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvdiscoveryidaovivo/1/1280/669</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
 </regex>
 <regex>
 <name>Igor_Rangel_ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
-<referer>http://www.p3g.tv</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/investigacaoDiscovery.jpg</fanart>
 <thumbnail>https://goo.gl/al1XQO</thumbnail>
