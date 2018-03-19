@@ -11,6 +11,15 @@ Todos Os Filmes
 
 
 <item>
+<title>[COLOR white]Paixão Obsessiva (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>file:"(.*mp4.*?)"</expres><page>https://vidoza.net/embed-9w9p4sz0lfb0.html</page><referer>https://vidoza.net/</referer></regex>
+<genre>Drama</genre>
+<info>Quando o casamento entre David (Geoff Stults) e Tessa (Katherine Heigl) termina, ele fica com a casa e com a guarda da filha pequena. Tessa, furiosa com a situação, descobre que ele já está envolvido com uma nova mulher, Julia (Rosario Dawson), uma vítima de abuso por parte do ex-marido. Enquanto Julia se adapta à vida de madrasta, Tessa bola um plano para sabotar a nova namorada de David e retomar o relacionamento.</info>
+<fanart>https://str18.vidoza.net/i/06/00133/9w9p4sz0lfb0.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/unforgettable.jpg</thumbnail>
+</item>
+437
+<item>
 <title>[COLOR white]Lego DC Comics Super Heroes: The Flash (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/lego-dc-comics-super-heroes-the-flash/</page></regex>
