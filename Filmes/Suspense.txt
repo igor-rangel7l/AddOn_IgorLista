@@ -9,6 +9,20 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]31: A Morte É A Única Saída (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]31AMRTEAUNCSID.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Cinco pessoas são sequestradas e são mantidas reféns em um lugar chamado "Murder World" para participar de um sangrento jogo chamando "31". O desafio é sobreviver 12 horas dentro do local, cheio de palhaços assassinos e sanguinários.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoic8ziDoF0gbslEo3f98vRqMFt7YHsrdCN0T3IDh2z1bK4OMdYIfFw0uX</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/31poster_0.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Vende-se Esta Casa (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/vende-se-esta-casa/</page></regex>

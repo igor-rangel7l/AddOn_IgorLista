@@ -5,6 +5,35 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]A Onda Perfeita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Baseado numa história verídica, Scott Eastwood interpreta o papel do surfista Ian McCormack, onde é contada a história de um jovem rebelde à procura do sentido da vida, viajando com o seu melhor amigo pela Austrália, Sudeste Asiático e África.
+No cerne está a experiência de quase-morte de McCormack, que muda a sua vida para sempre.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnhswBwn9F-VqykO-qcy9ROP79zYil6EiUWbwUipweCIzrH2bfgmvLja8cSg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/download_2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Amigas Inseparáveis (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMGSINSPRVS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Aventura e Comédia</genre>
+<info>Duas amigas embarcam em uma viagem para retornar à sua cidade natal e ganhar um concurso de beleza do qual participaram, sem sucesso, na infância.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfJNYPIZ2iFVbaEH7y_1lqi0ddaYTK2EKUltOUjuVSiUpr01ihA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/03/a32301dc45ec74075f074babd7f08b02.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]O Estrangeiro (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-estrangeiro/</page></regex>
@@ -385,20 +414,6 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.</info>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODIzNjIzMF5BMl5BanBnXkFtZTgwODMzNTMzMjI@._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/18740549_1497541060277272_1871631708025038851_n.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]A Múmia (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://m.redecanais.com/watch.php</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
-</regex>
-<genre>Ação,Aventura e Comédia</genre>
-<info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
-<fanart>http://www.sitetarjanerd.com.br/wp-content/uploads/2017/06/mumia6.jpg</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/FB_IMG_1492572776568.jpg</thumbnail>
 </item>
 
 <item>

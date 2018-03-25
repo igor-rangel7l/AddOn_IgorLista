@@ -7,6 +7,34 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Antes do Adeus (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Romance,Comédia e Drama</genre>
+<info>Brooke (Alice Eve) é uma jovem que está correndo para tentar pegar o trem em direção à Boston, mas ela acaba se atrasando após ser assaltada. Sem dinheiro ou amigos, ela está perdida na noite de Nova York. Até que ela conhece, por acaso, o trompetista Nick (Chris Evans). A dupla começa a passear em torno da cidade e cresce um forte sentimento entre eles. Estreia de Chris Evans na direção.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnbAjmthUqe-dyYiFt1yaRhiqqWATmjCV3q_LOUDCLXVUKHF8s7cPmhNl</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/08/before-we-go_t89831.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Amores Canibais (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMRSCNBAS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Romance e Ficção Cientifica</genre>
+<info>Uma história de amor que se passa em uma comunidade de canibais em um futuro distópico. No Texas, em um deserto desolado, um canibal musculoso quebra uma das regras mais importantes: não brinque com a sua comida.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqvKO8JZ7W-1ff3IlZY-WR5K0HBkaipryvLXXDdb1WXEsbXp6KzmLwLJRm-g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/badbatch.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]A Silent Voice (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/a-silent-voice/</page></regex>

@@ -12,6 +12,20 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Amor em Tempos de Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMREMTMPSDGRRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>A história de amor entre uma enfermeira americana idealista e um oficial turco na Primeira Guerra Mundial.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr4kLi8QAN4KNyh6m5l6mge9vOzP_K-y68tEefGs4M8JmCKOwlwL0THMxQ8Q</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/Amor_em_Tempos_de_Guerra_DVD_Cover_Custom.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Dunkirk (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DUKRK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

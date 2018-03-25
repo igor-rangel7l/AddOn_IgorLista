@@ -4,6 +4,34 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white][COLOR white]As Aventuras do Capitão Cueca: O Filme (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ASAVNTRSDCAPCUC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>Dois brincalhões extremamente imaginativos, chamados George e Harold, hipnotizam seu diretor e o fazem pensar que é um super-herói incrivelmente entusiasmado, chamado Capitão Cueca.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlYoCJygyzgbx4yfW6AcLEt1uhBb0qTwDPvUNyN11iR-zFkBbCJHvcw-V4MA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/DBvzxBuXcAAskB_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Canção do Oceano (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACNCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>A história da viagem de volta da última criança das selkies, mulheres que se transformam em focas. Depois do desaparecimento de sua mãe, Ben e Saoirse são enviados para viver com a avó na cidade. Quando eles resolvem voltar para a sua casa à beira-mar, a viagem torna-se uma corrida contra o tempo, quando eles são atraídos para um mundo que conhecem apenas nos contos populares de sua mãe. Mas isso não é uma história de ninar, essas pessoas estão em nosso mundo por muito tempo. Logo fica claro para Ben que Saoirse é a chave para a sua sobrevivência.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8Lnk-HidtdebNW-8ywttOZPOTwYBIQCx4o3dhbut24FhmO8sXaUrzAbAN</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2014/05/song-of-the-sea_t97115.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Lego DC Comics Super Heroes: The Flash (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/lego-dc-comics-super-heroes-the-flash/</page></regex>

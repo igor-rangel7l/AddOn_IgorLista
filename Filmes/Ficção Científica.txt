@@ -2,6 +2,35 @@
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+<item>
+<title>[COLOR white][COLOR white]Aniquilação (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ANQLCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Ficção Cientifica</genre>
+<info>Uma bióloga (Natalie Portman) se junta a uma expedição secreta com outras quatro mulheres em uma região conhecida como Área X, um local isolado da civilização onde as leis da natureza não se aplicam. Lá, ela precisa lidar com uma misteriosa contaminação, um animal mortal e ainda procura por pistas de colegas que desaparecem, incluindo seu marido (Oscar Isaac).</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSldz2iYkf38bZP8LQVu25yUxnT5zTQTMQaaq2CElHKxKrrw3DkLVf2kfRAmg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/ANN_Dom_Online_Unrated_Vertical_Cast_2018.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Amores Canibais (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMRSCNBAS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Romance e Ficção Cientifica</genre>
+<info>Uma história de amor que se passa em uma comunidade de canibais em um futuro distópico. No Texas, em um deserto desolado, um canibal musculoso quebra uma das regras mais importantes: não brinque com a sua comida.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqvKO8JZ7W-1ff3IlZY-WR5K0HBkaipryvLXXDdb1WXEsbXp6KzmLwLJRm-g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/badbatch.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR white]Star Wars: Os Últimos Jedi (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>

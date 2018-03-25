@@ -4,14 +4,145 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+
+<item>
+<title>[COLOR white][COLOR white]Área 15 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AR15.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Um grupo de veteranos acordam após uma noite de festa para descobrir que o apocalipse zumbi se espalhou por todo os Estados Unidos. Juntos, eles devem lutar contra seu caminho em todo o país, a fim de encontrar uma cura para o surto e restaurar a liberdade antes que seja tarde demais.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/ocXbo3zae_ssGEFhLp-zc7TP-_m7S11ZzWbfeM7-IDja3GPp9onJiXU1hZa--eV0QGL_d7LORrk8X14ODMvCDBJBFjop6fLYIUC4Rf62Neum2MDz_WUXGg=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/635997882349218504-range-15-posterjpg.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Noiva (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ANIVA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Nastya é uma jovem mulher que viaja com seu futuro marido para a casa da família dele. Logo após chegar, ela percebe que a visita pode ter sido um erro terrível. Rodeada por pessoas estranhas, ela passa a ter visões horríveis à medida que a família do seu futuro esposo a prepara para uma tradicional cerimônia de casamento eslava.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0HvLYT9O7jj5hre2bV_IdZxqcp4vUeJOVjLaL3Wzy7ZS2WLOv11m4ocjLA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/noiva_7.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR white]Annabelle 2: A Criação do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/annabelle-2-a-criacao-do-mal/</page></regex>
+<link>$doregex[Igor_Rangel_Link]ANBL2ACRCDML.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
 <genre>Terror</genre>
 <info>nos após a trágica morte de sua filha, um habilidoso artesão de bonecas e sua esposa decidem, por caridade, acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato. Atormentado pelas lembranças traumáticas, o casal ainda precisa lidar com um amendrontador demônio do passado: Annabelle, criação do artesão.</info>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNGe8xoOzCas6JDA5gblNKShBLYRsSdUT0wc7eLFN3gq8lNUyZFVPZ528WhA</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/DC3cg6bW0AAgwDr.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Cura (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACUA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>Um empregado é enviado para buscar seu chefe em um "spa de bem-estar" europeu, mas logo descobre que o lugar tem um propósito mais sinistro do que apenas servir os seus clientes.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOjuik0J5Gfq27k3cEdHEsDi-ksto5MsOjY_XJ973rZ0x6zKO4e3hWlZMcdA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/image_9RLrRWN.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Alvo Triplo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ALVOTRPL.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>Quando um assalto dá tragicamente errado, três criminosos de carreira se veem presos num armazém, com a lei se aproximando. Mas, dentro do armazém, uma ameaça maior os espera - um cão de ataque vicioso que fará com que os fugitivos lutem por suas vidas.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfJO7Q6AkXnvVD9QKQ9uAiHW24qoDlBWqTRXesTNgVs2LNaeeAouJ65E26A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/-90251-poster-xlarge-resized.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Além da Morte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ALMDMRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>Cinco estudantes médicos iniciam uma experiência para descobrir o que há depois da morte, esperando conseguir renome dentro da área. Ao parar seus corações por curtos períodos de tempo, eles disparam uma experiência de quase-morte. Mas logo eles são forçados a confrontar os pecados de seus passados enquanto a investigação se torna perigosa e paranormal.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuirqQdjKIoRp_5UNSgzF-f2d9EvsvIDk15rGevjf24NA7poaMa3YLQctN</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Flatliners-2017-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Babá (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ABAB.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Cole (Judah Lewis) é loucamente apaixonado por Bee (Samara Weaving), sua babá. Até que o garoto acaba descobrindo que ela na verdade é uma assassina adoradora do Diabo. Com isso, para que não revele o segredo, Cole está na mira da babá e seus amigos.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwzVGYNMm0nngrBau8fFC7gakvaw9lqzHELy9ZZdSaGUB-vavWOJdbN_-H9A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/MV5BMTU1MDM3NzU5NF5BMl5BanBnXkFtZTgwMzU2ODQ3MzI._V1_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Autópsia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AAUTSPS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Tommy Tilden (Brian Cox) e Austin Tilden (Emile Hirsch), seu filho, são os reponsáveis por comandar o necrotério de uma pequena cidade do interior dos Estados Unidos. Os trabalhos que recebem costumam ser muito tranquilos por causa da natureza pacata da cidade, mas certo dia, o xerife local (Michael McElhatton) traz um caso complicado: uma mulher desconhecida foi encontrada morta nos arredores da cidade - "Jane Doe", no jargão americano. Conforme pai e filho tentam descobrir a identidade da mulher morta, coisas estranhas e perigosas começam a ocorrer, colocando a vida dos dois em perigo.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7lly6QNBBtWwrSvqVVhtxsN_tuaZPLaGNNR8MDQo4C4TXHpMNxMzQRdHa</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/MV5BNTYyMDM1MzExOV5BMl5BanBnXkFtZTgwNjQ5NzI5MDI._V1_SY1000_CR006751000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]31: A Morte É A Única Saída (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]31AMRTEAUNCSID.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Cinco pessoas são sequestradas e são mantidas reféns em um lugar chamado "Murder World" para participar de um sangrento jogo chamando "31". O desafio é sobreviver 12 horas dentro do local, cheio de palhaços assassinos e sanguinários.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoic8ziDoF0gbslEo3f98vRqMFt7YHsrdCN0T3IDh2z1bK4OMdYIfFw0uX</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/31poster_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]7 Desejos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]7DSJS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Clare Shannon (Joey King) é uma garota de 17 anos que está tentando sobreviver a vida de estudante, até que seu pai (Ryan Phillippe) encontra uma antiga caixa de música e lhe dá de presente. O que a garota vem a descobrir é que a misteriosa caixa pode lhe conceder 7 desejos e com eles ela pode ter a chance de conquistar tudo o que quer. Porém, tudo tem um preço e ela vai aprender da pior maneira. Faça um desejo! Mas cuidado com o que você deseja, as consequências podem ser fatais.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsz3Sd7YJpXjFqlCho-Qplzyjh1-L54-UVDFiDZjypGp9sg-dUK0gXa5uG</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/images_egTB6FD.jpg</thumbnail>
 </item>
 
 <item>

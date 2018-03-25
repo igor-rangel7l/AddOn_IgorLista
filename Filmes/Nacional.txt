@@ -5,6 +5,34 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]As Duas Irenes (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>Irene, de 13 anos, vem de uma família tradicional. Um dia, ela descobre que seu pai mantém uma segunda família e tem outra filha, com exatamente a mesma idade dela, também chamada Irene. As duas meninas se tornam amigas, e Irene reproduz a vida dupla de seu pai em um jogo de segredos e mentiras.</info>
+<fanart>https://4.bp.blogspot.com/-BiVr_AtpD-o/WpSQyy02jGI/AAAAAAAAklc/SF2MKeSEl4oJjJLnybAqUM5KZyckn3rHQCK4BGAYYCw/s1600/As-duas-Irenes-21.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/unnamed_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Menina Índigo (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMENIAINDGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>(.*)</expres>
+<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>Sofia (Letícia Braga) é uma menina de sete anos que apresenta comportamento considerado fora do padrão, na escola e em sua relação com os adultos. Sua mãe (Fernanda Machado), a executiva Luciana, acredita que ela tem algo especial que a faz curar as pessoas. Quando vai morar com o pai, Ricardo (Murilo Rosa), um jornalista competente e racional, começa a provocar mudanças nas relações familiares, obrigando todos ao seu redor a repensarem suas vidas. Sofia é representante de uma nova geração de crianças chamadas de índigos, que, acredita-se, têm potenciais transformadores da sociedade</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTf4UactIcURP48iQJYGgbf0DC3G0BhoEEROh3Yv9g-oDcq_3vKFGZh3FG</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/1080x1620_1506538570.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Os Parças (Nacional) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*OSPARCAS2018.*?)" fra</expres>
 <page>http://netcine.us/os-parcas/</page></regex>
