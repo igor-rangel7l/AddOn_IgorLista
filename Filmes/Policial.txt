@@ -29,8 +29,8 @@
 <link>$doregex[Igor_Rangel_Link]BRGHT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Um thriller policial contemporâneo com elementos fantásticos, incluindo orcs e fadas. Tikka (Lucy Fry), uma jovem elfo detentora de uma varinha com poderes mágicos será protegida por Scott Ward (Will Smith), um ser humano e por Nick Jakoby (Joel Edgerton), um orc.</info>
@@ -43,8 +43,8 @@
 <link>$doregex[Igor_Rangel_Link]DESPDAEMGRNDESTLO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Policial</genre>
 <info>Refilmagem da comédia “Despedida em Grande Estilo” (1979), clássico de Martin Brest premiado no Festival de Veneza. Três amigos idosos, que vivem de doações e, para sair da pobreza, decidem tramar o roubo de um banco.</info>
@@ -57,8 +57,8 @@
 <link>$doregex[Igor_Rangel_Link]VLZEFROSOS08.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Agora que Dom e Letty estão em lua de mel e Brian e Mia se retiraram do jogo – e o restante da equipe foi exonerada – o time segue com uma vida normal. Mas, quando uma mulher misteriosa (Charlize Theron) seduz Dom para o mundo do crime, ele parece não conseguir escapar e a traição das pessoas próximas à ele fará com que todos sejam testados de uma forma como nunca antes foram.</info>
@@ -91,8 +91,8 @@
 <link>$doregex[Igor_Rangel_Link]ALEIDNOT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
 <info>Boston, década de 1920. Joe Coughlin, filho mais novo de um capitão de polícia, se envolve com o crime organizado. Ele aproveita seus dias rodeado de dinheiro e poder, mas suas escolhas podem levá-lo à prisão, ou até mesmo à morte. Adaptação do livro escrito por Dennis Lehane.</info>
@@ -134,8 +134,8 @@
 <link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Policial e Drama</genre>
 <info>Depois que sua mãe acaba na prisão, duas irmãs se voltam a roubar trens para sustentar sua família.</info>
@@ -148,8 +148,8 @@
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>O policial secreto Billy Tong infiltrou-se na Gangue Ching Tau e descobriu que eles estão planejando sequestrar Tiffany Long, a filha de um notório chefe da tríade Dragon Head Xi Long. Quando Billy descobre que Melinda, sua ex-mulher está grávida, ele questiona suas escolhas de carreira e arrisca a segurança da filha de Xi Long e de sua nova família.</info>
@@ -162,8 +162,8 @@
 <link>$doregex[Igor_Rangel_Link]FNKELOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
 <info>Na trama, o casal Frank e Lola (Michael Shannon e Imogen Poots) são pessoas de realidades diferentes que se encontram em Las Vegas em um momento decisivo de suas vidas. O relacionamento deles é intenso e tudo o que Frank sempre quis, mas tudo começa a mudar quando um homem do passado de Lola aparece.</info>
@@ -176,8 +176,8 @@
 <link>$doregex[Igor_Rangel_Link]ODSVIO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
 <info>Colin se envolve em um acidente de carro que leva a morte de um dos envolvidos e, ao seu lado, ele encontra uma maleta repleta de dinheiro. Após entregá-la para a polícia local sua boa ação provoca uma série de acontecimentos bizarros na cidade.</info>
@@ -190,8 +190,8 @@
 <link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
 <info></info>
@@ -204,8 +204,8 @@
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Arthur é um assassino profissional de elite, com regras simples e restritas para cumprir seu trabalho. Mas quando seu mentor e amigo, Harry, é assassinado, ele vai passar por cima de tudo e de todos para conseguir a sua vingança.</info>
@@ -218,8 +218,8 @@
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Arthur Bishop (Jason Statham) é obrigado a reativar seu lado crimonoso quando amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.</info>
@@ -232,8 +232,8 @@
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>Christian Wolff (Ben Affleck) é um portador da Síndrome de Savant com mais afinidade por números do que por pessoas. Tendo um escritório de contabilidade em uma cidadezinha como fachada, ele trabalha como contador autônomo para algumas das mais perigosas organizações criminosas do mundo.
@@ -247,8 +247,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]NRVUJSR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Policia</genre>
 <info>Uma garota, prestes a sair do ensino médio e sonhando em ir para a faculdade, decide participar de um jogo online: verdade ou consequência, um jogo onde todos os seus passos e atos são vistos e manipulados por uma comunidade anônima de hackers.</info>
@@ -261,8 +261,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>Determinado a vingar o assassinato de sua irmã, Bruce Lee, se infiltra na fortaleza isolada de um poderoso chefão do crime, que utiliza sua academia de artes marciais como fachada para tráfico de ópio e prostituição. Para cumprir sua missão, Lee, terá que participar de um torneiro de vida ou morte.</info>
@@ -275,8 +275,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]INFRNO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>O renomado professor de simbologia de Harvard, Robert Langdon (Tom Hanks), visita a Itália e se envolve em mais uma aventura envolvendo símbolos ocultos e corporações secretas. Ele se vê em uma jornada em que procura desvendar os mistérios do clássico da literatura "A Divina Comédia", de Dante Alighieri.</info>
@@ -289,8 +289,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
 <info>A história gira em torno de Dave Ghantt, um guarda noturno de uma companhia de carros blindados no sul dos Estados Unidos que organiza um dos mais ousados assaltos a banco da história norte-americana.</info>
@@ -303,8 +303,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Reúna um time dos super vilões mais perigosos já encarcerados, dê a eles o arsenal mais poderoso do qual o governo dispõe e os envie a uma missão para derrotar uma entidade enigmática e insuperável que a agente governamental Amanda Waller (Viola Davis) decidiu que só pode ser vencida por indivíduos desprezíveis e com nada a perder. No então, assim que o improvável time percebe que eles não foram escolhidos para vencerem, e sim para falharem inevitavelmente, será que o Esquadrão Suicida vai morrer tentando concluir a missão ou decidem que é cada um por si?</info>

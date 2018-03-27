@@ -26,8 +26,8 @@
 <link>$doregex[Igor_Rangel_Link]TITANC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Uma expedição aos destroços do Titanic leva uma sobrevivente do naufrágio a relembrar uma grande história de amor que viveu no navio. Em 1912, na única viagem do que então era o maior navio já construído, Rose (Winslet) é uma jovem da alta sociedade prestes a se casar com seu rico noivo. Mas a bordo do Titanic ela conhece Jack Dawson (DiCaprio), um jovem simples e aventureiro, e se apaixona pelo rapaz. As diferenças sociais fazem com que muitos se oponham ao relacionamento que surge. Em meio ao intenso romance e à rebeldia dos dois, acontece o trágico acidente, que eles enfrentam juntos.</info>
@@ -40,8 +40,8 @@
 <link>$doregex[Igor_Rangel_Link]OSVGDRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Loki (Tom Hiddleston) retorna à Terra enviado pelos chitauri, uma raça alienígena que pretende dominar os humanos. Com a promessa de que será o soberano do planeta, ele rouba o cubo mágico dentro de instalações da S.H.I.E.L.D. e, com isso, adquire grandes poderes. Loki os usa para controlar o dr. Erik Selvig (Stellan Skarsgard) e Clint Barton/Gavião Arqueiro (Jeremy Renner), que passam a trabalhar para ele. No intuito de contê-los, Nick Fury (Samuel L. Jackson) convoca um grupo de pessoas com grandes habilidades, mas que jamais haviam trabalhado juntas: Tony Stark/Homem de Ferro (Robert Downey Jr.), Steve Rogers/Capitão América (Chris Evans), Thor (Chris Hemsworth), Bruce Banner/Hulk (Mark Ruffalo) e Natasha Romanoff/Viúva Negra (Scarlett Johansson). Só que, apesar do grande perigo que a Terra corre, não é tão simples assim conter o ego e os interesses de cada um deles para que possam agir em grupo.</info>
@@ -54,8 +54,8 @@
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
@@ -68,8 +68,8 @@
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB04.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>Nesta história cheia de ação sobre verdade, traição, juventude e legado, os caminhos de Jack Sparrow cruzam com os de uma mulher de seu passado (Penélope Cruz), e ele não tem certeza se é amor ou se ela é uma cruel golpista que o usa para encontrar a Fonte da Juventude. Quando ela o força a embarcar no Queen Anne's Revenge, o navio do formidável pirata Barba Negra (Ian McShane), Jack se encontra numa inesperada aventura em que não sabe o que temer mais: Barba Negra ou a mulher do seu passado.</info>
@@ -82,8 +82,8 @@
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB03.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>O lorde Cuttler Beckett (Tom Hollander), da Companhia das Índias Orientais, detém o comando do navio-fantasma Flying Dutchman. O navio, agora sob o comando do almirante James Norrington (Jack Davenport), tem por missão vagar pelos sete mares em busca de piratas e matá-los sem piedade. Na intenção de deter Beckett, Will Turner (Orlando Bloom), Elizabeth Swann (Keira Knightley) e o capitão Barbossa (Geoffrey Rush) precisam reunir os Nove Lordes da Corte da Irmandade. Porém falta um dos Lordes, o capitão Jack Sparrow (Johnny Depp). O trio parte para Cingapura, na intenção de conseguir o mapa que os conduzirá ao fim do mundo, o que possibilitará que Jack seja resgatado. Porém para conseguir o mapa eles precisarão enfrentar um pirata chinês, o capitão Sao Feng (Chow Yun-Fat).</info>
@@ -96,8 +96,8 @@
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB02.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>Elizabeth Swann (Keira Knightley), a filha do governador Weatherby (Jonathan Pryce), está prestes a se casar com o ferreiro Will Turner (Orlando Bloom). Porém o evento é atrapalhado pela ameaça de Davy Jones (Bill Nighy), o capitão do assombrado navio Flying Dutchman, que tem uma dívida de sangue com o capitão Jack Sparrow (Johnny Depp), amigo do casal. Temendo ser amaldiçoado a uma vida após a morte como escravo de Jones, Sparrow precisa encontrar o misterioso baú da morte para escapar da ameaça.</info>
@@ -110,8 +110,8 @@
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB01.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>Em pleno século XVII, o pirata Jack Sparrow (Johnny Depp) tem seu navio saqueado e roubado pelo capitão Barbossa (Geoffrey Rush) e sua tripulação. Com o navio de Sparrow, Barbossa invade e saqueia a cidade de Port Royal, levando consigo Elizabeth Swann (Keira Knightley), a filha do governador (Jonathan Pryce). Decidido a recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner (Orlando Bloom), um grande amigo de Elizabeth que parte em seu encalço. Porém, o que ambos não sabem é que o Pérola Negra, navio de Barbossa, foi atingido por uma terrível maldição que faz com que eles naveguem eternamente pelos oceanos e se transformem em esqueletos à noite.</info>

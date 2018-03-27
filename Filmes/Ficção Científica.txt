@@ -8,8 +8,8 @@
 <link>$doregex[Igor_Rangel_Link]ANQLCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
 <info>Uma bióloga (Natalie Portman) se junta a uma expedição secreta com outras quatro mulheres em uma região conhecida como Área X, um local isolado da civilização onde as leis da natureza não se aplicam. Lá, ela precisa lidar com uma misteriosa contaminação, um animal mortal e ainda procura por pistas de colegas que desaparecem, incluindo seu marido (Oscar Isaac).</info>
@@ -22,8 +22,8 @@
 <link>$doregex[Igor_Rangel_Link]AMRSCNBAS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Ficção Cientifica</genre>
 <info>Uma história de amor que se passa em uma comunidade de canibais em um futuro distópico. No Texas, em um deserto desolado, um canibal musculoso quebra uma das regras mais importantes: não brinque com a sua comida.</info>
@@ -76,8 +76,8 @@
 <link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
@@ -90,8 +90,8 @@
 <link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
 <info>Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
@@ -104,8 +104,8 @@
 <link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Ficção Cientifica</genre>
 <info>Trinta anos após os acontecimentos do primeiro filme, a humanidade está novamente ameaçada, e dessa vez o perigo pode ser ainda maior. Isso porque o novato oficial K (Ryan Gosling), desenterrou um terrível segredo que tem o potencial de mergulhar a sociedade no completo caos. A descoberta acaba levando-o a uma busca frenética por Rick Deckard (Harrison Ford), desaparecido há 30 anos.</info>
@@ -118,8 +118,8 @@
 <link>$doregex[Igor_Rangel_Link]INVSALIEN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
 <info>História sobre cinco amigos de férias em uma remota casa do lago, que não estão cientes de que a Terra está sob uma invasão alienígena e abdução em massa.</info>
@@ -132,8 +132,8 @@
 <link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
 <info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
@@ -146,8 +146,8 @@
 <link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Terror</genre>
 <info>Anos depois de uma misteriosa praga ter devastado o planeta e transformado a maioria da humanidade em criaturas famintas por fome, um andarilho malandro em uma caçada vingativa se depara com um grupo de sobreviventes em uma delegacia abandonada e concorda em tentar ajudá-los a se defender e escapar para o santuário que tão desesperadamente necessitam.</info>
@@ -160,8 +160,8 @@
 <link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
@@ -174,8 +174,8 @@
 <link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
 <info>O artista gráfico Clay Riddell (Cusack) se vê numa caçada alucinante em meio a criaturas que antes eram simples mortais. Em um rápido momento, todas as pessoas que estavam falando no celular enlouquecem. Fora de si, começam a atacar e matar quem passa pela frente. O desafio é sobreviver num mundo virado às avessas.</info>
@@ -188,8 +188,8 @@
 <link>$doregex[Igor_Rangel_Link]BLME.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
 <info>A história se passa num futuro distante, onde os seres humanos restantes vivem dentro de um perigoso e gigantesco labirinto chamado de Megaestrutura, que ficou totalmente fora de controle. No meio disso tudo, conhecemos Killy, um homem misterioso e de poucas palavras que está determinado a salvar a a humanidade do esquecimento.
@@ -344,8 +344,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Aventura e Ficção Cientifica</genre>
 <info>Durante uma missão a Marte, o astronauta Mark Watney (Matt Damon) é dado como morto após uma feroz tempestade e é deixado para trás por sua tripulação. Mas Watney sobrevive e encontra-se sem recursos e sozinho no planeta hostil. Apenas com suprimentos escassos, Watney deve contar com a sua criatividade, engenho e espírito para subsistir e encontrar uma maneira de sinalizar à Terra que está vivo. A milhões de quilômetros de distância, a NASA e uma equipe de cientistas internacionais trabalham incansavelmente para trazer "o marciano" de volta enquanto seus colegas de tripulação simultaneamente traçam uma ousada, se não impossível, missão de resgate. Conforme essas histórias de incrível bravura se desdobram, o mundo se une para torcer pelo retorno seguro de Watney.</info>
@@ -358,8 +358,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>O jovem Max McGrath (Ben Winchell) descobre que seu corpo pode gerar uma poderosa energia, e ele deve unir-se com o único ser capaz de conter esta energia: um misterioso extraterrestre tecno-orgânico chamado Steel. Unidos como o super-herói Max Steel, os dois amigos devem combater uma ameaça alienígena e desvendar os segredos do seu passado.</info>
@@ -372,8 +372,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Cientifica</genre>
 <info>homas (Dylan O’Brien) e seus companheiros Clareanos vão encarar seu maior desafio até agora: procurar por pistas sobre a misteriosa e poderosa organização conhecida como C.R.U.E.L. Sua jornada os leva até O Deserto, um cenário desolado repleto de obstáculos inimagináveis. Unindo-se com lutadores da resistência, os Clareanos desafiam as forças superiores da C.R.U.E.L. e descobrem seus terríveis planos para todos eles.</info>
@@ -386,8 +386,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Ficção Cientifica</genre>
 <info>Kathy (Carey Mulligan), Ruth (Keira Knightley) e Tommy (Garfield) são amigos íntimos que cresceram juntos num internato inglês que possui um segredo assustador. Quando eles descobrem a excruciante verdade – que eles são clones produzidos geneticamente para serem doadores de órgãos – eles se agarram ao breve tempo que lhes resta para viver e amar.</info>
@@ -400,8 +400,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
@@ -414,8 +414,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
@@ -428,8 +428,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Romance</genre>
 <info>Durante uma viagem de rotina no espaço, dois passageiros são despertados 90 anos antes do tempo programado, por causa de um mal funcionamento de suas cabines. Sozinhos, Jim (Chris Pratt) e Aurora (Jennifer Lawrence) começam a estreitar o seu relacionamento. Entretanto, a paz é ameaçada quando eles descobrem que a nave está correndo um sério risco e que eles são os únicos capazes de salvar os mais de cinco mil colegas em sono profundo.</info>
@@ -442,8 +442,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ACHGDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Ficção Científica</genre>
 <info>Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks (Amy Adams), uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não. No entanto, a resposta para todas as perguntas e mistérios pode ameaçar a vida de Louise e a existência de toda a humanidade.</info>
@@ -456,8 +456,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]SPCTRL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
 <info>Uma equipe de operações especiais é despachada para uma inesperada missão: lutar contra seres sobrenaturais agressivos que tomaram a cidade de Nova Iorque e ameaçam a sobrevivência de todos os humanos.</info>
@@ -470,8 +470,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Científica e Terror</genre>
 <info>Em um futuro próximo, o derretimento glacial cobriu 98% da Terra. Enquanto os sobreviventes se abrigam em embarcações, os tubarões se tornaram a espécie dominate do planeta, realizando um ataque mortal através da liderança de um tubarão alfa-mutante.</info>
@@ -484,8 +484,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
 <info>Mike e Washington, dois amigos mercenários, passeiam de iate pelo mar caribenho para comemorar um trabalho bem feito. Perto dali, um grupo de cientistas faz pesquisas em uma estação petrolífera e se prepara para resgatar um submarino nuclear russo naufragado. A descoberta de uma placa de pedra pertencente à antiga e lendária civilização de Atlântida coincide com um maremoto que destrói a plataforma. Os sobreviventes unem-se a Mike e Washington e chegam até terra firme, onde um batalhão de punks inicia sua missão de exterminar a humanidade para preparar o retorno dos habitantes de Atlântida.</info>
@@ -498,8 +498,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
 <info>No século 21, o mundo passa por processo de deterioração e anarquia social. Considerada uma praga, apenas Pearl Prophet (Dayle Haddon), uma criatura meio humana meio robô, possui o conhecimento para criar uma vacina. Mas Pearl é capturado por canibais, os Flesh Pirates, que planejam manter o antídoto apenas para eles e dominar a Terra! Pearl agora vai precisr contar com a habilidade do mestre do sabre Gibson Rickenbacker (Van Damme).</info>
@@ -512,8 +512,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]STRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ficção Científica</genre>
 <info>Eric é um mecânico de motocicletas que leva uma vida tranquila com sua namorada Julia e sua pequena enteada. Mas sua rotina bucólica e quase perfeita é perturbada quando Henry, uma figura estranha, começa a aparecer em sua oficina e Eric é o único capaz de vê-lo. Henry provoca Eric até levá-lo à beira da loucura, quando começam a aparecer outras figuras ainda mais sombrias, que passam a ameaçar Eric e sua família caso ele não concorde em fazer o que elas mandam. Cada vez mais confuso, Eric não tem outra saída senão confiar em Henry. Mostra Panorama, Festival de Berlim 2014.</info>
@@ -526,8 +526,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]IBOY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
 <info>Após um acidente, Tom acorda de um coma e descobre que fragmentos do seu smart phone foram incorporados na sua cabeça. Ele também descobre que retornar à vida de um adolescente normal é impossível, pois ele desenvolveu super poderes.</info>
@@ -540,8 +540,8 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Animação e Ficção Científica</genre>
 <info>Ambientado em 1941, numa França Steampunk que parou no Século 19, repleta de máquinas a vapor, duas torres Eiffel e governada por Napoleão VI, os cientistas desaparecem misteriosamente. Uma garota chamada Avril (Marion Cotillard), vai em busca de seus pais cientistas desaparecidos.</info>

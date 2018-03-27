@@ -8,8 +8,8 @@
 <link>$doregex[Igor_Rangel_Link]12RNDS3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>De volta à ativa após ter sido baleado e ter perdido seu parceiro, o detetive John Shaw é sabotado e acusado de um crime que não cometeu. Agora ele precisa lutar com todas as armas para livrar seu nome e prender os verdadeiros culpados.</info>
@@ -22,8 +22,8 @@
 <link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Baseado numa história verídica, Scott Eastwood interpreta o papel do surfista Ian McCormack, onde é contada a história de um jovem rebelde à procura do sentido da vida, viajando com o seu melhor amigo pela Austrália, Sudeste Asiático e África.
@@ -37,8 +37,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AMUM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
@@ -51,8 +51,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ALAMNA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>A irmã mais nova de Manji (Takuya Kimura) é morta na frente dele; ele decide se vingar. Uma mulher misteriosa aparece na frente de Manji. E ela lhe dá a eterna juventude e a imortalidade. Os pais de Rin Asano são mortos pelo grupo de espadachins "Itto ryu" e o estúdio de esgrima dos pais dela é destruído'. Para vingar seus pais, ela pede Manji para ser seu protetor. Rin e Manji começam a sua vingança contra "Itto ryu".</info>
@@ -65,8 +65,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AINDCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Um cientista constrói uma enorme arca após seus avisos de inundação do planeta serem ignorados. Quando o desastre se aproxima, aqueles que desdenharam dele, agora imploram por uma vaga em sua embarcação antes que o mundo se torne em um oceano infinito.</info>
@@ -120,8 +120,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ASSNSMULT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Na trama, um advogado muito falante transforma seu corpo e faz um voto de silêncio, para não ser quebrado até descobrir quem matou sua esposa e filha.</info>
@@ -134,8 +134,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]BRGHT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Um thriller policial contemporâneo com elementos fantásticos, incluindo orcs e fadas. Tikka (Lucy Fry), uma jovem elfo detentora de uma varinha com poderes mágicos será protegida por Scott Ward (Will Smith), um ser humano e por Nick Jakoby (Joel Edgerton), um orc.</info>
@@ -148,8 +148,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Arthur (Charlie Hunnam) é um jovem das ruas que controla os becos de Londonium e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua família.</info>
@@ -162,8 +162,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Optimus Prime descobre que seu planeta natal, Cybertron, agora é um planeta morto, e que ele foi o responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
@@ -176,8 +176,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Johanna Pasquali é a primeira mulher a entrar no RAID, tropa de elite da polícia francesa, mas se vê no caminho de Eugène Froissard, o mais misógino dos agentes da RAID. Essa dupla improvável está encarregada de parar a Gangue Leopardo, que está por trás de audaciosos roubos nas ruas de Paris. Mas antes de colocar os malfeitores atrás das grades, eles precisam encontrar uma maneira de serem parceiros sem que se matem, seja em treinamento ou trabalhando em casos complicados.</info>
@@ -190,8 +190,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
 <info>Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
@@ -204,8 +204,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]VLZEFROSOS08.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Agora que Dom e Letty estão em lua de mel e Brian e Mia se retiraram do jogo – e o restante da equipe foi exonerada – o time segue com uma vida normal. Mas, quando uma mulher misteriosa (Charlize Theron) seduz Dom para o mundo do crime, ele parece não conseguir escapar e a traição das pessoas próximas à ele fará com que todos sejam testados de uma forma como nunca antes foram.</info>
@@ -218,8 +218,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]VNGA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
 <info>A trama gira em torno de um assassino que é traído por gangsters e cai nas mãos de uma desonesta cirurgiã, que o transforma em uma mulher. O assassino (agora assassina) decide ir atrás de vingança e conta com a ajuda de uma enfermeira chamada Johnnie, que também tem segredos obscuros, na sua jornada.</info>
@@ -232,8 +232,8 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]CACDBRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Depois de um homem e seu filho testemunharem um tiro de um assassino em um ladrão de banco durante uma viagem de caça, o ladrão de banco leva o menino refém, a fim de recuperar a chave de um armário que contém o dinheiro do assalto ao banco.
@@ -247,8 +247,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]DUKRK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
 <info>Na Operação Dínamo, mais conhecida como a Evacuação de Dunquerque, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial. A história acompanha três momentos distintos: uma hora de confronto no céu, onde o piloto Farrier (Tom Hardy) precisa destruir um avião inimigo, um dia inteiro em alto mar, onde o civil britânico Dawson (Mark Rylance) leva seu barco de passeio para ajudar a resgatar o exército de seu país, e uma semana na praia, onde o jovem soldado Tommy (Fionn Whitehead) busca escapar a qualquer preço.</info>
@@ -261,8 +261,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]KCKBXRVNGA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Que tal ganhar dinheiro em uma competição sem regras, sem juízes e ter a chance de ser eternizado? Eric Sloane (Darren Shahlavi), lutador campeão na Califórnia, vai parar em Hong Kong atraído pela proposta, ignorando que tudo pode dar errado e acabar em morte. É o que acontece e então seu irmão Kurt Sloan (Alain Moussi) decide se vingar do carrasco assassino, de nome Tong Po (Dave Bautista).</info>
@@ -275,8 +275,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>Após um ataque ao quartel general da Kingsman, Eggsy e Merlin viajam para os Estados Unidos, onde afiliam-se à Statesman, versão americana da organização de espionagem.</info>
@@ -289,8 +289,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>‘Kong: A Ilha da Caveira‘ recria a origem do mítico Kong numa aventura original emocionante dirigida por Jordan Vogt-Roberts. No filme, um eclético time de exploradores se aventura nas profundezas de uma desconhecida ilha do Pacífico, a Ilha da Caveira – tão bela quanto traiçoeira – sem saber que estão invadindo os domínios dos reis dos símios, o mítico Kong.</info>
@@ -303,8 +303,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]KTANJDVNGC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Uma jovem vive em um mundo pós-colapso financeiro, onde uma força de segurança corrupta lucra traficando garotas. Quando o pai dela, um policial, é morto por um tira corrupto, ela jura vingança e parte para encontrar o responsável com a ajuda do ex-parceiro do pai.</info>
@@ -317,8 +317,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
 <info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
@@ -331,8 +331,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>No século X, durante uma revolta de camponeses, o rei, um terrível tirano, morre nos combates. Seu filho, um jovem príncipe, presencia tudo, além de ser gravemente ferido. A rainha, vendo o estado do filho, invoca o poder mágico de um dragão para salvá-lo, mas este só concorda em socorrê-lo dividindo o seu coração quando o príncipe jura que será bom e justo. No entanto, ele se torna um rei mais perverso que o pai e um jovem cavaleiro acredita que foi o coração do dragão que modificou o príncipe. Assim, decide eliminar todos os dragões, mas quando falta apenas um para ser morto o cavaleiro passa a ter uma visão real dos fatos.</info>
@@ -345,8 +345,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>Quando um garoto solitário e órfão descobre aquele que pode ser o último dragão vivo na terra, ele percebe que seu sonho de se tornar um cavalheiro pode virar realidade. Entre desafios e obstáculos, a dupla vai vivendo heroicas aventuras, mas algo maior se aproxima. Eles estariam preparados para grandes desafios?</info>
@@ -359,8 +359,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>Quando o jovem escudeiro Gareth vai em busca de um cometa caído, ele acredita que detém ouro que ele pode usar para pagar a sua cavalaria . Em vez de encontrar um cometa, Gareth encontra o Drago dragão que tem caído na Terra e está sendo caçado por um malvado feiticeiro . Após Drago salva a vida de Gareth , os dois se tornam intrinsecamente ligados e devem trabalhar juntos para derrotar o feiticeiro e parar seu reinado de terror. Ao longo do caminho , Gareth aprende o verdadeiro significado de ser um cavaleiro .</info>
@@ -373,8 +373,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>Ação, aventura e fantasia esperam por você neste novo capítulo da saga “Coração de Dragão”. Drago, um dragão que compartilha seu coração com o Rei da Britânia, precisa encontrar um herdeiro para o trono por causa do falecimento do Rei. Mas os possíveis herdeiros, os irmãos gêmeos Edric e Meghan, usam sua força e habilidade de controlar o fogo herdados do dragão um contr o outro.</info>
@@ -387,8 +387,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]MECMDSMBRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>O desempregado Duval é contactado por uma misteriosa organização para transcrever as chamadas interceptadas. Ele aceita o trabalho sem suspeitas, uma vez que restaura a estabilidade à sua vida. Aos poucos, no entanto, ele vai ser colocado no centro de uma trama política, mergulhando no submundo brutal e bizarro do serviço secreto.</info>
@@ -401,8 +401,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Terror</genre>
 <info>O que parece ser um dia normal na Belko Industries se mostra o início de uma história de terror: seus funcionários descobrem que se tornaram cobaias em um experimento social – conduzido por uma voz misteriosa em um alto-falante – no qual são obrigados a matar uns aos outros.</info>
@@ -415,8 +415,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Terror</genre>
 <info>Anos depois de uma misteriosa praga ter devastado o planeta e transformado a maioria da humanidade em criaturas famintas por fome, um andarilho malandro em uma caçada vingativa se depara com um grupo de sobreviventes em uma delegacia abandonada e concorda em tentar ajudá-los a se defender e escapar para o santuário que tão desesperadamente necessitam.</info>
@@ -429,8 +429,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OGRNDRB.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>A CIA pede a um ladrão profissional para invadir o cofre na parte superior da prisão de Guantanamo Bay e recuperar informações importantes e confidenciais que estão armazenadas lá. Quando o Chefe do cartel local descobre que o cofre foi invadido e que além das informações, milhões de dolares em dinheiro que estavam armazenados no cofre também foram levados, ele envia um alerta a todos os bandidos e profissionais para tentar recuperar o dinheiro antes que o exército mexicano apareça com reforços.</info>
@@ -443,8 +443,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Inspirado na história real de navios mercantes atacados por bandidos no delta do rio Mekong. As autoridades chinesas se juntam com as forças policiais da Tailândia, Laos e Birmânia para iniciar uma investigação.</info>
@@ -457,8 +457,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Cinco adolescentes comuns descobrem dons extraordinários quando eles percebem que a sua pequena cidade, Angel Grove, e o mundo inteiro está a beira de ser extinto por uma ameaça alienígena. Escolhidos pelo destino, os jovens heróis descobrem rapidamente que eles são os únicos que podem salvar o planeta. Mas, para isso, eles terão que superar seus problemas da vida real e se unir como os Power Rangers.</info>
@@ -471,8 +471,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Terror</genre>
 <info>Chris Redfield, da organização anti-bioterrorista B.S.A.A., baseado numa certa informação, invade uma mansão que era a base de uma organização de tráfico de armas. Durante a investigação Chris confronta Glenn Alias, um criminoso procurado internacionalmente. Ele acaba testemunhando uma cena inacreditável e Alias consegue escapar. Enquanto isso, Rebecca Chambers, ex-membro das forças especiais da polícia de Raccoon City, S.T.A.R.S., é atualmente uma professora universitária e está conduzindo uma pesquisa a respeito de um misterioso incidente envolvendo a ressurreição de mortos. De acordo com a pesquisa de Rebecca, há um novo tipo de vírus envolvido e os esforços dela para descobrir a verdade a levaram ao desenvolvimento de uma cura. Em seguida, uma pessoa misteriosa invade seu laboratório e Rebecca sofre uma tentativa de assassinato, mas é salva por Chris e a B.S.A.A. Após o ataque, Chris e Rebecca recorrem ao agente do governo dos EUA, Leon S. Kennedy, devido ao seu conhecimento sobre esse tipo de incidente. Chris e Leon se reencontram e os dois acreditam que a motivação de Alias é o bioterrorismo. Ao lado de Rebecca, eles vão para Nova York para impedir Arias e salvar a humanidade.</info>
@@ -485,8 +485,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>A trama se passa durante a Guerra Fria, quando uma organização chamada "Patriot" criou um esquadrão de super-heróis, que inclui membros de várias repúblicas soviéticas. Durante anos, os heróis tiveram que esconder suas identidades, mas em tempos difíceis eles precisam se revelar novamente.</info>
@@ -519,8 +519,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ATMCAGNTESPC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Lorraine Broughton (Charlize Theron), uma agente disfarçada do MI6, é enviada para Berlim durante a Guerra Fria para investigar o assassinato de um oficial e recuperar uma lista perdida de agentes duplos. Ao lado de David Percival (James McAvoy), chefe da localidade, a assassina brutal usará todas as suas habilidades nesse confronto de espiões.</info>
@@ -653,8 +653,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
@@ -767,8 +767,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos são espiões do governo.</info>
@@ -781,8 +781,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV5.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Depois de retornar para os Estados Unidos e agora trabalhando como EMT, Jack Carter (Mike “The Mizz” Mizanin) se encontra preso com um homem ferido e marcado que ele prometeu salvar. Quando uma cruel gangue de motos desejando vingança ganha força, Carter precisa utilizar seus instintos assasinos da marinha para acabar com isso… ou morrer tentando!</info>
@@ -795,8 +795,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV4.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Jake Carter é designado para proteger um “pacote de alto valor”, uma bela que deseja expor uma empresa de defesa militar corrupta. No entanto, os militares contrata uma equipe de mercenários, fortemente armados para pôr fim a sua vida, junto com qualquer outra pessoa que ficar em seu caminho, e Carter terá que detê-los a qualquer custo.</info>
@@ -809,8 +809,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Depois de voltar para sua cidade natal com a licença do trabalho, o sargento Jake Carter descobre que sua irmã foi raptada por um bando de extremistas violentos. Para salvá-la, Carter lança um ataque ousado. E ele acaba descobrindo que o líder cruel do grupo está tramando um ataque terrorista mortal. Com o tempo se esgotando, Carter percebe que ele é o único homem que pode parar o massacre iminente - mas este herói americano pode ter que fazer um sacrifício final para salvar milhares de vidas.</info>
@@ -823,8 +823,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Busca Explosiva 2 traz o super astro TED DIBIASE JR, o famoso lutador de luta livre americana (WWE). INSPIRADO EM FATOS REAIS Quando estava gozando suas merecidas férias em um belo resort exótico, o sargento Joe Linwood (DiBiase) e sua esposa Robin participavam de uma festa elegante quando o caos se inicia. Terroristas impiedosos invadem o local e fazem diversos reféns, incluindo Robin! Sozinho em um país estrangeiro e sem a possibilidade de pedir reforços, Linwood vai depender apenas de seu treinamento para combater os terroristas, salvar os reféns e impedir uma guerra internacional!</info>
@@ -837,8 +837,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>JOHN CENA, o CAMPEÃO DA WWE, domina a cena no papel do fuzileiro John Triton. Onde quer que haja perigo, lá está Triton detonando. e ele não joga seguindo as regras! Após Triton ser enviado de volta da Guerra do Iraque, Kate, sua linda esposa (Kelly Carlson de Nip/Tuck), é seqüestrada por impiedosos ladrões de jóias comandados por um implacável assassino (Robert Patrick)! Agora, Triton precisa lutar para salvá-la, usando sua arma mais poderosa: ele mesmo!</info>
@@ -851,8 +851,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Ação e Aventura</genre>
 <info>Tara Markov, a Terra que contém os poderes de controlar a terra e o solo e se uniu aos Jovens Titãs durante os eventos de Liga da Justiça vs. Jovens Titãs, se tornando uma possível ameaça e deixando a questão: Será a nova heroína aliada ou inimiga? E quais são os planos do Exterminador para a jovem equipe de heróis?</info>
@@ -865,8 +865,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>O jovem Max McGrath (Ben Winchell) descobre que seu corpo pode gerar uma poderosa energia, e ele deve unir-se com o único ser capaz de conter esta energia: um misterioso extraterrestre tecno-orgânico chamado Steel. Unidos como o super-herói Max Steel, os dois amigos devem combater uma ameaça alienígena e desvendar os segredos do seu passado.</info>
@@ -879,8 +879,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Cientifica</genre>
 <info>homas (Dylan O’Brien) e seus companheiros Clareanos vão encarar seu maior desafio até agora: procurar por pistas sobre a misteriosa e poderosa organização conhecida como C.R.U.E.L. Sua jornada os leva até O Deserto, um cenário desolado repleto de obstáculos inimagináveis. Unindo-se com lutadores da resistência, os Clareanos desafiam as forças superiores da C.R.U.E.L. e descobrem seus terríveis planos para todos eles.</info>
@@ -893,8 +893,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]RZALND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Ação</genre>
 <info>Em uma terra sem lei, a sorte favorece apenas os mais fortes e corajosos. Ara (Cauã Reymond), um homem de ação e poucas palavras, é o líder de um bando de motoqueiros armados que acredita em uma antiga lenda capaz de devolver justiça e liberdade ao povo da região. Quando realizam um ousado roubo, acabam despertando a fúria do poderoso Tenório (Humberto Martins). Agora, Tenório vai concentrar todas as suas forças em uma perseguição para destruir o bando de Ara e recuperar aquilo que acredita ser seu por direito. Durante a perseguição, a jovem Laura (Luisa Arraes) é resgatada de um acidente e tem que seguir o bando contra a sua vontade, despertando ciúmes em Severina (Sophie Charlotte), companheira de Ara.</info>
@@ -907,8 +907,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]WRISGT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Um adolescente é magicamente transportado para a China e aprende a converter suas habilidades de vídeo game em um guerreiro de Kung Fu.</info>
@@ -921,8 +921,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
@@ -935,8 +935,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>O policial secreto Billy Tong infiltrou-se na Gangue Ching Tau e descobriu que eles estão planejando sequestrar Tiffany Long, a filha de um notório chefe da tríade Dragon Head Xi Long. Quando Billy descobre que Melinda, sua ex-mulher está grávida, ele questiona suas escolhas de carreira e arrisca a segurança da filha de Xi Long e de sua nova família.</info>
@@ -949,8 +949,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Esse filme é baseado nos capítulos do famoso clássico romantico de Wu Cheng'en's "Jornada ao Oeste", e conta a história de como o Macaco Rei se rebela contra o Imperador Jade do Céu.</info>
@@ -963,8 +963,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Continuação do filme The Monkey King (Tumulto no Reino Celestial, 2012). O filme narra a origem e o lugar de nascimento da Monkey King.</info>
@@ -977,8 +977,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos são espiões do governo.</info>
@@ -991,8 +991,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Ainda criança, Jyn Erso (Felicity Jones) foi afastada de seu pai, Galen (Mads Mikkelsen), devido à exigência do diretor Krennic (Ben Mendelsohn) que ele trabalhasse na construção da arma mais poderosa do Império, a Estrela da Morte. Criada por Saw Gerrera (Forest Whitaker), ela teve que aprender a sobreviver por conta própria ao completar 16 anos. Já adulta, Jyn é resgatada da prisão pela Aliança Rebelde, que deseja ter acesso a uma mensagem enviada por seu pai a Gerrera. Com a promessa de liberdade ao término da missão, ela aceita trabalhar ao lado do capitão Cassian Andor (Diego Luna) e do robô K-2SO.</info>
@@ -1005,8 +1005,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]REVIL06.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
 <info>Começando exatamente após os eventos de Resident Evil: Retribuição, Alice (Milla Jovovich) é a única sobrevivente do que era pra ser a última fortaleza da humanidade contra os mortos-vivos. Agora, ela precisa retornar para o local que deu inicio a esse pesadelo, a colméia em Raccon City, onde a corporação Umbrella está reunindo suas forças para atacar os últimos sobreviventes do apocalipse.</info>
@@ -1019,8 +1019,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
 <info>Começando exatamente após os eventos de Resident Evil: Retribuição, Alice (Milla Jovovich) é a única sobrevivente do que era pra ser a última fortaleza da humanidade contra os mortos-vivos. Agora, ela precisa retornar para o local que deu inicio a esse pesadelo, a colméia em Raccon City, onde a corporação Umbrella está reunindo suas forças para atacar os últimos sobreviventes do apocalipse.</info>
@@ -1033,8 +1033,8 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]REVIL05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
 <info>O letal vírus T da Umbrella Corporation continua devastando a Terra, transformando a população global em legiões de desmortos.
@@ -1050,8 +1050,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]REVIL04.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
 <info>Na trama, Alice continua em sua missão de procurar e proteger todos os sobreviventes que puder encontrar. Com a ajuda de uma velha amiga, ela tenta levá-los para Los Angeles, lugar que acredita ser seguro, até que a cidade é invadida por milhares de mortos-vivos. Agora, Alice deve salvá-los não só dos zumbis, mas também de sua violenta guerra com a Corporação Umbrella.</info>
@@ -1064,8 +1064,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]REVIL03.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
 <info>O T-Vírus experimental, criado pela Umbrella Corporation, foi liberado no mundo, transformando a população em zumbis que se alimentam de carne humana. Com as cidades sem segurança alguma, Carlos Olivera (Oded Fehr) e L.J. (Mike Epps), juntamente com as sobreviventes K-Mart (Spencer Locke) e Betty (Ashanti), reúnem um grupo e fogem pelo deserto, em um comboio blindado. Eles procuram outras pessoas que não estejam infectadas, mas apenas encontram outros mortos-vivos. O grupo é acompanhado pelo dr. Isaacs (Iain Glen), que está num complexo laboratorial subterrâneo da Umbrella Corporation, escondido sob uma torre de rádio abandonada em Nevada. Isaacs acompanha também Alice (Milla Jovovich), que, após ser capturada pela Umbrella, foi submetida a um teste biogenético que alterou sua configuração genética. Agora transformando-se constantemente e sob o risco de ser traída pelo seu próprio corpo, Alice segue o comboio e tenta conduzi-los ao seu destino: o Alasca, onde acreditam que estarão livres dos zumbis.</info>
@@ -1078,8 +1078,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]REVIL02.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
 <info>Desde que foi capturada pela Corporação Umbrella, Alice (Milla Jovovich) passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine (Sienna Guillory) e Carlos Olivera (Oded Fehr) para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.</info>
@@ -1092,8 +1092,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]REVIL01.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
 <info>Num laboratório de alta tecnologia (Umbrella), um vírus acaba contaminando todo o sistema. O sistema é controlado pelo super-computador denominado: "Red Queen". Com a contaminação, o "Red Queen" acaba "selando" o laboratório. Todos os cientistas ficam presos, e acabam infectados pelo vírus. As pessoas infectadas pelo vírus viram Zumbies, e todas as pessoas que esses montros mordem acabam virando a mesma criatura. Agora Alice (Milla Jovovich) e Rain (Michelle Rodriguez), líderes de um esquadrão militar especial invadem o laboratório. Alice tem apenas três horas para selar o laboratório, ou todo o planeta será infectado. Alice irá descobrir, ainda, que os zumbis não são a única forma letal de vida presente no local.</info>
@@ -1106,8 +1106,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Romance</genre>
 <info>Durante uma viagem de rotina no espaço, dois passageiros são despertados 90 anos antes do tempo programado, por causa de um mal funcionamento de suas cabines. Sozinhos, Jim (Chris Pratt) e Aurora (Jennifer Lawrence) começam a estreitar o seu relacionamento. Entretanto, a paz é ameaçada quando eles descobrem que a nave está correndo um sério risco e que eles são os únicos capazes de salvar os mais de cinco mil colegas em sono profundo.</info>
@@ -1120,8 +1120,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Baseado em eventos reais, a história se passa no Golfo do México, na plataforma de perfuração marítima Deepwater Horizon que explodiu em abril de 2010. Diante de um dos piores vazamentos de petróleo na história dos EUA, a coragem dos trabalhadores e a sobrevivência perante os momentos extremos.</info>
@@ -1134,8 +1134,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]HNCK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Hancock é um super-herói que perdeu a popularidade que tinha, devido às suas tentativas de resgate pouco convencionais. Após salvar Ray Embrey, um agente de relações públicas, ele se oferece para ajudá-lo a melhorar sua imagem. A ideia não é bem aceita por Mary, a esposa de Ray, que mostra ao marido que Hancock teve uma ordem de prisão contra si lançada. Ray então sugere que Hancock se entregue, mesmo podendo escapar da prisão na hora que quisesse, para dar o exemplo e iniciar a mudança de sua imagem junto ao público. Ray acredita que, com Hancock preso, a criminalidade irá disparar e, com isso, a população chamará de volta seu herói.</info>
@@ -1148,8 +1148,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Por meio de uma tecnologia revolucionária que destrava suas memórias genéticas, Callum Lynch (Michael Fassbender) experimenta as aventuras de seu ancestral, Aguilar, na Espanha do século XV. Callum descobre que é descendente de uma misteriosa sociedade secreta, os Assassinos, e acumula conhecimentos e habilidades incríveis para enfrentar a organização opressiva e poderosa dos Templários nos dias de hoje.</info>
@@ -1162,8 +1162,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Nacional e Comédia</genre>
 <info>Durante a década de 80, lutadores de vale-tudo passam por dificuldades devido à falta de lutas profissionais. A fim de manter a paixão pela luta, eles desafiam os valentões no interior do Ceará que aceitam participar da competição criada. Aluísio Li, um aficionado e alienado por filmes de artes marciais, vê seu mundo ameaçado quando Toni Tora Pleura, um lutador profissional aposentado resolve desafiar a todos.</info>
@@ -1176,8 +1176,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
 <info>Dave (Aaron Johnson) é um adolescente viciado em quadrinhos cansado de apanhar ou ser ameaçado. Até o dia em que ele resolve virar o super herói Kick Ass e mudar esta rotina. Como? Nem ele sabia, mas ao defender fantasiado de herói (e apanhando mais ainda) um cara que levava uma surra, o vídeo com as imagens dele enfrentando os bandidos foi parar na internet e ele virou um fenômeno. Dave só não contava que a sua fama iria envolvê-lo no meio de um plano de vingança de Big Daddy (Nicolas Cage) e Hit Girl (Chloe Moretz) contra Frank D'Amico (Mark Strong), um mafioso da cidade, vivendo uma verdadeira e violenta aventura que mudaria para sempre a sua vida.</info>
@@ -1190,8 +1190,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]KCKASS2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
 <info>O ato insano de Dave Lizewski (Aaron Taylor-Johnson) em se vestir como o super-herói Kick-Ass e ir para as ruas combater o crime, mesmo sem ter qualquer tipo de superpoder, serviu de inspiração para dezenas de pessoas, que resolveram seguir o mesmo caminho. Mindy Macready (Chloë Moretz) deseja seguir como a super-heroína Hit-Girl, mas o sargento Marcus Williams (Morris Chestnut), que prometeu ao pai dela que iria cuidá-la em sua ausência, não quer que ela leve uma vida perigosa. Com isso, Mindy é obrigada a levar a vida de uma garota de sua idade, deixando de lado os atos heróicos, por mais que Dave insista para que ela faça o contrário. Entretanto, a carreira heróica de Dave não será solitária por muito tempo, já que não demora muito para conhecer o Coronel Estrelas e Listras (Jim Carrey), um ex-integrante da máfia que está reunindo um grupo de super-heróis sem poderes para combater o crime. Paralelamente, Chris D'Amico (Christopher Mintz-Plasse) prepara sua vingança contra Kick-Ass, assumindo um novo codinome: Motherfucker.</info>
@@ -1204,8 +1204,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Arthur é um assassino profissional de elite, com regras simples e restritas para cumprir seu trabalho. Mas quando seu mentor e amigo, Harry, é assassinado, ele vai passar por cima de tudo e de todos para conseguir a sua vingança.</info>
@@ -1218,8 +1218,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Arthur Bishop (Jason Statham) é obrigado a reativar seu lado crimonoso quando amor de sua vida é sequestrado. Na mão do inimigo, ele é forçado a viajar pelo mundo para completar três impossíveis assassinatos e fazer o que sabe melhor: fingir que foram acidentes.</info>
@@ -1232,8 +1232,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]JCKRCHSRTN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Jack Reacher (Tom Cruise) retorna à base militar onde serviu na Virgínia, onde pretende levar uma major local, Susan Turner (Cobie Smulders), para jantar. Só que, logo ao chegar, descobre que ela está presa, acusada de ter vazado informações confidenciais do exército. Estranhando a situação, Reacher resolve iniciar uma investigação por conta própria e logo descobre que o caso é bem mais pessoal do que imaginava.</info>
@@ -1246,8 +1246,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]AVLTDJZFNL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
 <info>A história se passa em Los Angeles, quinze anos depois que o mundo sofreu um terrível desastre quando um demônio e criaturas invadiram a terra e quase destruíram a humanidade. David tenta salvar sua família enquanto as criaturas do demônio não retornam para causar estragos.</info>
@@ -1260,8 +1260,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>Esse filme é baseado nos capítulos do famoso clássico romantico de Wu Cheng'en's "Jornada ao Oeste", e conta a história de como o Macaco Rei se rebela contra o Imperador Jade do Céu.</info>
@@ -1274,8 +1274,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
@@ -1288,8 +1288,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
@@ -1302,8 +1302,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
@@ -1316,8 +1316,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
@@ -1330,8 +1330,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
@@ -1344,8 +1344,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
 <info>Ash, Pikachu, Iris e Cilan, que estão viajando pela região de Unova, chegam a Aind Oak, uma cidade com um castelo central chamado Earth's Sword (Espada da Terra). Uma vez, esta cidade floresceu como o 'Reino do Povo da Terra', mas agora está em declínio. Ash e seus amigos participam numa batalha em celebração ao festival da colheita local. Lá, eles conhecem e ajudam Victini, um lendário Pokémon que pode conceder misteriosos poderes a humanos e Pokémon. Dread Grangil, um descendente do 'Povo da Terra', que deseja restaurar o reino, planeja usar o poder de Victini para mover o Earth's Sword. O resultado desta ação acarretará em um grande desastre para Aind Oak. Se ele conseguir seu objetivo, conseguirão Ash e seus amigos salvar a cidade? Qual será o destino de Victini? Adicione a isso, o mistério de Zekrom e Reshiram e você terá a maior aventura da história Pokémon!</info>
@@ -1358,8 +1358,8 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>Christian Wolff (Ben Affleck) é um portador da Síndrome de Savant com mais afinidade por números do que por pessoas. Tendo um escritório de contabilidade em uma cidadezinha como fachada, ele trabalha como contador autônomo para algumas das mais perigosas organizações criminosas do mundo.
@@ -1373,8 +1373,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Terror</genre>
 <info>Uma nova raça de tubarões vorazes e agressivos surgem de uma fissura no Ártico, devoram todos os presentes em uma estação de pesquisa que decidiram se aproximar das águas frias. Quando a estação fica submersa, os sobreviventes devem se armar com que estiver ao alcance para enfrentar as criaturas assassinas.</info>
@@ -1387,8 +1387,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]SPCTRL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
 <info>Uma equipe de operações especiais é despachada para uma inesperada missão: lutar contra seres sobrenaturais agressivos que tomaram a cidade de Nova Iorque e ameaçam a sobrevivência de todos os humanos.</info>
@@ -1401,8 +1401,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Faroeste</genre>
 <info>Refilmagem do clássico faroeste (1960), que por sua vez é um remake de Os Sete Samurais, de Akira Kurosawa. Os habitantes de um pequeno vilarejo sofrem com os constantes ataques de um bando de pistoleiros. Revoltada com os saques, Emma Cullen (Haley Bennett) deseja justiça e pede auxílio ao pistoleiro Sam Chisolm (Denzel Washington), que reúne um grupo especialistas para contra-atacar os bandidos.</info>
@@ -1415,8 +1415,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Científica e Terror</genre>
 <info>Em um futuro próximo, o derretimento glacial cobriu 98% da Terra. Enquanto os sobreviventes se abrigam em embarcações, os tubarões se tornaram a espécie dominate do planeta, realizando um ataque mortal através da liderança de um tubarão alfa-mutante.</info>
@@ -1429,8 +1429,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
 <info>Mike e Washington, dois amigos mercenários, passeiam de iate pelo mar caribenho para comemorar um trabalho bem feito. Perto dali, um grupo de cientistas faz pesquisas em uma estação petrolífera e se prepara para resgatar um submarino nuclear russo naufragado. A descoberta de uma placa de pedra pertencente à antiga e lendária civilização de Atlântida coincide com um maremoto que destrói a plataforma. Os sobreviventes unem-se a Mike e Washington e chegam até terra firme, onde um batalhão de punks inicia sua missão de exterminar a humanidade para preparar o retorno dos habitantes de Atlântida.</info>
@@ -1443,8 +1443,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>Determinado a vingar o assassinato de sua irmã, Bruce Lee, se infiltra na fortaleza isolada de um poderoso chefão do crime, que utiliza sua academia de artes marciais como fachada para tráfico de ópio e prostituição. Para cumprir sua missão, Lee, terá que participar de um torneiro de vida ou morte.</info>
@@ -1457,8 +1457,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
 <info>A história gira em torno de um personagem chamado Jack, interpretado pelo ator George Eads, um jogador de poker que se encontra em débito com alguns personagens e precisa encontrar algum dinheiro rápido, para salvar a sua pele. Para isso ele conta com a ajuda de Paulie Trunks, papel de Seagal.</info>
@@ -1471,8 +1471,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]AFRDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Quando Chen Zhen descobre que seu venerado mestre foi morto em circunstâncias misteriosas, decide viajar para Xangai para participar do funeral. Em seguida, ele começa a investigar as causas da morte e se depara com uma intriga envolvendo escolas de artes marciais. Exposta a conspiração, Chen precisa lutar violentamente para vingar-se dos assassinos.</info>
@@ -1485,8 +1485,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
 <info>Fora do radar como lutator de rua, Jason Bourne (Matt Damon) é surpreendido por Nicky Parsons (Julia Stiles), que o procura oferecendo novas informações sobre seu passado. Inicialmente resistente, ele acaba voltando aos Estados Unidos para continuar a investigação e entra na mira do ex-chefe Robert Dewey (Tommy Lee Jones), que teme mais um vazamento de dados. Dentro na CIA, no entanto, a novata Heather Lee (Alicia Vikander) acredita que tentar recrutar Bourne para a agência seja a melhor solução.</info>
@@ -1499,8 +1499,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Hannah Lee Baker (Abigail Breslin) é uma jovem brilhante presa em um submundo sombrio de violência e armas, laboratórios de metanfetamina e gangues perigosas de motoqueiros, que tem no xadrez seu único refúgio. Ela vive com Amber, sua irmã mais velha (Alexa vega); e seu tio Donny (Lew Temple), um viciado. Tudos vivem com medo do tio Frank Stinson (Sean Bean), que cuida do negócio ilegal da família com punhos de ferro, ajudado por seu irmão psicótico mais novo, Bobby (Jake Busey). As coisas pioram quando Amber se apaixona por Wild Bill (James Purefoy), um traficante de metanfetamina em guerra com Frank. Hannah percebe que a única maneira de salvar sua família é jogando um peão contra o outro em um jogo real de xadrez</info>
@@ -1513,8 +1513,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>1952, uma grande nevasca leva uma plataforma de petróleo a se rachar, lançando 84 tripulantes ao mar. Enquanto a tempestade dificulta a sobrevivência do grupo, uma equipe de guardas costeiros tenta resgatar as vítimas.</info>
@@ -1527,8 +1527,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
 <info>Para um grupo de soldados americanos, alguns dias os separam do retorno para casa. Um período relativamente curto, se não fosse por tantas ocorrências que transformassem esse fim de jornada em um verdadeiro inferno. As forças armadas precisam de especialistas não só nos campos de combate mas também no dia a dia, na proteção do grupo contra insurgentes que promovem atentados, matando milhares de cidadãos.
@@ -1542,8 +1542,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
 <info>No século 21, o mundo passa por processo de deterioração e anarquia social. Considerada uma praga, apenas Pearl Prophet (Dayle Haddon), uma criatura meio humana meio robô, possui o conhecimento para criar uma vacina. Mas Pearl é capturado por canibais, os Flesh Pirates, que planejam manter o antídoto apenas para eles e dominar a Terra! Pearl agora vai precisr contar com a habilidade do mestre do sabre Gibson Rickenbacker (Van Damme).</info>
@@ -1556,8 +1556,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
 <info>Ao serem expulsos do templo de Shaolin por desacatarem seu Mestre, dois jovens passam a lutar pela sobrevivência. Mas os caminhos escolhidos são opostos, Jun Bao (Jet Li) luta por um ideal de paz e poder. Anos depois, uma traição faz com que estes caminhos se cruzem, colocando os dois amigos frente a frente cada um a lutar pelo seu ideal. Inicia-se uma luta sangrenta onde os dois maiores representantes de artes marciais do Oriente terão que mostrar todas as suas habilidades nem que para isso um deles chegue a morte. Uma história de amizade e justiça foi responsável pela origem mundial da maravilhosa arte do Tai Chi Chuan</info>
@@ -1570,8 +1570,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Buren é um velho policial tempo que não joga pelas regras. No submundo Paris a sua equipa nunca tem medo de usar seus músculos e armas para fazer cumprir a lei. Com todos os seus movimentos sob o escrutínio de Lenoir seu novo patrão, Buren sabe que seu tempo está se esgotando. Quando um assalto se transforma em assassinato, Buren segue suas entranhas e invade a casa de ex-presidiário Kasper um. Mas Kasper tem um álibi sólido e Buren tem que deixá-lo ir. Marginalizado, Buren e seu esquadrão desobedecer as ordens de Lenoir para tentar impedir um assalto a banco em curso. A operação é um banho de sangue e Buren leva a queda para ele. Mas, quando ele percebe que os assaltos são parte de uma operação maior, Buren com nada a perder, decide entrar em ação.</info>
@@ -1584,8 +1584,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]IBOY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
 <info>Após um acidente, Tom acorda de um coma e descobre que fragmentos do seu smart phone foram incorporados na sua cabeça. Ele também descobre que retornar à vida de um adolescente normal é impossível, pois ele desenvolveu super poderes.</info>
@@ -1598,8 +1598,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]INFRNO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>O renomado professor de simbologia de Harvard, Robert Langdon (Tom Hanks), visita a Itália e se envolve em mais uma aventura envolvendo símbolos ocultos e corporações secretas. Ele se vê em uma jornada em que procura desvendar os mistérios do clássico da literatura "A Divina Comédia", de Dante Alighieri.</info>
@@ -1612,8 +1612,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
 <info>A história gira em torno de Dave Ghantt, um guarda noturno de uma companhia de carros blindados no sul dos Estados Unidos que organiza um dos mais ousados assaltos a banco da história norte-americana.</info>
@@ -1626,8 +1626,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
 <info>Reúna um time dos super vilões mais perigosos já encarcerados, dê a eles o arsenal mais poderoso do qual o governo dispõe e os envie a uma missão para derrotar uma entidade enigmática e insuperável que a agente governamental Amanda Waller (Viola Davis) decidiu que só pode ser vencida por indivíduos desprezíveis e com nada a perder. No então, assim que o improvável time percebe que eles não foram escolhidos para vencerem, e sim para falharem inevitavelmente, será que o Esquadrão Suicida vai morrer tentando concluir a missão ou decidem que é cada um por si?</info>

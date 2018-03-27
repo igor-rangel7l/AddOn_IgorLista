@@ -9,8 +9,8 @@
 <link>$doregex[Igor_Rangel_Link]ASFCSDTNERDM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Winfried (Peter Simonischek) é um senhor que gosta de levar a vida com bom humor, fazendo brincadeiras que proporcionem o riso nas pessoas. Seu jeito extrovertido fez com que se afastasse de sua filha, Ines (Sandra Hüller), sempre sisuda e extremamente dedicada ao trabalho. Percebendo o afastameto, Winfried decide visitar a filha na cidade em que ela mora, Bucareste. A iniciativa não dá certo, resultando em vários enfrentamentos entre pai e filha, o que faz com que ele volte para casa. Tempos depois, Winfried ressurge na vida de Ines sob o alter-ego de Toni Erdmann, especialista em contar mentiras bem-intencionadas a todos que ela conhece.</info>
@@ -23,8 +23,8 @@
 <link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
 <info>Irene, de 13 anos, vem de uma família tradicional. Um dia, ela descobre que seu pai mantém uma segunda família e tem outra filha, com exatamente a mesma idade dela, também chamada Irene. As duas meninas se tornam amigas, e Irene reproduz a vida dupla de seu pai em um jogo de segredos e mentiras.</info>
@@ -37,8 +37,8 @@
 <link>$doregex[Igor_Rangel_Link]ARANHDESPNH.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Continuação do filme "A Garota dos Seus Sonhos", de 1998. A ação se passará 17 anos depois da época do primeiro filme, e conta com grande parte do elenco.
@@ -52,8 +52,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]APRMSA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Durante os turbulentos últimos dias do Império Otomano, surge um triângulo amoroso entre Michael, um estudante de medicina, Ana, uma sofisticada mulher, e Chris, um renomado jornalista americano.</info>
@@ -66,8 +66,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]APNSUGRTOEMNVYRK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>O mundo de Thomas Webb (Callum Turner), um jovem recém formado à deriva na cidade de Nova Iorque, começa a mudar quando ele descobre que seu pai (Pierce Brosnan) está tendo um caso com uma jovem sedutora (Kate Beckinsale). Determinado a romper o relacionamento, Thomas se envolve com a amante de seu pai, lançando uma cadeia de eventos que mudará tudo o que ele acha que conhece sobre ele e sua família.</info>
@@ -80,8 +80,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AOCRDNT2017.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Anna tem 16 anos de idade em uma vila onde as mulheres são acusadas de feitiçaria. É baseado no 'caça às bruxas' em Åland, na Finlândia em 1666.</info>
@@ -94,8 +94,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ANVDODIAB.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Anna tem 16 anos de idade em uma vila onde as mulheres são acusadas de feitiçaria. É baseado no 'caça às bruxas' em Åland, na Finlândia em 1666.</info>
@@ -108,8 +108,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ANTSQEVA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Samantha Kingston (Zoey Deutch) é uma jovem que tem tudo o que uma jovem pode desejar da vida: beleza, namorado, amigos. No entanto, essa vida perfeita chega a um final abrupto e repentino no dia 12 de fevereiro, um dia que seria um dia como outro qualquer se não fosse o dia da morte de Sam. Segundos antes de realmente morrer, ela terá a oportunidade de mudar a sua última semana e, talvez, o seu destino.</info>
@@ -122,8 +122,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
 <info>Brooke (Alice Eve) é uma jovem que está correndo para tentar pegar o trem em direção à Boston, mas ela acaba se atrasando após ser assaltada. Sem dinheiro ou amigos, ela está perdida na noite de Nova York. Até que ela conhece, por acaso, o trompetista Nick (Chris Evans). A dupla começa a passear em torno da cidade e cresce um forte sentimento entre eles. Estreia de Chris Evans na direção.</info>
@@ -136,8 +136,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AMREMTMPSDGRRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>A história de amor entre uma enfermeira americana idealista e um oficial turco na Primeira Guerra Mundial.</info>
@@ -150,8 +150,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Laura e Carlos se amam como se todo dia fosse o último, e talvez essa intensidade seja o que os separará um ano depois.</info>
@@ -164,8 +164,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AMENIAINDGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
 <info>Sofia (Letícia Braga) é uma menina de sete anos que apresenta comportamento considerado fora do padrão, na escola e em sua relação com os adultos. Sua mãe (Fernanda Machado), a executiva Luciana, acredita que ela tem algo especial que a faz curar as pessoas. Quando vai morar com o pai, Ricardo (Murilo Rosa), um jornalista competente e racional, começa a provocar mudanças nas relações familiares, obrigando todos ao seu redor a repensarem suas vidas. Sofia é representante de uma nova geração de crianças chamadas de índigos, que, acredita-se, têm potenciais transformadores da sociedade</info>
@@ -178,8 +178,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ACUA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>Um empregado é enviado para buscar seu chefe em um "spa de bem-estar" europeu, mas logo descobre que o lugar tem um propósito mais sinistro do que apenas servir os seus clientes.</info>
@@ -192,8 +192,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ALVOTRPL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>Quando um assalto dá tragicamente errado, três criminosos de carreira se veem presos num armazém, com a lei se aproximando. Mas, dentro do armazém, uma ameaça maior os espera - um cão de ataque vicioso que fará com que os fugitivos lutem por suas vidas.</info>
@@ -206,8 +206,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ALMDMRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>Cinco estudantes médicos iniciam uma experiência para descobrir o que há depois da morte, esperando conseguir renome dentro da área. Ao parar seus corações por curtos períodos de tempo, eles disparam uma experiência de quase-morte. Mas logo eles são forçados a confrontar os pecados de seus passados enquanto a investigação se torna perigosa e paranormal.</info>
@@ -220,8 +220,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ALEOA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Eva é uma menina que nasceu com hipertricose lanuginosa congênita, uma doença que faz com que os pêlos cresçam em grandes partes do seu corpo. Eva é examinada por médicos em formas humilhantes e maltratada na escola. Ela se apaixona, experimenta respeito e desrespeito. Em sua adolescência, Eva viaja em um grupo de teatro, juntamente com outras pessoas que sofrem de doenças raras.
@@ -235,8 +235,8 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]ALAMNA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>A irmã mais nova de Manji (Takuya Kimura) é morta na frente dele; ele decide se vingar. Uma mulher misteriosa aparece na frente de Manji. E ela lhe dá a eterna juventude e a imortalidade. Os pais de Rin Asano são mortos pelo grupo de espadachins "Itto ryu" e o estúdio de esgrima dos pais dela é destruído'. Para vingar seus pais, ela pede Manji para ser seu protetor. Rin e Manji começam a sua vingança contra "Itto ryu".</info>
@@ -249,8 +249,8 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AGURDSXS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Na sequência da revolução sexual e do surgimento do movimento feminista, a partida de tênis de 1973 entre a campeã mundial feminina Billie Jean King (Emma Stone) e o ex-campeão dos homens Bobby Riggs (Steve Carell) foi divulgada como A Guerra dos Sexos e se tornou um dos eventos esportivos televisionados mais vistos de todos os tempos, chegando a 90 milhões de telespectadores em todo o mundo. À medida em que a rivalidade entre King e Riggs aumentava, fora de campo, cada um enfrentava batalhas mais pessoais e complexas. Juntos, Billie e Bobby apresentaram um espetáculo cultural que ressoou muito além da quadra de tênis, provocando discussões em quartos e salas de reuniões que continuam a reverberar hoje.</info>
@@ -263,8 +263,8 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AGURA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>O filme se passa em um período pós-apocalíptico nos Estados Unidos, onde um veterano da guerra do Afeganistão tenta superar o passado enquanto procura por sua família.</info>
@@ -277,8 +277,8 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AESPRDCHV.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>O filme conta a história da repórter nova-iorquina Emma Gardner. Ao saber da morte prematura de seu pai, ela retorna à sua cidade natal para descobrir que a comunidade agrícola de sua infância foi devastada pela seca e tornou-se um lugar atormentado por gangues e pelos efeitos nocivos da pobreza extrema. Ela rapidamente descobre que a morte acidental de seu pai não foi acidental em tudo. As listas de possíveis suspeitos incluem ambientalistas excessivamente zelosos, um líder local e outros agricultores com inveja da excelente reputação de seu pai.</info>
@@ -291,8 +291,8 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]ADSCHRSPRRBBIN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Inglaterra, década de 1920. 'Goodbye Christopher Robin' conta a história de um pai, A.A. Milne, e um filho, Robin, em conflito ante os efeitos corrosivos da celebridade e os inevitáveis desafios do crescimento. Os livros sobre o ursinho Pooh (Puff) são um sucesso comercial e a família Milne faz um acordo sobre como isso afeta a todos.
@@ -306,8 +306,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]1922.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Wilfred James (Thomas Jane), é um fazendeiro que assassina a própria esposa com a ajuda de seu filho. Depois do acontecido, com o remorso e uma sucessão de problemas acontecendo logo após o crime, Wilfred acredita que o espírito da sua esposa está assombrando ele.</info>
@@ -414,8 +414,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]OPDREOIMPSVL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Eric (Josh Hartnett) é um jovem rebelde à procura de respostas. Durante um fim de semana ele resolve se hospedar em uma estação de esqui. Tudo que quer é a tranquilidade da natureza e praticar seu esporte favorito. Depois de algum tempo explorando a área ele é pego inesperadamente por uma gigantesca tempestade de neve. Perdido, e sem conseguir contato com ninguém, somente algo extraordinário poderá salva-lo. Baseado em uma história real e no livro de grande sucesso.</info>
@@ -428,8 +428,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]RANHDMND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Catherine (Elisabeth Moss) e Virgínia (Katherine Waterston) são melhores amigas que cresceram juntas. Alguns eventos do ano passado ainda permanecem e as coisas não estão indo muito bem. As duas começam a criticar os privilégios da outra e a confiança da amizade delas fica abalada. Resta saber o que sobrou dessa amizade.</info>
@@ -442,8 +442,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Arthur (Charlie Hunnam) é um jovem das ruas que controla os becos de Londonium e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua família.</info>
@@ -456,8 +456,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Seretse Khama (David Oyelowo), primeiro presidente do Botswana, causa uma polêmica de proporções nacionais ao se casar com uma mulher branca.</info>
@@ -471,8 +471,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Seretse Khama (David Oyelowo), primeiro presidente do Botswana, causa uma polêmica de proporções nacionais ao se casar com uma mulher branca.</info>
@@ -485,8 +485,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ASTRBDPLSVRDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Dois irmãos adolescentes, Medina (Maika Monroe) e Jim (Cody Fern) têm de se readaptarem quando mudam com os pais para uma cidade praiana da região de Palos Verdes, na Califórnia. O clima em casa não é nada bom, pois a mãe (Jennifer Garner) sofre um colapso nervoso e o pai fica cada vez mais ausente por causa de seu trabalho como cirurgião plástico de estrelas de Hollywood. Desanimada, Medina começa a surfar para esquecer os problemas domésticos.</info>
@@ -498,8 +498,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>Quando o jovem problemático Milo, fascinado por vampiros, conhece a igualmente alienada Sophie, os dois formam um laço que começa a enevoar a linha do garoto entre a realidade e a fantasia.</info>
@@ -512,8 +512,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Ficção Cientifica</genre>
 <info>Trinta anos após os acontecimentos do primeiro filme, a humanidade está novamente ameaçada, e dessa vez o perigo pode ser ainda maior. Isso porque o novato oficial K (Ryan Gosling), desenterrou um terrível segredo que tem o potencial de mergulhar a sociedade no completo caos. A descoberta acaba levando-o a uma busca frenética por Rick Deckard (Harrison Ford), desaparecido há 30 anos.</info>
@@ -526,8 +526,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CHRCHL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Junho de 1944: As forças Aliadas estão organizando um enorme exército no sul da Grã-Bretanha, com o intuito de recuperar o território europeu ocupado pelos nazistas. Apenas um homem se encontra em seu caminho: Winston Churchill (Brian Cox). Por detrás da figura icônica e dos discursos inspiradores, está um homem que já enfrentou a humilhação política, o fracasso militar e até um problema na fala. Impulsivo, por vezes ameaçador, e obcecado com o seu legado para a história, Churchill teme repetir o mesmo erro que, em 1915, levou ao massacre de centenas de milhares de soldados em Galípoli.</info>
@@ -540,8 +540,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
 <info>Rosa se cobra por ter que dar conta de todas as suas obrigações, mas descobre que não consegue e também que a vida é cheia de surpresas, principalmente, as vindas de sua própria mãe.</info>
@@ -554,8 +554,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Dois triângulos amorosos se cruzam. É uma história de obsessão sexual e traição em meio à cena musical em Austin, no estado americano do Texas.</info>
@@ -567,8 +567,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]DCNHDAMRC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Star (Sasha Lane), uma adolescente que busca viver aventuras, decide se juntar a um caixeiro viajante e cruzar o território do meio-oeste dos Estados Unidos vendendo assinaturas de revistas. No meio da viagem, ela entra em uma loucura de festas, crimes e amores junto com um grupo de desajustados.</info>
@@ -581,8 +581,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Terror e Drama</genre>
 <info>Jesse (Elle Fannng) é uma jovem de 18 anos que acaba de chegar a Los Angeles. Dona de uma beleza natural impressionante, ela tenta a sorte como modelo profissional. Após tirar algumas fotos mórbidas para um jovem fotógrafo, é contratada por uma conceituada agência de modelos. Bastante ingênua, ela passa a lidar com o ego sempre inflado das demais modelos e também com a maquiadora Ruby (Jena Malone), que possui intenções ocultas com a jovem.</info>
@@ -595,8 +595,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]DUKRK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
 <info>Na Operação Dínamo, mais conhecida como a Evacuação de Dunquerque, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial. A história acompanha três momentos distintos: uma hora de confronto no céu, onde o piloto Farrier (Tom Hardy) precisa destruir um avião inimigo, um dia inteiro em alto mar, onde o civil britânico Dawson (Mark Rylance) leva seu barco de passeio para ajudar a resgatar o exército de seu país, e uma semana na praia, onde o jovem soldado Tommy (Fionn Whitehead) busca escapar a qualquer preço.</info>
@@ -609,8 +609,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]EMDEFDCRST.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Um jornalista investigativo, ateu convicto, parte em uma investida para desmentir a existência de Deus após sua esposa tornar-se cristã.</info>
@@ -623,8 +623,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]DSCNHCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Oferecendo um jantar em casa junto com a esposa, Tom (Michael Shannon) recebe com surpresa Alice (Rachel Weisz), acompanhante de um dos convidados. Ele tem certeza que a conhece, ainda que o nome e as informações compartilhadas não batam com suas lembranças, e a reunião de amigos transforma-se em uma jornada dupla de (re)conhecimento.</info>
@@ -637,8 +637,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>A história é centrada em Katherine Johnson (Henson), uma brilhante matemática afroamericana que, ao lado das colegas Dorothy Vaughn e Mary Jackson, foi peça fundamental numa das maiores operações da história dos Estados Unidos: o lançamento do astronauta John Glenn para a órbita da Terra e seu retorno em segurança. Junto, o trio ultrapassou todos os limites de gênero, raça e profissionais para embarcar e serem muito bem-sucedidas nessa missão pioneira.</info>
@@ -651,8 +651,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>A história é centrada em Katherine Johnson (Henson), uma brilhante matemática afroamericana que, ao lado das colegas Dorothy Vaughn e Mary Jackson, foi peça fundamental numa das maiores operações da história dos Estados Unidos: o lançamento do astronauta John Glenn para a órbita da Terra e seu retorno em segurança. Junto, o trio ultrapassou todos os limites de gênero, raça e profissionais para embarcar e serem muito bem-sucedidas nessa missão pioneira.</info>
@@ -665,8 +665,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Um estudante do ensino médio lutando para ajudar a sua mãe instável e seu cão doente forma uma improvável amizade com uma bela fugitiva.</info>
@@ -679,8 +679,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]FRLDSORCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Uma mãe vai à Patagônia com o filho autista, esperando que um guarda e baleias orcas o ajudem a encontrar suas emoções.</info>
@@ -693,8 +693,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>A história de um jovem soldado alemão que começa um conflito consigo mesmo ao perceber a decepção de seu próprio governo. Eles não eram todos iguais...</info>
@@ -707,8 +707,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>A história de um jovem soldado alemão que começa um conflito consigo mesmo ao perceber a decepção de seu próprio governo. Eles não eram todos iguais...</info>
@@ -721,8 +721,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
 <info>Ao chegar em Los Angeles, o pianista de jazz Sebastian (Ryan Gosling) conhece a atriz iniciante Mia (Emma Stone) e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva cidade, os jovens tentam fazer o relacionamento amoroso dar certo.</info>
@@ -735,8 +735,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
 <info>Em um futuro próximo, um cansado Logan cuida do doente Professor Xavier em um esconderijo na fronteira mexicana. Mas as tentativas de Logan de se esconder do mundo e de seu legado são interrompidas com a chegada de uma jovem mutante, perseguida por forças sombrias.</info>
@@ -749,8 +749,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
 <info>No Brasil dos anos 1980, Augusto Mendes é um ator frustrado que faz sucesso em pornochanchadas, mas sonha com os holofotes. Sua grande chance surge ao se tornar “Bingo”, palhaço apresentador de um programa infantil na televisão. Graças ao jeito irreverente de Augusto, Bingo se torna um sucesso absoluto. Mas uma cláusula no contrato não permite que ele revele quem é o homem por trás da máscara, tornando-o o anônimo mais famoso do Brasil. Livremente inspirado na história real de Arlindo Barreto, um dos intérpretes do palhaço Bozo no programa do SBT.</info>
@@ -763,8 +763,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>No século X, durante uma revolta de camponeses, o rei, um terrível tirano, morre nos combates. Seu filho, um jovem príncipe, presencia tudo, além de ser gravemente ferido. A rainha, vendo o estado do filho, invoca o poder mágico de um dragão para salvá-lo, mas este só concorda em socorrê-lo dividindo o seu coração quando o príncipe jura que será bom e justo. No entanto, ele se torna um rei mais perverso que o pai e um jovem cavaleiro acredita que foi o coração do dragão que modificou o príncipe. Assim, decide eliminar todos os dragões, mas quando falta apenas um para ser morto o cavaleiro passa a ter uma visão real dos fatos.</info>
@@ -777,8 +777,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>Quando um garoto solitário e órfão descobre aquele que pode ser o último dragão vivo na terra, ele percebe que seu sonho de se tornar um cavalheiro pode virar realidade. Entre desafios e obstáculos, a dupla vai vivendo heroicas aventuras, mas algo maior se aproxima. Eles estariam preparados para grandes desafios?</info>
@@ -791,8 +791,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>Quando o jovem escudeiro Gareth vai em busca de um cometa caído, ele acredita que detém ouro que ele pode usar para pagar a sua cavalaria . Em vez de encontrar um cometa, Gareth encontra o Drago dragão que tem caído na Terra e está sendo caçado por um malvado feiticeiro . Após Drago salva a vida de Gareth , os dois se tornam intrinsecamente ligados e devem trabalhar juntos para derrotar o feiticeiro e parar seu reinado de terror. Ao longo do caminho , Gareth aprende o verdadeiro significado de ser um cavaleiro .</info>
@@ -805,8 +805,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>Ação, aventura e fantasia esperam por você neste novo capítulo da saga “Coração de Dragão”. Drago, um dragão que compartilha seu coração com o Rei da Britânia, precisa encontrar um herdeiro para o trono por causa do falecimento do Rei. Mas os possíveis herdeiros, os irmãos gêmeos Edric e Meghan, usam sua força e habilidade de controlar o fogo herdados do dragão um contr o outro.</info>
@@ -819,8 +819,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]MAE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>Um casal vive em um imenso casarão no campo. Enquanto a jovem esposa (Jennifer Lawrence) passa os dias restaurando o lugar, afetado por um incêndio no passado, o marido mais velho (Javier Bardem) tenta desesperadamente recuperar a inspiração para voltar a escrever os poemas que o tornaram famoso. Os dias pacíficos se transformam com a chegada de uma série de visitantes que se impõem à rotina do casal e escondem suas verdadeiras intenções.</info>
@@ -833,8 +833,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]NAMRDATRDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>'The Wall' é descrito como uma competição mortal de gato e rato travada por um atirador americano e um franco-atirador iraquiano que tem ele preso atrás de um pequeno pedaço de concreto. O atirador está comandando a frequência de comunicação, e os inimigos falam uns com os outros através de um impasse que irá revelar-se fatal para um deles. The Wall é considerado o primeiro filme original da Amazon Studios.</info>
@@ -847,8 +847,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]NOSNITS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Uma viúva solitária tenta se conectar com seu vizinho de décadas após ele também perder a esposa. Os dois moraram lado a lado por anos e quase não se conheceram – agora, na velhice, começam a estabelecer uma conexão e descobrir uma química perfeita.</info>
@@ -861,8 +861,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]NTOPDPDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>O longa adaptará o livro futurista de J.G. Ballard publicado em 1975, sobre uma sociedade estruturada numa torre de condomínio gigantesca, projetada para isolar seus moradores do mundo exterior. Porém, o que era para ser o local perfeito para viver, uma guerra entre classes acontece, recriando um novo mundo governado pelas leis da selva.</info>
@@ -875,8 +875,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ITACOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>Um grupo de crianças enfrentam seus maiores medos quando tentam descobrir a causa do desaparecimento de várias crianças em sua cidade natal, Derry. Eles acabam se deparando com uma força maligna em forma de palhaço, chamado de Pennywise, cujo histórico de mortes e violência se repetem há séculos.</info>
@@ -889,8 +889,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]MONLGHTSBLZDLR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Black (Trevante Rhodes) trilha uma jornada de autoconhecimento enquanto tenta escapar do caminho fácil da criminalidade e do mundo das drogas de Miami. Encontrando amor em locais surpreendentes, ele sonha com um futuro maravilhoso.</info>
@@ -903,8 +903,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Holanda, século XVII. O artista Jan van Loos (Dane DeHaan) é contratado para pintar o retrato do casal Sandvoort e imediatamente se apaixona pela jovem esposa do rico comerciante, Sophia (Alicia Vikander). Completamente envolvida no tórrido romance e cansada da existência infeliz ao lado do marido, ela decide fugir de casa para viver o amor.</info>
@@ -917,8 +917,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]EMBSCDVNG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Com base no acidente aéreo ocorrido em julho de 2002 e sobre os acontecimentos que tiveram lugar 478 dias depois.</info>
@@ -931,8 +931,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]NABTDADAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Conta a história de uma rapper que entra em uma universidade e se junta a uma classe de poesia. Embora as aulas não melhoram suas habilidades líricas como esperado, elas desencadeiam nela uma paixão pela ''batida da poesia''.</info>
@@ -945,8 +945,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]OCSTLDVDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Uma família disfuncional viajava o tempo todo, sem se preocupar com o futuro. Quando o dinheiro dos pais acabou, Jeanette e o irmão tiveram que cuidar de si mesmos, até conseguirem ir embora.</info>
@@ -959,8 +959,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]OESTNHQNSAMAMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Um soldado da União, ferido em combate durante a Guerra de Secessão, acaba encontrando refúgio e um lugar para se curar dentro de um internato para mulheres localizado em território Confederado. Lá, o soldado se recupera, mas acaba conquistando o coração de algumas das mulheres no processo.</info>
@@ -973,8 +973,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]OSCMNHSDOTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Sam é um jornalista independente que aproveita o fato de conhecer bastante da cultura muçulmana para se infiltrar nos grupos fundamentalistas nos subúrbios de Paris. Ele se aproxima de um grupo de quatro jovens e descobre que para eles fora dada a tarefa de criar uma célula jihadista para semear o caos na cidade de Paris.</info>
@@ -987,8 +987,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]OMGDSMENTRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>O enredo gira em torno de Bernard Madoff, um ex-consultor financeiro norte-americano que criou uma das maiores empresas de investimentos de Wall Street. Condenado por fraude, ele foi responsável por uma sofisticada operação, nomeada Esquema Ponzi, que é considerada a maior fraude financeira da história dos EUA.</info>
@@ -1001,8 +1001,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]OSMENQENGNVMNZIS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Dois irmãos judeus fogem por toda a França durante a ocupação alemã na Segunda Guerra Mundial, tentando encontrar sua família novamente.</info>
@@ -1015,8 +1015,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]OTNEL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Jung-su dirige para casa. No caminho, algo inacreditável acontece: um túnel despenca, deixando-o preso entre os escombros. O episódio gera um frenesi na mídia local e um repórter consegue fazer uma entrevista com Jung-su por celular. Em poucos dias uma série de erros primários no resgate colocam-no em uma situação ainda mais complicada, deixando-o sem comida, sem água e incomunicável. Os dias passam, as buscas não progridem e todos começam a perder as esperanças, enquanto sua família é forçada a tomar uma difícil decisão, sem saber se Jung-su está vivo ou morto.</info>
@@ -1029,8 +1029,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]OZOLGCDVRSVIA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Antonina ?abi?ski e o marido, Jan, eram funcionários do Jardim Zoológico de Varsóvia quando o exército nazista alemão invadiu a Polônia em 1939. Estruturas foram destruídas e muitos animais mortos, mas o casal permaneceu no local e, inseridos na resistência, passaram a utilizar as instalações para esconder judeus. Assim salvaram centenas de vidas.</info>
@@ -1043,8 +1043,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]SNODNHROTRIDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Filme de Oliver Stone sobre Edward Snowden, ex-funcionário da CIA que divulgou para a imprensa uma série de documentos sigilosos da Agência de Segurança Nacional dos EUA que comprovaram atos de espionagem do governo norte-americano.</info>
@@ -1067,8 +1067,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>Ambientado durante a ocupação do Iraque, um pelotão de soldados norte-americanos tentam proteger uma pequena aldeia.</info>
@@ -1081,8 +1081,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Quando um Christian Grey (Jamie Dornan) ferido tenta seduzir uma Ana Steele (Dakota Johnson) cautelosa de volta a sua vida, ela demanda um novo arranjo antes de dar uma nova chance a ele. Conforme os dois começam a construir confiança e encontrar estabilidade, figuras sombrias do passado de Christian começam a assombrar o casal, determinadas a destruir suas esperanças de um futuro juntos.</info>
@@ -1095,8 +1095,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CHTBKRALNDJZ.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Cinebiografia contando a história da lenda do jazz, o trompetista Chet Baker (Ethan Hawke), e seu envolvimento com drogas que o levou em direção ao isolamento e a busca de forças para voltar aos palcos com a ajuda do amor, quando se apaixona por Jane (Carmen Ejogo).</info>
@@ -1109,8 +1109,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CHRSTINE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>No ano de 1974, Christine Chubbuck (Rebecca Hall), ambiciosa e talentosa repórter de uma emissora local de televisão, entra em crise por frustrações profissionais e amorosas e toma uma decisão que os telespectadores em Sarasota, Flórida, jamais esquecerão. Baseado em fatos reais.</info>
@@ -1123,8 +1123,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CDGDSLNC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>A fraternidade Lambda Lambda Phi possui um dos processos seletivos mais curiosos dentre as prestigiadas universidades americanas. Tudo é visto pelos olhos de um candidato dividido entre honrar as regras do grupo ou se levantar contra a crescente violência dos trotes.</info>
@@ -1137,8 +1137,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>llie (Grace Van Patten) e Danny (Callum Turner) formam um par improvável de criminosos lançados juntos durante dois dias de verão em Nova York. Suas desventuras pelas ruas, bairros mais afastados e subúrbios da cidade incluem um assalto, uma maleta roubada, engano de identidade - e a perspectiva de um romance imprevisto.</info>
@@ -1151,8 +1151,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ALEIDNOT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
 <info>Boston, década de 1920. Joe Coughlin, filho mais novo de um capitão de polícia, se envolve com o crime organizado. Ele aproveita seus dias rodeado de dinheiro e poder, mas suas escolhas podem levá-lo à prisão, ou até mesmo à morte. Adaptação do livro escrito por Dennis Lehane.</info>
@@ -1165,8 +1165,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ACLHTDFE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Retrata a história real da vida de Michael Spurlock, que recebeu a ordem de fechar uma pequena igreja do interior mas, ao invés disso, decidiu tomar outros rumos e acabou se tornando pastor do local. E tudo isso após descobrir que, no momento, os fiéis estavam tentando ajudar um grupo de refugiados vindos do sudeste asiático. Juntos, eles farão de tudo para salvar o local.</info>
@@ -1329,8 +1329,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Após comprovar cientificamente a existência de vida depois da morte, um cientista vê sua descoberta liberar um verdadeiro caos em meio a população, causando uma onda de suicídios. Em meio a este turbilhão, o filho do cientista se apaixona por uma mulher que tem um passado marcado por eventos trágicos.</info>
@@ -1343,8 +1343,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Uma garota de 12 anos que passa por diversos lares adotivos durante sua vida ao ser enviada para a casa de Maime Trotter elabora um plano de fuga para se juntar à sua mãe biológica, mas descobre que as coisas não são tão simples quanto ela imaginava.</info>
@@ -1357,8 +1357,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]AQRIS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
 <info>Clara, 65 anos de idade, é uma escritora e crítica de música aposentada. Ela é viúva, mãe de três filhos adultos, e moradora de um apartamento repleto de livros e discos no Bairro de Boa Viagem, num edifício chamado Aquarius. Interessada em construir um novo prédio no espaço, os responsáveis por uma construtora conseguiram adquirir quase todos os apartamentos do prédio, menos o dela. Por mais que tenha deixado bem claro que não pretende vendê-lo, Clara sofre todo tipo de assédio e ameaça para que mude de ideia.</info>
@@ -1371,8 +1371,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
 <info>Ben é o pai de seis crianças, que decide fugir da civilização e criar os filhos nas florestas selvagens do Pacífico Norte. Ele passa os seus dias dando lições às crianças, ensinando-os a praticar esportes e a combater inimigos. Um dia, no entanto, Ben é forçado a deixar o local e retornar à vida na cidade. Começa o aprendizado do pai, que deve se acostumar à vida moderna.</info>
@@ -1385,8 +1385,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Policial e Drama</genre>
 <info>Depois que sua mãe acaba na prisão, duas irmãs se voltam a roubar trens para sustentar sua família.</info>
@@ -1399,8 +1399,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]DPSDTD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
 <info>Ney e Marcos são melhores amigos que dividem apartamento, trabalho, sonhos, palco e alguns desejos. Entre eles, Bebel. Uma garota linda, destemida e solitária, que desperta nos dois diferentes anseios. Uma fatalidade os afasta. Anos depois, a notícia de que Bebel está em coma pode resgatar os laços de amizade e amor que foram brutalmente rompidos.</info>
@@ -1413,8 +1413,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Essa nova parte da franquia de Ela Dança, Eu Danço une as estrelas dos filmes anteriores. O filme se passa na brilhante Las Vegas, onde o pessoal terá que lutar por uma vitória que poderá definir seus sonhos e suas carreiras</info>
@@ -1427,8 +1427,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Na história, um grupo de dançarinos de rua se unem a um calouro da Universidade de Nova York para uma competição contra os melhores dançarinos no mundo, o que promete mudar as suas vidas para sempre.</info>
@@ -1441,8 +1441,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Numa tradicional escola de dança em Maryland, dois alunos dançarinos - e de formação bem diferente um do outro - se vêem às voltas com um romance apaixonado. Sequência de "Ela Dança, Eu Danço".</info>
@@ -1455,8 +1455,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Após depredar um colégio, Tyler Gage (Channing Tatum) é enviado para fazer serviços comunitários em uma escola de artes. Lá ele conhece Nora Clark (Jenna Dewan), uma bela aluna de dança moderna que precisa urgentemente de um novo parceiro. Tyler está acostumado com as danças de rua, mas reluta à idéia de ser o novo parceiro de Nora. Aos poucos ele aceita a idéia e passa a se envolver com Nora.</info>
@@ -1469,8 +1469,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
 <info>Coisas estranhas começam a acontecer na vida de Bruno (Fábio Porchat), um jovem de quase 30 anos que acaba de se separar da mulher (Giovana Lancelotti). Bruno tropeça no ar, esbarra no que não vê – até perceber que as pessoas ao seu redor estão desaparecendo só para ele. Os dias correm e a situação só piora. Com a ajuda da mãe (Irene Ravache) e do melhor amigo (Marcos Veras), Bruno tentará se adaptar a esse novo mundo com cada vez menos gente.</info>
@@ -1483,8 +1483,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Aventura e Ficção Cientifica</genre>
 <info>Durante uma missão a Marte, o astronauta Mark Watney (Matt Damon) é dado como morto após uma feroz tempestade e é deixado para trás por sua tripulação. Mas Watney sobrevive e encontra-se sem recursos e sozinho no planeta hostil. Apenas com suprimentos escassos, Watney deve contar com a sua criatividade, engenho e espírito para subsistir e encontrar uma maneira de sinalizar à Terra que está vivo. A milhões de quilômetros de distância, a NASA e uma equipe de cientistas internacionais trabalham incansavelmente para trazer "o marciano" de volta enquanto seus colegas de tripulação simultaneamente traçam uma ousada, se não impossível, missão de resgate. Conforme essas histórias de incrível bravura se desdobram, o mundo se une para torcer pelo retorno seguro de Watney.</info>
@@ -1497,8 +1497,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]JNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
 <info>Jonas tem 20 anos, uma vida vazia e uma paixão de infância por Branca, filha da patroa de sua mãe. Na véspera do carnaval um acidente faz com que ele a seqüestre e a esconda no interior da Baleia, carro alegórico da escola de samba do bairro. Na semana entre os desfiles os dois vivem uma história de amor impossível, dentro da Baleia. Do lado de fora o drama de Jonas se intensifica à medida que a semana corre e ele tem que lidar com as consequências do sequestro.</info>
@@ -1511,8 +1511,8 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
 <info>Telefilme editado a partir da minissérie de Vivian de Oliveira.
@@ -1526,8 +1526,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]LVNDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Quando Jane, uma fotógrafa, sofre de perda de memória depois um traumático acidente de carro, estranhas pistas expostas em suas fotas sugerem que ela pode ser a responsável pela morte da família que ela nunca soube que teve.</info>
@@ -1540,8 +1540,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]MASHUM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
 <info>Baseado numa história real, “Mãe Só Há Uma” é um drama familiar que retrata a vida conturbada de um adolescente de 16 anos, que vai viver com outra família ao descobrir que sua mãe o roubou na maternidade, sendo obrigado a deixar a família que o criou. Isso ocorre em um momento em que sua vida apresenta transformações, inclusive no âmbito da sexualidade.</info>
@@ -1554,8 +1554,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]MNDCA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
 <info>Mundo Cão conta a história de Santana (Babu Santana), que trabalha recolhendo cachorros abandonados para o Controle às Zoonoses, e um dia é abordado por um furioso homem que se diz dono de um enorme cão apreendido.</info>
@@ -1568,8 +1568,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Ficção Cientifica</genre>
 <info>Kathy (Carey Mulligan), Ruth (Keira Knightley) e Tommy (Garfield) são amigos íntimos que cresceram juntos num internato inglês que possui um segredo assustador. Quando eles descobrem a excruciante verdade – que eles são clones produzidos geneticamente para serem doadores de órgãos – eles se agarram ao breve tempo que lhes resta para viver e amar.</info>
@@ -1582,8 +1582,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OCHMD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>achel Keller (Naomi Watts) é uma jornalista que decide investigar a misteriosa morte de sua sobrinha. Ela percebe a relação da morte dela e de várias outras mortes com um estranho vídeo, que faz com que todas as pessoas que o assistam morram exatamente sete dias depois. Intrigada com a história, ela agora precisa descobrir um meio que impeça que a profecia se realize, já que ela e seu filho assistiram ao vídeo.</info>
@@ -1596,8 +1596,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OCHMDII.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>Seis meses após os eventos que aterrorizaram Rachel Keller (Naomi Watts) e seu filho Aidan (David Dorfman), os dois tentam deixar para trás as lembranças de Samara (Daveigh Chase) e sua fita de vídeo amaldiçoada. Rachel e Aidan se mudam de Seattle para a pequena comunidade litorânea de Astoria, no estado de Oregon, onde pretendem recomeçar a vida. Porém, após a ocorrência de um crime local que tem uma fita de vídeo envolvida, Samara retorna para reiniciar seu ciclo de mortes.</info>
@@ -1610,8 +1610,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OCHMD3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>O filme amaldiçoado de Samara começa a circular novamente e faz mais vítimas. Entre os que têm o destino alterado ao assistir o vídeo está a jovem Julia (Matilda Lutz). Assim como o namorado Holt (Alex Roe), ela recebe uma ligação sinistra, avisando que só lhe restam sete dias de vida. Até lá, ela precisa descobrir um meio de se libertar da maldição de Samara e de sobreviver às aparições malignas da menina.</info>
@@ -1624,8 +1624,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>O filme amaldiçoado de Samara começa a circular novamente e faz mais vítimas. Entre os que têm o destino alterado ao assistir o vídeo está a jovem Julia (Matilda Lutz). Assim como o namorado Holt (Alex Roe), ela recebe uma ligação sinistra, avisando que só lhe restam sete dias de vida. Até lá, ela precisa descobrir um meio de se libertar da maldição de Samara e de sobreviver às aparições malignas da menina.</info>
@@ -1638,8 +1638,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OSAMRSDANLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Uma menina órfã, enviada para um irmão e uma irmã por engano, encanta sua nova casa e sua comunidade com seu espírito e imaginação.</info>
@@ -1652,8 +1652,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]STMNDPSDMENTDUB.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Conor é um garoto de 13 anos de idade, com muitos problemas na vida. Seu pai é muito ausente, a mãe sofre um um câncer em fase terminal, a avó é uma megera e ele é maltratado na escola pelos colegas. No entanto, todas as noites Conor tem o mesmo sonho, com uma gigantesca árvore que decide contar histórias para ele, em troca de escutar as histórias do garoto. Embora as conversas com a árvore tenham consequências negativas na vida real, elas ajudam Conor a escapar das dificuldades através do mundo da fantasia.</info>
@@ -1666,8 +1666,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]STMNDPSDMENT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Conor é um garoto de 13 anos de idade, com muitos problemas na vida. Seu pai é muito ausente, a mãe sofre um um câncer em fase terminal, a avó é uma megera e ele é maltratado na escola pelos colegas. No entanto, todas as noites Conor tem o mesmo sonho, com uma gigantesca árvore que decide contar histórias para ele, em troca de escutar as histórias do garoto. Embora as conversas com a árvore tenham consequências negativas na vida real, elas ajudam Conor a escapar das dificuldades através do mundo da fantasia.</info>
@@ -1680,8 +1680,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
 <info>John e Laura Taylor são um casal jovem que quer desesperadamente um filho. Depois de tentarem muitas opções, eles finalmente contratam Anna, a mulher perfeita para ser barriga de aluguel, mas, ao longo da gestação, ela fica psicótica e perigosamente obcecada pelo futuro pai da criança.</info>
@@ -1694,8 +1694,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ARMSNMSA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Elizabeth Sloane (Jessica Chastain) é uma das lobistas mais poderosas dos Estados Unidos, conhecida por usar uma série de estratégias ilegais para atingir os seus objetivos. Um dia, é abordada para apoiar a bancada mais poderosa do congresso americano: os senadores pró-armas. Contrária à ideia, ela pede demissão e passa a trabalhar para o lado oposto, na intenção de conseguir leis mais rígidas para o porte de armas. Sloane começa a sofrer um série de ameças pessoais e profissionais, e começa a questionar os seus limites dentro desta profissão.</info>
@@ -1708,8 +1708,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ATOULHMN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>Durante a Segunda Guerra Mundial, o médico do exército Desmond T. Doss se recusa a pegar em uma arma e matar pessoas, porém, durante a Batalha de Okinawa ele trabalha na ala médica e salva mais de 75 homens, sendo condecorado. O que faz de Doss o primeiro Opositor Consciente da história norte-americana a receber a Medalha de Honra do Congresso.</info>
@@ -1721,8 +1721,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]MACHABRMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Lee Chandler é uma espécie de faz-tudo do pequeno complexo de apartamento onde vive, no subúrbio de Boston. Ele passa seus dias tirando neve das portas, consertando vazamentos e fazendo o possível para ignorar a conversa de seus vizinhos. Em suas noites vazias, Lee bebe cerveja no bar local e arruma confusão com qualquer um que lhe lançar um olhar. Quando seu irmão mais velho morre, ele recebe a desagradável surpresa de sua nomeação como tutor de seu sobrinho. De volta à sua cidade natal, ele terá que lidar com memórias queridas e dolorosas.</info>
@@ -1734,8 +1734,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
 <info>Conta a história do encontro de um homem e uma mulher numa cafeteria em um momento em que suas vidas estão à deriva, e o fez lembrar da importância de se atrever a sonhar.</info>
@@ -1748,8 +1748,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ODSVIO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
 <info>Colin se envolve em um acidente de carro que leva a morte de um dos envolvidos e, ao seu lado, ele encontra uma maleta repleta de dinheiro. Após entregá-la para a polícia local sua boa ação provoca uma série de acontecimentos bizarros na cidade.</info>
@@ -1762,8 +1762,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]SNGAZL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
 <info>Há vinte anos atrás, numa ilha vulcânica e paradisíaca, um menino de dez anos foi separado de sua irmã. A mãe, temerosa de que uma atração incestuosa se desenvolvesse entre os dois, fez uma escolha e optou por mandar seu filho para o continente. O menino foi entregue a Kaleb, o ilusionista do Circo Netuno, que passava pela ilha. No continente, Kaleb instruiu o menino nas artes do circo e do espírito, onde o ex-ilhéu se tornou Zolah, o Homem Bala.</info>
@@ -1776,8 +1776,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]UMLMTENTNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Baseado na aclamada e premiada peça teatral homônima, um jogador de beisebol aposentado (Denzel Washington), que sonhava em se tornar um grande jogador durante sua infância, agora trabalha como coletor de lixo para sobreviver. Ele terá de navegar pelas complicadas águas de seu relacionamento com a esposa (Viola Davis), o filho e os amigos.</info>
@@ -1790,8 +1790,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]PNDRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Jae-Hyeok (Kim Nam-Gil) luta para salvar a sua família e o seu país de um desastre nuclear. Jae-Hyeok vive com sua mãe (Kim Young-Ae), sua cunhada (Moon Jeong-Hee) e sobrinho Min-Jae (Bae Gang-Yoo) em uma pequena cidade coreana. Ele está namorando Yeon-Joo (Kim Joo-Hyun) e trabalha na usina nuclear local. Enquanto isso, Pyung-Sub (Jung Jin-Young) trabalha na mesma usina nuclear. Ele está preocupado com as condições lá, mas ninguém no governo o escuta. Um terremoto atinge a pequena cidade onde Jae-Hyeok vive e causa explosões na usina nuclear. A situação rapidamente fica fora de controle, levando toda a nação a entrar em pânico. Para evitar outro desastre nuclear, Jae-Hyeok e seus colegas de trabalho retornam à usina nuclear.</info>
@@ -1804,8 +1804,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Um adolescente criativo e impulsivo está desesperado para escapar de sua cidade natal e das memórias assombrosas de sua infância turbulenta.</info>
@@ -1818,8 +1818,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Após os atentados terroristas à Maratona de Boston em 2013, um grupo formado pelo Sargento da Polícia Tommy Saunders (Mark Wahlberg), o Agente Especial Richard Deslauries (Kevin Bacon), o Comissário da Polícia Ed Davis (John Goodman), o Sargento Jeffrey Pugliese (J.K. Simmons) e a enfermeira Carol Saunders (Michelle Monaghan) se une aos bravos sobreviventes para identificar e capturar os responsáveis pelo ataque terrorista antes que eles possam fazer novas vítimas.</info>
@@ -1832,8 +1832,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Baseado em eventos reais, a história se passa no Golfo do México, na plataforma de perfuração marítima Deepwater Horizon que explodiu em abril de 2010. Diante de um dos piores vazamentos de petróleo na história dos EUA, a coragem dos trabalhadores e a sobrevivência perante os momentos extremos.</info>
@@ -1846,8 +1846,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
 <info></info>
@@ -1860,8 +1860,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevitável confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coração para a vida e para a verdadeira cura interior.</info>
@@ -1874,8 +1874,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>Rico e bem sucedido, Will (Sam Claflin) leva uma vida repleta de conquistas, viagens e esportes radicais até ser atingido por uma moto, ao atravessar a rua em um dia chuvoso. O acidente o torna tetraplégico, obrigando-o a permanecer em uma cadeira de rodas. A situação o torna depressivo e extremamente cínico, para a preocupação de seus pais (Janet McTeer e Charles Dance). É neste contexto que Louisa Clark (Emilia Clarke) é contratada para cuidar de Will. De origem modesta, com dificuldades financeiras e sem grandes aspirações na vida, ela faz o possível para melhorar o estado de espírito de Will e, aos poucos, acaba se envolvendo com ele.</info>
@@ -1888,8 +1888,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
 <info>Pi Patel, é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi, consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.</info>
@@ -1902,8 +1902,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ACHGDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Ficção Científica</genre>
 <info>Quando seres interplanetários deixam marcas na Terra, a Dra. Louise Banks (Amy Adams), uma linguista especialista no assunto, é procurada por militares para traduzir os sinais e desvendar se os alienígenas representam uma ameaça ou não. No entanto, a resposta para todas as perguntas e mistérios pode ameaçar a vida de Louise e a existência de toda a humanidade.</info>
@@ -1916,8 +1916,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]100STRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Quatro pessoas, quatro histórias extraordinárias. Todas vividas nas ruas de Londres.</info>
@@ -1930,8 +1930,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Século XVIII. A bela viúva Lady Susan Vernon (Kate Beckinsale) foge das fofocas sobre seus casos amorosos buscando refúgio na fazenda dos antigos sogros. Lá reflete sobre a vida e decide arranjar um novo marido para si e um bom pretendente para a filha, Frederica (Morfydd Clark).</info>
@@ -1944,8 +1944,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>Esse filme é baseado nos capítulos do famoso clássico romantico de Wu Cheng'en's "Jornada ao Oeste", e conta a história de como o Macaco Rei se rebela contra o Imperador Jade do Céu.</info>
@@ -1958,8 +1958,8 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>Christian Wolff (Ben Affleck) é um portador da Síndrome de Savant com mais afinidade por números do que por pessoas. Tendo um escritório de contabilidade em uma cidadezinha como fachada, ele trabalha como contador autônomo para algumas das mais perigosas organizações criminosas do mundo.
@@ -1973,8 +1973,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]SNODNHROTRIDRLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Filme de Oliver Stone sobre Edward Snowden, ex-funcionário da CIA que divulgou para a imprensa uma série de documentos sigilosos da Agência de Segurança Nacional dos EUA que comprovaram atos de espionagem do governo norte-americano.</info>
@@ -1987,8 +1987,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OPRGMA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Cinebiografia do ciclista norte-americano Lance Armstrong (Ben Foster), que abrange desde a ascensão e consagração no Tour de France até a desgraça pelas acusações de dopping.</info>
@@ -2001,8 +2001,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Biografia de Max Perkins, um dos editores literários mais famosos do mundo. Apostando em jovens talentos, ele descobriu nomes fundamentais da literatura como F. Scott Fitzgerald, Ernest Hemingway e Thomas Wolfe. O filme acompanha a vida pessoal e Perkins e sua relação complicada com os escritores, cujas obras foram fortemente influenciadas pelo trabalho do editor.</info>
@@ -2015,8 +2015,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>David (Aaron Paul) e Claire (Annabelle Wallis) vivem um tórrido romance após se conhecerem em uma situação incomum. Passado algum tempo juntos, a moça desapere do nada sem deixar nenhum traço. Destinado a encontrar sua amada, o homem começa a caçar pistas que possam o direcionar para a solução do mistério. Entretanto, ele vai acabar descobrindo uma verdade misteriosa e bizarra sobre ela e sobre o que ele conhecia sobre a sua personalidade.</info>
@@ -2029,8 +2029,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
 <info>A história dos personagens do Velho Testamento, Sansão e Dalila, é mostrada aqui de modo monumental e com riqueza de detalhes. O épico de Cecil B. DeMille possui cenas memoráveis, como a da destruição do templo dos filisteus e cenários que até hoje impressionam por sua suntuosidade. Victor Mature e Hedy Lamarr interpretam Sansão e Dalila com brilhantismo e emoção. Um filme obrigatório para todos os amantes da 7ª arte.</info>
@@ -2043,8 +2043,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
@@ -2057,8 +2057,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OSEMBLDSBDANT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Tony Manero, um jovem do Brooklyn e um excelente dançarino de disco music, só encontra significado na vida quando dança, pois passar a semana trabalhando em uma loja de tintas não o gratifica de forma nenhuma. Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no final de semana. Sob a influência de seu irmão, um padre frustrado, e de Stephanie, sua parceira de dança, começa a questionar a maneira como encara a vida e a limitação de suas perspectivas. Paralelamente Tony, vive uma crise amorosa, enquanto se prepara para participar de um concurso em uma discoteca.</info>
@@ -2071,8 +2071,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>Determinado a vingar o assassinato de sua irmã, Bruce Lee, se infiltra na fortaleza isolada de um poderoso chefão do crime, que utiliza sua academia de artes marciais como fachada para tráfico de ópio e prostituição. Para cumprir sua missão, Lee, terá que participar de um torneiro de vida ou morte.</info>
@@ -2085,8 +2085,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
 <info>Um grupo de órfãos embarca em uma aventura para restaurar a mágica no mundo e salvar o Natal.</info>
@@ -2099,8 +2099,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OAVADR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Howard Hughes (Leonardo DiCaprio) ficou milionário já aos 18 anos, devido à herança que seu pai, um inventor texano, deixou para ele. Pouco depois ele se mudou para Los Angeles, onde passou a investir na indústria do cinema. Hughes ajudou a carreira de vários astros, como Jean Harlow (Gwen Stefani), e ainda trabalhou em filmes de grande sucesso, como "Hell's Angels", que dirigiu. Paralelamente Hughes se dedicou a uma de suas maiores paixões, a aviação, e se envolveu com as atrizes Katharine Hepburn (Cate Blanchett) e Ava Gardner (Kate Beckinsale).</info>
@@ -2113,8 +2113,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Ronald Miller (Patrick Dempsey) é um jovem tímido e trabalhador, que sempre sonhou em ser popular no colégio. Quando ele descobre que Cindy Mancini (Amanda Peterson), uma garota linda que todos os garotos paqueram, está precisando de 1000 dólares ele surge com uma insólita proposta: empresta o dinheiro a ela e em troca ela deverá fingir ser sua namorada. Ela topa e, com sua ajuda, ele acaba se tornando um dos garotos mais populares do colégio.</info>
@@ -2127,8 +2127,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]MERCY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
 <info>A história gira ao redor de Lucy (Page), filha de um homem que está no corredor da morte. Mas ela acaba se envolvendo com Mercy (Mara), descrita como "uma mulher do lado oposto da causa política de sua família".</info>
@@ -2141,8 +2141,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Hannah Lee Baker (Abigail Breslin) é uma jovem brilhante presa em um submundo sombrio de violência e armas, laboratórios de metanfetamina e gangues perigosas de motoqueiros, que tem no xadrez seu único refúgio. Ela vive com Amber, sua irmã mais velha (Alexa vega); e seu tio Donny (Lew Temple), um viciado. Tudos vivem com medo do tio Frank Stinson (Sean Bean), que cuida do negócio ilegal da família com punhos de ferro, ajudado por seu irmão psicótico mais novo, Bobby (Jake Busey). As coisas pioram quando Amber se apaixona por Wild Bill (James Purefoy), um traficante de metanfetamina em guerra com Frank. Hannah percebe que a única maneira de salvar sua família é jogando um peão contra o outro em um jogo real de xadrez</info>
@@ -2155,8 +2155,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>1952, uma grande nevasca leva uma plataforma de petróleo a se rachar, lançando 84 tripulantes ao mar. Enquanto a tempestade dificulta a sobrevivência do grupo, uma equipe de guardas costeiros tenta resgatar as vítimas.</info>
@@ -2169,8 +2169,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]HONY3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Melea MARTIN se sente constrangido por políticas rígidas da escola e decide estabelecer por conta própria. Procurando uma maneira de usar seus talentos como dançarina</info>
@@ -2183,8 +2183,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]HONY1.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Para Maria, viver honestamente significa conviver com a mãe de Honey, Connie (Lonette McKee), e manter um trabalho apenas para sobreviver. Porém, uma rara noite de diversão em um clube de dança local lhe dá a oportunidade de mostrar o que ela tinha quase esquecido: seu talento para dança. Sua habilidade chama a atenção de Brandon (Randy Wayne), um voluntário do Centro Recreativo, que a convida para ajuda-lo a treinar um grupo de bailarinos talentosos, mas indisciplinados, chamado de HD. O talento de Maria também chama a atenção de seu ex-namorado Luis (Christopher ‘War’ Martinez), o carismático líder da premiada equipe de dança 718, que espera atrai-la de volta ao mundo da marginalidade, da qual ela está tentando escapar. Vendo a oportunidade de criar uma nova e significativa vida, Maria se entrega de corpo e alma no mundo da dança e começa a treinara equipe HD para competir no concurso de dança “Dance or Die” – o que significa competir contra o grupo 718 e seu antigo namorado Luis.</info>
@@ -2197,8 +2197,8 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
 <info>Para um grupo de soldados americanos, alguns dias os separam do retorno para casa. Um período relativamente curto, se não fosse por tantas ocorrências que transformassem esse fim de jornada em um verdadeiro inferno. As forças armadas precisam de especialistas não só nos campos de combate mas também no dia a dia, na proteção do grupo contra insurgentes que promovem atentados, matando milhares de cidadãos.
@@ -2212,8 +2212,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Depois da morte do filho adolescente, um pai (Billy Crudup) tenta reconstruir sua vida. Certo dia ele encontra alguns objetos que pertenciam ao filho, entre os quais uma série letras de músicas e gravações originais. Para honrar a memória do filho, ele decide montar uma banda para tocar estas canções.</info>
@@ -2226,8 +2226,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>Na trama, em 1914, Joey, um potro com um sinal em forma de cruz na testa, é vendido ao exército e enviado à Europa, onde se desenrola a Primeira Guerra Mundial. Entregue a um oficial, o animal se torna um cavalo de batalha, testemunhando o horror do conflito na França. A coragem de Joey toca os soldados, enquanto o cavalo sofre pela ausência de Albert, o filho do fazendeiro que ele deixou para trás. Será que ele verá seu dono verdadeiro outra vez?</info>
@@ -2240,8 +2240,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
 <info>Ao serem expulsos do templo de Shaolin por desacatarem seu Mestre, dois jovens passam a lutar pela sobrevivência. Mas os caminhos escolhidos são opostos, Jun Bao (Jet Li) luta por um ideal de paz e poder. Anos depois, uma traição faz com que estes caminhos se cruzem, colocando os dois amigos frente a frente cada um a lutar pelo seu ideal. Inicia-se uma luta sangrenta onde os dois maiores representantes de artes marciais do Oriente terão que mostrar todas as suas habilidades nem que para isso um deles chegue a morte. Uma história de amizade e justiça foi responsável pela origem mundial da maravilhosa arte do Tai Chi Chuan</info>
@@ -2254,8 +2254,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]ASTRSGMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>11 de setembro de 2001. Will Jimeno (Michael Pena), integrante do Departamento da Polícia Portuária, parte para mais um dia de trabalho. O sargento John McLoughlin (Nicolas Cage), veterano do Departamento, já estava acordado há algumas horas, em decorrência de sua ronda diária de uma hora e meia até a cidade. Jimeno, McLoughlin e seus colegas partem para o centro de Manhattan, como se fosse um dia qualquer. Até que um ataque terrorista ao World Trade Center muda completamente a situação, fazendo com que toda a equipe do Departamento seja convocada com urgência ao local do ataque. A 1ª equipe a entrar na torre não-atingida é composta por 5 homens, entre eles Jimeno e McLoughlin. Porém enquanto eles estão dentro do prédio, tentando ajudar os sobreviventes da torre em chamas, um 2º ataque terrorista atinge o World Trade Center, exatamente no prédio que ainda não tinha sido atingido.</info>
@@ -2268,8 +2268,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
 <info>Buren é um velho policial tempo que não joga pelas regras. No submundo Paris a sua equipa nunca tem medo de usar seus músculos e armas para fazer cumprir a lei. Com todos os seus movimentos sob o escrutínio de Lenoir seu novo patrão, Buren sabe que seu tempo está se esgotando. Quando um assalto se transforma em assassinato, Buren segue suas entranhas e invade a casa de ex-presidiário Kasper um. Mas Kasper tem um álibi sólido e Buren tem que deixá-lo ir. Marginalizado, Buren e seu esquadrão desobedecer as ordens de Lenoir para tentar impedir um assalto a banco em curso. A operação é um banho de sangue e Buren leva a queda para ele. Mas, quando ele percebe que os assaltos são parte de uma operação maior, Buren com nada a perder, decide entrar em ação.</info>
@@ -2282,8 +2282,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]INFRNO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
 <info>O renomado professor de simbologia de Harvard, Robert Langdon (Tom Hanks), visita a Itália e se envolve em mais uma aventura envolvendo símbolos ocultos e corporações secretas. Ele se vê em uma jornada em que procura desvendar os mistérios do clássico da literatura "A Divina Comédia", de Dante Alighieri.</info>
@@ -2296,8 +2296,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
 <info>Uma arqueóloga (Anne Hathaway) está de volta aos Estados Unidos após um período de escavações no Marrocos, onde seu irmão sofreu um acidente. Ao retornar, ela se envolve com um astro do rock (Johnny Flynn), que vem a ser o músico preferido de seu irmão.</info>

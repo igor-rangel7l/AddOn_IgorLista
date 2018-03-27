@@ -8,8 +8,8 @@
 <link>$doregex[Igor_Rangel_Link]ASFCSDTNERDM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Winfried (Peter Simonischek) é um senhor que gosta de levar a vida com bom humor, fazendo brincadeiras que proporcionem o riso nas pessoas. Seu jeito extrovertido fez com que se afastasse de sua filha, Ines (Sandra Hüller), sempre sisuda e extremamente dedicada ao trabalho. Percebendo o afastameto, Winfried decide visitar a filha na cidade em que ela mora, Bucareste. A iniciativa não dá certo, resultando em vários enfrentamentos entre pai e filha, o que faz com que ele volte para casa. Tempos depois, Winfried ressurge na vida de Ines sob o alter-ego de Toni Erdmann, especialista em contar mentiras bem-intencionadas a todos que ela conhece.</info>
@@ -22,8 +22,8 @@
 <link>$doregex[Igor_Rangel_Link]ASEXCLDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Depois de serem vítimas de uma brincadeira humilhante pela Abelha Rainha da escola, as melhores amigas nerds, Mindy e Jodi, decidem começar uma vingança escolar reunindo todos os nerd que já foram pisados por ela. Porém no meio da guerra é que a amizade de Jodi e Mindy será provada.</info>
@@ -36,8 +36,8 @@
 <link>$doregex[Igor_Rangel_Link]ARANHDESPNH.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Continuação do filme "A Garota dos Seus Sonhos", de 1998. A ação se passará 17 anos depois da época do primeiro filme, e conta com grande parte do elenco.
@@ -51,8 +51,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AR15.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Um grupo de veteranos acordam após uma noite de festa para descobrir que o apocalipse zumbi se espalhou por todo os Estados Unidos. Juntos, eles devem lutar contra seu caminho em todo o país, a fim de encontrar uma cura para o surto e restaurar a liberdade antes que seja tarde demais.</info>
@@ -65,8 +65,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]APSTDRIAVLTAR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Um gerente de uma empresa de telecomunicações (Imanol Arias) está prestes a enfrentar a semana mais importante da sua vida, mas todos os planos serão interrompidos pela aparição de um personagem excêntrico (Dario Grandinetti) que vai fazer de sua semana um inferno.</info>
@@ -79,8 +79,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ANTEDLS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Cinco amigas se reúnem durante um fim de semana em uma casa de praia em Miami para comemorar a despedida de solteira de uma delas. Mas as coisas saem do controle quando matam, acidentalmente, um stripper.</info>
@@ -93,8 +93,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
 <info>Brooke (Alice Eve) é uma jovem que está correndo para tentar pegar o trem em direção à Boston, mas ela acaba se atrasando após ser assaltada. Sem dinheiro ou amigos, ela está perdida na noite de Nova York. Até que ela conhece, por acaso, o trompetista Nick (Chris Evans). A dupla começa a passear em torno da cidade e cresce um forte sentimento entre eles. Estreia de Chris Evans na direção.</info>
@@ -107,8 +107,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AMGSINSPRVS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>Duas amigas embarcam em uma viagem para retornar à sua cidade natal e ganhar um concurso de beleza do qual participaram, sem sucesso, na infância.</info>
@@ -121,8 +121,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AINCRVLAVNTDRCK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Um menino e seu tio fogem para as matas da Nova Zelândia. Para capturá-los, é organizada uma verdadeira caçada da qual os dois precisaram fugir unindo suas forças e superando suas diferenças.</info>
@@ -135,8 +135,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AHROFCL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Em uma aldeia na Sicília, Pietrammare, pontual como o horário de verão, vem o tempo da eleição para a escolha do novo prefeito. Dominando por anos sobre o lugar, está Gaetano Patane, o prefeito histórico da pequena cidade siciliana. Um lobista pronto para usar toda a política de armas para criar um consenso em torno dele. A ele se opõe Pierpaolo Natoli, um professor na casa dos cinquenta, que foi para a política pela primeira vez, apoiado por um pequeno grupo de ativistas para fornecer a filha de 18 anos, Betty, uma alternativa por ocasião de sua primeira votação . Nossos dois heróis Salvo e Valentino estão em lados opostos: o manhoso Salvo oferece seus serviços a Patane, desde a vitória em todas as pesquisas; enquanto Valentino toma o campo ao lado do Natoli. Além da rivalidade, porém, ambos têm como objetivo alcançar um "favor" que poderia mudar suas vidas: um pequeno quiosque de bebidas colocadas na praça principal da vila que iria expandir a clientela e os rendimentos.</info>
@@ -149,8 +149,8 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AGURDSXS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Na sequência da revolução sexual e do surgimento do movimento feminista, a partida de tênis de 1973 entre a campeã mundial feminina Billie Jean King (Emma Stone) e o ex-campeão dos homens Bobby Riggs (Steve Carell) foi divulgada como A Guerra dos Sexos e se tornou um dos eventos esportivos televisionados mais vistos de todos os tempos, chegando a 90 milhões de telespectadores em todo o mundo. À medida em que a rivalidade entre King e Riggs aumentava, fora de campo, cada um enfrentava batalhas mais pessoais e complexas. Juntos, Billie e Bobby apresentaram um espetáculo cultural que ressoou muito além da quadra de tênis, provocando discussões em quartos e salas de reuniões que continuam a reverberar hoje.</info>
@@ -224,8 +224,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]DESPDAEMGRNDESTLO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Policial</genre>
 <info>Refilmagem da comédia “Despedida em Grande Estilo” (1979), clássico de Martin Brest premiado no Festival de Veneza. Três amigos idosos, que vivem de doações e, para sair da pobreza, decidem tramar o roubo de um banco.</info>
@@ -238,8 +238,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Johanna Pasquali é a primeira mulher a entrar no RAID, tropa de elite da polícia francesa, mas se vê no caminho de Eugène Froissard, o mais misógino dos agentes da RAID. Essa dupla improvável está encarregada de parar a Gangue Leopardo, que está por trás de audaciosos roubos nas ruas de Paris. Mas antes de colocar os malfeitores atrás das grades, eles precisam encontrar uma maneira de serem parceiros sem que se matem, seja em treinamento ou trabalhando em casos complicados.</info>
@@ -252,8 +252,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]UMANTDLOCRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Quatro mães que tem apenas em comum a classe pré-escolar de seus filhos decidem se reunir para um inofensivo e divertido jantar das mães, de repente a noite toma um rumo inesperado e essas novas amigas improváveis ??logo percebem que tem mais em comum do que apenas o casamento e a maternidade.</info>
@@ -266,8 +266,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
 <info>Rosa se cobra por ter que dar conta de todas as suas obrigações, mas descobre que não consegue e também que a vida é cheia de surpresas, principalmente, as vindas de sua própria mãe.</info>
@@ -280,8 +280,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]CMSTNRUMCONQSTDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Um homem mulherengo (Eugenio Derbez) é despejado pela namorada e se vê forçado a voltar a morar com a distante irmã e seu jovem filho, que aparentemente é problemático.</info>
@@ -294,8 +294,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Um estudante do ensino médio lutando para ajudar a sua mãe instável e seu cão doente forma uma improvável amizade com uma bela fugitiva.</info>
@@ -308,8 +308,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>Após um ataque ao quartel general da Kingsman, Eggsy e Merlin viajam para os Estados Unidos, onde afiliam-se à Statesman, versão americana da organização de espionagem.</info>
@@ -322,8 +322,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
 <info>Ao chegar em Los Angeles, o pianista de jazz Sebastian (Ryan Gosling) conhece a atriz iniciante Mia (Emma Stone) e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva cidade, os jovens tentam fazer o relacionamento amoroso dar certo.</info>
@@ -336,8 +336,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]ALBCM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Greg fundou uma empresa chamada Alibi.com que cria qualquer tipo de álibi. Com seu parceiro Augustin, e Medhi, seu novo funcionário, eles desenvolvem truques e encenações para cobrir seus clientes. Mas o surgimento de Flo, uma loira bonita que odeia homens mentirosos, vai complicar a vida de Greg, começando com a descoberta da verdadeira natureza dos seus negócios. Durante a apresentação aos pais, Greg inclui o pai de Flo, Gérard, que também é um dos seus clientes ...</info>
@@ -350,8 +350,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Bernado (Bruno Munhoz) e Pedro (Daniel Pimentel) são estudantes e enfrentam as clássicas tarefas de cumprir as obrigações escolares, tirar boas notas, ter bom comportamento e cumprir as regras da escola, cada vez mais elaboradas graças ao diretor Ademar (Carlos Villagrán). Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego, o que leva os dois amigos a seguirem as dicas do caderno.</info>
@@ -364,8 +364,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
@@ -378,8 +378,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]ELGNLCKYRBEMFML.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Durante uma corrida de automóveis da NASCAR, o maior campeonato de stock car dos Estados Unidos, uma dupla de irmãos caipiras tenta realizar um ambicioso assalto.</info>
@@ -392,8 +392,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]OBAR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Em um café no centro de Madrid, pessoas tomam o seu café da manhã tranquilamente, como de costume. Mas, quando um dos clientes leva um tiro na cabeça ao colocar os pés fora da loja, o clima de tensão invade o local. Agora, eles estão presos, e temem sair do local e acabar terminando com o mesmo destino do homem. O problema é que a convivência com estranhos pode ser tão perigosa quanto sair dali.</info>
@@ -406,8 +406,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Após heroicamente derrotar a Rainha da Neve, Gerda ainda não conseguiu encontrar a paz. Seu sonho é encontrar os pais dela que foram levados pelo Vento do Norte e finalmente reunir a família. Então, Gerda e seus amigos embarcam em uma excitante jornada para buscar seus pais e encontram novos desafios pelo caminho: Eles descobrem um antigo artefato mágico dos Trolls, a Pedra do Desejo. A partir deste momento, as coisas não saem mais como planejado... será que Gerda conseguirá domar as poderosas forças dos elementos mágicos e conseguir ter sua família de volta? A resposta será revelada agora. Essa é uma história que inclui tudo que as crianças gostam: Bondade, bravura, amizade, mistério, amor fraternal e um final feliz, é claro!</info>
@@ -420,8 +420,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]RALTYHGH.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Quando a nerd adolescente, Dani finalmente atrai o interesse de sua paixão de longa data, ela também precisará enfrentar a antiga namorada dele, uma celebridade conhecida das redes sociais.</info>
@@ -514,8 +514,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf1.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
@@ -568,8 +568,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos são espiões do governo.</info>
@@ -582,8 +582,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Uma garota de 12 anos que passa por diversos lares adotivos durante sua vida ao ser enviada para a casa de Maime Trotter elabora um plano de fuga para se juntar à sua mãe biológica, mas descobre que as coisas não são tão simples quanto ela imaginava.</info>
@@ -596,8 +596,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]AMREMSP.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Comédia musical romântica com roteiro de Bruna Lombardi e direção de Carlos Alberto Riccelli, o filme narra cinco histórias de amor que têm como ponto de partida uma ideia do publicitário Mauro (Rodrigo Lombardi), que desenvolve uma campanha para que a cidade de São Paulo mude para melhor, enquanto vive sua paixão pela estilista Tutti (Mariana Lima).</info>
@@ -610,8 +610,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Eddie Garrett (Jake Johnson) concorda em olhar uma bolsa para um conhecido que está indo para a prisão. Quando ele descobre que o que tem na sacola é dinheiro, não resiste à tentação e acaba gastando a grana. Quando o prisioneiro é solto mais cedo, Eddie tem uma pequena janela de tempo para ganhar todo o dinheiro de volta.</info>
@@ -624,8 +624,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
 <info>Heitor (Alexandre Borges) é um homem solteiro que trabalha fazendo filmagens de festas de casamento. Durante os preparativos para cobrir mais um casamento, ele conhece Penélope (Camila Morgado), uma mulher bonita e independente que quer acabar com a festa antes mesmo de começar. O objetivo de Heitor é garantir que dê tudo certo com o casamento. Já para Penélope, a cerimônia é uma oportunidade perfeita para executar seu plano.</info>
@@ -638,8 +638,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
 <info>Ben é o pai de seis crianças, que decide fugir da civilização e criar os filhos nas florestas selvagens do Pacífico Norte. Ele passa os seus dias dando lições às crianças, ensinando-os a praticar esportes e a combater inimigos. Um dia, no entanto, Ben é forçado a deixar o local e retornar à vida na cidade. Começa o aprendizado do pai, que deve se acostumar à vida moderna.</info>
@@ -652,8 +652,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
 <info>Coisas estranhas começam a acontecer na vida de Bruno (Fábio Porchat), um jovem de quase 30 anos que acaba de se separar da mulher (Giovana Lancelotti). Bruno tropeça no ar, esbarra no que não vê – até perceber que as pessoas ao seu redor estão desaparecendo só para ele. Os dias correm e a situação só piora. Com a ajuda da mãe (Irene Ravache) e do melhor amigo (Marcos Veras), Bruno tentará se adaptar a esse novo mundo com cada vez menos gente.</info>
@@ -666,8 +666,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]NEUMBSTRAMRCN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Janey Briggs (Chyler Leigh) é uma garota que estuda na John Hughes High School e não tem muitos amigos. Ela sonha em se tornar uma artista plástica de sucesso, sendo rejeitada pelos demais colegas de escola por sempre usar rabo de cavalo, óculos e uma jardineira velha suja de tinta. Até que Jake Wyler (Chris Evans) faz uma aposta com seus colegas, de que poderá transformar Janey na rainha do baile de formatura. Enquanto isso, o time de futebol americano do colégio, liderado pelo próprio Jack e por Reggie Ray (Ron Lester), enfrenta problemas no campeonato que disputam. Além disto a escola ainda é agitada pelas presenças de Sadie (Beverly Polcyn), uma senhora de 90 anos que está disfarçada de repórter, e ainda Areola (Cerina Vincent), uma aluna estrangeira que chegou ao local pelo programa de intercâmbio.</info>
@@ -680,8 +680,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]OROBDTA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>No dia 19 de dezembro de 1983, a taça Jules Rimet, prêmio maior da Copa do Mundo de futebol e símbolo do tricampeonato brasileiro, foi roubada por três ladrões "pés de chinelo". Por ironia do destino, a "copa" acabou derretida por um argentino. O filme conta, com humor e de maneira dinâmica, a história do assalto, fazendo um resgate histórico do último suspiro da ditadura militar e retratando o sentimento dos brasileiros numa época decadente. ''O Incrível Roubo da Taça Jules Rimet" é um filme de época, que transporta o público para universo dos anos 80, seja pela direção de arte colorida e muito bem fundamentada, pelos figurinos típicos e pela trilha sonora potente e original.</info>
@@ -694,8 +694,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Vani (Fernanda Torres) e Rui (Luiz Fernando Guimarães) estão prestes a se casar. Ela com Sérgio (Evandro Mesquita), ele com Martha (Marisa Orth). Ambas as cerimônias estão marcadas para a mesma sacristia, sendo uma às 18 hs e outro às 20 hs. É lá que Vani e Rui se conhecem, quando ela lhe pede um pouco de arroz para comemorar o casamento que está para ocorrer.</info>
@@ -708,8 +708,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Miguel e Rodrigo são dois amigos que costumam realizar filmes juntos. Certa ocasião, um de seus filmes ganha um prêmio importante em um festival internacional. Animados com a premiação, os dois saem para comemorar e Rodrigo assina, em um guardanapo de bar, um contrato vitalício que garante que ele estaria em todos os filmes de Miguel dali para frente. No entanto, Miguel desaparece e só retorna dez anos depois; quando reaparece, ele leva para Rodrigo, agora um ator consagrado, a proposta de um filme insano que pode destruir a carreira e a vida do ator.</info>
@@ -722,8 +722,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
 <info>Tati (Cleo Pires) e Conrado (Malvino Salvador), que terminam juntos o primeiro filme, viajam a Cancún, onde ele participa de uma conferência para o lançamento de seu livro. Pronta para dar o próximo passo, ela aproveita a ocasião para pedi-lo em casamento, com transmissão via internet para todos os amigos no Brasil. Mas, ao responder, Conrado solta apenas um “Posso pensar?”. A moça, então, se decepciona e Marcelo (Dudu Azevedo), ex de Tati, volta a ter esperanças. Para complicar, Ângela (Rita Guedes), a ex de Conrado, também é convidada para o mesmo evento no México, onde está lançando um livro, cuja tese bate de frente com a dele.</info>
@@ -736,8 +736,8 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
 <info>“Qualquer Gato Vira-Lata” narra a história da jovem estudante de direito Tati (Cléo Pires), que é abandonada pelo namorado Marcelo (Dudu Azevedo). Disposta a recuperar o amor, a jovem oferece como cobaia para as pesquisas do professor Conrado (Malvino Salvador). O pesquisador tem uma tese polêmica sobre a harmonia entre as conquistas amorosas das pessoas e as leis da biologia, baseando- se nas atitudes dos animais, já que normalmente as fêmeas são recatadas e os machos são audaciosos.
@@ -752,8 +752,8 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]SPRPAI.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
 <info>Nos tempos de escola Diogo era o cara. Mesmo quando metia a turma numa encrenca, seu carisma bastava para manter os amigos por perto. Vinte anos se passaram e Diogo, casado com Mariana e pai do pequeno Luca, já não é mais o mesmo. As noites de farra e bebedeira parecem tão distantes quanto sua última ida à academia. A festa dos 20 anos de formatura da escola é sua grande chance de dar a volta por cima e resgatar a antiga moral. Mas a noite promete ser muito mais desafiadora e cheia de surpresas do que Diogo e seus amigos podiam esperar.</info>
@@ -766,8 +766,8 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>O camelô Denílson (Rodrigo Sant'anna) vive no subúrbio do Rio de Janeiro e trabalha duro. 
@@ -783,8 +783,8 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]INTNET.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>O premiado diretor de curtas Filippo Capuzzi está comprometido com o projeto, que é sua estreia em longas-metragens. Serão 8 esquetes, mostrando situações recorrentes do dia a dia. Em uma convenção de youtubers, os personagens vivenciam momentos de descobertas, erros, raiva, inveja e confusões em busca da fama.</info>
@@ -797,8 +797,8 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
 <info>Lisbela (Débora Falabella) é uma moça que adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu (Selton Mello) é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade de Lisbela. Após se conhecerem eles logo se apaixonam, mas há um problema: Lisbela está noiva. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador (Marco Nanini) que está atrás de Leléu, devido a ele ter se envolvido com sua esposa (Virginia Cavendish).</info>
@@ -811,8 +811,8 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Nacional e Comédia</genre>
 <info>As aventuras de João Grilo (Matheus Nachtergaele), um sertanejo pobre e mentiroso, e Chicó (Selton Mello), o mais covarde dos homens. Ambos lutam pelo pão de cada dia e atravessam por vários episódios enganando a todos da pequena cidade em que vivem.</info>
@@ -825,8 +825,8 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>Best Player é um filme para televisão original da Nickelodeon que foi lançado em 12 de março de 2011 nos Estados Unidos. É protagonizado pelos astros da famosa série iCarly, Jennette McCurdy como Chris "Prodigy" Saunders e Jerry Trainor como Quincy. Os dois são viciados em video games online, e juntos descobrem que o mundo real pode ser tão emocionante quanto o virtual.
@@ -841,8 +841,8 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>A hostilidade se transforma em outra coisa entre um fazendeiro viúvo e uma ornitóloga insistente que veio para sua fazenda para salvar uma família de cisnes.</info>
@@ -855,8 +855,8 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info></info>
@@ -869,8 +869,8 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
 <info>Conta a história do encontro de um homem e uma mulher numa cafeteria em um momento em que suas vidas estão à deriva, e o fez lembrar da importância de se atrever a sonhar.</info>
@@ -883,8 +883,8 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>Aos 13 anos, Marnie descobre que vem de uma longa linhagem de bruxas e deve praticar para não perder seus poderes. Ao visitar a avó, que vive afastada em sua casa de Halloweentown, um misterioso lugar onde feiticeiras, duendes e outros habitantes fantásticos, Marnie descobre que uma força maligna planeja se apoderar do lugar. Ela tem que lutar para salvar o futuro da magia.</info>
@@ -897,8 +897,8 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
 <info>Após sobreviver a um grave acidente, Nick Marshall (Mel Gibson), um executivo machista que trabalha em Chicago, misteriosamente passa a ter o dom de ler os pensamentos das mulheres. Inicialmente ele usa este novo poder para agradar sua chefe, Darcy Maguire (Helen Hunt), mas aos poucos começa a conhecer melhor a intimidade das mulheres e começa a mudar seu estilo de vida.</info>
@@ -911,8 +911,8 @@ vCruzeiro das Loucas (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]
 <link>$doregex[Igor_Rangel_Link]OCRZRDLCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Após romper com Felicia (Vivica A. Fox), sua noiva, Jerry (Cuba Gooding Jr.) entra em depressão.
@@ -927,8 +927,8 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]RFMNAC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
 <info>Rogério (Rafael Infante) é um cara que leva uma vida sossegada e comum. Casado com Jordana (Aline Fanju), ele vive pulando a cerca com Mirella. Em um dia, ele mente para a esposa e diz que vai viajar, quando na verdade vai para o motel com a amante. Mas o ônibus em que Rogério teoricamente estaria é sequestrado e vira notícia nacional, e ele começa a encenar, por telefone, que está no veículo sequestrado. Para se livrar da confusão em que se meteu, Rogério pecisa de qualquer jeito burlar a força policial e entrar no ônibus.</info>
@@ -941,8 +941,8 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Los Angeles, 1990. Sandy Wexler (Adam Sandler) é um agente determinado, empenhado e focado na evolução da carreira de seus excêntricos clientes. Sua rotina, no entanto, é abalada quando ele descobre em um parque de diversões a talentosa cantora Courtney Clarke (Jennifer Hudson), por quem acaba se apaixonando.</info>
@@ -955,8 +955,8 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info>Um koala (McConaughey), que preside um grande teatro, que tem caído em tempos difíceis, decide recuperar a glória através da produção da maior competição de canto do mundo.
@@ -971,8 +971,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos são espiões do governo.</info>
@@ -985,8 +985,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>É uma selva lá fora para Blu, Jade e seus três filhos depois que eles deixam a cidade maravilhosa para se aventurar em uma viagem pelo Brasil até chegar na Amazônia, para uma reunião de família. Fora de casa, em um lugar desconhecido, Blu terá que enfrentar seu maior medo - seu sogro - enquanto procura escapar do plano de vingança de Nigel.</info>
@@ -999,8 +999,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Blu é uma arara-azul que sempre viveu em cativeiro, nunca aprendeu a voar e não sabe viver fora de casa. Um dia, o pássaro que é nativo do Brasil, mas nunca morou aqui, vai para o Rio e descobre um mundo diferente, fora da gaiola.</info>
@@ -1013,8 +1013,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores, que é seu maior hobbie e, também, trabalho. Querendo descobrir mais sobre seu passado e ajudar sua família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Com a ajuda do lendário semideus Maiu, Moana começa sua jornada pelo mar aberto, onde vai enfrentar criaturas marinhas e descobrir antigas histórias do submundo.</info>
@@ -1027,8 +1027,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Dona Hermínia (Paulo Gustavo) está de volta, desta vez rica, pois passou a apresentar um bem-sucedido programa de TV. Porém, a personagem superprotetora vai ter que lidar com o ninho vazio, afinal Juliano (Rodrigo Pandolfo) e Marcelina (Mariana Xavier) resolvem criar asas e sair de casa. Para balancear, Garib (Bruno Bebianno), o primogênito, chega com o neto. E ela também vai receber uma longa visitinha da irmã Lucia Helena (Patricya Travassos), a ovelha negra da família, que mora há anos em Nova York.</info>
@@ -1041,8 +1041,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
 <info>Adaptação da comédia que já levou quase um milhão de espectadores aos teatros pelo Brasil, “Minha Mãe é uma Peça – O Filme”, acompanha as hilárias peripécias de Dona Hermínia, uma mulher de meia idade, aposentada, que após ser trocada pelo marido por uma mulher mais nova e não ter mais que cuidar dos filhos já crescidos, tem como preocupação maior procurar o que fazer. Sem um trabalho ou um companheiro, a nada simpática Dona Hermínia passa seu tempo desabafando com a tia idosa, fugindo da vizinha fofoqueira, ou “enchendo o saco” dos filhos ao tentar continuar a “cuidar” da vida deles.</info>
@@ -1055,8 +1055,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Com a morte recente do pai, os irmãos Clay (T.J. Miller) e Carol Vanston (Jennifer Aniston) disputam o controle da empresa de tecnologia por ele criada. Presidente da companhia, ele é ameaçado por ela, CEO, que planeja inclusive demitir todos os funcionários. Visando impressionar um novo cliente que pode representar sua garantia no poder, Clay pede que seu braço direito, Josh (Jason Bateman), organize uma espetacular festa de Natal.</info>
@@ -1069,8 +1069,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Nacional e Comédia</genre>
 <info>Durante a década de 80, lutadores de vale-tudo passam por dificuldades devido à falta de lutas profissionais. A fim de manter a paixão pela luta, eles desafiam os valentões no interior do Ceará que aceitam participar da competição criada. Aluísio Li, um aficionado e alienado por filmes de artes marciais, vê seu mundo ameaçado quando Toni Tora Pleura, um lutador profissional aposentado resolve desafiar a todos.</info>
@@ -1083,8 +1083,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
 <info>Dave (Aaron Johnson) é um adolescente viciado em quadrinhos cansado de apanhar ou ser ameaçado. Até o dia em que ele resolve virar o super herói Kick Ass e mudar esta rotina. Como? Nem ele sabia, mas ao defender fantasiado de herói (e apanhando mais ainda) um cara que levava uma surra, o vídeo com as imagens dele enfrentando os bandidos foi parar na internet e ele virou um fenômeno. Dave só não contava que a sua fama iria envolvê-lo no meio de um plano de vingança de Big Daddy (Nicolas Cage) e Hit Girl (Chloe Moretz) contra Frank D'Amico (Mark Strong), um mafioso da cidade, vivendo uma verdadeira e violenta aventura que mudaria para sempre a sua vida.</info>
@@ -1097,8 +1097,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]KCKASS2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
 <info>O ato insano de Dave Lizewski (Aaron Taylor-Johnson) em se vestir como o super-herói Kick-Ass e ir para as ruas combater o crime, mesmo sem ter qualquer tipo de superpoder, serviu de inspiração para dezenas de pessoas, que resolveram seguir o mesmo caminho. Mindy Macready (Chloë Moretz) deseja seguir como a super-heroína Hit-Girl, mas o sargento Marcus Williams (Morris Chestnut), que prometeu ao pai dela que iria cuidá-la em sua ausência, não quer que ela leve uma vida perigosa. Com isso, Mindy é obrigada a levar a vida de uma garota de sua idade, deixando de lado os atos heróicos, por mais que Dave insista para que ela faça o contrário. Entretanto, a carreira heróica de Dave não será solitária por muito tempo, já que não demora muito para conhecer o Coronel Estrelas e Listras (Jim Carrey), um ex-integrante da máfia que está reunindo um grupo de super-heróis sem poderes para combater o crime. Paralelamente, Chris D'Amico (Christopher Mintz-Plasse) prepara sua vingança contra Kick-Ass, assumindo um novo codinome: Motherfucker.</info>
@@ -1111,8 +1111,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevitável confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coração para a vida e para a verdadeira cura interior.</info>
@@ -1125,8 +1125,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>A rivalidade entre dois irmãos vai longe demais durante uma competição de natação.</info>
@@ -1139,8 +1139,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Século XVIII. A bela viúva Lady Susan Vernon (Kate Beckinsale) foge das fofocas sobre seus casos amorosos buscando refúgio na fazenda dos antigos sogros. Lá reflete sobre a vida e decide arranjar um novo marido para si e um bom pretendente para a filha, Frederica (Morfydd Clark).</info>
@@ -1153,8 +1153,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>Klaus (Liam Aiken), Violet (Emily Browning) e Sunny (Kara Hoffman e Shelby Hoffman) são três irmãos que repentinamente recebem a notícia de que seus pais morreram em um incêndio. Como são menores de idade eles não podem ainda herdar a fortuna de seus pais, o que apenas ocorrerá quando Violet, a mais velha, completar 18 anos. O trio passa então a morar com o Conde Olaf (Jim Carrey), um parente distante bastante ganancioso, que deseja tomar a fortuna das crianças para si. Para atingir sua meta Olaf não medirá consequências.</info>
@@ -1167,8 +1167,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Comédia que parodia o filme de terror "Uma noite de crime". Uma vez por ano, durante uma noite inteira, uma país pausa suas leis em relação aos crimes e permite com que todos os cidadãos se vinguem de seus inimigos. Recém mudados para uma vizinhança predominantemente branca, a família negra dos Black será perseguida das mais hilárias maneiras.</info>
@@ -1181,8 +1181,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
@@ -1195,8 +1195,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>Uma mulher (Mila Kunis), com uma vida aparentemente perfeita - bom casamento, filhos exemplares, ótimo emprego, etc - acaba ficando estressada além do ponto com as obrigações de sua vida. Cansada desse estado, ela se une a duas outras mulheres (Kathryn Hahn e Kristen Bell) que passam pelos mesmos problemas que ela para sair em uma jornada de libertação.</info>
@@ -1209,8 +1209,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Romance</genre>
 <info>Steve sempre termina o romance com suas namoradas em novembro para impedir que a relação fique mais séria, mas desta vez ele pode se arrepender de sua decisão.</info>
@@ -1223,8 +1223,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>A história acompanha um rapper que se reunirá com sua antiga boy band para recuperar o fracasso que foi seu último álbum.</info>
@@ -1237,8 +1237,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Ronald Miller (Patrick Dempsey) é um jovem tímido e trabalhador, que sempre sonhou em ser popular no colégio. Quando ele descobre que Cindy Mancini (Amanda Peterson), uma garota linda que todos os garotos paqueram, está precisando de 1000 dólares ele surge com uma insólita proposta: empresta o dinheiro a ela e em troca ela deverá fingir ser sua namorada. Ela topa e, com sua ajuda, ele acaba se tornando um dos garotos mais populares do colégio.</info>
@@ -1251,8 +1251,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Depois da morte do filho adolescente, um pai (Billy Crudup) tenta reconstruir sua vida. Certo dia ele encontra alguns objetos que pertenciam ao filho, entre os quais uma série letras de músicas e gravações originais. Para honrar a memória do filho, ele decide montar uma banda para tocar estas canções.</info>
@@ -1265,8 +1265,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>Dewey Finn (Jack Black) é um músico que acaba de ser demitido de sua banda. Cheio de dívidas para pagar e sem ter o que fazer, ele aceita dar aulas como professor substituto em uma escola particular de discilipla rígida. Logo Dewey se torna um exemplo para seus alunos, sendo que alguns deles se juntam ao professor para montar uma banda local, sem o conhecimento de seus pais.</info>
@@ -1279,8 +1279,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>Em 21 de dezembro de 1970, teve lugar um dos acontecimentos mais peculiares da história recente dos Estados Unidos. Na ocasião, a Casa Branca recebeu um ilustre visitante, um homem que pediu uma audiência privada - uma reunião que viria a se tornar lendária - com o presidente Richard Nixon (Kevin Spacey): o rei do rock and roll, Elvis Presley (Michael Shannon).</info>
@@ -1293,8 +1293,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>Ladrão sofre um acidente de carro numa rodovia e, antes de morrer, revela a um grupo de pessoas o local onde escondeu uma fortuna roubada. Começa uma desesperada corrida ao tesouro, que acabará envolvendo cada vez mais pessoas no caminho, culminando numa série de trapalhadas e confusões.</info>
@@ -1307,8 +1307,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
 <info>Ao serem expulsos do templo de Shaolin por desacatarem seu Mestre, dois jovens passam a lutar pela sobrevivência. Mas os caminhos escolhidos são opostos, Jun Bao (Jet Li) luta por um ideal de paz e poder. Anos depois, uma traição faz com que estes caminhos se cruzem, colocando os dois amigos frente a frente cada um a lutar pelo seu ideal. Inicia-se uma luta sangrenta onde os dois maiores representantes de artes marciais do Oriente terão que mostrar todas as suas habilidades nem que para isso um deles chegue a morte. Uma história de amizade e justiça foi responsável pela origem mundial da maravilhosa arte do Tai Chi Chuan</info>
@@ -1321,8 +1321,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
 <info>A história gira em torno de Dave Ghantt, um guarda noturno de uma companhia de carros blindados no sul dos Estados Unidos que organiza um dos mais ousados assaltos a banco da história norte-americana.</info>
@@ -1335,8 +1335,8 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Um ano após despistar o FBI e ganhar a adulação do público com seus números de mágica ao estilo Robin Hood, os Quatro Cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco e Lizzy Caplan) ressurgem em um espetáculo que pretende expor as práticas sem ética de um magnata da tecnologia, mas ao final do número, são desmascarados e raptados por um inimigo desconhecido. O homem por trás do ato de desaparecimento dos ilusionistas é nada menos que Walter Mabry (Daniel Radcliffe), um prodígio que ameaça os mágicos e os obriga a fazer um roubo dos mais espetaculares e impossíveis. A única esperança é conseguir produzir um golpe sem precedentes para limpar seus nomes e revelar o real mandante por trás de tudo.</info>

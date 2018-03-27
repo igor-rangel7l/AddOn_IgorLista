@@ -16,8 +16,8 @@
 <link>$doregex[Igor_Rangel_Link]AMREMTMPSDGRRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>A história de amor entre uma enfermeira americana idealista e um oficial turco na Primeira Guerra Mundial.</info>
@@ -30,8 +30,8 @@
 <link>$doregex[Igor_Rangel_Link]DUKRK.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
 <info>Na Operação Dínamo, mais conhecida como a Evacuação de Dunquerque, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial. A história acompanha três momentos distintos: uma hora de confronto no céu, onde o piloto Farrier (Tom Hardy) precisa destruir um avião inimigo, um dia inteiro em alto mar, onde o civil britânico Dawson (Mark Rylance) leva seu barco de passeio para ajudar a resgatar o exército de seu país, e uma semana na praia, onde o jovem soldado Tommy (Fionn Whitehead) busca escapar a qualquer preço.</info>
@@ -44,8 +44,8 @@
 <link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>A história de um jovem soldado alemão que começa um conflito consigo mesmo ao perceber a decepção de seu próprio governo. Eles não eram todos iguais...</info>
@@ -58,8 +58,8 @@
 <link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>A história de um jovem soldado alemão que começa um conflito consigo mesmo ao perceber a decepção de seu próprio governo. Eles não eram todos iguais...</info>
@@ -72,8 +72,8 @@
 <link>$doregex[Igor_Rangel_Link]NAMRDATRDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>'The Wall' é descrito como uma competição mortal de gato e rato travada por um atirador americano e um franco-atirador iraquiano que tem ele preso atrás de um pequeno pedaço de concreto. O atirador está comandando a frequência de comunicação, e os inimigos falam uns com os outros através de um impasse que irá revelar-se fatal para um deles. The Wall é considerado o primeiro filme original da Amazon Studios.</info>
@@ -86,8 +86,8 @@
 <link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf4.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>Ambientado durante a ocupação do Iraque, um pelotão de soldados norte-americanos tentam proteger uma pequena aldeia.</info>
@@ -100,8 +100,8 @@
 <link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
 <info>Para um grupo de soldados americanos, alguns dias os separam do retorno para casa. Um período relativamente curto, se não fosse por tantas ocorrências que transformassem esse fim de jornada em um verdadeiro inferno. As forças armadas precisam de especialistas não só nos campos de combate mas também no dia a dia, na proteção do grupo contra insurgentes que promovem atentados, matando milhares de cidadãos.
@@ -115,8 +115,8 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>(.*)</expres>
-<page>http://igorlista.at.ua/Filmes/Server/mobileserverf3.txt</page>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
 <info>Na trama, em 1914, Joey, um potro com um sinal em forma de cruz na testa, é vendido ao exército e enviado à Europa, onde se desenrola a Primeira Guerra Mundial. Entregue a um oficial, o animal se torna um cavalo de batalha, testemunhando o horror do conflito na França. A coragem de Joey toca os soldados, enquanto o cavalo sofre pela ausência de Albert, o filho do fazendeiro que ele deixou para trás. Será que ele verá seu dono verdadeiro outra vez?</info>
