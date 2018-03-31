@@ -38,6 +38,13 @@
 </item>
 
 <item>
+<title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>http://iptv.ec.cx/hls/redecanais-cartoon.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<fanart>http://igorlistalogos.at.ua/fanart/CARTOON_NETWORK.jpg</fanart>
+<thumbnail>http://goo.gl/oF6osu</thumbnail>
+</item>
+
+<item>
 <title>[COLOR orange][B]CARTOON NETWORK[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
@@ -143,25 +150,7 @@
 
 <item>
 <title>[COLOR orange][B]NICK[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>file: "(.*AuthSign.*?)"</expres>
-<page>$doregex[Igor_Rangel_Id]</page>
-<referer>http://m.redecanais.com</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex>
-<regex>
-<name>Igor_Rangel_Id</name>
-<expres>src="(.*canais.*?)"</expres>
-<page>$doregex[Igor_Rangel_Site]</page>
-<page>http://m.redecanais.com/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Site</name>
-<expres>src="(.*servercanais.*?)"</expres>
-<page>http://m.redecanais.com/assistir-nickelodeon-online-24-horas-ao-vivo_c71d2928e.html</page>
-<referer>http://m.redecanais.com/</referer>
+<link>http://iptv.ec.cx/hls/redecanais-nick.m3u8|Referer=http://m.redecanais.com/watch.php</link>
 <fanart>http://igorlistalogos.at.ua/fanart/NICK.png</fanart>
 <thumbnail>http://goo.gl/mgIap8</thumbnail>
 </item>
@@ -176,25 +165,7 @@
 
 <item>
 <title>[COLOR orange][B]DISNEY XD[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>file: "(.*AuthSign.*?)"</expres>
-<page>$doregex[Igor_Rangel_Id]</page>
-<referer>http://m.redecanais.com</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex>
-<regex>
-<name>Igor_Rangel_Id</name>
-<expres>src="(.*canais.*?)"</expres>
-<page>$doregex[Igor_Rangel_Site]</page>
-<page>http://m.redecanais.com/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Site</name>
-<expres>src="(.*servercanais.*?)"</expres>
-<page>http://m.redecanais.com/assistir-disney-xd-online-24-horas-ao-vivo_36944293f.html</page>
-<referer>http://m.redecanais.com/</referer>
+<link>http://iptv.ec.cx/hls/redecanais-disneyxd.m3u8|Referer=http://m.redecanais.com/watch.php</link>
 <fanart>http://igorlistalogos.at.ua/fanart/DISNEY_XD.png</fanart>
 <thumbnail>http://goo.gl/aWbwb4</thumbnail>
 </item>
@@ -220,6 +191,13 @@
 <expres>channel='(.*)',</expres>
 <page>http://m.tudotv.tv/assistir-disney-channel-ao-vivo-online/opcao-4927/</page>
 </regex>
+<fanart>http://igorlistalogos.at.ua/fanart/DISNEY_CHANNEL.jpg</fanart>
+<thumbnail>http://goo.gl/nB2Tmc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange][B]DISNEY CHANNEL[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>http://iptv.ec.cx/hls/redecanais-disney.m3u8|Referer=http://m.redecanais.com/watch.php</link>
 <fanart>http://igorlistalogos.at.ua/fanart/DISNEY_CHANNEL.jpg</fanart>
 <thumbnail>http://goo.gl/nB2Tmc</thumbnail>
 </item>

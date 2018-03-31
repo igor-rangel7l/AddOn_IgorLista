@@ -67,6 +67,13 @@
 </item>
 
 <item>
+<title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>http://iptv.ec.cx/hls/redecanais-fox.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
+<thumbnail>http://goo.gl/13gfQq</thumbnail>
+</item>
+
+<item>
 <title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/fox-hd/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
@@ -127,44 +134,6 @@
 <name>Igor_Rangel_Link</name>
 <expres>src="(.*widestream.*?)"</expres>
 <page>http://portalzuca.com/canais/fox.php</page>
-</regex>
-<fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
-<thumbnail>http://goo.gl/13gfQq</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (EsportesTv)[/COLOR]</title>
-<link>http://cdn.widestream.io:8081/wideedge1/ch40-1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)"</expres>
-<page>http://widestream.io/embed-11417?IGOR_RANGEL</page>
-</regex>
-<fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
-<thumbnail>http://goo.gl/13gfQq</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>file: "(.*AuthSign.*?)"</expres>
-<page>$doregex[Igor_Rangel_Id]</page>
-<referer>http://m.redecanais.com</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex>
-<regex>
-<name>Igor_Rangel_Id</name>
-<expres>src="(.*canais.*?)"</expres>
-<page>$doregex[Igor_Rangel_Site]</page>
-<page>http://m.redecanais.com/</page>
-</regex>
-<regex>
-<name>Igor_Rangel_Site</name>
-<expres>src="(.*servercanais.*?)"</expres>
-<page>http://m.redecanais.com/assistir-fox-online-24-horas-ao-vivo_71b939a76.html</page>
-<referer>http://m.redecanais.com/</referer>
 </regex>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
 <thumbnail>http://goo.gl/13gfQq</thumbnail>
@@ -407,6 +376,13 @@
 <title>[COLOR yellow][B]UNIVERSAL CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/universalch/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<fanart>http://igorlista.at.ua/fanart/Universal.jpg</fanart>
+<thumbnail>http://goo.gl/K8V00r</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]UNIVERSAL CHANNEL[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>http://iptv.ec.cx/hls/redecanais-universal.m3u8|Referer=http://m.redecanais.com/watch.php</link>
 <fanart>http://igorlista.at.ua/fanart/Universal.jpg</fanart>
 <thumbnail>http://goo.gl/K8V00r</thumbnail>
 </item>
