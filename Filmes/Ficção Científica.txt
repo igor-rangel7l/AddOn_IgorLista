@@ -4,6 +4,90 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white][COLOR white]Skyline: Além do Horizonte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>A população da Terra volta a ser aterrorizada por naves alienígenas que emitem luzes azuis e sugam as pessoas. O policial Mark (Frank Grillo) começa uma luta implacável contra esses inimigos quando seu filho é capturado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTycaTQ3z_8097ib-HbbFGiV5DayMCvzUAP_s07ZOm8baLPbDx2FOY7ggEh</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/beyond_skyline_ver3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Skyline: Além do Horizonte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>A população da Terra volta a ser aterrorizada por naves alienígenas que emitem luzes azuis e sugam as pessoas. O policial Mark (Frank Grillo) começa uma luta implacável contra esses inimigos quando seu filho é capturado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTycaTQ3z_8097ib-HbbFGiV5DayMCvzUAP_s07ZOm8baLPbDx2FOY7ggEh</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/beyond_skyline_ver3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Onde Está Segunda (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ONDESTSGNDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ficção Cientifica</genre>
+<info>Situado num mundo fragilizado pela superpopulação, onde famílias só podem ter um filho, sete irmãs gêmeas (Rapace) dividem os dias da semana para poderem conviver no mundo, sendo cada uma nomeada com seu respectivo dia em que é permitida sair. Quando Segunda desaparece, as outras seis tem que se juntar para descobrir o paradeiro dela enquanto são caçadas pelas forças do governo.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1XEeIipDxTBCwpii2euLQ5SPXST7_mfoOAAlIsUYEnJEkxe3sXq3cIjlJOA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/WHTM_Vertical-Main_PRE.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Liga da Justiça  (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LGDJSTC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Ficção Cientifica</genre>
+<info>Movido por sua fé restaurada na humanidade e inspirado pelo sacrifício do Superman, Bruce Wayne conta com a ajuda de sua nova aliada, Diana Prince, para enfrentar um inimigo ainda maior. Juntos, Batman e Mulher-Maravilha trabalham rápido para encontrar e recrutar uma equipe de metahumanos para se opor à nova ameaça. Mas apesar da formação dessa liga de heróis sem precedentes – Batman, Mulher-Maravilha, Aquaman, Flash, e Ciborgue – pode ser tarde demais para salvar o planeta de um ataque de proporções catastróficas.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQabs_40PlbXL9JKUBisnVqsuzopZCRFEtpO-sstVfzFNv2vzto8vGRmPJUVA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/Sem_t%C3%ADtulo_7EoNVEj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Paradoxo Cloverfield (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CLVRFLDAPRTCDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ficção Cientifica e Terror</genre>
+<info>Em órbita sobre um planeta prestes a entrar em guerra, cientistas testam uma possível solução para a crise de energia, mas acabam em uma realidade alternativa.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0b0PCRzdxl22mK6yDn95vUR5g1MI7FfczGwTr3KpbwTOmenpZ7-mFGZcnrQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/paradox.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Torre Negra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ATRENGR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBMXJokR4bTajEZNP4jD38WBAPr7JyGViW3lrCILUHXDK8PzNNjklGAz4A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/a-torre-negra.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Aniquilação (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ANQLCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

@@ -4,6 +4,48 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white][COLOR white]Bruxarias (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BRXRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação</genre>
+<info>Malva é uma menina de 10 anos que leva uma vida tranquila com sua avó e seu bichinho de estimação, Lalila. Numa feira de vendas de produtos medicinais, sua avó apresenta produtos que são um segredo ancestral guardado por sua família. O sucesso desperta o interesse de Rufa, o malvado dono de uma fábrica de cosméticos. Rufa decide raptar a avó da menina para descobrir os ingredientes secretos utilizados em sua produção. Malva, então, se junta a uma confraria de bruxas para salvar sua avó, enquanto vai descobrindo mais sobre a história mágica de seus antepassados.?</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOUEuOWzw_ZeNoX3Z7aKU0LYzZKZLQ3ILamTmEf2TAjzfalu29h7BnYQMzhg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/bruxarias.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Bunyan e Babe: Os Amigos da Floresta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Bunyan & Babe, baseado em uma lenda norte-americana, narra as aventuras de Bunyan, um gigante lenhador que precisa salvar o boi azul Babe, igualmente grande, das garras de um maligno dono de circo.Em uma das versões da lenda, Babe era tão imenso que, apenas com suas pegadas, criou diversos lagos na região de Minnesota.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj971g2ML9CYZDpeF14QuAyYZUJiDGSFj-PySLSkfXs3ascL8DapV2zCZG</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/b516cd49ad29a76b8e7f24fc50c42480c09cf9b8.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Big Pai, Big Filho (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BGPABGFLH.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação</genre>
+<info>Adam é um adolescente que precisa descobrir o mistério por trás do desaparecimento de seu pai. Para isto ele se aventura numa floresta tentando localizar o pai. Quando ele encontra-o descobre que ele é ninguém mais, ninguém menos, do que o lendário Pé Grande. Ele tem se escondido na floresta há anos para proteger a si e sua família de uma grande corporação que quer fazer experimentos científicos com ele. Pai e o filho começam a passar um tempo juntos e Adam logo descobrirá que ele também tem super poderes, além de sua imaginação.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj0TUWuVq9J1FNiUrnm2r4n-175dH_PtwXuVTkGDvSqUm_dfpQDT5MJW6z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/unnamed_RWdQBJU.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]As Aventuras do Capitão Cueca: O Filme (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASAVNTRSDCAPCUC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

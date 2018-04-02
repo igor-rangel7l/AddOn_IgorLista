@@ -6,6 +6,118 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Pequeno Demônio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PQNDEMO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Gary (Adam Scott) é um homem que consegue se casar com a mulher de seus sonhos. Ainda por cima, ele tem a sorte de se tornar padrasto de um adorável menino de seis anos (Owen Atlas). O problema é que Gary descobre que o filho de Samantha (Evangeline Lily) pode ser o anticristo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRieEGPA1Lq-v3HnRQyb3aLVGL99xUmPeZSD41w0VkGwTNe-KsEGSDHoWuUxQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/little-evil-key-art-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Som (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OSOM.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Uma escritora pesquisadora de paranormalidade, acredita que a baixa frequência tátil é a causa das aparições de fantasmas em uma estação de metro abandonada. Em uma tentativa de desmentir os avistamentos, ela invade a estação para gravar provas.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBr-BUbsa7mZXYCYuEzHItK3gpzwJNRmbd_e-jDAU9MehvAxjl0KE__D_</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/sound23.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Nunca Diga Seu Nome (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NUNCDGSNME.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Três estudantes universitários se mudam para uma antiga casa e inadvertidamente desencadeiam uma série de eventos com uma entidade sobrenatural conhecida como Bye Bye Man. Os amigos tentam salvar uns aos outros e ao mesmo tempo manter a existência de Bye Bye Man em segredo para salvar outros do mesmo destino mortal.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQejf1hhl2s9ZrsgQW4JxvT7z-ZxP80-YtTSxsvN7idAOHnGSUu</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/POSTER_pOST.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Halloween de Madea (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OHLWNDMDEA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Madea acaba no meio do caos, quando ela passa o Dia das Bruxas num assombrado poltergeists paranormal com fantasmas, vampiros e zumbis , mantendo um olhar atento sobre um grupo de adolescentes mal-comportados .</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOg22OfbkVGZDQBHceOayF33p0fmEaUZR8jOKffDbNxoD8STqIMrc323p</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/PHoB22ugGPlFru_1_l.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Continue Assistindo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CNTNASSTND.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>O filme mostrará uma família mantida prisioneira na sua própria casa por intrusos, que propõem um jogo de vida ou morte, cujas regras só vão ficando mais claras a medida que a noite avança.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuutcwsujF1xOV13SLXkr5LL6m8TEiPNO2DOA7TRWC-P0yBr37oD6O797L</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/keep-watching_t83843_Sj5Imv8.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Corra! (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CORRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Chris (Daniel Kaluuya) é jovem negro que está prestes a conhecer a família de sua namorada caucasiana Rose (Allison Williams). A princípio, ele acredita que o comportamento excessivamente amoroso por parte da família dela é uma tentativa de lidar com o relacionamento de Rose com um rapaz negro, mas com o tempo, Chris percebe que a família esconde algo muito mais perturbador.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqR5p_budCeEnYsd1lv83o6_xeHMcwYIpfWxyXctZ7wrg9A4Qnn8YzNs2DEA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/get_out_ver3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Paradoxo Cloverfield (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CLVRFLDAPRTCDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ficção Cientifica e Terror</genre>
+<info>Em órbita sobre um planeta prestes a entrar em guerra, cientistas testam uma possível solução para a crise de energia, mas acabam em uma realidade alternativa.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0b0PCRzdxl22mK6yDn95vUR5g1MI7FfczGwTr3KpbwTOmenpZ7-mFGZcnrQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/paradox.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Volta de Jack (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AVLTDJACK.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>Jack vive em Los Angeles mas depois que seu pai é morto em um acidente de carro ele viaja para sua casa, no Colorado, para ajudar a cuidar da sua mãe (também ferida no acidente). Lá, ele descobre segredos há muito enterrados e mentiras dentro de sua história familiar, seus pais, seus amigos e sobre sua própria identidade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3Gy95gZVHsTfQmzUfaAXckjEXarOBkmdns-ZKOpCAclOId9QW3vIRLdVamA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/08/jack_goes_home.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Área 15 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AR15.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

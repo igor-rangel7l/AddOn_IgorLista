@@ -12,6 +12,34 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Megan Leavey (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MGNLAVY.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>No longa, baseado em fatos reais, a agente Megan Leavey, que é uma especialista em treinamento para cães detectarem bombas, é enviada para o Iraque em uma missão ao lado do seu cachorro, Rex. Juntos eles chegam a completar mais de 100 missões, porém ao ser ferida Megan é afastada e espera seu animal se aposentar para poder adotá-lo. O rumo da história muda ao saber que seu cachorro poderá sofrer uma eutanásia.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzcCp4YmsgMmEVuTu_LYFPwmLXTSXD9UqoCI5B3cUKOnyADB5kc-M7UFKRbA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/megan_leavey.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Honra ao Merito (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HNRAOMRTO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>Baseado no livro homônimo de David Finkel, o filme acompanhará a vida de soldados norte-americanos que retornaram, depois de 15 meses na guerra do Iraque, sofrendo de transtorno de estresse pós-traumático. Tais condições interferiram nas suas rotinas e abalaram a vida de suas famílias.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuXoukHVO237aPpTo3wLKiNzspFTjxDDgaeUOy1297ro4Wg-8lvqZT_qj5w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/MV5BMTA0NTM5NzgzMjJeQTJeQWpwZ15BbWU4MDAwODc3NjIy._V1_.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Amor em Tempos de Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AMREMTMPSDGRRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

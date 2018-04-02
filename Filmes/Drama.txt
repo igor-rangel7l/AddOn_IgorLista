@@ -5,6 +5,700 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Roman J. Israel, Esq (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RMNJIRAL.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Roman J. Israel (Denzel Washington) é um advogado determinado e honesto, acostumado a ver os outros ganharem crédito por seu bom trabalho. Ele defende que os criminosos sejam julgados de forma justa e não teme ir contra o sistema. Porém, quando seu sócio sofre um ataque cardíaco, a firma é fechada e Roman é convidado a assumir um cargo na companhia do ambicioso George Pierce (Colin Farrell), que se importa mais com o dinheiro do que com a justiça. O que ele não imaginava é que passaria a questionar seus próprios valores em meio aos perigosos bastidores do poder.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN9gztUYnZPOtBWquTG33svrXH7utyJ-2_oa3YUvtyEU7AHyES0kS8ke7UjA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/roman_j_israel_esq.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Professor Marston e as Mulheres-Maravilhas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRFMRSTNEASMLHRSMRV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>A não-convencional vida de Wiliam Marston (Luke Evans), psicólogo e inventor de Harvard que ajudou a tornar real o Detector de Mentiras e que também criou a Mulher-Maravilha, personagem dos quadrinhos, em 1941. Marston mantinha uma relação polígama envolvendo sua esposa Elizabeth Marston (Rebecca Hall), psicóloga e inventora, e Olive Byrne (Bella Heathcote), uma ex-aluna que virou acadêmica. Essa relação e os ideais feministas das duas mulheres foram essenciais para a criação da personagem.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfcI41Ato2RPPNhvQ34NllaiYmCtBj97hH2-4_1V2GxeG61n1hQR1M5rskQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/1_AohPc66.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Perfeita Pra Você (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PERFTPRVC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>A história de Abbie e Sam, almas gêmeas que estavam destinadas a ficar juntos até que a morte se interpusesse.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR4qxiPkqxKv8xyM2qHCpPa26GiYklbGdWOzK1ro3rJc4W86DzloLR4qSJoA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/irreplaceable_you.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Patti Cake$ (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PATCK.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Uma aspirante a rapper lutando num mundo de shoppings e clubes de strip na busca improvável de glória.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2lcOEWBOFRhNKj8BcOAzu8eNRM-iQirTFQUfRmwEyE94p9-rzFsraNbCPeg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/patti_cakes.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Último Vice-Rei (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OULTMVICREI.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Em 1947, Lord Mountbatten que assumiu o posto de último vice-rei, encarregado de entregar a Índia de volta ao seu povo, vivia no andar de cima da casa, onde foi a casa de governantes britânicos, enquanto que 500 hindus, muçulmanos e sikhs servos viviam no andar de baixo.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9yt9ns3XLOmdr84cHKV_iHpw-hxg1dt-Cw4aMTT1C25xoXCT3VTaL6c45yg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/viceroy-s-house-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Rei da Polca (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OREIDPLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Filme baseado no documentário 'The Man Who Would Be Polka King', de Joshua Brown e John Mikula, que segue a ascensão e queda de Jan Lewan, uma sensação da polka na cidade de Pensilvânia que aplicou um "Esquema Ponzi", uma das maiores bolhas financeiras da história.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpqRyGD_q5JG0nDX6_xctdRzCzbRfUksVpR3ID9eX5sKbfeEiAUVtY4FF-Mw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/the-polka-king-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Mínimo Para Viver (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OMNMOPRVIVR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Drama</genre>
+<info>Uma jovem (Lily Collins) está lidando com um problema que afeta muitos jovens no mundo: a anorexia. Sem perspectivas de se livrar da doença e ter uma vida feliz e saudável, a moça passa os dias sem esperança. Porém, quando ela encontra um médico (Keanu Reeves) não convencional que a desafia a enfrentar sua condição e abraçar a vida, tudo pode mudar.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5fTkMdB0vyKnP8F5HLiNW19LmW3YraOwZI18duW0MiJQv45OoY5rY29MlYg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/to_the_bone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Mundo de Carrie Pilby (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OMNDCRIE.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Drama</genre>
+<info>A história centra-se à volta de Carrie Pilby, uma adolescente prodígio de 19 anos que não se consegue inserir na sociedade. Recentemente licenciada pela Universidade de Harvard, não consegue manter grandes relações de amizade e sua visão que tem da sociedade costuma ser bastante diferente da dos outros. Quando começa a ter sessões de terapia, Carrie começa a ver o mundo com outros olhos</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqpRJA8jMAnFN0kY6DeCIvIf3C0NkHPq1RzquovtDsd3F8TDfJmk9ikSH</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/C6VABkMXEAA2b4y.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Estado das Coisas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OESTDDSCOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Riqueza, poder e festas ou o aconchego da vida familiar? Para Brad (Ben Stiller) a vida dos amigos parece muito melhor que a sua. Seja nas redes sociais, na tv ou nas revistas todos parecem estar muito melhor que ele. Ele errou nas escolhas? Por que a grama dos amigos é sempre mais verde?</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPhD6wJdFCfuDgYCZTn8s8-jhQSMsHiQwNCqYZymVMWQn2O9POHQkwgNSd</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/poster-o-estado-das-coisas.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Crime da Gávea (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional e Romance</genre>
+<info>Um dia, Paulo chega em casa e encontra sua esposa morta. Enquanto a polícia investiga o crime, Paulo dá início à sua própria busca do culpado, entrando em uma série de suspenses e mistérios.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR45CKhclSwuPUJ4VrvAfwSOCD6ottSfyK1jY5SchlfO2Q9mq0ZnKXc4uVu</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/260x365_1487011673.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Newness (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NWNSS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Na Los Angeles contemporânea, dois jovens navegando em uma cultura de conexão social baseada em mídia começam um relacionamento que força limites emocionais e físicos.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/7xKteRjDuoSccIBRdEYngbSoFdXL0cTeRsxR51d47zwTotCvp-Y2u7Xdk_f4C_urDiYgVOxusZ0ORL7-kE7hUlr3kkfa-YthZpJdj7h-qeQIVkk_9XzIMCsP0SNGppU2v2EfeiuT5gEN51Vbhhbrn3FZJbJkL3_ZFQWycQK-bw=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/MV5BMjEyYWEzYzQtZmNlNC00N2Q4LThjNWEtMmE4ZmZjM2NiYjM1XkEyXkFqcGdeQX_c2obODJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Norman: Confie em Mim (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NRMNCONFEMIN.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Norman Oppenheimer (Richard Gere) tem uma solitária vida às margens do poder e do dinheiro de Nova Iorque, um improvável operador sonhando sobre esquemas financeiros que nunca se tornam realidade. Sempre na busca de alguém disposto a prestar atenção nele, Norman faz amizade com Micha Eshel (Lior Ashkenazi), um carismático político israelense em uma má fase de sua carreira. Porém, três anos depois, Eshel torna-se um influente líder mundial, transformando drasticamente a vida de Norman tanto positivamente quanto negativamente.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROTbQtA7sOeCX-SSrVgNBH462kDHUxZF25hBnVBLoqRbK4ETqB1vvG3Uo4gg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/unnamed_aoxuVJp.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]No Rastro da Violência (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NORSTRDVLNC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Amanda Tyler é uma renomada psicóloga que vai entrevistar, e analisar, no corredor da morte o recluso Jackson Shea. À medida que a entrevista começa, e o destino de Jack está pendente, Amanda deve determinar se uma suspensão da execução deve ser ou não concedida.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTcWpagWTK3xIKPW7Ps2jx5eldhcKdo6u-zTKeTC15qt6xYk52eXp32iuc-g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/american_violence.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Mate o Rei (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MTOREI.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>A história segue um casal que escapam de um hospital psiquiatrico em 1974 e embarcam em direção a Los Angeles para realizar o sonho do garoto,matar seu ídolo Elvis Presley.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2mnlQJcQj9zHyLQFZGMeNmiDoODkWhysnaOhlxmqqr_6P2SLB3MnZhUz5</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/05/shangri-la-suite_t88510.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Marshall: Igualdade e Justiça (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MRSLIGLDEJSTC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Antes de se tornar o primeiro juiz afro-descendente da Corte Suprema Americana, Thurgood Marshall (Chadwick Boseman) deve lutar num caso pode definir sua carreira: defender Josepho Spell (Sterling K. Brown), um homem negro que está sendo acusado de atacar uma socialite branca em seu quarto, mas que jura não ser o culpado do crime.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvT3M6BVajGR2S-sznYyBSP2wxT1I3WK63ACJ7pW7AGguHshUCkG-Ch9Zy</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/287a43fa880a3710790a0c4adeda80c3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Mark Felt: O Homem que Derrubou a Casa Branca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MRKFLTOHMNQDRBACSBRNC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Retrata a trajetória de vida de Mark Felt, vice-presidente do FBI que, de maneira secreta e usando o nome fictício de "Deep Throat", foi informante dos jornalistas Bob Woodward e Carl Bernstein, contribuindo assim para o desfecho do famoso escândalo de Watergate, responsável por conseguir a renúncia do então presidente Richard Nixon.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpUEyhXjsrByoSxbsDEvSDnMG_1_EZsIlXvn7XibrWU98XcFxdnsFTNskmPw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/59c912f85c3524b91cc8d68cd.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Mulheres do Século 20 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MLHRSDSCL20.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Passado em 1979, Mulheres do Século XX retrata a vida de Dorothea Fields, uma mãe solteira na casa dos 50 que está a cuidar do seu filho adolescente, durante uma época de mudanças culturais e de revolução. Na educação de Jamie, Dorothea conta com a ajuda de duas mulheres mais novas, Abbie, uma artista punk que aluga um quarto na casa dos Fields, e Julie, uma inteligente e provocadora adolescente.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMxzaRt_nTCIWeKisgy71gsMt5E26U9UQkd9S2n_HKyMidKAsh3EBDLkpK</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/twozeroth_century_women.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Megan Leavey (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MGNLAVY.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>No longa, baseado em fatos reais, a agente Megan Leavey, que é uma especialista em treinamento para cães detectarem bombas, é enviada para o Iraque em uma missão ao lado do seu cachorro, Rex. Juntos eles chegam a completar mais de 100 missões, porém ao ser ferida Megan é afastada e espera seu animal se aposentar para poder adotá-lo. O rumo da história muda ao saber que seu cachorro poderá sofrer uma eutanásia.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzcCp4YmsgMmEVuTu_LYFPwmLXTSXD9UqoCI5B3cUKOnyADB5kc-M7UFKRbA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/megan_leavey.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Max 2: Um Agente Animal (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MAX2.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Baseado em uma história verdadeira, 'Kalinka' é sobre a luta de Andre Bamberski para trazer justiça à sua filha Kalinka que morreu em circunstâncias perturbadoras. Após 27 anos de investigação para caçar o provável assassino, Bamberski vai finalmente conseguir o assassino sequestrado e levado à justiça.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmGIktMm-DfSy7GBOXSXQGd47jdtHRBP-UlCpKVO3Kr326ubYpidpkxKmUxA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/57e980f55bf09f55a6c49184cc7e32f7e8669256.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Menendez: Irmãos de Sangue (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MENDZITMSDSNG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Filme baseado na história de Lyle e Erik Menendez, dois irmãos condenados pelo assassinato de seus pais, em Beverly Hills, Califórnia, 1989.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvhZHwcmdHWUVB6t6ViAdWkSwkJZnXDb14hjik1mVcMj3UaNHKT4ez-Ri2</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/p13954503_p_v8_aa.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Kalinka: Em Nome Da Minha Filha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]KLNKAEMNMDMNHFLH.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Baseado em uma história verdadeira, 'Kalinka' é sobre a luta de Andre Bamberski para trazer justiça à sua filha Kalinka que morreu em circunstâncias perturbadoras. Após 27 anos de investigação para caçar o provável assassino, Bamberski vai finalmente conseguir o assassino sequestrado e levado à justiça.</info>
+<fanart>https://4.bp.blogspot.com/-GgDo4LPj-28/WrXARBaxDpI/AAAAAAAAJ8o/5eZBEvCqJWY7k3tVu7XIqu9sjOkjZ2rTQCLcBGAs/s1600/Filme%2BKalinka%2BEm%2BNome%2BDa%2BMinha%2BFilha%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/au-nom-de-ma-fille_tNone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Honra ao Merito (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HNRAOMRTO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>Baseado no livro homônimo de David Finkel, o filme acompanhará a vida de soldados norte-americanos que retornaram, depois de 15 meses na guerra do Iraque, sofrendo de transtorno de estresse pós-traumático. Tais condições interferiram nas suas rotinas e abalaram a vida de suas famílias.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuXoukHVO237aPpTo3wLKiNzspFTjxDDgaeUOy1297ro4Wg-8lvqZT_qj5w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/MV5BMTA0NTM5NzgzMjJeQTJeQWpwZ15BbWU4MDAwODc3NjIy._V1_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Fobia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]FBIA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Luciana (Ana Asensio ) é uma jovem imigrante que luta para começar uma nova vida em Nova York, enquanto tenta escapar do seu passado. Na nova cidade, ela recebe uma oportunidade que não pode negar, mas, a medida que o dia termina, ela é atraída para o centro de um jogo perigoso. Vidas são colocadas em risco durante enquanto um série de eventos entretém alguns privilegiados.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRScKHCPu7MPuArz2AH7pyKatWAFkRHartbJfS6S3HOTDB7b029vsCxGPmr</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BZTM0YTQ4NTMtZjIxOC00MDYxLWE1NTktOWVkZjNjZDVhMmMxXkEyXkFqcGdeQX_FjFKsjA.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Coração de Corredor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRCAODCRDR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Depois que os melhores amigos de um adolescente morrem em um trágico acidente, ele acha que correr permite que ele se lembre deles perfeitamente. A corrida, no entanto, também lhe traz uma certa notoriedade, e ele logo se vê preso entre manter vivo o passado e fazer novas lembranças no presente.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/n_eaoPPVQxkgtZnMTHzv3hPKIymUUkEvn7K5Fdlpw_V9ajN4OT0wbcG4MQND7TpuB0b4LhlIe5rMcfgf57pLXEJjNYyOFUx5=w443-h332-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/one_mile_to_you.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Vilã (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AVLA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Definido como a versão coreana de "Nikita", o longa segue a história de uma mulher que foi treinada na China para ser uma assassina. E que agora dirige-se até a Coreia ocultando sua identidade. Porém, ela acaba se envolvendo com dois homens, o que resultará numa trama de vingança e segredos que nunca deveriam ser revelados.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZzxK-VZNMkxiS0c2jL_Eu1bnAbAvgOHdOuLjkbp5-cFmPVN6zU0lrGx6Wog</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/thevillai_c01cor_2017110475.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Lowriders: A Arte nos Carros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LOWRDRSAARTNSCRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>A história acompanha uma adolescente que se vê entre o pai tradicional e o irmão, pertencente a uma gangue, ambos competindo em um supershow anual de lowrider.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6CpD5xc0d58cwoGPliLUoE234ySNJOuXKnG7expYrTimVpYZ5zxvJFIU1NQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/MV5BMTkxMzg2NjEwNl5BMl5BanBnXkFtZTgwNjk0NzgwMjI._V1_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]João, O Maestro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>Cinebiografia do pianista e maestro brasileiro João Carlos Martins.
+As filmagens acontecem em São Paulo, Uruguai e Nova York. 
+A sinopse oficial informa que o roteiro "vai abordar detalhes pouco conhecidos da vida do artista, como o primeiro concerto internacional, a relação com as mulheres, a teimosia e o perfeccionismo em relação à música".
+Nascido em São Paulo em 25 de junho de 1940, João Carlos Martins começou a estudar piano aos oito anos de idade. Aos 13 anos, começou a se apresentar pelo Brasil. Aos 18 anos, estreou internacionalmente.
+Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 devido a problemas físicos (perdeu parcialmente os movimentos das mãos). Em 2004, começou a estudar regência e se tornou maestro. </info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6pPZhtDfNcvkNM5xbze5c5fvXnbJwShfU5k39Ng29YocyaY4CqQ5kZlrc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/595870.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]João, O Maestro (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>Cinebiografia do pianista e maestro brasileiro João Carlos Martins.
+As filmagens acontecem em São Paulo, Uruguai e Nova York. 
+A sinopse oficial informa que o roteiro "vai abordar detalhes pouco conhecidos da vida do artista, como o primeiro concerto internacional, a relação com as mulheres, a teimosia e o perfeccionismo em relação à música".
+Nascido em São Paulo em 25 de junho de 1940, João Carlos Martins começou a estudar piano aos oito anos de idade. Aos 13 anos, começou a se apresentar pelo Brasil. Aos 18 anos, estreou internacionalmente.
+Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 devido a problemas físicos (perdeu parcialmente os movimentos das mãos). Em 2004, começou a estudar regência e se tornou maestro. </info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6pPZhtDfNcvkNM5xbze5c5fvXnbJwShfU5k39Ng29YocyaY4CqQ5kZlrc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/595870.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Inseparáveis (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]INSPRVEIS2018.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Felipe é um rico empresário que ficou tetraplégico em um acidente e está procurando por um assistente. Existem vários qualificados, mas ele decide levar o auxiliar de seu jardineiro, Tito, que não reúne todas as condições para o cargo, como notam pessoas mais próximas a Felipe, como Verônica e Ivonne, sua governanta, mas Felipe permanece firme na sua decisão. Tito é a única pessoa em muito tempo, que não o trata com compaixão.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTokq_kfhFNstfdfzu70KrNlv9mg6VjftlIQBni7qHYjCnYFPrPQBmJI2By</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/inseparables-2016.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Hampstead: Nunca é Tarde Para Amar (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HMPSTDNCETRDPRAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Romance e Comédia</genre>
+<info>Inspirado em fatos reais contará a história de Emily (Keaton), uma viúva americana que mora em Hampstead Village, em Londres, considerado um local tranquilo no meio da metrópole. Um dia, ela repara em um homem vivendo em casa simples e conhece Donald (Gleeson), que mora há 17 anos no local, mas está sendo ameaçado por promotores imobiliários que querem fazer de tudo para tirá-lo dali. Quando descobre que sua melhor amiga Fiona está liderando uma iniciativa para apoiar a retirada dele, Emily fica ao lado de Donald.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQprbo00C9mRsn4OwgyNGRbuoW_tT8m0FYH41ryeXBt9Q4-vE0kwLPbLuUGjQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/fid17425.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Hacker: Todo Crime Tem Um Início (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HKRTDCRMTMUINC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Alex é um jovem imigrante ucraniano, que sustenta seus pais fazendo trabalhos ilegais na internet. Seu melhor amigo, Sye é um negociante do mercado negro, que o ajuda a ganhar dinheiro. Kira, que gosta de Alex, está disfarçada trabalhando para os federais. Baseado numa história real.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JF6oZt5_b6qigYOgKl4kuxq1va486s0TV3DGadn8W_31rGRXM25fmxuTcw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/poster_opt_1_p2xHcU9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Gostosas, Lindas & Sexies (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional,Comédia e Romance</genre>
+<info>No Rio de Janeiro, vivem quatro grandes e inseparáveis amigas: Beatriz, Tânia, Ivone e Marilu. Elas vestem manequim plus size e enfrentam todas as aventuras e desencontros amorosos e profissionais que quatro jovens mulheres podem enfrentar na capital carioca, (quase) sempre de bom humor.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk-5dr4oOWE7RTI2i8RKBqaj-k_USLgvv44LGLJ7qo-ZbkC0DVlHGnLhDmg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/114255.jpg-r_1890_2775-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Grande Saída (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GRNDSIDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Naomi (Emily Browning) é uma intercambista australiana de 20 anos de idade que passa um tempo nos Estados Unidos. Lá, ela começa a trabalhar com Nick (Adam Horovitz), enquanto se aproxima de seu primo distante Buddy (Jason Schwartzman), um produtor musical. Nesse pouco tempo, no entanto, ela consegue atrapalhar suas vidas e causar um equilíbrio emocional em suas respectivas famílias.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXzh6Rv1FAWwdOdViTLVOyZs3l6BbHt_DCiBJYwA3ecf1XcYX5yHw3wAev</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/golden_exits.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Extraordinário (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]EXTRORDNR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>August Pullman é um garotinho que nasceu com uma desordem craniofacial congênita. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4R25s_AXPCdf3dTMT_5C6629C2xeKtwxMcvAGwh6VSJa0VQZ16bLsOjD-PA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/wonder_ver11.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Elon Não Acredita na Morte (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ELNACRDT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>A esposa de Elon (Rômulo Braga), Madalena (Clara Choveaux), desaparece misteriosamente e não volta para casa depois do trabalho. Ele inicia então uma longa jornada por respostas: começa a seguir as rotas diárias da mulher, além de visitar os lugares mais sombrios da cidade. Mas o que ele encontra são vários mal-entendidos e estranhos encontros.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXHukcxxwLfmpl8axZSDoE44xcD-PckpI9JSMb7jWiksCIEB9dtdpJj6t_</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/elon_nao_acredita_na_morte.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Detroit em Rebelião (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DTRTEMRBL.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Uma operação policial sem planejamento originou uma rebelião civil, gerando uma devastadora revolta popular que tomou conta da cidade de Detroit ao longo de cinco dias em 1967. O que resultou em uma batalha campal e deixou um saldo impressionante de 43 mortos, mais de 340 feridos e 7 mil prédios queimados.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJx31WYLupaQYf8RGas8OSbv7IohmTaXTwXI8zlYOG_ZHV0l_6-kqgYMX7A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/Detroit-poster-620x918.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Dean: A Vida e Outras Piadas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DENAVDEORTPADS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Dean (Demetri Martin) é um desenhista freelancer em crise que, depois da súbita morte de sua mãe, viaja para a costa oeste para tentar impedir que seu pai (Kevin Kline) venda a casa da família. Mas seu foco é totalmente desviado ao se apaixonar por uma bela mulher de Los Angeles (Gillian Jacobs).</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG5IWb1sW81SHC1X7H96bffw3LWziL7KIA_0IecMiwsffdIzSbaxtKKjLvUw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/dean.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Certas Mulheres (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRTSMLHRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Entre as vidas da advogada Laura Wells (Laura Dern), de Gina Lewis (Michelle Williams) e da recém-formada Beth Travis (Kristen Stewart) há pouca coisa em comum além do fato de que elas moram em Livingston, no estado de Montana. No entanto, as circunstâncias de suas vidas farão com que suas histórias se entrelacem de uma maneira íntima e profunda, ainda que distante, conforme buscam seus lugares no mundo.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnJmwyNsbh58GZNE4aZzHJOBlIzV6D3RH4GeJd206aamUEoqUWBePt2I7qFQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/14192757_632603443577264_1328076768692726094_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Criminosos de Novembro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRMNOSDNOV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Addison Schacht (Ansel Elgort) é um estudante de 18 anos em Washington que vende drogas para seus colegas de turma, conta piadas ofensivas e insulta professores, colegas. Quando um outro garoto do colégio é morto, Addison deixa tudo isso de lado e começa a investigar o assassinato.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOXE8s7NcWRSIbNSLS6RVWKDVobGAnlXvXrEVbsIvsQu9_vWNwjnsXt0lu</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/MV5BYjdiM2Q1MWUtMTY3My00MmI0LWI1ZGQtNTI1NjllZmVmNmJkXkEyXkFqcGdeQX_BGOEGyw.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Convidados Sem Honra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CNDDOSDHNR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Eloise (Anna Kendrick) estava preparada para ser a Dama de Honra do casamento de seu cunhado. Até que ela foi liberta da função ao levar um fora do namorado, que seria o padrinho, via mensagem de texto. Mesmo assim, ela decide ter coragem e ir ao casamento. mas descobre que foi colocada em uma mesa aleatória no fundo do salão com um grupo de estranhos. Aos poucos eles vão se conhecendo, à medida que amizades e romances aparecem nas circunstâncias menos esperadas.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVftwC6Xp1qnheBF23zxtt8EI4jWI5rUPkzIDSAfO6gT96Pa0U</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/table_nineteen_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Meia-irmã (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BARCDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Sinaloa (Sophie Reid) é uma jovem britânica que ruma em direção ao Texas para encontrar Merle (Allison Tolman), sua meio-irmã por parte do seu falecido pai, que era músico do ritmo country. Não demora para que Sinaloa se insira na vida de Merle. Sua música acorda algo na vida da sua nova meio-irmã, apagando as dúvidas do parentesco entre as duas. Enquanto o legado musical da família trouxe esta estranha para a cidade, motivos mais obscuros estão entrelaçados na música que Sinaloa canta, mostrando sinais de uma violenta raiva construída há anos.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/fIPZZP0q2RhWdiS0jYsnjHUfchpsPPlQy_jL08ggF2PHnmr16HR24DTX9eeam1eC26Kj7oUv_VHL1KY30Vt4QXWNLheLOhQ-Gnuno8vhz4TaJ5CwgcK7Bg=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/images_z0xd8zp.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Boneco de Neve (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BNCDNVE.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Quando uma mulher desaparece, a única pista deixada para trás é um cachecol rosa encontrado envolta de um estranho boneco de neve. O detetive Harry Hole (Michael Fassbender) começa suas investigações e percebe que o crime parece obra de um serial killer.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZgWNpWTYMfT-vg-aZMMOb-v0HmDsMfDjWORru8uKdO5EI7FiuZZTMm_8p</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/220600.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Beijar e Chorar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BJRECHRAR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Diagnosticada com um tipo raro de câncer, a jovem patinadora Carley Allison encontra no canto sua força para lutar.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/1j7bZxbvYnVulbx6s54MHL2h0tGCzmGCY-ytHuORg58sJa1IkwvAqImXM3vXcl_eDb3ZH2NBp57nOPRXR9EDM2t6Xb6jGJdOdTOhq6o5NLPLp-3gQiKg5hWLwQ=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/MV5BNmViYTJkNmUtZGNmNS00NTk4LWJlMTEtNzA1MzA3ZDU1ZTQ4XkEyXkFqcGdeQX_S5XTAPX.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Baywatch: S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BAYWTCSOSMLBU.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Comédia e Drama</genre>
+<info>Em Emerald Bay ninguém se destaca mais do que o lendário salva-vidas Mitch Buchannon (Dwayne "The Rock"). Como líder da equipe de Baywatch, Mitch tornou-se uma espécie de herói local. Mas o novo e insubordinado recruta do time Matt Brody (Zac Efron) anda tirando a sua paciência. Apesar das desavenças, os dois se unem quando descobrem uma conspiração criminosa local que ameaça o futuro da baía onde trabalham.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGmJsaJH-osVjjtNLtOmhCtm_aEWRKj8VaSjpHk74EzT5vkRSR-VoLUczixA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/17991494_10155231994442052_4678730947847768271_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Volta de Jack (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AVLTDJACK.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>Jack vive em Los Angeles mas depois que seu pai é morto em um acidente de carro ele viaja para sua casa, no Colorado, para ajudar a cuidar da sua mãe (também ferida no acidente). Lá, ele descobre segredos há muito enterrados e mentiras dentro de sua história familiar, seus pais, seus amigos e sobre sua própria identidade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3Gy95gZVHsTfQmzUfaAXckjEXarOBkmdns-ZKOpCAclOId9QW3vIRLdVamA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/08/jack_goes_home.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Vigilante do Amanhã: Ghost in the Shell (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AVAGMDFNY.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Com seus 12 anos, Fanny é cabeça dura! Mas é, sobretudo, uma jovem corajosa que, escondida num lar distante de seus pais, cuida das duas irmãs mais novas. Tendo que fugir precipitadamente, Fanny se coloca à frente de um grupo de 8 crianças e inicia uma perigosa viagem através da França ocupada para chegar à fronteira suíça. Entre medos, gargalhadas e encontros inesperados, o grupinho aprende o que é independência e descobre o valor da solidariedade e da amizade.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtAX7dmAIsazsO-QGfbD7WKYWdEY--Y__sFhym1n6SkcjNNN_8Rb_HjAwX</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/Vigilante-do-Amanhã-Ghost-in-the-Shell.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Viagem de Fanny (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AVAGMDFNY.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Com seus 12 anos, Fanny é cabeça dura! Mas é, sobretudo, uma jovem corajosa que, escondida num lar distante de seus pais, cuida das duas irmãs mais novas. Tendo que fugir precipitadamente, Fanny se coloca à frente de um grupo de 8 crianças e inicia uma perigosa viagem através da França ocupada para chegar à fronteira suíça. Entre medos, gargalhadas e encontros inesperados, o grupinho aprende o que é independência e descobre o valor da solidariedade e da amizade.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtAX7dmAIsazsO-QGfbD7WKYWdEY--Y__sFhym1n6SkcjNNN_8Rb_HjAwX</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/a-viagem-de-fanny.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Última Palavra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AULTMPLVRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Harriet Lawler (Shirley MacLaine) é uma mulher de negócios bem-sucedida e decide escrever seu obituário, dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman (Amanda Seyfried). Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida antes que seja tarde e leva Anne a tiracolo, surgindo daí uma amizade inesperada.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj8e5WgdrEl14td7Rr23Q1Uu9HTE8MZusjjUjFYmajPcfSdrFkwt4o0g-p</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/last_word.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Última Fronteira (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AULTMFRONT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Em tempos de revolução civil e política na África, a diretora de uma agência humanitária que fornece ajuda internacional (Charlize Theron) encontra um médico voluntário (Javier Bardem) e tem que tomar decisões éticas difíceis em relação às suas atividades no continente.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/JjnFhXuav4y8u2j3bSDp_NaNP4v1D2KJmLjFfcEKvNtXSjZCcawhaqUY1M5tiFLWZrVL8dM0czU2Y3zHIxsiuVWktdITn_tB-WjHylQObcfenLMFP1W3m1PM_uQQxNS-AQoR3MnXR1AnJckBchF_mg3yTxkfwE4kzpqOxzOSGA=w473-h311-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/lastfacePoster.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]As Faces de Toni Erdmann (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASFCSDTNERDM.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

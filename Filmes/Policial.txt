@@ -6,6 +6,104 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Roman J. Israel, Esq (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RMNJIRAL.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Roman J. Israel (Denzel Washington) é um advogado determinado e honesto, acostumado a ver os outros ganharem crédito por seu bom trabalho. Ele defende que os criminosos sejam julgados de forma justa e não teme ir contra o sistema. Porém, quando seu sócio sofre um ataque cardíaco, a firma é fechada e Roman é convidado a assumir um cargo na companhia do ambicioso George Pierce (Colin Farrell), que se importa mais com o dinheiro do que com a justiça. O que ele não imaginava é que passaria a questionar seus próprios valores em meio aos perigosos bastidores do poder.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN9gztUYnZPOtBWquTG33svrXH7utyJ-2_oa3YUvtyEU7AHyES0kS8ke7UjA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/roman_j_israel_esq.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Guardião Invisível (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OGRDOINVSVL.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Policial</genre>
+<info>A Inspetora Amaia Salazar lidera uma investigação que vai levá-la de volta para Elizondo, a aldeia das chuvas no coração do País Basco, onde ela nasceu e para a qual ela esperava nunca mais voltar.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc970D88pSleipRrY5CUBpXy5q3tuFLymqKpBhbs3AciUmZqee8c1SIoHaXQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/el_guardian_invisible-726992780-large.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]No Rastro da Violência (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NORSTRDVLNC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Amanda Tyler é uma renomada psicóloga que vai entrevistar, e analisar, no corredor da morte o recluso Jackson Shea. À medida que a entrevista começa, e o destino de Jack está pendente, Amanda deve determinar se uma suspensão da execução deve ser ou não concedida.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTcWpagWTK3xIKPW7Ps2jx5eldhcKdo6u-zTKeTC15qt6xYk52eXp32iuc-g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/american_violence.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Hacker: Todo Crime Tem Um Início (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HKRTDCRMTMUINC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Alex é um jovem imigrante ucraniano, que sustenta seus pais fazendo trabalhos ilegais na internet. Seu melhor amigo, Sye é um negociante do mercado negro, que o ajuda a ganhar dinheiro. Kira, que gosta de Alex, está disfarçada trabalhando para os federais. Baseado numa história real.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JF6oZt5_b6qigYOgKl4kuxq1va486s0TV3DGadn8W_31rGRXM25fmxuTcw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/poster_opt_1_p2xHcU9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Em Ritmo de Fuga (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]EMRTMDFG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>O jovem Baby (Ansel Elgort) tem uma mania curiosa: ele precisa ouvir músicas o tempo todo para silenciar o zumbido que perturba seus ouvidos desde um acidente na infância. Mesmo assim, o rapaz revela-se um motorista excelente, e começa a trabalhar para uma gangue de criminosos. Quando um assalto a banco não sai como planejado, ele cai na estrada em fuga.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0owlBihAv6E8VhmaS-R09tzP2uePhB42fuvC2LQPLi6kHbruwE4Mr_oLKtQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/baby_driver_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Criminosos de Novembro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRMNOSDNOV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Addison Schacht (Ansel Elgort) é um estudante de 18 anos em Washington que vende drogas para seus colegas de turma, conta piadas ofensivas e insulta professores, colegas. Quando um outro garoto do colégio é morto, Addison deixa tudo isso de lado e começa a investigar o assassinato.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOXE8s7NcWRSIbNSLS6RVWKDVobGAnlXvXrEVbsIvsQu9_vWNwjnsXt0lu</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/MV5BYjdiM2Q1MWUtMTY3My00MmI0LWI1ZGQtNTI1NjllZmVmNmJkXkEyXkFqcGdeQX_BGOEGyw.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Boneco de Neve (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BNCDNVE.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Quando uma mulher desaparece, a única pista deixada para trás é um cachecol rosa encontrado envolta de um estranho boneco de neve. O detetive Harry Hole (Michael Fassbender) começa suas investigações e percebe que o crime parece obra de um serial killer.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZgWNpWTYMfT-vg-aZMMOb-v0HmDsMfDjWORru8uKdO5EI7FiuZZTMm_8p</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/220600.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Dívida Perigosa (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/divida-perigosa/</page></regex>

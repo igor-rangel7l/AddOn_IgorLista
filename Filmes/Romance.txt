@@ -7,6 +7,76 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Rip Tide: A Garota da Hora (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RPDTDAGRTDHRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>A jovem modelo Cora (Debby Ryan) é filha da chefe da melhor agência de modelo, e sempre trabalhou duro para atender as expectativas das mãe (Danielle Carter). Quando um vídeo caindo se torna um viral, Cora vai passar um tempo na Austrália com sua tia Margot (Genevieve Hegney). Margot também está passando por suas próprias dificuldades, e juntas elas terão uma experiência de aprendizado.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqTaeh2PlIuUBlGqp1frzjITfEqsPpENNfF-4Sal2cOECoTvB0o939-hN</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/p14559884_p_v8_aa.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]O Crime da Gávea (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional e Romance</genre>
+<info>Um dia, Paulo chega em casa e encontra sua esposa morta. Enquanto a polícia investiga o crime, Paulo dá início à sua própria busca do culpado, entrando em uma série de suspenses e mistérios.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR45CKhclSwuPUJ4VrvAfwSOCD6ottSfyK1jY5SchlfO2Q9mq0ZnKXc4uVu</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/260x365_1487011673.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Hampstead: Nunca é Tarde Para Amar (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HMPSTDNCETRDPRAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Romance e Comédia</genre>
+<info>Inspirado em fatos reais contará a história de Emily (Keaton), uma viúva americana que mora em Hampstead Village, em Londres, considerado um local tranquilo no meio da metrópole. Um dia, ela repara em um homem vivendo em casa simples e conhece Donald (Gleeson), que mora há 17 anos no local, mas está sendo ameaçado por promotores imobiliários que querem fazer de tudo para tirá-lo dali. Quando descobre que sua melhor amiga Fiona está liderando uma iniciativa para apoiar a retirada dele, Emily fica ao lado de Donald.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQprbo00C9mRsn4OwgyNGRbuoW_tT8m0FYH41ryeXBt9Q4-vE0kwLPbLuUGjQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/fid17425.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Gostosas, Lindas & Sexies (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional,Comédia e Romance</genre>
+<info>No Rio de Janeiro, vivem quatro grandes e inseparáveis amigas: Beatriz, Tânia, Ivone e Marilu. Elas vestem manequim plus size e enfrentam todas as aventuras e desencontros amorosos e profissionais que quatro jovens mulheres podem enfrentar na capital carioca, (quase) sempre de bom humor.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk-5dr4oOWE7RTI2i8RKBqaj-k_USLgvv44LGLJ7qo-ZbkC0DVlHGnLhDmg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/114255.jpg-r_1890_2775-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Gosto Se Discute (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GSTSDSCT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Romance,Nacional e Comédia</genre>
+<info>O chef (Cassio Gabus Mendes) de um restaurante estrelado, mas um tanto ultrapassado, vê toda sua clientela ir para um novo “food truck” em frente ao seu estabelecimento. Para piorar, ele é obrigado a aceitar uma auditora do banco (Kéfera Buchmann) que quer promover uma verdadeira revolução no restaurante. O nervosismo é tanto que leva o chef a perder o seu paladar. Um novo cardápio parece ser a solução para recuperar o restaurante, mas como criá-lo sem sentir gosto algum?</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuY1sYVzCSeYwLfrtO-0ps6enGhVMQinCkOTwPSHjLr1uoyRghLOUolrNK3A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/20934675_1563593703661688_9057919830660992243_o.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Antes do Adeus (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

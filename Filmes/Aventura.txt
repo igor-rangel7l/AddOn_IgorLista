@@ -5,6 +5,62 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Offline: Sem Bônus Nessa Vida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OFLNSMBNSNESVDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Aventura e Comédia</genre>
+<info>O campeão gamer Jan (Moritz Jahn) tem que lutar por sua identidade digital e ganhar de volta a sua vida real também.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaCyOc3oOUruo0b2YMqwB4aB7Sj04C21GazkbuJv1I72mfbVC5EhwhUL7r</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/01-Offline-das-Leben-ist-kein-Bonuslevel.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Bunyan e Babe: Os Amigos da Floresta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Bunyan & Babe, baseado em uma lenda norte-americana, narra as aventuras de Bunyan, um gigante lenhador que precisa salvar o boi azul Babe, igualmente grande, das garras de um maligno dono de circo.Em uma das versões da lenda, Babe era tão imenso que, apenas com suas pegadas, criou diversos lagos na região de Minnesota.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSj971g2ML9CYZDpeF14QuAyYZUJiDGSFj-PySLSkfXs3ascL8DapV2zCZG</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/b516cd49ad29a76b8e7f24fc50c42480c09cf9b8.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]A Torre Negra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ATRENGR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Aventura e Ficção Cientifica</genre>
+<info>Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBMXJokR4bTajEZNP4jD38WBAPr7JyGViW3lrCILUHXDK8PzNNjklGAz4A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/a-torre-negra.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Ataque a Bushwick (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ATQABUSHWCK.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>No filme, o Texas está tentando se separar dos EUA e Nova York é usada como ferramenta de negociação. Nesse cenário, a jovem Lucy (Jane Levy) encontra o veterano de guerra Stupe (Bautista), após uma invasão militar no Brooklyn. Juntos eles decidem atravessar os cinco blocos de Bushwick para encontrar a avó da garota.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRk6y-K5TyJab2WTf0tDygOyn0USB5y78s_IGu6wNtTbcBl9BiAcEsza14SRQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/bushwick4.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]A Onda Perfeita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
@@ -51,10 +107,15 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <fanart>https://static.rogerebert.com/uploads/review/primary_image/reviews/star-wars-the-last-jedi-2017/hero_Last_Jedi.jpg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/thelastjedi.png</thumbnail>
 </item>
+
 <item>
-<title>[COLOR white]Jumanji: Bem-Vindo à Selva (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/jumanji-bem-vindo-a-selva/</page></regex>
+<title>[COLOR white]Jumanji: Bem-Vindo à Selva (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JMNJBMVNDASLV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
 <genre>Aventura</genre>
 <info>Vinte anos após os eventos do primeiro filme, o infame jogo de tabuleiro evoluiu para um vídeo-game e enquanto limpam o porão da escola por detenção, quatro adolescentes descobrem e são transportados para a mesma selva onde Alan Parrish foi levado, anos atrás. Eles se tornam seus próprios personagens no jogo e descobrem que a única forma de saírem de lá é finalizando o jogo.</info>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODU1MTMzMF5BMl5BanBnXkFtZTgwODY5MDkzNDM@._V1_SY1000_CR0,0,1367,1000_AL_.jpg</fanart>

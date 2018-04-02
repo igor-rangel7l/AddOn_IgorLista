@@ -5,6 +5,126 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]O Crime da Gávea (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional e Romance</genre>
+<info>Um dia, Paulo chega em casa e encontra sua esposa morta. Enquanto a polícia investiga o crime, Paulo dá início à sua própria busca do culpado, entrando em uma série de suspenses e mistérios.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR45CKhclSwuPUJ4VrvAfwSOCD6ottSfyK1jY5SchlfO2Q9mq0ZnKXc4uVu</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/260x365_1487011673.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Ninguém Entra, Ninguém Sai (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NGMENRNGMSAI.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>Suellen (Letícia Lima) é uma moça romântica e que estuda bastante. Ela quer ter o casamento dos sonhos e deseja se tornar advogada. No entanto, quando Suellen fica presa em um motel com o namorado (Emiliano d'Ávila), a moça percebe que as coisas podem não sair como ela quer.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRUg8Al8KbBSbdTdocNv2TviuvfG0rcmL_pQAPyWTmN8lmOFdUVpwFDCJo</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/poster-nens-286x420.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Murilo Couto: Eu, Eu Murilo (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MRLCLTEUEUMRLO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>Em seu primeiro especial de comédia, o humorista Murilo Couto fala sobre ter saído de Belém, as dificuldades de morar sozinho, família, relacionamentos e outras situações divertidas.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXTdI5nHdeN8Hx5ONC--oq2OMV80ZXs5eYmdPae53lpnMcn3tx</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/z_HmsLmnF.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Meus 15 Anos (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MES15ANS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>Após conquistar uma grande festa de aniversário de 15 anos, Bia (Larissa Manoela) tem sua noite ameaçada quando Jéssica, uma colega invejosa da turma da escola comparece no evento.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOuPxccrKgWsqm4EV__1JVoHsFrKVN11_wiObRXgAa4S_hBji4MS8_407</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/meus15anos.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]João, O Maestro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>Cinebiografia do pianista e maestro brasileiro João Carlos Martins.
+As filmagens acontecem em São Paulo, Uruguai e Nova York. 
+A sinopse oficial informa que o roteiro "vai abordar detalhes pouco conhecidos da vida do artista, como o primeiro concerto internacional, a relação com as mulheres, a teimosia e o perfeccionismo em relação à música".
+Nascido em São Paulo em 25 de junho de 1940, João Carlos Martins começou a estudar piano aos oito anos de idade. Aos 13 anos, começou a se apresentar pelo Brasil. Aos 18 anos, estreou internacionalmente.
+Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 devido a problemas físicos (perdeu parcialmente os movimentos das mãos). Em 2004, começou a estudar regência e se tornou maestro. </info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6pPZhtDfNcvkNM5xbze5c5fvXnbJwShfU5k39Ng29YocyaY4CqQ5kZlrc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/595870.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]João, O Maestro (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>Cinebiografia do pianista e maestro brasileiro João Carlos Martins.
+As filmagens acontecem em São Paulo, Uruguai e Nova York. 
+A sinopse oficial informa que o roteiro "vai abordar detalhes pouco conhecidos da vida do artista, como o primeiro concerto internacional, a relação com as mulheres, a teimosia e o perfeccionismo em relação à música".
+Nascido em São Paulo em 25 de junho de 1940, João Carlos Martins começou a estudar piano aos oito anos de idade. Aos 13 anos, começou a se apresentar pelo Brasil. Aos 18 anos, estreou internacionalmente.
+Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 devido a problemas físicos (perdeu parcialmente os movimentos das mãos). Em 2004, começou a estudar regência e se tornou maestro. </info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6pPZhtDfNcvkNM5xbze5c5fvXnbJwShfU5k39Ng29YocyaY4CqQ5kZlrc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/595870.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Gostosas, Lindas & Sexies (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional,Comédia e Romance</genre>
+<info>No Rio de Janeiro, vivem quatro grandes e inseparáveis amigas: Beatriz, Tânia, Ivone e Marilu. Elas vestem manequim plus size e enfrentam todas as aventuras e desencontros amorosos e profissionais que quatro jovens mulheres podem enfrentar na capital carioca, (quase) sempre de bom humor.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk-5dr4oOWE7RTI2i8RKBqaj-k_USLgvv44LGLJ7qo-ZbkC0DVlHGnLhDmg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/114255.jpg-r_1890_2775-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][COLOR white]Elon Não Acredita na Morte (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ELNACRDT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>A esposa de Elon (Rômulo Braga), Madalena (Clara Choveaux), desaparece misteriosamente e não volta para casa depois do trabalho. Ele inicia então uma longa jornada por respostas: começa a seguir as rotas diárias da mulher, além de visitar os lugares mais sombrios da cidade. Mas o que ele encontra são vários mal-entendidos e estranhos encontros.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXHukcxxwLfmpl8axZSDoE44xcD-PckpI9JSMb7jWiksCIEB9dtdpJj6t_</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/elon_nao_acredita_na_morte.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]As Duas Irenes (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

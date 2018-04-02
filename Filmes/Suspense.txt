@@ -9,6 +9,22 @@
 
 
 <item>
+<title>[COLOR white][COLOR white]Rastros de um Sequestro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RSTRDUMSQSTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Suspense</genre>
+<info>Jin-Seok (Kang Ha-Neul) admira seu irmão mais velho Yoo-Seok (Kim Moo-Yul), que é perfeito para ele. 
+Yoo-Seok é sequestrado e volta 19 dias depois, mas ele não se lembra de nada. E retorna uma pessoa diferente.
+Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3f8S4QW2c-zAlwNoOTuE3XyBH_gXpp2hU04te3g1GHMKCTkLBVWgC1IJ9</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/photo893180.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]31: A Morte É A Única Saída (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]31AMRTEAUNCSID.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
