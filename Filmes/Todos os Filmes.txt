@@ -28,20 +28,6 @@ Todos Os Filmes
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTycaTQ3z_8097ib-HbbFGiV5DayMCvzUAP_s07ZOm8baLPbDx2FOY7ggEh</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/beyond_skyline_ver3.jpg</thumbnail>
 </item>
-578
-<item>
-<title>[COLOR white][COLOR white]Skyline: Além do Horizonte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
-</regex>
-<genre>Ação,Ficção Cientifica</genre>
-<info>A população da Terra volta a ser aterrorizada por naves alienígenas que emitem luzes azuis e sugam as pessoas. O policial Mark (Frank Grillo) começa uma luta implacável contra esses inimigos quando seu filho é capturado.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTycaTQ3z_8097ib-HbbFGiV5DayMCvzUAP_s07ZOm8baLPbDx2FOY7ggEh</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/beyond_skyline_ver3.jpg</thumbnail>
-</item>
 576
 <item>
 <title>[COLOR white][COLOR white]Segurança em Risco (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
