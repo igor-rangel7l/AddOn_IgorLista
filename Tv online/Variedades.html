@@ -25,8 +25,8 @@
 
 <item>
 <title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/show/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_IP</name><expres>http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8([^\"].*)"</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><referer>http://aovivonatv.com/</referer><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/show/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://otampadabola1.net/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres><page>http://otampadabola1.net/canal/pfc1.php</page></regex>
 <fanart>http://g.glbimg.com/og/gs/gsat4/f/thumbs/padrao/2014/05/25/placeholder_cda.jpg</fanart>
 <thumbnail>http://goo.gl/7LIjII</thumbnail>
 </item>
@@ -47,6 +47,13 @@
 <item>
 <title>[COLOR maroon][B]MTV[/B] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>MTV HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/6/60/%C3%9Altima_imagem_da_MTV_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/XQfSPS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MTV[/B]  [COLOR gray] (RedeCanais)[/COLOR]</title>
+<link>http://redecanais.stream/hls/redecanais-mtv.m3u8|Referer=http://m.redecanais.com/watch.php</link>
 <fanart>https://upload.wikimedia.org/wikipedia/pt/6/60/%C3%9Altima_imagem_da_MTV_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/XQfSPS</thumbnail>
 </item>
