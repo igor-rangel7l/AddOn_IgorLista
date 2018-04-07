@@ -5,6 +5,62 @@
 
 
 <item>
+<title>[COLOR white]Uma Floresta Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um tigre! Após a morte de sua mãe, será sua responsabilidade manter a ordem e a justiça na selva, ainda mais agora que um malvado coala planeja destruir tudo.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/6m9ZPF3wzbaM0Olbn6SmBRlzBKxZ75wAtXGaSsuZvjjVDAyjJ6hUttshQSMDWbPje7LThIZaEg=w550-h268-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/Uma_Floresta_Muito_Louca.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Uma Razão Para Recomeçar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Aventura</genre>
+<info>Após a morte de sua avó, um adolescente da cidade (Delaney) se aventura no país para cuidar de seu avô (Michael Ironside). Ao se acostumar com seu novo estilo de vida em sua fazenda de cavalos, ela descobre mais sobre sua avó, sobre amor e sobre sua fé em Deus.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yrI_sRENDyGTCBBlgkruUrSLijjaFJ8ITNZnYL66Ek9LIHaVkCrQcBb2</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/MV5BMTIzYmNkOGU.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Tesouros Da Vida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRSROSDVA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Aventura</genre>
+<info>Após a morte de sua avó, um adolescente da cidade (Delaney) se aventura no país para cuidar de seu avô (Michael Ironside). Ao se acostumar com seu novo estilo de vida em sua fazenda de cavalos, ela descobre mais sobre sua avó, sobre amor e sobre sua fé em Deus.</info>
+<fanart>https://2.bp.blogspot.com/-FSyF1oAZOVE/Wq3KKU3jdlI/AAAAAAAAJtQ/nqIoWQ8CO9ca54RUYZeyB54OloZpFc-bwCLcBGAs/s1600/Filme%2BTesouros%2BDa%2BVida%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/MV5BYmZjZDM2MzktNDdkYS00MmU1LWI2YjktMWI1MDI2ZWM3ZWNjXkEyXkFqcGdeQX_3f6JI5u.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]xXx: Reativado (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRPLXRATVD.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Xander Cage (Vin Diesel) desiste de sua aposentadoria quando Xiang, um guerreiro alfa mortal, coloca suas mãos em uma arma indestrutível chamada de "Caixa de Pandora". Xander recruta os melhores soldados do mundo para destruir o vilão e paralelamente tem que enfrentar uma resistência formada por governos corruptos de todo o mundo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDAspWVk15LAFQuNi-PJ2O6t1NcsYpv0RQqekApqUqaou2teW</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/xxx-poster-why.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Offline: Sem Bônus Nessa Vida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OFLNSMBNSNESVDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

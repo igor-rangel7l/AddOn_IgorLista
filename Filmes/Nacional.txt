@@ -5,6 +5,20 @@
 
 
 <item>
+<title>[COLOR white]Um Tio Quase Perfeito (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMTIOQSPRFTO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>"Um Tio Quase Perfeito", traz Marcus Majella como Tio Tony, um trambiqueiro divertido que vive de bicos como estátua viva, pastor, cartomante e que conta com a cobertura de sua mãe Cecília (Ana Lúcia Torres). Os personagens se encontram sem saída quando são despejados e resolvem procurar a irmã distante de Tony, Angela (Letícia Isnard), que é divorciada e mora com os três filhos que mal conhecem a avó e o tio. A irmã precisa viajar a trabalho e a babá não aparece, em meio a confusão acaba aceitando a ajuda de Tony e Cecília para cuidar dos seus filhos, Valentina, de 5 anos; João, de 10; e Patricia, de 14. A partir dai, começa a aventura dos pequenos com uma dupla sem a menor habilidade e que provocará muitas confusões nas suas rotinas. Prepare-se, pois a sua vida também vai virar de cabeça para baixo com a presença desse tio.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF1K3ExQRMyDWChEJxv9bvlZZJ--H5thtC-vsQkVBMO_PiTAk1am6ai56yrA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/umtioquaseperfeito.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]O Crime da Gávea (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

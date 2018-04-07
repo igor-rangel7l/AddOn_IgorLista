@@ -4,6 +4,90 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Wilson (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]WLSN.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Após a morte de seu pai, Wilson um homem de meia-idade e bastante ranzinza decide procurar sua ex-mulher, uma viciada em drogas, e descobre que tem uma filha já adolescente. Wilson vê nela sua última esperança de ter uma família e tenta criar um laço entre eles.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/WhcTBtHH389w5ks3qrtwD1ztPY7nDOhkVzje_cboezG2GRF_EcM_QyWwLgJC90Q25iqw1T4NfqB0XR2nkb78BmtOGYNX9pCLbVti1QAko1V8fu9DAkHwh0wPMVHeNkBruJyzAXarZEnq6iHbPCxnnxaiZ0WivEV25nMuktF2Ag=w558-h263-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/MV5BOTc2Njc3MzI4Ml5BMl5BanBnXkFtZTgwMTYzMTgxMTI._V1_SY1000_CR006701000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Viagem das Garotas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VIAGMDSGRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Quatro amigas de longa data partem em uma longa jornada em busca de diversão por Nova Orleans, para participar dos grandes festejos anuais da cidade, o Essence Festival. Lá, as intimidades são reavivadas e todos voltam a se aproximar com a animação. Ao mesmo tempo, o lado selvagem de algumas se mostra, e a experiência pode mudar a vida de todas para sempre.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9Rbu9-wbdoEprHnVArEKu9iG9CoaJe5rTAAxx8diNlmADCzDMKMyto7z0GQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/girls-trip-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Um Tio Quase Perfeito (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMTIOQSPRFTO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>"Um Tio Quase Perfeito", traz Marcus Majella como Tio Tony, um trambiqueiro divertido que vive de bicos como estátua viva, pastor, cartomante e que conta com a cobertura de sua mãe Cecília (Ana Lúcia Torres). Os personagens se encontram sem saída quando são despejados e resolvem procurar a irmã distante de Tony, Angela (Letícia Isnard), que é divorciada e mora com os três filhos que mal conhecem a avó e o tio. A irmã precisa viajar a trabalho e a babá não aparece, em meio a confusão acaba aceitando a ajuda de Tony e Cecília para cuidar dos seus filhos, Valentina, de 5 anos; João, de 10; e Patricia, de 14. A partir dai, começa a aventura dos pequenos com uma dupla sem a menor habilidade e que provocará muitas confusões nas suas rotinas. Prepare-se, pois a sua vida também vai virar de cabeça para baixo com a presença desse tio.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF1K3ExQRMyDWChEJxv9bvlZZJ--H5thtC-vsQkVBMO_PiTAk1am6ai56yrA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/umtioquaseperfeito.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Uma Noite e Tanto (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMNTEMTANT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Um pai que trabalha demais vai visitar sua filha durante uma escala em Los Angeles, e descobre que ninguém sabe onde ela está. Ele precisa então se unir com o ex-namorado da jovem para tentar encontrá-la.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdqB7wXh0PjCz66qLJIopQ-VXGhzv4fKU9EaENrcLG57Adoqhv2E75FlC0</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/IMG_3753.JPG</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Uma Floresta Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um tigre! Após a morte de sua mãe, será sua responsabilidade manter a ordem e a justiça na selva, ainda mais agora que um malvado coala planeja destruir tudo.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/6m9ZPF3wzbaM0Olbn6SmBRlzBKxZ75wAtXGaSsuZvjjVDAyjJ6hUttshQSMDWbPje7LThIZaEg=w550-h268-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/Uma_Floresta_Muito_Louca.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Step Sisters (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]STPSTRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>"Step Sisters" gira em torno de uma ambiciosa garota de uma irmandade negra (Megalyn Echikunwoke), que, a fim de ser admitida na escola de direito de seus sonhos, compromete-se a cruzar as linhas culturais e ensinar a arte exclusiva de negros para um bando selvagem de meninas brancas.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/8Q8PRojqWU7PJAmMxEjp5YG3EcA9W5oFb21s43RZ3PrdL74myvhTkDqfkHW46yOTJ1EF2WdMRS0LZDdAZT3StQtRkmpEYfF4y0zQLYp2waJL1yBPLh_-6HzwvS5IRnyHSc5C4hkC1Gt0F-SBhzPUi-wfZqrV=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/step_sisters.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Pequeno Demônio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PQNDEMO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

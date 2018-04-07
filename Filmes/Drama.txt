@@ -5,6 +5,146 @@
 
 
 <item>
+<title>[COLOR white]Viagem das Garotas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VIAGMDSGRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Quatro amigas de longa data partem em uma longa jornada em busca de diversão por Nova Orleans, para participar dos grandes festejos anuais da cidade, o Essence Festival. Lá, as intimidades são reavivadas e todos voltam a se aproximar com a animação. Ao mesmo tempo, o lado selvagem de algumas se mostra, e a experiência pode mudar a vida de todas para sempre.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9Rbu9-wbdoEprHnVArEKu9iG9CoaJe5rTAAxx8diNlmADCzDMKMyto7z0GQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/girls-trip-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Victoria e Abdul: O Confidente da Rainha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VCTREABDL.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Abdul Karim (Ali Fazal) é um jovem indiano que é funcionário na corte do Reino Unido. À medida que o tempo passa, a rainha Victoria (Judi Dench) acaba desenvolvendo uma amizade muito improvável com esse criado específico.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1ABFbyLLbTfHHo6JhmhsDSw0CUltBzlnVK3sSmXMtEDctic5uop2xWgZC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/MV5BMjA4NzY1NTQ1Nl5BMl5BanBnXkFtZTgwMTM3NTY0MjI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Um Laço de Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMLCDAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Frank Adler (Chris Evans) é um homem solteiro que cria sua jovem sobrinha Mary (Mckenna Grace), uma menina prodígio. Frank planeja oferecer uma vida escolar normal para a jovem de sete anos, mas os planos são frustrados quando as habilidades de matemática de Mary chama a atenção da mãe de Frank, Evelyn (Lindsay Duncan). Ela possui outros planos para a neta, que podem separar Frank e Mary.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQij_HiTeq9HCP30-wJgl3JAbdFJXLqEL8A2r4l0Tt9G56a1cVr5g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/gifted.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Uma Razão Para Recomeçar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>A vida de Benjamin Morton mudou para sempre no dia em que conheceu sua vizinha. Ava era e sempre será a garota dos seus sonhos. Da inocência de uma amizade de infância, passando pela atração adolescente, o amor deles se fortaleceu e cresceu. Quando a vida dá uma reviravolta, que nenhum deles esperava, todo o seu futuro é questionado. O filme explora os altos e baixos da vida e do amor, mostrando que em tempos bons e ruins a vida pode ser levada com esperança e que sempre há a oportunidade para algo novo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yrI_sRENDyGTCBBlgkruUrSLijjaFJ8ITNZnYL66Ek9LIHaVkCrQcBb2</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/09/MV5BMTIzYmNkOGU.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Tudo e Todas as Coisas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TDETDSASCOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Maddy é uma adolescente que tem imunodeficiência grave combinada (SCID), uma doença rara que faz com que ela seja alérgica a praticamente tudo. Ela passou 17 anos escondendo-se em sua casa, apenas vendo sua mãe e sua enfermeira, Carla. Mas quando um garoto chamado Olly se muda para a porta ao lado, Maddy começa a se apaixonar.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl-tcYu2M1OuhD72D7hfRw2NmaLq3MXcPGLYPOAQbIAXO8W-p3lTjibQuR</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BMjAzMTE1NzQxNF5BMl5BanBnXkFtZTgwNjcwODY3MTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Minha Primeira Luta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MNHPRMLTA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Após anos vivendo em um lar adotivo, uma adolescente de Nova York decide que lutar com garotos é sua única chance de reencontrar o pai.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/WyQZCxGxIFdeleaC3EOZzMT-zvNa_nf_T7SBLkKwufOuNhEjIFAfRAh30SHn_74LYmxEnsVcj1B1ALhNDiY_jch0pGxQ-zFQg_24Cz1vJkj0wYkzSbjnZsqlHDtfawzVbfnDtWBWAfy4jRpoofVwTbp-xlQ_-lIp8ohIMiWQ1gPLr-uE=w502-h293-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/3_UUe9vbg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Steel Rain (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]STLRN.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Eom Chul-Woo (Jung Woo-Sung) é um ex-agente da Coreia do Norte. Ele é encarregado pelo oficial de alto escalão Ree Tae-Han (Kim Kap-Soo) de matar dois homens que estão mais próximos do seu líder. Eom Chul-Woo é informado de que os dois homens estão planejando um golpe e ele aceita a tarefa. Enquanto esperava seu alvo aparecer durante uma aparição pública do seu líder, as bombas de repente pousam sobre a multidão. Soldados da Corria do Norte descem sobre a área e atiram em qualquer pessoa que ainda esteja se movendo. Durante o caos, Eom Chul-Woo arrisca sua vida para manter seguro o líder ferido da Coreia do Norte. Enquanto isso, Kwak Chul-Woo (Kwak Do-Won) é o chefe dos assuntos de segurança estrangeira na Coreia do Sul. Ele toma conhecimento de um golpe ativo na Coreia do Norte e descobre que o líder norte-coreano se dirigiu a Seul.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX3YVHPXAxk6c4xkuNp4vy1bz8fFiY5Fa5FA2hHkS7shj1MN2V5k0NTqcC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/steel-rain-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Super Dark Times (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SPRDRKTMS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Zach é um estudante muito esperto e desde pequeno conviveu bastante com seu melhor amigo e vizinho Josh. Eles têm muita coisa em comum, inclusive a atração pela colega de sala de aula Allison. Um dia, em um parque com outros amigos, uma combinação de hormônios adolescentes, drogas e uma espada samurai, termina em consequências sangrentas.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7K5ufYcwwhMOqndVbSpPfq7vduZAsk-xFYCxj8uBXvw0_TlPsGoM_wU4RyQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/superdarktimes_27x40_finish.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Somos Todos Iguais (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SMSTDSIGUS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Deborah Hall (Renee Zellweger) é uma mulher religiosa que esta lutando contra um grave câncer. Casada com Ron (Greg Kinnear), um negociante de arte reconhecido internacionalmente, ela insiste para que o marido se aproxime de Denver (Djimon Hounsou), um perigoso mendigo com um passado de sofrimento e exploração. Para salvar seu casamento, Ron tenta fazer amizade com Denver, mas, os sonhos escondidos de Deborah podem enviá-los em uma direção incerta.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgKNDFTLcGwaDY3MZUCgrTdaNVWzcJuyp7AnGxHKe4FbFLmgOLCw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/same_kind_of_different_as_me.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SMPRDAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Um gangster recém-saído da prisão é forçado por membros de seu grupo criminoso a orquestrar um grande crime contra uma gangue rival.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/k2h2Gv0d2lVBoddqKLzOXIbLOYGHhsT0_v_UXptjvT_L0uVPGCa90Fx_ezDCukIHQSpOadvwsA=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/shot_caller.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Roman J. Israel, Esq (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RMNJIRAL.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

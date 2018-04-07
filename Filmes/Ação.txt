@@ -4,6 +4,90 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Wheelman (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]WHRLMN.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Um motorista de fuga é levado a uma atividade de alto risco depois de um assalto a banco dar errado.</info>
+<fanart>https://occ-0-337-987.1.nflxso.net/art/a413c/0b43b66bd0ea582f7cf405a971050139748a413c.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/wheelman.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Tropas Estelares: Invasores de Marte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Ação e Ficção Cientifica</genre>
+<info>Johnny Rico e enviado para uma pequena estação satélite em Marte, enquanto a Federação ataca o planeta natal dos insetos. Enquanto treina os seus novos recrutas nesta estação remota e silenciosa, os insetos aparecem num ataque surpresa, mas a Frota da Federação está muito longe para ajudar. Cabe a Rico e aos seus soldados salvar o planeta e descobrir como os insetos chegaram tão perto de casa.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6ofigp6ti_JgTNQxzSYIGNoqktZLcv91zi34TJq4_oOryt5IAT2dzplI3</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/Tropas-Estelares-Invasores-de-Marte.jpg.ffce7316d8bcd779084afe17f01594aa.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]xXx: Reativado (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRPLXRATVD.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Xander Cage (Vin Diesel) desiste de sua aposentadoria quando Xiang, um guerreiro alfa mortal, coloca suas mãos em uma arma indestrutível chamada de "Caixa de Pandora". Xander recruta os melhores soldados do mundo para destruir o vilão e paralelamente tem que enfrentar uma resistência formada por governos corruptos de todo o mundo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDAspWVk15LAFQuNi-PJ2O6t1NcsYpv0RQqekApqUqaou2teW</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/xxx-poster-why.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Tempestade: Planeta em Fúria (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TMPSDPLNTEMFURA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>A trama conta a história de um engenheiro de satélites (Butler) que precisa unir-se ao seu irmão (Jim Sturgess) para salvar o mundo de uma tempestade de proporções épicas. Ao mesmo tempo, o irmão do protagonista descobre uma conspiração para assassinar o presidente dos EUA (Andy Garcia).</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsLzssMUmtht0Q59Qm9DjKgw4R8ypqUboikW_U23M1GoNaImMRxj2-rXT</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/tempestade.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Steel Rain (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]STLRN.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Eom Chul-Woo (Jung Woo-Sung) é um ex-agente da Coreia do Norte. Ele é encarregado pelo oficial de alto escalão Ree Tae-Han (Kim Kap-Soo) de matar dois homens que estão mais próximos do seu líder. Eom Chul-Woo é informado de que os dois homens estão planejando um golpe e ele aceita a tarefa. Enquanto esperava seu alvo aparecer durante uma aparição pública do seu líder, as bombas de repente pousam sobre a multidão. Soldados da Corria do Norte descem sobre a área e atiram em qualquer pessoa que ainda esteja se movendo. Durante o caos, Eom Chul-Woo arrisca sua vida para manter seguro o líder ferido da Coreia do Norte. Enquanto isso, Kwak Chul-Woo (Kwak Do-Won) é o chefe dos assuntos de segurança estrangeira na Coreia do Sul. Ele toma conhecimento de um golpe ativo na Coreia do Norte e descobre que o líder norte-coreano se dirigiu a Seul.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX3YVHPXAxk6c4xkuNp4vy1bz8fFiY5Fa5FA2hHkS7shj1MN2V5k0NTqcC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/steel-rain-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Sem Controle (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SMCNTRL.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Quando os sonhos violentos de um sujeito jovem se fundem com a realidade e começam a espelhar assassinatos políticos, somente o médico pode ajudá-lo contra um sinistro programa governamental.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2EpmTrcNovIX5qi631xApzQl8bWpBv8bO3402-BLdVZGuIfdIGdOY9jO0</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BMTc2MzAzOTUyMl5BMl5BanBnXkFtZTgwMzM1ODg2MTI._V1_SY1000_CR006791000_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Skyline: Além do Horizonte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

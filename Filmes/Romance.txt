@@ -7,6 +7,20 @@
 
 
 <item>
+<title>[COLOR white]Tudo e Todas as Coisas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TDETDSASCOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Maddy é uma adolescente que tem imunodeficiência grave combinada (SCID), uma doença rara que faz com que ela seja alérgica a praticamente tudo. Ela passou 17 anos escondendo-se em sua casa, apenas vendo sua mãe e sua enfermeira, Carla. Mas quando um garoto chamado Olly se muda para a porta ao lado, Maddy começa a se apaixonar.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl-tcYu2M1OuhD72D7hfRw2NmaLq3MXcPGLYPOAQbIAXO8W-p3lTjibQuR</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/MV5BMjAzMTE1NzQxNF5BMl5BanBnXkFtZTgwNjcwODY3MTI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Rip Tide: A Garota da Hora (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RPDTDAGRTDHRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

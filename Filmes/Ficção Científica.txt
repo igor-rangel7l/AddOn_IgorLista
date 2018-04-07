@@ -4,6 +4,34 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Tropas Estelares: Invasores de Marte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Ação e Ficção Cientifica</genre>
+<info>Johnny Rico e enviado para uma pequena estação satélite em Marte, enquanto a Federação ataca o planeta natal dos insetos. Enquanto treina os seus novos recrutas nesta estação remota e silenciosa, os insetos aparecem num ataque surpresa, mas a Frota da Federação está muito longe para ajudar. Cabe a Rico e aos seus soldados salvar o planeta e descobrir como os insetos chegaram tão perto de casa.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6ofigp6ti_JgTNQxzSYIGNoqktZLcv91zi34TJq4_oOryt5IAT2dzplI3</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/Tropas-Estelares-Invasores-de-Marte.jpg.ffce7316d8bcd779084afe17f01594aa.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Tempestade: Planeta em Fúria (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TMPSDPLNTEMFURA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>A trama conta a história de um engenheiro de satélites (Butler) que precisa unir-se ao seu irmão (Jim Sturgess) para salvar o mundo de uma tempestade de proporções épicas. Ao mesmo tempo, o irmão do protagonista descobre uma conspiração para assassinar o presidente dos EUA (Andy Garcia).</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsLzssMUmtht0Q59Qm9DjKgw4R8ypqUboikW_U23M1GoNaImMRxj2-rXT</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/tempestade.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Skyline: Além do Horizonte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

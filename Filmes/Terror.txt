@@ -6,6 +6,62 @@
 
 
 <item>
+<title>[COLOR white]Vamps: A Morte Não Existe para o Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Nos Cárpatos, região montanhosa situada no Leste Europeu, está o mosteiro Spassky, onde o confessor da Imperatriz Elizabeth Alekseevna foi exilado. Que segredos ele levou com ele de São Petersburgo? A área onde ele se encontra foi considerada desde tempos antigos como perturbada e assombrada por lendas, espíritos malignos e as últimas invasões realizadas pelo Império Otomano.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSssDtmuhLvxlYTujEEr-EipSXP4JX_bxCr-xAEEOOw6HMmm0ZiiDUaaMFfcA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/go.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Vende-se Esta Casa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNDSESTCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Um adolescente (Dylan Minnette) e sua mãe (Piercey Dalton) se mudam para uma nova casa e se veem na presença de forças ameaçadoras.</info>
+<fanart>https://occ-0-2433-444.1.nflxso.net/art/ff26e/452ec91e0bbe5eabe828efb5a5912e9ce58ff26e.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/ope.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Vamps: A Morte Não Existe para o Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Nos Cárpatos, região montanhosa situada no Leste Europeu, está o mosteiro Spassky, onde o confessor da Imperatriz Elizabeth Alekseevna foi exilado. Que segredos ele levou com ele de São Petersburgo? A área onde ele se encontra foi considerada desde tempos antigos como perturbada e assombrada por lendas, espíritos malignos e as últimas invasões realizadas pelo Império Otomano.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSssDtmuhLvxlYTujEEr-EipSXP4JX_bxCr-xAEEOOw6HMmm0ZiiDUaaMFfcA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/go.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Totem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TOTM.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Uma jovem precisa recorrer à medidas extremas para proteger sua família de uma entidade sobrenatural.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAKrSuU_y7ar7GU9y_zADko-HRnFsLxYXCsYZIqfLmhJbNtcIsJsV387u</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/TOTEM_Poster.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Pequeno Demônio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PQNDEMO.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

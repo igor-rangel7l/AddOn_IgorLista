@@ -8,6 +8,62 @@
 
 
 <item>
+<title>[COLOR white]Vende-se Esta Casa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNDSESTCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Um adolescente (Dylan Minnette) e sua mãe (Piercey Dalton) se mudam para uma nova casa e se veem na presença de forças ameaçadoras.</info>
+<fanart>https://occ-0-2433-444.1.nflxso.net/art/ff26e/452ec91e0bbe5eabe828efb5a5912e9ce58ff26e.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/ope.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Tesouros Da Vida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRSROSDVA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Aventura</genre>
+<info>Após a morte de sua avó, um adolescente da cidade (Delaney) se aventura no país para cuidar de seu avô (Michael Ironside). Ao se acostumar com seu novo estilo de vida em sua fazenda de cavalos, ela descobre mais sobre sua avó, sobre amor e sobre sua fé em Deus.</info>
+<fanart>https://2.bp.blogspot.com/-FSyF1oAZOVE/Wq3KKU3jdlI/AAAAAAAAJtQ/nqIoWQ8CO9ca54RUYZeyB54OloZpFc-bwCLcBGAs/s1600/Filme%2BTesouros%2BDa%2BVida%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/MV5BYmZjZDM2MzktNDdkYS00MmU1LWI2YjktMWI1MDI2ZWM3ZWNjXkEyXkFqcGdeQX_3f6JI5u.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Minha Primeira Luta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MNHPRMLTA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Após anos vivendo em um lar adotivo, uma adolescente de Nova York decide que lutar com garotos é sua única chance de reencontrar o pai.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/WyQZCxGxIFdeleaC3EOZzMT-zvNa_nf_T7SBLkKwufOuNhEjIFAfRAh30SHn_74LYmxEnsVcj1B1ALhNDiY_jch0pGxQ-zFQg_24Cz1vJkj0wYkzSbjnZsqlHDtfawzVbfnDtWBWAfy4jRpoofVwTbp-xlQ_-lIp8ohIMiWQ1gPLr-uE=w502-h293-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/3_UUe9vbg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Step Sisters (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]STPSTRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>"Step Sisters" gira em torno de uma ambiciosa garota de uma irmandade negra (Megalyn Echikunwoke), que, a fim de ser admitida na escola de direito de seus sonhos, compromete-se a cruzar as linhas culturais e ensinar a arte exclusiva de negros para um bando selvagem de meninas brancas.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/8Q8PRojqWU7PJAmMxEjp5YG3EcA9W5oFb21s43RZ3PrdL74myvhTkDqfkHW46yOTJ1EF2WdMRS0LZDdAZT3StQtRkmpEYfF4y0zQLYp2waJL1yBPLh_-6HzwvS5IRnyHSc5C4hkC1Gt0F-SBhzPUi-wfZqrV=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/step_sisters.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Extraordinário (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]EXTRORDNR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
