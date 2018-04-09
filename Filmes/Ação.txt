@@ -4,6 +4,105 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Suspense</genre>
+<info>Cory, caçador de coiotes e predadores traumatizado pela morte da filha adolescente, encontra o corpo congelado de uma menina em meio ao nada e passa a investigar o crime com o auxílio de uma agente novata do FBI que desconhece a região.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy7HP3kWXD7YN0K7KpAkNnnqNr5VCqKGaFF75VfUBLScnHCJH_CfNVG5rm</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/wind_river_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Suspense</genre>
+<info>Cory, caçador de coiotes e predadores traumatizado pela morte da filha adolescente, encontra o corpo congelado de uma menina em meio ao nada e passa a investigar o crime com o auxílio de uma agente novata do FBI que desconhece a região.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy7HP3kWXD7YN0K7KpAkNnnqNr5VCqKGaFF75VfUBLScnHCJH_CfNVG5rm</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/wind_river_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Grande Muralha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AGRNDMRLHA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>No século XV, um grupo de soldados britânicos está combatendo na China, e se depara com o início das construções da Grande Muralha. Aos poucos, percebem que o intuito não é apenas proteger a população do inimigo mongol e que a construção esconde um grande segredo.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/4eqkzNpp6QIXyEws56_0rBKRcOeoxjDx1jj4PKqIe_xkPR3QcATpbSPnRvFyLnIoB-rx72-hs87cQfn3sOtUVMXh0M8CHI-R9cJEAHi72KgevyOPkLdi28xpT4gLvIGneyx0sFDz=w539-h273-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/great_wall_ver6.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Viagem das Loucas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VGMDSLCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Comédia</genre>
+<info>Uma mãe (Goldie Hawn) e uma filha (Amy Schumer) são sequestradas durante as férias e terão que se virar para sobreviver.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJqbd6BTDgXbHPaBVmrOEcxw3Il_LgnI5xTuuooFzILW4UXZLd2EhZkSY_</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/snatched.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Um Dia de Caos : Mayhem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMDIDCAOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>Na trama apocalíptica o advogado Derek Saunders é vítima de uma armação e injustamente demitido no mesmo dia que um vírus, capaz de fazer as pessoas externarem seus impulsos mais selvagens, infecta um escritório de advocacia corporativa. Preso no prédio em quarentena, o herói é forçado a lutar ferozmente com unhas e dentes não só pelo emprego, mas também por sua vida.</info>
+<fanart>https://2.bp.blogspot.com/--v1HCQsAh9o/WmApE7WwCKI/AAAAAAAAO-w/LLTi5-2clr8fVrkvi8jULtT_ljiCmQWhwCLcBGAs/s1600/MV5BYmNiYzMxZmMtZmIxMC00ZjQ5LTljNmUtMTk2NmM1ODVlOWYxXkEyXkFqcGdeQXVyNjEwNTM2Mzc%2540._V1_SY1000_CR0%252C0%252C1332%252C1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/joe-lynch-mayhem.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]CHiPs: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Comédia e Drama</genre>
+<info>Adaptação ao cinema da série de mesmo nome dos anos 70.
+O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Frank Poncherello (Michael Peña) que têm uma arriscada missão: capturar uma gangue de assaltantes de carros-forte que aterroriza a Califórnia.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVCG4hLncMaKosQs-c8yh766tn_AvCEISOXFeLhfbJQwRpX--9A2UwRWNIjw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/260x365_1487626872.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Apenas o Começo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]APNSOCMCO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Comédia</genre>
+<info>Dois parceiros de golfe, um ex-agente do FBI (Tommy Lee Jones) e um ex-advogado de criminosos (Morgan Freeman), atualmente em um programa de proteção à testemunhas, precisam colocar suas diferenças e rivalidades de lado para tentar solucionar um misterioso caso e impedir a ação criminosa de um bando de gângsters.</info>
+<fanart>https://1.bp.blogspot.com/-HQZZhL_r8bM/WpBuXxkl1jI/AAAAAAAAwnU/es6qihsbOIM0al8yrfkEl6oZ9ROS27aHwCLcBGAs/s1600/vlcsnap-2018-02-23-16h41m08s740.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/MV5BMTA1ODk1NjQ1MzZeQTJeQWpwZ15BbWU4MDE4Nzg5NjMy._V1_SY1000_CR0067_lNIZcIw.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Wheelman (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]WHRLMN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

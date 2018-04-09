@@ -4,6 +4,119 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Te Pego na Saída (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TPGNSDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Tudo parecia estar em paz na relação do corpo docente de uma escola dos Estados Unidos. Entretanto, quando um professor (Charlie Day) arma para que um outro (Ice Cube) seja demitido da instituição, ele é desafiado para uma briga que vai chamar a atenção de todo mundo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKf9rYoTQrL_iymmjrxHokVXb2GJYPr2UiFki7TyqRaedcdGjihIjjQsxZ4w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/12/MV5BMTg0NzkyMjE5NF5BMl5BanBnXkFtZTgwMDE5NTg3MDI._V1_UX182_CR00182268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Slam (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Samuel tem 16 anos e é apaixonado por skates. Ele sonha estudar e se mudar para a Califórnia, mas seus planos são interrompidos quando a namorada fica grávida.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRY0FeYqDoZxDbHr4eCP1gb-bbnQ8bQJXoX1VYigECRyl6URlpqamITKBG</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/b6bdf2e860dea57b63c7156baeb4bcb5314bd07b_OiaA5Dd.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Mindhorn (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MINDHRN.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Um ex-agente secreto com um olho biônico consegue um emprego de detetive particular na Ilha de Man.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU5H81p6wWi40ID686MQLBeT1y_sPpi3iFg0Ubmb886JdiXxYyLUAL0Orhrg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/05/1sht_illustrated_concept_mindhorn_r51-copy.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Rudolph tem problemas. Não só tem treze anos e um vampiro, mas toda a família está ameaçada de extinção pelo cruel caçador de vampiros Rookery. Rudolph, felizmente, encontra um Tony de doze anos, um humano. Rudolph traz Tony junto em sua aventura, que leva os dois meninos à Transilvânia, e junta suas duas famílias, ajudando-os a superar seus preconceitos uns contra os outros. Ao longo do caminho, eles enfrentam numerosos perigos, e tanto vampiros quanto humanos devem mostrar coragem e engenhosidade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDtMz5oXZeU1NhJL34DRvha_FZm5RxwI3HuyWSIQx1mU2r_PON2MoTQepNGw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/1080x1620_1516132096.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Viagem das Loucas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VGMDSLCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Comédia</genre>
+<info>Uma mãe (Goldie Hawn) e uma filha (Amy Schumer) são sequestradas durante as férias e terão que se virar para sobreviver.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJqbd6BTDgXbHPaBVmrOEcxw3Il_LgnI5xTuuooFzILW4UXZLd2EhZkSY_</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/snatched.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]CHiPs: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Comédia e Drama</genre>
+<info>Adaptação ao cinema da série de mesmo nome dos anos 70.
+O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Frank Poncherello (Michael Peña) que têm uma arriscada missão: capturar uma gangue de assaltantes de carros-forte que aterroriza a Califórnia.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVCG4hLncMaKosQs-c8yh766tn_AvCEISOXFeLhfbJQwRpX--9A2UwRWNIjw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/260x365_1487626872.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Boo 2! Um Halloween De Madea (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BO2IHLWNDMDEA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Madea e a gangue estão de volta para esta sequela hilária. Madea, Bam e Hattie se aventuraram em um acampamento assombrado e o grupo deve literalmente correr por suas vidas quando monstros, goblins e bogeyman são desencadeados.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuVM2aTtJOwuO8WKjjQPotjdKmcoXaN4dekykn89Ln2m3IhBm7AlBWvP4E</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/boo_a_madea_halloween_ver10.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Apenas o Começo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]APNSOCMCO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Comédia</genre>
+<info>Dois parceiros de golfe, um ex-agente do FBI (Tommy Lee Jones) e um ex-advogado de criminosos (Morgan Freeman), atualmente em um programa de proteção à testemunhas, precisam colocar suas diferenças e rivalidades de lado para tentar solucionar um misterioso caso e impedir a ação criminosa de um bando de gângsters.</info>
+<fanart>https://1.bp.blogspot.com/-HQZZhL_r8bM/WpBuXxkl1jI/AAAAAAAAwnU/es6qihsbOIM0al8yrfkEl6oZ9ROS27aHwCLcBGAs/s1600/vlcsnap-2018-02-23-16h41m08s740.png</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/MV5BMTA1ODk1NjQ1MzZeQTJeQWpwZ15BbWU4MDE4Nzg5NjMy._V1_SY1000_CR0067_lNIZcIw.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Wilson (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]WLSN.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

@@ -8,6 +8,89 @@
 
 
 <item>
+<title>[COLOR white]Sobrenatural: A Última Chave (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SBNTLAULTMCHV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Situado anos antes dos eventos do primeiro, o filme trará a medium Elise (Lin Shaye) voltando à sua cidade natal para lidar com os eventos assustadores que ocorrem com os moradores da sua antiga casa de infância. Para isso, ela terá que adentrar mais fundo O Distante.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2MO8rMiMGbrbhU64v61ky_mFvQvprMyZmtTcunYOLjyeN_KDqNU0p0wxE3g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/sobrenatural.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Rudolph tem problemas. Não só tem treze anos e um vampiro, mas toda a família está ameaçada de extinção pelo cruel caçador de vampiros Rookery. Rudolph, felizmente, encontra um Tony de doze anos, um humano. Rudolph traz Tony junto em sua aventura, que leva os dois meninos à Transilvânia, e junta suas duas famílias, ajudando-os a superar seus preconceitos uns contra os outros. Ao longo do caminho, eles enfrentam numerosos perigos, e tanto vampiros quanto humanos devem mostrar coragem e engenhosidade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDtMz5oXZeU1NhJL34DRvha_FZm5RxwI3HuyWSIQx1mU2r_PON2MoTQepNGw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/1080x1620_1516132096.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Dia dos Mortos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DIADSMRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Em um mundo pós-apocalíptico, um grupo de militares e sobreviventes vivem em um abrigo subterrâneo em busca de uma cura para o vírus que transformou o mundo em zumbis. A chave acaba sendo em uma figura do passado de Zoe, uma ex-estudante de medicina que lidera a pesquisa pela antídoto.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/Rc9iAQZyrbwhfIzs1IqqCAtZTgxEbFwj5KlcdtW3wrZ4w5Xs-FPP2nDzvi3fyWEBgjn6UaRiDjpmEnP1Tgdpz_hKkHfY4wPMJg1QRK-W6pcJ4GpXDQ5Uztbte8HsQ1xdlw=w536-h275-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/DOTD_Digital_Payoff_4MB.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Boo 2! Um Halloween De Madea (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BO2IHLWNDMDEA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Madea e a gangue estão de volta para esta sequela hilária. Madea, Bam e Hattie se aventuraram em um acampamento assombrado e o grupo deve literalmente correr por suas vidas quando monstros, goblins e bogeyman são desencadeados.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuVM2aTtJOwuO8WKjjQPotjdKmcoXaN4dekykn89Ln2m3IhBm7AlBWvP4E</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/boo_a_madea_halloween_ver10.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Última Canção (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AULTMCAC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>onathan se afastou de sua família há muitos anos. No entanto, ele descobre que o pai, sofrendo com um câncer depois de muito tempo, decidiu retirar os equipamentos que o mantêm vivo no hospital. Jonathan tem 48 horas para se reconciliar com o pai, reencontrar o amor de sua vida e fazer as pazes com a irmã. Para essa tarefa difícil, ele conta com a ajuda da enfermeira do hospital e de uma jovem paciente que também está a beira da morte.</info>
+<fanart>https://4.bp.blogspot.com/-drjNOev-fCE/WsFrkgt68nI/AAAAAAAAKO0/zcvYb6el1vYNVYE6vN3uXIqAV_f235PkgCLcBGAs/s1600/Filme%2BA%2B%25C3%259Altima%2BCan%25C3%25A7%25C3%25A3o%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
+<thumbnail>https://lh3.googleusercontent.com/proxy/b3ZQaQqultKO3taEtjfd-2LHyK2rANspbSXCG3bSgyH3c7Mdaac2E8_UxvvXWf46CQV0U8NPUIyfrwlMyo29oxePmDtCCQO8wmvn6yPWZ38sTq6_oPhccr3fd50N8R4JHqA3DBhvVFTMf1WFkw7X4NYUtCG7TDfoNnj4YT6Nwdk2q0XrKe7gDajREXujWq28s1WmxjGDIhZfYSYC94vVqhYNq_YH=w200-h300-nc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Forma da Água (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AFRMDAGULEG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<info>Uma história de amor num mundo mágico e misterioso na América em 1963. Elisa (Sally Hawkins) é uma zeladora muda que trabalha em um laboratório onde um homem anfíbio está sendo mantido em cativeiro. Quando Elisa se apaixona com a criatura, ela elabora um plano para ajudá-lo a escapar com a ajuda de seu vizinho. O mundo exterior do laboratório, no entanto, pode revelar-se mais perigoso para o homem anfíbio do que Elisa poderia ter previsto.</info>
+<fanart>http://razaodeaspecto.com/wp-content/uploads/2018/01/the_shape_of_water_sally_hawkins_courtesy_fox_searchlight.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/THE-SHAPE-OF-WATER.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Vende-se Esta Casa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VNDSESTCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

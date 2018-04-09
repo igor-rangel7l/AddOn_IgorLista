@@ -7,6 +7,20 @@
 
 
 <item>
+<title>[COLOR white]O Espaço Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OESPCENTNS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Aventura,Drama e Romance</genre>
+<info>O adolescente Gardner Elliot, é o primeiro humano nascido em solo marciano. Mas ele deseja fazer uma viagem à Terra para conhecer a verdade sobre seu pai biológico, e sobre seu nascimento</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdeycVprFqpCiEavHdZ0Q2N1n6FIUYDPWsKwECQ3QS7B0WPRKRfwVVxnR8</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/05/the-space-between-us_t116933.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Tudo e Todas as Coisas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TDETDSASCOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

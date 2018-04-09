@@ -9,6 +9,48 @@
 
 
 <item>
+<title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Suspense</genre>
+<info>Cory, caçador de coiotes e predadores traumatizado pela morte da filha adolescente, encontra o corpo congelado de uma menina em meio ao nada e passa a investigar o crime com o auxílio de uma agente novata do FBI que desconhece a região.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy7HP3kWXD7YN0K7KpAkNnnqNr5VCqKGaFF75VfUBLScnHCJH_CfNVG5rm</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/wind_river_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Suspense</genre>
+<info>Cory, caçador de coiotes e predadores traumatizado pela morte da filha adolescente, encontra o corpo congelado de uma menina em meio ao nada e passa a investigar o crime com o auxílio de uma agente novata do FBI que desconhece a região.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy7HP3kWXD7YN0K7KpAkNnnqNr5VCqKGaFF75VfUBLScnHCJH_CfNVG5rm</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/wind_river_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Massacre no Texas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MASCRNTXS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Texas, 1965. Quatro jovens psicopatas escapam de um hospital psiquiátrico levando consigo uma enfermeira. Sendo perseguidos por um furioso policial em busca de vingança pela morte da filha, um deles está no caminho para ser um maníaco que usa máscaras de pele humana e mata suas vítimas com uma motosserra.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-1mob14zA4sJm6JevjNaZbeOshYKi_GBB6vt4SFZEasBzAUQbgOVL1B2F</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/leatherface-poster.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Vende-se Esta Casa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VNDSESTCS.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

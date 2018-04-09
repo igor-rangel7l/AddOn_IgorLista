@@ -6,6 +6,90 @@
 
 
 <item>
+<title>[COLOR white]Sobrenatural: A Última Chave (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SBNTLAULTMCHV.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Situado anos antes dos eventos do primeiro, o filme trará a medium Elise (Lin Shaye) voltando à sua cidade natal para lidar com os eventos assustadores que ocorrem com os moradores da sua antiga casa de infância. Para isso, ela terá que adentrar mais fundo O Distante.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2MO8rMiMGbrbhU64v61ky_mFvQvprMyZmtTcunYOLjyeN_KDqNU0p0wxE3g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/sobrenatural.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Fragmentado (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]FRGMTDO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Kevin (James McAvoy) possui 23 personalidades distintas e consegue alterná-las quimicamente em seu organismo apenas com a força do pensamento. Um dia, ele sequestra três adolescentes que encontra em um estacionamento. Vivendo em cativeiro, elas passam a conhecer as diferentes facetas de Kevin e precisam encontrar algum meio de escapar.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR710tmoiTf4K9_F3PwhC31I8hNdSESHGDIe2dJ-bC12Pz77ZIyTL5CPRglJQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/split_ver3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Um Dia de Caos : Mayhem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMDIDCAOS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>Na trama apocalíptica o advogado Derek Saunders é vítima de uma armação e injustamente demitido no mesmo dia que um vírus, capaz de fazer as pessoas externarem seus impulsos mais selvagens, infecta um escritório de advocacia corporativa. Preso no prédio em quarentena, o herói é forçado a lutar ferozmente com unhas e dentes não só pelo emprego, mas também por sua vida.</info>
+<fanart>https://2.bp.blogspot.com/--v1HCQsAh9o/WmApE7WwCKI/AAAAAAAAO-w/LLTi5-2clr8fVrkvi8jULtT_ljiCmQWhwCLcBGAs/s1600/MV5BYmNiYzMxZmMtZmIxMC00ZjQ5LTljNmUtMTk2NmM1ODVlOWYxXkEyXkFqcGdeQXVyNjEwNTM2Mzc%2540._V1_SY1000_CR0%252C0%252C1332%252C1000_AL_.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/joe-lynch-mayhem.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pesadelos Mortais (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PDRSMLMTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Alice (Maggie Q) é uma especialista do sono que é forçada a abandonar suas raízes científicas quando conhece uma família que está sendo aterrorizada por um demônio parasita conhecido como "bruxa da noite" que paralisa suas vítimas enquanto elas dormem.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/I-iTGKJBoTPw7_sitJrSKghSa-4cK4cwOtIZ07MXN1wew_0_RP056vasvgVcWFGB-CCmGhFV5bFKhZOcLoiWiB9GkCHg47VZgk_hrMYa=w517-h285-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/slumber-dvd-cover-94.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Massacre no Texas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MASCRNTXS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Texas, 1965. Quatro jovens psicopatas escapam de um hospital psiquiátrico levando consigo uma enfermeira. Sendo perseguidos por um furioso policial em busca de vingança pela morte da filha, um deles está no caminho para ser um maníaco que usa máscaras de pele humana e mata suas vítimas com uma motosserra.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-1mob14zA4sJm6JevjNaZbeOshYKi_GBB6vt4SFZEasBzAUQbgOVL1B2F</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/leatherface-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Dia dos Mortos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DIADSMRTS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Em um mundo pós-apocalíptico, um grupo de militares e sobreviventes vivem em um abrigo subterrâneo em busca de uma cura para o vírus que transformou o mundo em zumbis. A chave acaba sendo em uma figura do passado de Zoe, uma ex-estudante de medicina que lidera a pesquisa pela antídoto.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/Rc9iAQZyrbwhfIzs1IqqCAtZTgxEbFwj5KlcdtW3wrZ4w5Xs-FPP2nDzvi3fyWEBgjn6UaRiDjpmEnP1Tgdpz_hKkHfY4wPMJg1QRK-W6pcJ4GpXDQ5Uztbte8HsQ1xdlw=w536-h275-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/DOTD_Digital_Payoff_4MB.jpeg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Vamps: A Morte Não Existe para o Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

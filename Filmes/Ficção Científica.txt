@@ -4,6 +4,21 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Sonhos Lúcidos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SNHSLCDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Ficção Cientifica</genre>
+<info>Um homem (Ko Soo) que perdeu seu filho há 3 anos atrás. 
+Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu filho.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYC9_PZ3aToT5m6MNC7tkUECs8kJqLdyPENVYjeAuPnVvpNJb6X4H4EoVE</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/02/2016030600142206476_1.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Tropas Estelares: Invasores de Marte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>

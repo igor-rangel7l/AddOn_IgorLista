@@ -4,6 +4,20 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://m.redecanais.com/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Rudolph tem problemas. Não só tem treze anos e um vampiro, mas toda a família está ameaçada de extinção pelo cruel caçador de vampiros Rookery. Rudolph, felizmente, encontra um Tony de doze anos, um humano. Rudolph traz Tony junto em sua aventura, que leva os dois meninos à Transilvânia, e junta suas duas famílias, ajudando-os a superar seus preconceitos uns contra os outros. Ao longo do caminho, eles enfrentam numerosos perigos, e tanto vampiros quanto humanos devem mostrar coragem e engenhosidade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDtMz5oXZeU1NhJL34DRvha_FZm5RxwI3HuyWSIQx1mU2r_PON2MoTQepNGw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/1080x1620_1516132096.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Uma Floresta Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
 <regex>
