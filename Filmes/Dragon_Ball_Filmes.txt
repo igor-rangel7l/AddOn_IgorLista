@@ -4,7 +4,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball - Filme 01 - A Lenda de Shenlong (Dublado) - 1989[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBFILME01.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBFILME01.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -16,7 +16,7 @@
 </item>
 <item>
 <title>[COLOR white]Dragon Ball - Filme 02 - O Castelo do Diabo (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBFILME02.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBFILME02.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -29,7 +29,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball - Filme 03 - Uma Aventura Mística (Dublado) - 1988[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBFILME03.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBFILME03.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -42,7 +42,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 01 - Devolva-me Gohan (Dublado) - 1989[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME01.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME01.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -55,7 +55,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 02 - O Homen Mais Forte do Mundo (Dublado) - 1990[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME02.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME02.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -68,7 +68,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 03 - A Árvore do Poder (Dublado) - 1990[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME03.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME03.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -81,7 +81,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 04 - Super Saiyajin Son Goku (Dublado) - 1991[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME04.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME04.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -94,7 +94,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 05 - Uma Vingança para Freeza (Dublado) - 1991[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME05.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME05.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -107,7 +107,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 06 - Ataque! 10 Bilhões de Guerreiros Poderosos (Dublado) - 1992[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME06.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME06.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -120,7 +120,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 07 - O Retorno dos Andróides (Dublado) - 1992[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME07.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME07.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -133,7 +133,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 08 - O Poder Invencível (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME08.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME08.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -146,7 +146,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 09 - A Batalha do Dois Mundos (Dublado) - 1995[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME09.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME09.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -159,7 +159,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 10 - A Volta do Guerreiro (Dublado) - 1994[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME10.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME10.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -172,7 +172,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 11 - O Combate Final (Dublado) - 1995[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME11.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME11.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -185,7 +185,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 12 - O Renascimento da Fusão: Goku e Vegeta! (Dublado) - 1995[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME12.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME12.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -198,7 +198,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z - Filme 13 - O Golpe do Dragão (Dublado) - 1995[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZFILME13.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZFILME13.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -211,7 +211,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball Z (Legendado) - Filme 14 - Batalha dos Deuses[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZLEGMOVIEBOG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZLEGMOVIEBOG.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -224,7 +224,7 @@
 
 <item>
 <title>[COLOR white]Dragon Ball GT (Legendado) - Filme 01 - O Legado de um Heroi[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBZLEGMOVIEBOG.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBZLEGMOVIEBOG.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>

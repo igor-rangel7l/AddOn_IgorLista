@@ -5,11 +5,11 @@
 
 <item>
 <title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Rudolph tem problemas. Não só tem treze anos e um vampiro, mas toda a família está ameaçada de extinção pelo cruel caçador de vampiros Rookery. Rudolph, felizmente, encontra um Tony de doze anos, um humano. Rudolph traz Tony junto em sua aventura, que leva os dois meninos à Transilvânia, e junta suas duas famílias, ajudando-os a superar seus preconceitos uns contra os outros. Ao longo do caminho, eles enfrentam numerosos perigos, e tanto vampiros quanto humanos devem mostrar coragem e engenhosidade.</info>
@@ -19,11 +19,11 @@
 
 <item>
 <title>[COLOR white]Uma Floresta Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um tigre! Após a morte de sua mãe, será sua responsabilidade manter a ordem e a justiça na selva, ainda mais agora que um malvado coala planeja destruir tudo.</info>
@@ -33,11 +33,11 @@
 
 <item>
 <title>[COLOR white]Tropas Estelares: Invasores de Marte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Ação e Ficção Cientifica</genre>
 <info>Johnny Rico e enviado para uma pequena estação satélite em Marte, enquanto a Federação ataca o planeta natal dos insetos. Enquanto treina os seus novos recrutas nesta estação remota e silenciosa, os insetos aparecem num ataque surpresa, mas a Frota da Federação está muito longe para ajudar. Cabe a Rico e aos seus soldados salvar o planeta e descobrir como os insetos chegaram tão perto de casa.</info>
@@ -47,11 +47,11 @@
 
 <item>
 <title>[COLOR white][COLOR white]Bruxarias (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRXRS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BRXRS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Malva é uma menina de 10 anos que leva uma vida tranquila com sua avó e seu bichinho de estimação, Lalila. Numa feira de vendas de produtos medicinais, sua avó apresenta produtos que são um segredo ancestral guardado por sua família. O sucesso desperta o interesse de Rufa, o malvado dono de uma fábrica de cosméticos. Rufa decide raptar a avó da menina para descobrir os ingredientes secretos utilizados em sua produção. Malva, então, se junta a uma confraria de bruxas para salvar sua avó, enquanto vai descobrindo mais sobre a história mágica de seus antepassados.?</info>
@@ -61,11 +61,11 @@
 
 <item>
 <title>[COLOR white][COLOR white]Bunyan e Babe: Os Amigos da Floresta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Bunyan & Babe, baseado em uma lenda norte-americana, narra as aventuras de Bunyan, um gigante lenhador que precisa salvar o boi azul Babe, igualmente grande, das garras de um maligno dono de circo.Em uma das versões da lenda, Babe era tão imenso que, apenas com suas pegadas, criou diversos lagos na região de Minnesota.</info>
@@ -75,11 +75,11 @@
 
 <item>
 <title>[COLOR white][COLOR white]Big Pai, Big Filho (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BGPABGFLH.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BGPABGFLH.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Adam é um adolescente que precisa descobrir o mistério por trás do desaparecimento de seu pai. Para isto ele se aventura numa floresta tentando localizar o pai. Quando ele encontra-o descobre que ele é ninguém mais, ninguém menos, do que o lendário Pé Grande. Ele tem se escondido na floresta há anos para proteger a si e sua família de uma grande corporação que quer fazer experimentos científicos com ele. Pai e o filho começam a passar um tempo juntos e Adam logo descobrirá que ele também tem super poderes, além de sua imaginação.</info>
@@ -89,11 +89,11 @@
 
 <item>
 <title>[COLOR white][COLOR white]As Aventuras do Capitão Cueca: O Filme (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASAVNTRSDCAPCUC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASAVNTRSDCAPCUC.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Dois brincalhões extremamente imaginativos, chamados George e Harold, hipnotizam seu diretor e o fazem pensar que é um super-herói incrivelmente entusiasmado, chamado Capitão Cueca.</info>
@@ -103,11 +103,11 @@
 
 <item>
 <title>[COLOR white][COLOR white]Canção do Oceano (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACNCAO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACNCAO.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
 <info>A história da viagem de volta da última criança das selkies, mulheres que se transformam em focas. Depois do desaparecimento de sua mãe, Ben e Saoirse são enviados para viver com a avó na cidade. Quando eles resolvem voltar para a sua casa à beira-mar, a viagem torna-se uma corrida contra o tempo, quando eles são atraídos para um mundo que conhecem apenas nos contos populares de sua mãe. Mas isso não é uma história de ninar, essas pessoas estão em nosso mundo por muito tempo. Logo fica claro para Ben que Saoirse é a chave para a sua sobrevivência.</info>
@@ -176,11 +176,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white][COLOR white]Emoji: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Textopolis é a cidade onde os Emojis favoritos dos usuários de smartphones vivem e trabalham. Lá, todos eles vivem em função de um sonho: serem usados nos textos dos humanos. Todos estão acostumados a ter somente uma expressão facial - com exceção de Gene, que nasceu com um bug em seu sistema, que o permite trocar de rosto através de um filtro especial. Determinado à se tornar um emoji normal como todos os outros, eles vai encarar uma jornada fantásticas através dos aplicativos de celular mais populares desta geração - e no meio do caminho, claro, fazer novos amigos.</info>
@@ -190,11 +190,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
@@ -204,11 +204,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Monster High: Eletrizante (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Quando Clawdeen sonha em abrir um salão feito para monstros e normies, Frankie encontra o local perfeito - uma estação de energia fora da cidade. Mas a ideia dá uma reviravolta quando Moanica tem planos para arruinar tudo, e substitui a celebração com algo um pouco mais... chocante!</info>
@@ -218,11 +218,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]O Reino Gelado: Fogo e Gelo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Após heroicamente derrotar a Rainha da Neve, Gerda ainda não conseguiu encontrar a paz. Seu sonho é encontrar os pais dela que foram levados pelo Vento do Norte e finalmente reunir a família. Então, Gerda e seus amigos embarcam em uma excitante jornada para buscar seus pais e encontram novos desafios pelo caminho: Eles descobrem um antigo artefato mágico dos Trolls, a Pedra do Desejo. A partir deste momento, as coisas não saem mais como planejado... será que Gerda conseguirá domar as poderosas forças dos elementos mágicos e conseguir ter sua família de volta? A resposta será revelada agora. Essa é uma história que inclui tudo que as crianças gostam: Bondade, bravura, amizade, mistério, amor fraternal e um final feliz, é claro!</info>
@@ -232,11 +232,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Os Smurfs e a Vila Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf4.php</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
 <info>Smurfette (Demi Lovato) não está contente: ela começa a perceber que todos os homens do vilarejo dos Smurfs têm uma função precisa na comunidade, menos ela. Indignada, ela parte em busca de novas descobertas, e conhece uma Floresta Encantada, com diversas criaturas mágicas. Enquanto isso, o vilão Gargamel segue os seus passos.</info>
@@ -245,7 +245,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 </item>
 <item>
 <title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://m.redecanais.com/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://redecanais.link/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/paw-patrol-os-filhotes-salvam-o-natal-2017-dublado/</page></regex>
 <genre>Aventura e Animação</genre>
 <info>Os filhotes se equipam para consertar o trenó do Papai Noel e salvar o Natal, levar os pinguins de volta para sua casa congelada, ajudar Everest em alguns resgates na neve e muito mais!</info>
@@ -355,11 +355,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Ação e Aventura</genre>
 <info>Tara Markov, a Terra que contém os poderes de controlar a terra e o solo e se uniu aos Jovens Titãs durante os eventos de Liga da Justiça vs. Jovens Titãs, se tornando uma possível ameaça e deixando a questão: Será a nova heroína aliada ou inimiga? E quais são os planos do Exterminador para a jovem equipe de heróis?</info>
@@ -369,11 +369,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
 <info>Paris, 1869. Uma sonhadora menina órfã toma uma atitude arriscada para conseguir o que quer: foge para Paris para realizar o sonho de ser uma grande bailarina. Lá ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras.</info>
@@ -383,11 +383,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Hop: Rebelde Sem Páscoa (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info></info>
@@ -397,11 +397,11 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Sing: Quem Canta Seus Males Espanta (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info>Um koala (McConaughey), que preside um grande teatro, que tem caído em tempos difíceis, decide recuperar a glória através da produção da maior competição de canto do mundo.
@@ -413,11 +413,11 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>É uma selva lá fora para Blu, Jade e seus três filhos depois que eles deixam a cidade maravilhosa para se aventurar em uma viagem pelo Brasil até chegar na Amazônia, para uma reunião de família. Fora de casa, em um lugar desconhecido, Blu terá que enfrentar seu maior medo - seu sogro - enquanto procura escapar do plano de vingança de Nigel.</info>
@@ -427,11 +427,11 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Blu é uma arara-azul que sempre viveu em cativeiro, nunca aprendeu a voar e não sabe viver fora de casa. Um dia, o pássaro que é nativo do Brasil, mas nunca morou aqui, vai para o Rio e descobre um mundo diferente, fora da gaiola.</info>
@@ -441,11 +441,11 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores, que é seu maior hobbie e, também, trabalho. Querendo descobrir mais sobre seu passado e ajudar sua família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Com a ajuda do lendário semideus Maiu, Moana começa sua jornada pelo mar aberto, onde vai enfrentar criaturas marinhas e descobrir antigas histórias do submundo.</info>
@@ -455,11 +455,11 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]As Aventuras de Peabody & Sherman (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Sr. Peabody é um magnata de negócios, inventor, cientista, ganhador do prêmio Nobel, chef, duas vezes medalista olímpico e gênio... Que também é um cachorro. Usando a sua engenhosa invenção, a máquina WABAC, o Sr. Peabody e seu filho adotivo, Sherman, viajam no tempo para vivenciar eventos que mudaram o mundo em primeira mão e interagir com as maiores personalidades da história. Mas quando Sherman quebra as regras da viagem no tempo, nossos dois heróis entrarão em uma corrida para reparar a história e salvar o futuro, enquanto Sr. Peabody enfrenta o maior desafio de sua vida - ser pai.</info>
@@ -469,11 +469,11 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Trolls (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRLS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRLS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Nova animação da Dreamworks levará as telas os famosos bonecos Trolls, conhecidos por aqui como os Duendes da Sorte.</info>
@@ -483,11 +483,11 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Aventura</genre>
 <info>Nesse lugar Centenas de milhares de anos após o colapso da civilização, o mundo é um deserto “pós-tech” e é habitado por tribos humanóides. A paz estabelecida entre eles é ameaçada pelo retorno de Wushen, um fantasma que muda a forma da tecnologia moderna, ameaçando escravizar a população mundial. Zhuma, uma menina de dez anos de idade é a heroína da história, acompanhada por Zhanggong, seu cachorro leão-como o mastín tibetano e seu avô. Escolhida e ajudada por uma deusa etérea, ela deve reunir aliados das tribos sobreviventes para combater Wushen e impedi-lo de ganhar o controle sobre um poder muito antigo.</info>
@@ -497,11 +497,11 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Cantando de Galo[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CATNDGL.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CATNDGL.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Toto (de Bruno Bichir) agora é um galo gado, mas os seus sonhos vão além de todos os animais acordar todas as manhãs. Ele quer ser um grande gamecock na arena das pessoas. O destino irá satisfazer os seus desejos de uma forma inesperada. Um mentiroso rancheiro engana a fazenda onde os proprietários vivem e Toto aposto que faz uma briga de galos. Então Toto deve treinar-se para superar a terrível pau Bankivoide, campeão dos campeões, sabendo que o destino da fazenda e seus habitantes estão em suas "asas".</info>
@@ -511,11 +511,11 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 
 <item>
 <title>[COLOR white]Liga da Justiça Sombria (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
 <info>Um grupo de anti-heróis sobrenaturais se unem para enfrentar ameaças ocultas, ameaças sobrenaturais, ameaças que talvez Batman, Superman e companhia não conseguiriam vencer. O clã é formado por personagens como John Constantine, Zatanna, o Monstro do Pântano, Etrigan, o Demônio, e a Orquídea Negra.</info>
@@ -525,11 +525,11 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 
 <item>
 <title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Animação e Ficção Científica</genre>
 <info>Ambientado em 1941, numa França Steampunk que parou no Século 19, repleta de máquinas a vapor, duas torres Eiffel e governada por Napoleão VI, os cientistas desaparecem misteriosamente. Uma garota chamada Avril (Marion Cotillard), vai em busca de seus pais cientistas desaparecidos.</info>
@@ -539,11 +539,11 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 
 <item>
 <title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://m.redecanais.com/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://m.redecanais.com/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Um ano após despistar o FBI e ganhar a adulação do público com seus números de mágica ao estilo Robin Hood, os Quatro Cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco e Lizzy Caplan) ressurgem em um espetáculo que pretende expor as práticas sem ética de um magnata da tecnologia, mas ao final do número, são desmascarados e raptados por um inimigo desconhecido. O homem por trás do ato de desaparecimento dos ilusionistas é nada menos que Walter Mabry (Daniel Radcliffe), um prodígio que ameaça os mágicos e os obriga a fazer um roubo dos mais espetaculares e impossíveis. A única esperança é conseguir produzir um golpe sem precedentes para limpar seus nomes e revelar o real mandante por trás de tudo.</info>
