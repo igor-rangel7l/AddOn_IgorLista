@@ -6,6 +6,20 @@
 
 
 <item>
+<title>[COLOR white]Os Esquecidos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OSEQCDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>O filme gira em torno de um grupo de jovens que viaja às ruínas para filmar um documentário sobre Epecuén. Ignorando os avisos, após um breve reconhecimento do local, eles ficam presos na aldeia abandonada. Ao contrário do que pensavam, eles começam a perceber que realmente não estão sozinhos ...</info>
+<fanart>https://3.bp.blogspot.com/-VelK8BQo4Bg/Ws-m1GdCLdI/AAAAAAAAJN4/2BRM2Hu6jo0vsIC36nnoUkEj0D-pD5HNQCLcBGAs/s1600/os-esquecidos_01.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/What-the-Waters-Left-Behind-Poster-English.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Sobrenatural: A Última Chave (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SBNTLAULTMCHV.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

@@ -14,19 +14,55 @@ Todos Os Filmes
 
 
 <item>
-<title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://redecanais.link/watch.php</link>
+<title>[COLOR white]Cinquenta Tons de Liberdade (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDSLEG.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
 <page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
-<genre>Ação e Suspense</genre>
-<info>Cory, caçador de coiotes e predadores traumatizado pela morte da filha adolescente, encontra o corpo congelado de uma menina em meio ao nada e passa a investigar o crime com o auxílio de uma agente novata do FBI que desconhece a região.</info>
-<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy7HP3kWXD7YN0K7KpAkNnnqNr5VCqKGaFF75VfUBLScnHCJH_CfNVG5rm</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/wind_river_ver2.jpg</thumbnail>
+<genre>Drama e Romance</genre>
+<info>Quando a ingênua Anastasia Steele conheceu o jovem empresário Christian Grey, teve início um sensual caso de amor que mudou a vida dos dois irrevogavelmente. Chocada, intrigada e, por fim, repelida pelas estranhas exigências sexuais de Christian, Ana exige um comprometimento mais profundo. Determinado a não perdê-la, ele concorda. Agora, Ana e Christian têm tudo: amor, paixão, intimidade, riqueza e um mundo de possibilidades a sua frente. Mas Ana sabe que o relacionamento não será fácil, e a vida a dois reserva desafios que nenhum deles seria capaz de imaginar. Ana precisa se ajustar ao mundo de opulência de Grey sem sacrificar sua identidade. E ele precisa aprender a dominar seu impulso controlador e se livrar do que o atormentava no passado. Quando parece que a força dessa união vai vencer qualquer obstáculo, a malícia, o infortúnio e o destino conspiram para transformar os piores medos de Ana em realidade.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/d7Ap-CSHK-XMQRXzf8cDAaSrTXUcbtswv5qUItKzPM-UTaBs0LIegjT50aljFB_CONQO4hWmAZbLTr5R9ZqkNfFOhyh2IPYHxpbGv6Q8Uvgl8j4mPzEX4TtL1yPeoAytFfMCy2WP_KP-bHc=w529-h278-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/ViewImage-646x1024.jpg</thumbnail>
+</item>
+624
+<item>
+<title>[COLOR white]Projeto Éden (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRJCTEDN.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Suspense e Ficção Cientifica</genre>
+<info>Evelyn Green (Emily Fradenburgh) descobre que o estado catatônico de seu filho pode ter ligação com uma conspiração global. E, com a ajuda de Ethan Varick (Peter Christian Hansen), um ex-oficial militar, ela acaba se tornando uma fugitiva.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/BBzSoRZfl0_7EUTv0HZFjKluKmhSNw_dq3loE1_vNRMNhaXoUAacv2jFhjFz03ydeN00XdqgI_twxKr0CeMPmNHNbNg1mBEULGOGEYMmGp2gsh8d0vo4YJRNrg=w708-h208-nc</fanart>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/17/12/18/22/35/0798692.jpg</thumbnail>
+</item>
+623
+<item>
+<title>[COLOR white]Os Esquecidos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OSEQCDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>O filme gira em torno de um grupo de jovens que viaja às ruínas para filmar um documentário sobre Epecuén. Ignorando os avisos, após um breve reconhecimento do local, eles ficam presos na aldeia abandonada. Ao contrário do que pensavam, eles começam a perceber que realmente não estão sozinhos ...</info>
+<fanart>https://3.bp.blogspot.com/-VelK8BQo4Bg/Ws-m1GdCLdI/AAAAAAAAJN4/2BRM2Hu6jo0vsIC36nnoUkEj0D-pD5HNQCLcBGAs/s1600/os-esquecidos_01.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/What-the-Waters-Left-Behind-Poster-English.jpg</thumbnail>
 </item>
 622
+
+
+
+
+
+
+
+
 <item>
 <title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://redecanais.link/watch.php</link>

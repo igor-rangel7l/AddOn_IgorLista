@@ -9,6 +9,20 @@
 
 
 <item>
+<title>[COLOR white]Projeto Éden (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRJCTEDN.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Suspense e Ficção Cientifica</genre>
+<info>Evelyn Green (Emily Fradenburgh) descobre que o estado catatônico de seu filho pode ter ligação com uma conspiração global. E, com a ajuda de Ethan Varick (Peter Christian Hansen), um ex-oficial militar, ela acaba se tornando uma fugitiva.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/BBzSoRZfl0_7EUTv0HZFjKluKmhSNw_dq3loE1_vNRMNhaXoUAacv2jFhjFz03ydeN00XdqgI_twxKr0CeMPmNHNbNg1mBEULGOGEYMmGp2gsh8d0vo4YJRNrg=w708-h208-nc</fanart>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/17/12/18/22/35/0798692.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
