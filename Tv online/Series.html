@@ -43,22 +43,24 @@
 
 <item>
 <title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (PxStream 2)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/aovivonatv7/index.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/aovivonatv7/index.m3u8$doregex[Igor_Rangel_AuthSign]||Referer=$doregex[Igor_Rangel_Site]</link>
 <regex>
 <name>Igor_Rangel_IP</name>
 <expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Igor_Rangel_Page]</page><noredirect>true</noredirect><includeheaders/>
+<page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/>
 </regex>
 <regex>
 <name>Igor_Rangel_AuthSign</name>
 <expres>m3u8(.*)</expres>
 <page>$doregex[Igor_Rangel_Page]</page>
+<referer>$doregex[Igor_Rangel_Site]</referer>
 </regex>
 <regex>
 <name>Igor_Rangel_Page</name>
 <expres>hls: '(.*)'</expres
 <page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
-</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream.txt</page></regex>
+</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream.txt</page>
+</regex>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
 <thumbnail>http://goo.gl/13gfQq</thumbnail>
 </item>
