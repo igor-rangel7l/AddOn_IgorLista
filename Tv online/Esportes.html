@@ -19,8 +19,9 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-sportv1.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-sportv1.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
@@ -76,18 +77,19 @@ z
 
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]:8088/stream/sportvhdaovivo/playlist.m3u8?id=1086&amp;pk=$doregex[Igor_Rangel_Pk]|User-Agent: Mozilla/5.0</link>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
-<name>Igor_Rangel_IP</name>
-<expres>redirect=(.*)<expres>
-<page>http://www.pubfstream.com:1935/loadbalancer</page>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/Sportvonline28/1/650/360</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
 </regex>
 <regex>
-<name>Igor_Rangel_Pk</name>
-<expres>pk=(.*?)"</expres>
-<page>http://www.playerfs.com/membedplayer/Igor_rangelllk/1/500/400</page>
-<referer>http://www.playerfs.com/</referer>
-<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
@@ -96,22 +98,6 @@ z
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Futeboltvaovivo)[/COLOR]</title>
 <link>http://aovivo.futeboltv.com:8081/live/20/playlist.m3u8</link>
-<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Torcedor)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>"(.*playlist.*?)"</expres>
-<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page><referer>http://torcidatricolor.tv/</referer>
-</regex>
-<regex>
-<name>Igor_Rangel_ID</name>
-<expres>file='(.*?)';</expres>
-<page>http://torcidatricolor.tv/brazil/jogo8.php?IGOR_RANGEL</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
@@ -156,6 +142,14 @@ z
 <item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>ESPN BRASIL HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/GwBMAl</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-espnbrasil.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
 </item>
@@ -274,8 +268,9 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]FOX SPORTS[/B] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-foxsports1.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]FOX SPORTS[/B] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-foxsports1.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
 </item>
@@ -395,6 +390,14 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-espnmais.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
+<thumbnail>http://goo.gl/HBo8jM</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
@@ -411,6 +414,14 @@ z
 <title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
+<thumbnail>http://goo.gl/Pgcyh0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-espn.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
 </item>
@@ -441,8 +452,9 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV 2[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-sportv2.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-sportv2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
 </item>
@@ -576,8 +588,9 @@ http://2201.janjuaplayer.com:8088/adfree/tvsportv2aovivo3/playlist.m3u8?id=75499
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV 3[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-sportv3.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-sportv3.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
 <thumbnail>http://goo.gl/6ju0FK</thumbnail>
 </item>
@@ -669,8 +682,9 @@ http://2201.janjuaplayer.com:8088/adfree/tvsportv2aovivo3/playlist.m3u8?id=75499
 </item>
 
 <item>
-<title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-combate.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-combate.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
 <thumbnail>http://goo.gl/q2H05k</thumbnail>
 </item>
@@ -776,8 +790,9 @@ http://2201.janjuaplayer.com:8088/adfree/tvsportv2aovivo3/playlist.m3u8?id=75499
 </item>
 
 <item>
-<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-foxsports2.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-foxsports2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/aXJTWu</thumbnail>
 </item>
@@ -892,6 +907,14 @@ http://2201.janjuaplayer.com:8088/adfree/tvsportv2aovivo3/playlist.m3u8?id=75499
 </item>
 
 <item>
+<title>[COLOR red][B]BAND SPORTS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-bandsports.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
+<thumbnail>http://goo.gl/291Lwj</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]BAND SPORTS[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
 <link>$doregex[ch_Igor_Rangel]</link>
 <regex>
@@ -924,8 +947,9 @@ http://2201.janjuaplayer.com:8088/adfree/tvsportv2aovivo3/playlist.m3u8?id=75499
 </item>
 
 <item>
-<title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-esporteinterativo1.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-esporteinterativo1.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
 </item>
@@ -1025,8 +1049,9 @@ http://2201.janjuaplayer.com:8088/adfree/tvsportv2aovivo3/playlist.m3u8?id=75499
 </item>
 
 <item>
-<title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-esporteinterativo2.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-esporteinterativo2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
 </item>
@@ -1057,8 +1082,9 @@ http://2201.janjuaplayer.com:8088/adfree/tvsportv2aovivo3/playlist.m3u8?id=75499
 </item>
 
 <item>
-<title>[COLOR red][B][B]Esporte Interativo 2[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-esporteinterativo2.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B][B]Esporte Interativo 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-esporteinterativo2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
 </item>
@@ -1126,15 +1152,16 @@ http://2201.janjuaplayer.com:8088/adfree/tvsportv2aovivo3/playlist.m3u8?id=75499
 </item>
 
 <item>
-<title>[COLOR red][B]Esporte Interativo BR[/B] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<title>[COLOR red][B]Esporte Interativo BR[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>Esporte Interativo BR HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_BR.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_BR.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red][B]Esporte Interativo BR[/B][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://n5h5xf4s.redecanais.stream/hls/redecanais-esporteinterativobr.m3u8|Referer=http://m.redecanais.com/watch.php</link>
+<title>[COLOR red][B]Esporte Interativo BR[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR][COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_IP]redecanais-esporteinterativobr.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<regex><name>Igor_Rangel_IP</name><expres>"source": "(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_BR.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_BR.png</thumbnail>
 </item>
