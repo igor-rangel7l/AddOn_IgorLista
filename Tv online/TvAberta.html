@@ -104,18 +104,24 @@
 </item>
 
 <item>
-<title>[COLOR gray][B]GLOBO RJ[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
-<sportsdevil>http://www.portalzuca.com/canais/boborj.php</sportsdevil>
-<referer>http://www.futebolaovivo.in</referer>
-<link>$doregex[Igor_Rangel_CH]|User-Agent=iPhone</link>
+<title>[COLOR gray][B]GLOBO RJ[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/boborj/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
 </item>
 
 <item>
-<title>[COLOR gray][B]GLOBO RJ[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/boborj/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<title>[COLOR gray][B]GLOBO RJ[/B][/COLOR] [COLOR yellow] [B]App[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>GLOBO RJ HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+<thumbnail>http://goo.gl/qx5sL9</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray][B]GLOBO RJ[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
+<sportsdevil>http://www.portalzuca.com/canais/boborj.php</sportsdevil>
+<referer>http://www.futebolaovivo.in</referer>
 <fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
 <thumbnail>http://goo.gl/qx5sL9</thumbnail>
 </item>
@@ -284,6 +290,13 @@
 </item>
 
 <item>
+<title>[COLOR gray][B]GLOBO NORDESTE[/B][/COLOR] [COLOR yellow] [B]App[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>GLOBO NORDESTE HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+<thumbnail>http://goo.gl/qx5sL9</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray][B]GLOBO ANHANGUERA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://u9otne3ii.redecanais.stream/hls/redecanais-boboanhanguera.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
 <regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
@@ -357,6 +370,13 @@
 </item>
 
 <item>
+<title>[COLOR gray][B]RECORD[/B][/COLOR] [COLOR yellow] [B]App[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>RECORD HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/RECOR.jpg</fanart>
+<thumbnail>http://goo.gl/YQ9Ftm</thumbnail>
+</item>
+
+<item>
 <title>[COLOR gray][B]RECORD[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
@@ -424,6 +444,13 @@
 <title>[COLOR gray][B]BAND[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://u9otne3ii.redecanais.stream/hls/redecanais-band.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
 <regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
+<thumbnail>http://goo.gl/SZ94lw</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gray][B]BAND[/B][/COLOR] [COLOR yellow] [B]App[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>BAND HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/BAND.jpg</fanart>
 <thumbnail>http://goo.gl/SZ94lw</thumbnail>
 </item>
