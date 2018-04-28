@@ -352,6 +352,13 @@
 </item>
 
 <item>
+<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>HBO HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
+<thumbnail>http://goo.gl/N9ccs5</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
@@ -394,24 +401,6 @@
 </item>
 
 <item>
-<title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (Master)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Ch]</link>
-<regex>
-<name>Igor_Rangel_Ch</name>
-<expres>"(.*playlist.*?)"</expres>
-<page>http://abcast.net/abc.php?file=$doregex[Igor_Rangel_ID]</page><referer>http://tv-aovivo.nl/</referer>
-</regex>
-<regex>
-<name>Igor_Rangel_ID</name>
-<expres>file=(.*?)" width</expres>
-<page>http://tv-aovivo.nl/hbo.php?IGOR_RANGEL</page>
-<referer>http://tv-aovivo.nl/hbo.html</referer>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
-<thumbnail>http://goo.gl/N9ccs5</thumbnail>
-</item>
-
-<item>
 <title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>HBO 2 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
@@ -430,6 +419,13 @@
 <title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo2hd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+<thumbnail>http://goo.gl/yrDz67</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>serverSD$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>HBO 2 SD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
 <thumbnail>http://goo.gl/yrDz67</thumbnail>
 </item>
@@ -492,6 +488,13 @@
 </item>
 
 <item>
+<title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>serverSD$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>HBO FAMILY SD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboFamily.jpg</fanart>
+<thumbnail>http://goo.gl/2BXhGr</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]|User-Agent=iPhone</link>
 <regex>
@@ -524,6 +527,13 @@
 <title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
+<thumbnail>http://goo.gl/ISXYSM</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>serverSD$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>HBO PLUS SD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
 <thumbnail>http://goo.gl/ISXYSM</thumbnail>
 </item>
@@ -662,6 +672,13 @@
 <title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
+<thumbnail>http://goo.gl/qXR9CS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>serverSD$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>MEGAPIX SD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
 <thumbnail>http://goo.gl/qXR9CS</thumbnail>
 </item>
