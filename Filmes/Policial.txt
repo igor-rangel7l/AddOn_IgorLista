@@ -6,6 +6,20 @@
 
 
 <item>
+<title>[COLOR white]Imperium: Resistência Sem Líder (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]IMPRSTNCSMLDR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Um agente do FBI trabalha disfarçado durante anos para encontrar e deter um grupo estadunidense de neonazistas, que creem na supremacia branca. O plano deste perigoso grupo é alcançar o caos por meio de uma bomba, enquanto Michael mede todos os seus esforços para impedi-los.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGUrCOAhaRWmt_rbN8cHwfJnqq_-niJvRoFv2n6yb-mkYePNYkzqhBeuH0cw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/imperium_t129162.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SMPRDAO.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

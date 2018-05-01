@@ -4,6 +4,20 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Esquadrão Suicida: Acerto de Contas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Animação</genre>
+<info>Amanda Waller e sua força tarefa – Pistoleiro, Tigre de Bronze, Nevasca, Capitão Bumerangue, Arlequina e Cobra Venenosa – estão numa missão para recuperar um objeto místico poderoso, e estão dispostos a arriscar suas próprias vidas. Mas, o Esquadrão Suicida não é o único grupo de vilões que está nessa busca.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuha2IRY0OzxS5tXCnmSY2_cHGGVq0e7hJrkkkGEemQ-ykoCXUo6cs7B8A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/0057256_335.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

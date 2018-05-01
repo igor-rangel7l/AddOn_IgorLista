@@ -3,6 +3,61 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+<item>
+<title>[COLOR white]Imperium: Resistência Sem Líder (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]IMPRSTNCSMLDR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Um agente do FBI trabalha disfarçado durante anos para encontrar e deter um grupo estadunidense de neonazistas, que creem na supremacia branca. O plano deste perigoso grupo é alcançar o caos por meio de uma bomba, enquanto Michael mede todos os seus esforços para impedi-los.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGUrCOAhaRWmt_rbN8cHwfJnqq_-niJvRoFv2n6yb-mkYePNYkzqhBeuH0cw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/imperium_t129162.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Cordeiros e Carrascos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRDRSECRSCS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Um advogado assume um caso de um guarda de prisão na África do Sul que está traumatizado com as execuções que ele presenciou.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/nU6B5DNHyGDL4_fORtRnCVcni3DHd3eiBnWqOnb4Jy4YFTEU5ofpahI_vH1sbe_AI620LGgiE5IyoTmhukJDJDZ4iCa3abvp2WTbFAGTQb7Wz34J1Fas4g=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/shepherds-and-butchers_tNone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Amador (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMDR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Um jovem jogador de basquete luta para se encaixar em seu novo time.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHBByXkBk3z0bTkmOg5JvEgzQsEeRHUOlG9ZYeE71D75PADhabJXEP0XK</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/eadc21951823139fe94f7700ed715da9486402b9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]6 Balões (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]6BLOS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>O drama se desenrola no feriado americano de 4 de julho, quando Katie (Abbi Jacobson) descobre que o seu irmão Seth (Dave Franco) tem uma recaída de heroína, enquanto a sua filha de 2 anos de idade está sob os seus cuidados.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi80l08Vho_HairxUPR3WXhzqkIRv2bQ4hK7EOxKKQLL1gT1RsfYGXovxbBg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/6-balloons-2018.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white]Cinquenta Tons de Liberdade (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>

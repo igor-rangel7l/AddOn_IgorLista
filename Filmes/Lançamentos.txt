@@ -6,6 +6,101 @@
 <items> 
 
 
+
+<item>
+<title>[COLOR white]O Passageiro (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-passageiro/</page></regex>
+<genre>Ação</genre>
+<info>Durante o seu trajeto usual de volta para casa, o vendedor de seguros Michael (Liam Neeson) é forçado por uma estranha misteriosa (Vera Farmiga) a descobrir a identidade de um dos passageiros do trem em que se encontra antes da última parada. Com a rotina quebrada, o homem se encontra no meio de uma conspiração criminosa, que coloca em perigo a sua vida e dos demais passageiros.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzU36gauHJspdlxPVtSdWn5y30IsZ2XqD3oO87CwNLI45dv7DOLC1pFOqC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/unnamed_GqXT6zi.jpg</thumbnail>
+</item>
+672
+671
+<item>
+<title>[COLOR white]Uma História de Vingança (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMHISTRDVING.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<info>Uma mãe solteira foi vítima de um crime brutal: um estupro coletivo. Ela foi deixada pelos criminosos em uma garagem de barcos para morrer. A única testemunha do crime, sua filha, foi desacreditada no julgamento, e vai ter que contar com a ajuda de um policial veterano da Guerra do Golfo para tentar fazer justiça pela mãe.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrivIcrszGthNnGMlz9kC5PIvpptsvovaPDshVBQ9L55I3cg_h7V6_IwRrcw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/3b87b6c2dd70359df706be2bfe9683cfdd7a700a.jpg</thumbnail>
+</item>
+670
+<item>
+<title>[COLOR white]Imperium: Resistência Sem Líder (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]IMPRSTNCSMLDR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Um agente do FBI trabalha disfarçado durante anos para encontrar e deter um grupo estadunidense de neonazistas, que creem na supremacia branca. O plano deste perigoso grupo é alcançar o caos por meio de uma bomba, enquanto Michael mede todos os seus esforços para impedi-los.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGUrCOAhaRWmt_rbN8cHwfJnqq_-niJvRoFv2n6yb-mkYePNYkzqhBeuH0cw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/07/imperium_t129162.jpg</thumbnail>
+</item>
+669
+<item>
+<title>[COLOR white]Esquadrão Suicida: Acerto de Contas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Animação</genre>
+<info>Amanda Waller e sua força tarefa – Pistoleiro, Tigre de Bronze, Nevasca, Capitão Bumerangue, Arlequina e Cobra Venenosa – estão numa missão para recuperar um objeto místico poderoso, e estão dispostos a arriscar suas próprias vidas. Mas, o Esquadrão Suicida não é o único grupo de vilões que está nessa busca.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuha2IRY0OzxS5tXCnmSY2_cHGGVq0e7hJrkkkGEemQ-ykoCXUo6cs7B8A</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/0057256_335.jpg</thumbnail>
+</item>
+668
+<item>
+<title>[COLOR white]Cordeiros e Carrascos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRDRSECRSCS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Um advogado assume um caso de um guarda de prisão na África do Sul que está traumatizado com as execuções que ele presenciou.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/nU6B5DNHyGDL4_fORtRnCVcni3DHd3eiBnWqOnb4Jy4YFTEU5ofpahI_vH1sbe_AI620LGgiE5IyoTmhukJDJDZ4iCa3abvp2WTbFAGTQb7Wz34J1Fas4g=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/02/shepherds-and-butchers_tNone.jpg</thumbnail>
+</item>
+667
+<item>
+<title>[COLOR white]Amador (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMDR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Um jovem jogador de basquete luta para se encaixar em seu novo time.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHBByXkBk3z0bTkmOg5JvEgzQsEeRHUOlG9ZYeE71D75PADhabJXEP0XK</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/eadc21951823139fe94f7700ed715da9486402b9.jpg</thumbnail>
+</item>
+666
+<item>
+<title>[COLOR white]6 Balões (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]6BLOS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>O drama se desenrola no feriado americano de 4 de julho, quando Katie (Abbi Jacobson) descobre que o seu irmão Seth (Dave Franco) tem uma recaída de heroína, enquanto a sua filha de 2 anos de idade está sob os seus cuidados.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi80l08Vho_HairxUPR3WXhzqkIRv2bQ4hK7EOxKKQLL1gT1RsfYGXovxbBg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/6-balloons-2018.jpg</thumbnail>
+</item>
+665
 <item>
 <title>[COLOR white]Cinquenta Tons de Liberdade (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDSLEG.mp4|Referer=http://redecanais.link/watch.php</link>
