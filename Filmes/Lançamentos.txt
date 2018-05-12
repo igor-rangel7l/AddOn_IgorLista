@@ -8,6 +8,172 @@
 
 
 <item>
+<title>[COLOR white]Pantera Negra - 2018[/COLOR][COLOR yellow] (MMFilmes)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]</link><regex><name>Igor_Rangel_Site</name><expres><![CDATA[addiframe\([\'"](.*?player[^"']+)]]></expres><page>http://player.mmfilmes.tv/embed/$doregex[Igor_Rangel_ID]/</page><referer>http://www.mmfilmes.tv/</referer></regex><regex><name>Igor_Rangel_Link</name><expres><![CDATA[[\'"](h.*?)[\'"].*?[1080|720]]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://www.mmfilmes.tv/</referer></regex><regex><name>Igor_Rangel_ID</name><expres>tv/embed/(.*?)/</expres>
+<page>http://www.mmfilmes.tv/pantera-negra/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>Após uma tragédia, que forçou o jovem Príncipe TChalla a assumir o trono de Wakanda, ele é confrontado em um teste final, pondo em risco o destino de seu país e do mundo inteiro. Em conflito contra sua própria família, o novo rei deve reunir seus aliados e liberar o poder total da Pantera Negra para derrotar seus inimigos e abraçar o seu futuro como um Vingador.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ueX4qZyFuBGdHAVvgA3BbtvR08mFuQdd6HGRabTXSFrQkycGel1AmkBAxw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/IMG_20171016_111906.jpg</thumbnail>
+</item>
+684
+<item>
+<title>[COLOR white]Três Anúncios Para um Crime (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Comédia e Policial</genre>
+<info>nconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes (Frances McDormand) decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby (Woody Harrelson), responsável pela investigação.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/EWUrc5I3HY8tueIXI9zNkY_6JkLRr65eUN2H_U1_SMOHIYRoUi0Mot38QVTWSdGzPfQq6WSIVFcrQrK80HJ75NHB_l1WDtPpT3f7Bmlj6eDGAt5sJtGDS6waBD-EizDuJXi2YEEQr_aVH9HpuGA_NdXsAeBsVJNFuMAj0n8=w539-h273-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/three_billboards_outside_ebbing_missouri.jpg</thumbnail>
+</item>
+683
+<item>
+<title>[COLOR white]Paterno (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PTRNO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>História de Joe Paterno (Al Pacino), o treinador mais bem sucedido do futebol americano universitário que cai em desgraça após um escândalo de abuso sexual envolvendo o seu assistente técnico, Jerry Sandusky.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4u3LZpGUGhtD62FP1y8pXoflC6Eaq0SXkx6ztYbOL9WEIDbRo64eXiYfk</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/paterno-2018.jpg</thumbnail>
+</item>
+682
+<item>
+<title>[COLOR white]Perseguição Criminosa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRSGCRMNSA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Do mesmo time responsável por ‘Cão Selvagem’. Um lutador, especialista em artes marciais, começa a trabalhar para a máfia local. O trabalho parece simples, até que um dos clientes o involucra em uma situação muito mais complicada do que o esperado.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2pnOYoAL37A2Wd1-3RR4D_A6mc8l9rld3i-7U2IKs2eoyIBqN-QUWJWiX</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MV5BNGViZjAwODUtYzFiYS00NmE1LWIxOWUtYzZkMTJkNjc1MTc3XkEyXkFqcGdeQX_zigG8je.jpg</thumbnail>
+</item>
+681
+<item>
+<title>[COLOR white]O Destino de Uma Nação (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ODSTNDUNCAO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Winston Churchill (Gary Oldman) está prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Grã-Bretanha. Paralelamente, ele começa a costurar um tratado de paz com a alemanhã Nazista que pode significar o fim de anos de conflito.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl1PLxtJ54dJKvRxDdbOGbtWyLU-in28nUdrasTH3BN9E1LnM-l3teX502</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/o_destino_de_uma_nacao.jpg</thumbnail>
+</item>
+680
+<item>
+<title>[COLOR white]Lino: Uma Aventura de Sete Vidas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Nacional e Comédia</genre>
+<info>Lino é um animador de festas muito azarado que não aguenta mais seu emprego, pois precisa vestir todos os dias uma horrorosa fantasia de um gato gigante e aguentar sempre a mesma rotina de maus tratos das crianças.
+Cansado de tudo e tentando se livrar da falta de sorte que o persegue, Lino resolve buscar a ajuda de Don Leon, um suposto “mago” não muito talentoso, que o transforma justamente no que ele mais queria se livrar: sua própria fantasia!
+Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da fantasia” e passa a ser procurado pela polícia, dando início a uma grande aventura.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTME9dxHRWX1g-6pb0DgbJNzRxC262Kun-xVPRcx3ci5AY3UZT_FjX52k40</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/lino2.jpg</thumbnail>
+</item>
+679
+<item>
+<title>[COLOR white]Eu Não Sou um Homem Fácil (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]EUNSOUMHMNFCL.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>A história gira em torno de Damien (Vincent Elbaz), que um dia acorda em um mundo onde as mulheres e os homens inverteram os seus papéis na sociedade. O mundo mudou, agora são as mulheres que têm poder sobre os homens. Uma situação engraçada quando não somos avisados.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS8LjXIQjbZJY7zkCxzfQdhgBKqUOtyMq_tVfmvCHDNvLD3JpE9nwS64HKXg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/je-ne-suis-pas-un-homme-facile-french-webrip-1080p-2018_nqiFLJE.jpg</thumbnail>
+</item>
+678
+<item>
+<title>[COLOR white]Dude: A Vida é Assim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DUDAVDEASSM.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>O longa conta a história de quatro amigas Lily (Lucy Hale), Chloe (Kathryn Prescott), Amelia (Alexandra Shipp) e Rebecca (Awkwafina), que após os intensos anos do ensino médio, precisaram lidar com as desvantagens, as responsabilidades, os problemas e os desafios da vida como jovens adultas, antes de se separarem para ingressar na faculdade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfK0YoZEOdUVzqy3y78s_7b-WoYZ3vWhPcLPTIzDNBRSnh6YAiSDiKxqhB</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/dude.jpg</thumbnail>
+</item>
+677
+<item>
+<title>[COLOR white]Debaixo do Mesmo Teto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DBXDMSMTTO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>A história de um casal divorciado cujo marido não consegue encontrar um apartamento para morar. À medida que sua situação financeira não lhe permite encontrar uma casa, Yvan lembra que detém 20% da casa de sua ex-esposa. Em seguida, ele volta a viver com Delphine por causa dos seus 20%. Ambos os ex vão descobrir as alegrias de morarem juntos novamente ...</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS18OxJuWr9teAWVN0hZxRk0ilEYOJuene7_Ir9vRf6spsPYq7sJqcCV5gs</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/room-h-ates-2017.jpg</thumbnail>
+</item>
+676
+<item>
+<title>[COLOR white]Carteirista (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRTRSTS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>O drama se passa na capital de Bogotá, Colômbia, e acompanha um garoto de rua de 16 anos que, junto com dois amigos, aprende a arte de furtar.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbyakPOsQ8HWP9uDnp7oJsH02LIpLC_GDsaiLDbYtSKAm2n31wLuhzAmMHg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/5473285be7adb67ddf99fb9ed8b1adf6931e9da5.jpg</thumbnail>
+</item>
+675
+<item>
+<title>[COLOR white]Correndo Atrás de um Pai (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRNDATRSDUMPAI.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Quando descobrem que sua mãe está mentindo para eles sobre o susposto falecimento de seu pai biológico, dois irmãos decidem pegar a estrada encontrá-lo a todo custo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTokTCqlm8LPO-5fg_TNUqm-G76hUwErqj2Ima4j-8Js6TB9aBjzvb3ppKD</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/MV5BMjA3MDQ4MDI1M15BMl5BanBnXkFtZTgwMDYxMjcxNDM._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+674
+<item>
+<title>[COLOR white]A Caminho da Fé (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACMNHDFE.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Baseado em um episódio de This American Life, "Come Sunday" conta a história de um pastor evangélico (Chiwetel Ejiofor) que causa controvérsia ao dizer que não existe inferno. Ele perde tudo e precisa reconstruir sua igreja e sua própria fé.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjHD43GcSDXlYO7X4FynJXkovwTUtPvFTM1SLvZL3rT-AVWblcxcXt0H6K</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/come-sunday-2018.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]O Passageiro (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/o-passageiro/</page></regex>

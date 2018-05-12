@@ -4,6 +4,22 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Lino: Uma Aventura de Sete Vidas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Nacional e Comédia</genre>
+<info>Lino é um animador de festas muito azarado que não aguenta mais seu emprego, pois precisa vestir todos os dias uma horrorosa fantasia de um gato gigante e aguentar sempre a mesma rotina de maus tratos das crianças.
+Cansado de tudo e tentando se livrar da falta de sorte que o persegue, Lino resolve buscar a ajuda de Don Leon, um suposto “mago” não muito talentoso, que o transforma justamente no que ele mais queria se livrar: sua própria fantasia!
+Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da fantasia” e passa a ser procurado pela polícia, dando início a uma grande aventura.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTME9dxHRWX1g-6pb0DgbJNzRxC262Kun-xVPRcx3ci5AY3UZT_FjX52k40</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/lino2.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Esquadrão Suicida: Acerto de Contas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

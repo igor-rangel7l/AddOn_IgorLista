@@ -6,6 +6,20 @@
 
 
 <item>
+<title>[COLOR white]Três Anúncios Para um Crime (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Comédia e Policial</genre>
+<info>nconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes (Frances McDormand) decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby (Woody Harrelson), responsável pela investigação.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/EWUrc5I3HY8tueIXI9zNkY_6JkLRr65eUN2H_U1_SMOHIYRoUi0Mot38QVTWSdGzPfQq6WSIVFcrQrK80HJ75NHB_l1WDtPpT3f7Bmlj6eDGAt5sJtGDS6waBD-EizDuJXi2YEEQr_aVH9HpuGA_NdXsAeBsVJNFuMAj0n8=w539-h273-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/three_billboards_outside_ebbing_missouri.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Imperium: Resistência Sem Líder (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]IMPRSTNCSMLDR.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

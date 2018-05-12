@@ -5,6 +5,16 @@
 
 
 <item>
+<title>[COLOR white]Pantera Negra - 2018[/COLOR][COLOR yellow] (MMFilmes)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]</link><regex><name>Igor_Rangel_Site</name><expres><![CDATA[addiframe\([\'"](.*?player[^"']+)]]></expres><page>http://player.mmfilmes.tv/embed/$doregex[Igor_Rangel_ID]/</page><referer>http://www.mmfilmes.tv/</referer></regex><regex><name>Igor_Rangel_Link</name><expres><![CDATA[[\'"](h.*?)[\'"].*?[1080|720]]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://www.mmfilmes.tv/</referer></regex><regex><name>Igor_Rangel_ID</name><expres>tv/embed/(.*?)/</expres>
+<page>http://www.mmfilmes.tv/pantera-negra/</page></regex>
+<genre>Ação e Aventura</genre>
+<info>Após uma tragédia, que forçou o jovem Príncipe TChalla a assumir o trono de Wakanda, ele é confrontado em um teste final, pondo em risco o destino de seu país e do mundo inteiro. Em conflito contra sua própria família, o novo rei deve reunir seus aliados e liberar o poder total da Pantera Negra para derrotar seus inimigos e abraçar o seu futuro como um Vingador.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ueX4qZyFuBGdHAVvgA3BbtvR08mFuQdd6HGRabTXSFrQkycGel1AmkBAxw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/IMG_20171016_111906.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

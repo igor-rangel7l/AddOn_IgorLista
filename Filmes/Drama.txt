@@ -4,6 +4,90 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Três Anúncios Para um Crime (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Comédia e Policial</genre>
+<info>nconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes (Frances McDormand) decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby (Woody Harrelson), responsável pela investigação.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/EWUrc5I3HY8tueIXI9zNkY_6JkLRr65eUN2H_U1_SMOHIYRoUi0Mot38QVTWSdGzPfQq6WSIVFcrQrK80HJ75NHB_l1WDtPpT3f7Bmlj6eDGAt5sJtGDS6waBD-EizDuJXi2YEEQr_aVH9HpuGA_NdXsAeBsVJNFuMAj0n8=w539-h273-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/03/three_billboards_outside_ebbing_missouri.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Paterno (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PTRNO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>História de Joe Paterno (Al Pacino), o treinador mais bem sucedido do futebol americano universitário que cai em desgraça após um escândalo de abuso sexual envolvendo o seu assistente técnico, Jerry Sandusky.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4u3LZpGUGhtD62FP1y8pXoflC6Eaq0SXkx6ztYbOL9WEIDbRo64eXiYfk</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/paterno-2018.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Destino de Uma Nação (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ODSTNDUNCAO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Winston Churchill (Gary Oldman) está prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Grã-Bretanha. Paralelamente, ele começa a costurar um tratado de paz com a alemanhã Nazista que pode significar o fim de anos de conflito.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl1PLxtJ54dJKvRxDdbOGbtWyLU-in28nUdrasTH3BN9E1LnM-l3teX502</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/07/o_destino_de_uma_nacao.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Dude: A Vida é Assim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DUDAVDEASSM.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>O longa conta a história de quatro amigas Lily (Lucy Hale), Chloe (Kathryn Prescott), Amelia (Alexandra Shipp) e Rebecca (Awkwafina), que após os intensos anos do ensino médio, precisaram lidar com as desvantagens, as responsabilidades, os problemas e os desafios da vida como jovens adultas, antes de se separarem para ingressar na faculdade.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfK0YoZEOdUVzqy3y78s_7b-WoYZ3vWhPcLPTIzDNBRSnh6YAiSDiKxqhB</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/dude.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Carteirista (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRTRSTS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>O drama se passa na capital de Bogotá, Colômbia, e acompanha um garoto de rua de 16 anos que, junto com dois amigos, aprende a arte de furtar.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbyakPOsQ8HWP9uDnp7oJsH02LIpLC_GDsaiLDbYtSKAm2n31wLuhzAmMHg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/5473285be7adb67ddf99fb9ed8b1adf6931e9da5.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Caminho da Fé (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACMNHDFE.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Baseado em um episódio de This American Life, "Come Sunday" conta a história de um pastor evangélico (Chiwetel Ejiofor) que causa controvérsia ao dizer que não existe inferno. Ele perde tudo e precisa reconstruir sua igreja e sua própria fé.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjHD43GcSDXlYO7X4FynJXkovwTUtPvFTM1SLvZL3rT-AVWblcxcXt0H6K</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/come-sunday-2018.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Imperium: Resistência Sem Líder (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]IMPRSTNCSMLDR.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
