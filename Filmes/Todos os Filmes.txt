@@ -16,6 +16,16 @@ Todos Os Filmes
 
 
 <item>
+<title>[COLOR white]A Escolha Perfeita 3 - 2018[/COLOR][COLOR yellow] (MMFilmes)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]</link><regex><name>Igor_Rangel_Site</name><expres><![CDATA[addiframe\([\'"](.*?player[^"']+)]]></expres><page>http://player.mmfilmes.tv/embed/$doregex[Igor_Rangel_ID]/</page><referer>http://www.mmfilmes.tv/</referer></regex><regex><name>Igor_Rangel_Link</name><expres><![CDATA[[\'"](h.*?)[\'"].*?[1080|720]]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://www.mmfilmes.tv/</referer></regex><regex><name>Igor_Rangel_ID</name><expres>tv/embed/(.*?)/</expres>
+<page>http://www.mmfilmes.tv/a-escolha-perfeita-3/</page></regex>
+<genre>Comédia</genre>
+<info>Agora formadas, Beca (Anna Kendrick), Fat Amy (Rebel Wilson), Chloe (Brittany Snow) e as demais Bellas estão infelizes devido a trabalhos mal remunerados e pouco motivadores. Diante desta situação, elas decidem se unir mais uma vez como grupo a capela para participar do USO Tour, uma turnê que as levará para apresentações na Europa. Lá, elas precisam duelar com grupos musicais que privilegiam a autorialidade das canções em detrimento de novas versões de músicas já consagradas.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa7lMQAyIdPE8XQc1-hcvs2xIGfyE8UIIu3ubfbvz1Vih8DoXgcc1c0a86iA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/pitch_perfect_three_ver2.jpg</thumbnail>
+</item>
+689
+<item>
 <title>[COLOR white]Meu Romance Perfeito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MERMNCPRFTO.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
