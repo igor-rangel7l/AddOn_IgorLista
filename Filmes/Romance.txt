@@ -7,6 +7,34 @@
 
 
 <item>
+<title>[COLOR white]Meu Romance Perfeito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MERMNCPRFTO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance</genre>
+<info>O recém-nomeado CEO da Robinson Tech, Wes Robinson, está à procura de novas ideias para impulsionar as vendas da empresa. Vivian Blair, uma desenvolvedora de programas, compartilha um algoritmo de namoro que ela vem trabalhando chamado My Perfect Match. Wes vê potencial e uma oportunidade para a empresa em lançar o serviço. Quando os dois são desafiados a usar o My Perfect Match para encontrar o amor o algoritmo mostra alguns resultados interessantes.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/QtuX4HZjWa1eCDOO63YGNbSlX-rzfCxBdWP-bPfTt6rhpx9XWZasuUBTf7IkF4TZmvjJ9XUWtw=w471-h313-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/MV5BOTEzZTZjODYtMzE5NS00ZDFjLTk0ZjQtNDU0ZjU5ZTFhMGQ2XkEyXkFqcGdeQX_fy1C7v9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Barraca do Beijo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ABARCDBJ.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Elle (Joey King) se encontra em um romance proibido depois do seu primeiro beijo com o menino mais bonito da escola: o irmão do seu melhor amigo.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/VZRuAzd53X6kCLhMDn4ocPw9MYYMwUyJGDuEcAwJgXq2Dq_W3cfaSai4rml5KXuxZs2fyc11pecBDK5ZoVtx4_eL1AyMzjZ7l6Lg3h9c8RdjXvzyLnI_7giz-ftKAO5wpKli=w470-h313-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/05/kissing_booth.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Cinquenta Tons de Liberdade (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDSLEG.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

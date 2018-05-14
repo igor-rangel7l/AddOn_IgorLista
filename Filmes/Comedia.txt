@@ -4,6 +4,34 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Ingrid Vai para o Oeste (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]INGRDVPROSTE.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Ingrid (Aubrey Plaza) é uma jovem que tem como seus principais ídolos as personalidades das redes sociais. A que ela mais gosta é Taylor Sloane (Elizabeth Olsen), muito famosa e com uma vida aparentemente perfeita. Obcecada, Ingrid decide abandonar tudo e se mudar para perto de Taylor, colocando em prática o plano de se tornar sua melhor amiga. Porém, o que parecia mais um comportamento de fã, se torna aos poucos preocupante e perigoso.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/HLFp2fowUtX94jIst2sg6uKB-J6R_mFQduSCQpSp_pOxKyTsEOO01NpTUpqHn4U7pdL1WgNerlVtMFhpVOcAX2Fx1DHWsxpX9e_IHruYAIAMiTkUQY2B6Q=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/MV5BNzE3Mzc5NTc4M15BMl5BanBnXkFtZTgwMDYwNzM3MjI._V1_SY1000_CR007041000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Barraca do Beijo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ABARCDBJ.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Elle (Joey King) se encontra em um romance proibido depois do seu primeiro beijo com o menino mais bonito da escola: o irmão do seu melhor amigo.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/VZRuAzd53X6kCLhMDn4ocPw9MYYMwUyJGDuEcAwJgXq2Dq_W3cfaSai4rml5KXuxZs2fyc11pecBDK5ZoVtx4_eL1AyMzjZ7l6Lg3h9c8RdjXvzyLnI_7giz-ftKAO5wpKli=w470-h313-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/05/kissing_booth.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Três Anúncios Para um Crime (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

@@ -4,6 +4,34 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Ingrid Vai para o Oeste (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]INGRDVPROSTE.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Ingrid (Aubrey Plaza) é uma jovem que tem como seus principais ídolos as personalidades das redes sociais. A que ela mais gosta é Taylor Sloane (Elizabeth Olsen), muito famosa e com uma vida aparentemente perfeita. Obcecada, Ingrid decide abandonar tudo e se mudar para perto de Taylor, colocando em prática o plano de se tornar sua melhor amiga. Porém, o que parecia mais um comportamento de fã, se torna aos poucos preocupante e perigoso.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/HLFp2fowUtX94jIst2sg6uKB-J6R_mFQduSCQpSp_pOxKyTsEOO01NpTUpqHn4U7pdL1WgNerlVtMFhpVOcAX2Fx1DHWsxpX9e_IHruYAIAMiTkUQY2B6Q=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/MV5BNzE3Mzc5NTc4M15BMl5BanBnXkFtZTgwMDYwNzM3MjI._V1_SY1000_CR007041000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Grande Jogada (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AGRNDJGD.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Após perder a chance de participar dos Jogos Olímpicos, a esquiadora Molly Bloom (Jessica Chastain) decide tirar um ano de folga dos estudos e ir trabalhar como garçonete em Los Angeles. Através de circunstâncias curiosas, ela acaba se tornando milionária e famosa por organizar os mais exclusivos jogos de pôquer da região.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwFB8QGOJNn7FQpkBaxcoygMI7BhW5HusuNnixpWmrgfQu03T9esL-XFv3</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/mollys_game.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Três Anúncios Para um Crime (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

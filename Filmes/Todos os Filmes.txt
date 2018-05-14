@@ -15,6 +15,62 @@ Todos Os Filmes
 
 
 
+<item>
+<title>[COLOR white]Meu Romance Perfeito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MERMNCPRFTO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance</genre>
+<info>O recém-nomeado CEO da Robinson Tech, Wes Robinson, está à procura de novas ideias para impulsionar as vendas da empresa. Vivian Blair, uma desenvolvedora de programas, compartilha um algoritmo de namoro que ela vem trabalhando chamado My Perfect Match. Wes vê potencial e uma oportunidade para a empresa em lançar o serviço. Quando os dois são desafiados a usar o My Perfect Match para encontrar o amor o algoritmo mostra alguns resultados interessantes.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/QtuX4HZjWa1eCDOO63YGNbSlX-rzfCxBdWP-bPfTt6rhpx9XWZasuUBTf7IkF4TZmvjJ9XUWtw=w471-h313-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/MV5BOTEzZTZjODYtMzE5NS00ZDFjLTk0ZjQtNDU0ZjU5ZTFhMGQ2XkEyXkFqcGdeQX_fy1C7v9.jpg</thumbnail>
+</item>
+688
+<item>
+<title>[COLOR white]Ingrid Vai para o Oeste (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]INGRDVPROSTE.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Ingrid (Aubrey Plaza) é uma jovem que tem como seus principais ídolos as personalidades das redes sociais. A que ela mais gosta é Taylor Sloane (Elizabeth Olsen), muito famosa e com uma vida aparentemente perfeita. Obcecada, Ingrid decide abandonar tudo e se mudar para perto de Taylor, colocando em prática o plano de se tornar sua melhor amiga. Porém, o que parecia mais um comportamento de fã, se torna aos poucos preocupante e perigoso.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/HLFp2fowUtX94jIst2sg6uKB-J6R_mFQduSCQpSp_pOxKyTsEOO01NpTUpqHn4U7pdL1WgNerlVtMFhpVOcAX2Fx1DHWsxpX9e_IHruYAIAMiTkUQY2B6Q=w512-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/MV5BNzE3Mzc5NTc4M15BMl5BanBnXkFtZTgwMDYwNzM3MjI._V1_SY1000_CR007041000_AL_.jpg</thumbnail>
+</item>
+687
+<item>
+<title>[COLOR white]A Grande Jogada (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AGRNDJGD.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Após perder a chance de participar dos Jogos Olímpicos, a esquiadora Molly Bloom (Jessica Chastain) decide tirar um ano de folga dos estudos e ir trabalhar como garçonete em Los Angeles. Através de circunstâncias curiosas, ela acaba se tornando milionária e famosa por organizar os mais exclusivos jogos de pôquer da região.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwFB8QGOJNn7FQpkBaxcoygMI7BhW5HusuNnixpWmrgfQu03T9esL-XFv3</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/mollys_game.jpg</thumbnail>
+</item>
+686
+<item>
+<title>[COLOR white]A Barraca do Beijo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ABARCDBJ.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Elle (Joey King) se encontra em um romance proibido depois do seu primeiro beijo com o menino mais bonito da escola: o irmão do seu melhor amigo.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/VZRuAzd53X6kCLhMDn4ocPw9MYYMwUyJGDuEcAwJgXq2Dq_W3cfaSai4rml5KXuxZs2fyc11pecBDK5ZoVtx4_eL1AyMzjZ7l6Lg3h9c8RdjXvzyLnI_7giz-ftKAO5wpKli=w470-h313-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/05/kissing_booth.jpg</thumbnail>
+</item>
+685
 
 
 
