@@ -80,14 +80,17 @@ z
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Futeboltv)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8|User-Agent=iPhone</link>
-<regex><name>Igor_Rangel_Ch</name><expres>canal=(.*live.*?)m3u8</expres>
-<page>http://www.(Futeboltv).com/canais-esportivos/sportv-assistir-ao-vivo</page></regex>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>canal=(.*live.*?)m3u8</expres>
+<page>http://www.futeboltv.com/canais-esportivos/sportv-assistir-ao-vivo</page>
+</regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] ((Futeboltv)aovivo.in)[/COLOR]</title>
+<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
 <link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)width</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>1000(.*?)whostreams</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
 <page>http://www.futebolaovivo.in/sportv.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
@@ -178,13 +181,13 @@ z
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (Futeboltv)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_Ch</name><expres>canal=(.*live.*?)m3u8</expres>
-<page>http://www.(Futeboltv).com/canais-esportivos/assistir-espn-brasil-2</page></regex>
+<page>http://www.futeboltv.com/canais-esportivos/assistir-espn-brasil-2</page></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] ((Futeboltv)aovivo.in)[/COLOR]</title>
+<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
 <link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)width</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>1000(.*?)whostreams</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
 <page>http://www.futebolaovivo.in/espnbrasil.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
@@ -286,13 +289,13 @@ z
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Futeboltv)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_Ch</name><expres>canal=(.*live.*?)m3u8</expres>
-<page>http://www.(Futeboltv).com/canais-esportivos/assistir-espn-brasil-2</page></regex>
+<page>http://www.futeboltv.com/canais-esportivos/assistir-espn-brasil-2</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] ((Futeboltv)aovivo.in)[/COLOR]</title>
+<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
 <link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)width</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>1000(.*?)whostreams</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
 <page>http://www.futebolaovivo.in/foxsports.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
@@ -383,7 +386,7 @@ z
 <title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR gray] (Futeboltv)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_Ch</name><expres>canal=(.*live.*?)m3u8</expres>
-<page>http://www.(Futeboltv).com/canais-esportivos/espn-assistir-ao-vivo</page></regex>
+<page>http://www.futeboltv.com/canais-esportivos/espn-assistir-ao-vivo</page></regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
 </item>
@@ -444,7 +447,7 @@ z
 <title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR gray] (Futeboltv)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_Ch</name><expres>canal=(.*live.*?)m3u8</expres>
-<page>http://www.(Futeboltv).com/canais-esportivos/sportv-2</page></regex>
+<page>http://www.futeboltv.com/canais-esportivos/sportv-2</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
 </item>
@@ -531,12 +534,12 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR gray] ((Futeboltv)aovivo)[/COLOR]</title>
+<title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR gray] (Futeboltvaovivo)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8</link>
 <regex>
 <name>Igor_Rangel_Ch</name>
 <expres>live=(.*)m3u8</expres>
-<page>https://www.(Futeboltv).com/canais-esportivos/sportv-3-assistir-ao-vivo</page><referer>http://www.(Futeboltv).com/</referer>
+<page>https://www.futeboltv.com/canais-esportivos/sportv-3-assistir-ao-vivo</page><referer>http://www.futeboltv.com/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
 <thumbnail>http://goo.gl/6ju0FK</thumbnail>
@@ -615,7 +618,7 @@ z
 <title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR gray] (Futeboltv)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_Ch</name><expres>canal=(.*live.*?)m3u8</expres>
-<page>http://www.(Futeboltv).com/canais-esportivos/sportv-2</page></regex>
+<page>http://www.futeboltv.com/canais-esportivos/sportv-2</page></regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>
 </item>
@@ -670,7 +673,7 @@ z
 <title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR gray] (Futeboltv)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8|User-Agent=iPhone</link>
 <regex><name>Igor_Rangel_Ch</name><expres>canal=(.*live.*?)m3u8</expres>
-<page>https://www.(Futeboltv).com/canais-esportivos/assistir-combate-ao-vivo-em-hd-gratis</page></regex>
+<page>https://www.futeboltv.com/canais-esportivos/assistir-combate-ao-vivo-em-hd-gratis</page></regex>
 <fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
 <thumbnail>http://goo.gl/q2H05k</thumbnail>
 </item>
@@ -779,12 +782,12 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] ((Futeboltv)aovivo)[/COLOR]</title>
+<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (Futeboltvaovivo)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]m3u8</link>
 <regex>
 <name>Igor_Rangel_Ch</name>
 <expres>live=(.*)m3u8</expres>
-<page>https://www.(Futeboltv).com/canais-esportivos/fox-sports-2-assistir-ao-vivo</page><referer>http://www.(Futeboltv).com/</referer>
+<page>https://www.futeboltv.com/canais-esportivos/fox-sports-2-assistir-ao-vivo</page><referer>http://www.futeboltv.com/</referer>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/aXJTWu</thumbnail>
