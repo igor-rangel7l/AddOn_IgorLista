@@ -109,7 +109,9 @@
 
 <item>
 <title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<sportsdevil>http://portalzuca.com/canais/fox.php</sportsdevil>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>http://portalzuca.com/canais/fox.php</page>
 <referer>http://www.futebolaovivo.in</referer>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
 <thumbnail>http://goo.gl/13gfQq</thumbnail>
