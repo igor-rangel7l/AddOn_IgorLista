@@ -21,15 +21,14 @@ z
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-sportv1.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/sportvhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/sportvhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
@@ -51,7 +50,8 @@ z
 
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR][COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/spt.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
@@ -90,14 +90,6 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)width</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>1000(.*?)whostreams</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
-<page>http://www.futebolaovivo.in/sportv.php</page></regex>
-<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Ch]</link>
 <regex>
@@ -111,9 +103,9 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-sportvalternativo.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
+<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)width</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>1000(.*?)whostreams</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<page>http://www.futebolaovivo.in/sportv.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
@@ -128,15 +120,14 @@ z
 <item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-espnbrasil.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnbrasil/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnbrasil/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
 </item>
@@ -158,7 +149,8 @@ z
 
 <item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] Portalzuca[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/espnbr.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
@@ -187,14 +179,6 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)width</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>1000(.*?)whostreams</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
-<page>http://www.futebolaovivo.in/espnbrasil.php</page></regex>
-<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
-<thumbnail>http://goo.gl/GwBMAl</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
 <regex>
@@ -215,6 +199,14 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
+<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)width</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>1000(.*?)whostreams</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<page>http://www.futebolaovivo.in/espnbrasil.php</page></regex>
+<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/GwBMAl</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]FOX SPORTS[/B] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>FOX SPORTS HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
@@ -224,15 +216,14 @@ z
 <item>
 <title>[COLOR red][B]FOX SPORTS[/B] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-foxsports1.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxsports/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxsports/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
 </item>
@@ -295,6 +286,15 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
+<page>http://portalzuca.com/canais/foxsports1.php</page></regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
+<thumbnail>http://goo.gl/2GxOT7</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Futeboltvaovivo.in)[/COLOR]</title>
 <link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)width</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>1000(.*?)whostreams</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
 <page>http://www.futebolaovivo.in/foxsports.php</page></regex>
@@ -303,17 +303,9 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
-<page>http://portalzuca.com/canais/foxsports1.php</page></regex>
-<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
-<thumbnail>http://goo.gl/2GxOT7</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnmais/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnmais/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
 <thumbnail>http://goo.gl/HBo8jM</thumbnail>
 </item>
@@ -321,7 +313,6 @@ z
 <item>
 <title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-espnmais.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
 <thumbnail>http://goo.gl/HBo8jM</thumbnail>
 </item>
@@ -348,8 +339,8 @@ z
 
 <item>
 <title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
 </item>
@@ -357,7 +348,6 @@ z
 <item>
 <title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-espn.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
 </item>
@@ -394,7 +384,6 @@ z
 <item>
 <title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-sportv2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
 </item>
@@ -409,8 +398,8 @@ z
 
 <item>
 <title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte2/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte2/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
 </item>
@@ -437,7 +426,8 @@ z
 
 <item>
 <title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/spt2.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
@@ -499,8 +489,8 @@ z
 
 <item>
 <title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte3/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte3/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
 <thumbnail>http://goo.gl/6ju0FK</thumbnail>
 </item>
@@ -508,7 +498,6 @@ z
 <item>
 <title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-sportv3.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
 <thumbnail>http://goo.gl/6ju0FK</thumbnail>
 </item>
@@ -575,15 +564,14 @@ z
 <item>
 <title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-premiereclubes.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/sat1/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/sat1/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>
 </item>
@@ -633,15 +621,14 @@ z
 <item>
 <title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-combate.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
 <thumbnail>http://goo.gl/q2H05k</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/combate-hd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/combate-hd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
 <thumbnail>http://goo.gl/q2H05k</thumbnail>
 </item>
@@ -663,7 +650,8 @@ z
 
 <item>
 <title>[COLOR red][B]COMBATE[/B][/COLOR]  [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/combate.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
 <thumbnail>http://goo.gl/q2H05k</thumbnail>
@@ -720,15 +708,14 @@ z
 <item>
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-foxsports2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/aXJTWu</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxsports2/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxsports2/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/aXJTWu</thumbnail>
 </item>
@@ -795,23 +782,17 @@ z
 
 <item>
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/foxsports2.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
 </item>
 
 <item>
-<title>[COLOR red][B]BAND SPORTS[/B][/COLOR]</title>
-<link>http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/playlist.m3u8</link>
-<fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
-<thumbnail>http://goo.gl/291Lwj</thumbnail>
-</item>
-
-<item>
 <title>[COLOR red][B]BAND SPORTS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/bandsportshd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/bandsportshd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/291Lwj</thumbnail>
 </item>
@@ -819,7 +800,6 @@ z
 <item>
 <title>[COLOR red][B]BAND SPORTS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-bandsports.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/BAND_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/291Lwj</thumbnail>
 </item>
@@ -847,15 +827,14 @@ z
 <item>
 <title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-esporteinterativo1.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/max1/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/max1/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
 </item>
@@ -869,7 +848,8 @@ z
 
 <item>
 <title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/ei.php<</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
@@ -906,14 +886,14 @@ z
 <item>
 <title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-esporteinterativo2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/ei2.php</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
@@ -921,8 +901,8 @@ z
 
 <item>
 <title>[COLOR red][B][B]Esporte Interativo 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/max2/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/max2/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
 </item>
@@ -930,7 +910,6 @@ z
 <item>
 <title>[COLOR red][B][B]Esporte Interativo 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-esporteinterativo2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
 </item>
@@ -991,14 +970,14 @@ z
 <item>
 <title>[COLOR red][B]Esporte Interativo BR[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://stream01.enviandotorpedos.com/hls/redecanais-esporteinterativobr.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_BR.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_BR.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR red][B]Esporte Interativo BR[/B][/COLOR] [COLOR gray] (Portalzuca)[/COLOR]</title>
-<link>http://cdn.whostreams.net:8081/wsedge/$doregex[Igor_Rangel_ID]/playlist.m3u8?wmsAuthSign$doregex[Igor_Rangel_AuthSign]=</link><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:'$doregex[Igor_Rangel_file1]'.replace("|","")</expres><page></page></regex><regex><name>Igor_Rangel_AuthSign</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("|","=")</expres><page></page></regex><regex><name>Igor_Rangel_file1</name><expres>wsedge(.*?)net</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/canais/</referer></regex><regex><name>Igor_Rangel_file</name><expres>wmsAuthSign(.*?)stretching</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*?)"</expres>
+<link>$doregex[Igor_Rangel_CH]|User-Agent=iPad</link>
+<regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/eibr.php</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_BR.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_BR.png</thumbnail>

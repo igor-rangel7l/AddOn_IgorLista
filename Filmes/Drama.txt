@@ -5,6 +5,20 @@
 
 
 <item>
+<title>[COLOR white]Cinquenta Tons de Liberdade (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Quando a ingênua Anastasia Steele conheceu o jovem empresário Christian Grey, teve início um sensual caso de amor que mudou a vida dos dois irrevogavelmente. Chocada, intrigada e, por fim, repelida pelas estranhas exigências sexuais de Christian, Ana exige um comprometimento mais profundo. Determinado a não perdê-la, ele concorda. Agora, Ana e Christian têm tudo: amor, paixão, intimidade, riqueza e um mundo de possibilidades a sua frente. Mas Ana sabe que o relacionamento não será fácil, e a vida a dois reserva desafios que nenhum deles seria capaz de imaginar. Ana precisa se ajustar ao mundo de opulência de Grey sem sacrificar sua identidade. E ele precisa aprender a dominar seu impulso controlador e se livrar do que o atormentava no passado. Quando parece que a força dessa união vai vencer qualquer obstáculo, a malícia, o infortúnio e o destino conspiram para transformar os piores medos de Ana em realidade.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/d7Ap-CSHK-XMQRXzf8cDAaSrTXUcbtswv5qUItKzPM-UTaBs0LIegjT50aljFB_CONQO4hWmAZbLTr5R9ZqkNfFOhyh2IPYHxpbGv6Q8Uvgl8j4mPzEX4TtL1yPeoAytFfMCy2WP_KP-bHc=w529-h278-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/ViewImage-646x1024.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Somos Tão Jovens - 2013[/COLOR][COLOR yellow] (YouTube)[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=rm6Rvv6Ap2w</link>
 <genre>Nacional e Drama</genre>
@@ -181,20 +195,6 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <info>O drama se desenrola no feriado americano de 4 de julho, quando Katie (Abbi Jacobson) descobre que o seu irmão Seth (Dave Franco) tem uma recaída de heroína, enquanto a sua filha de 2 anos de idade está sob os seus cuidados.</info>
 <fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi80l08Vho_HairxUPR3WXhzqkIRv2bQ4hK7EOxKKQLL1gT1RsfYGXovxbBg</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/6-balloons-2018.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Cinquenta Tons de Liberdade (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDSLEG.mp4|Referer=http://redecanais.link/watch.php</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf4.php</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>Quando a ingênua Anastasia Steele conheceu o jovem empresário Christian Grey, teve início um sensual caso de amor que mudou a vida dos dois irrevogavelmente. Chocada, intrigada e, por fim, repelida pelas estranhas exigências sexuais de Christian, Ana exige um comprometimento mais profundo. Determinado a não perdê-la, ele concorda. Agora, Ana e Christian têm tudo: amor, paixão, intimidade, riqueza e um mundo de possibilidades a sua frente. Mas Ana sabe que o relacionamento não será fácil, e a vida a dois reserva desafios que nenhum deles seria capaz de imaginar. Ana precisa se ajustar ao mundo de opulência de Grey sem sacrificar sua identidade. E ele precisa aprender a dominar seu impulso controlador e se livrar do que o atormentava no passado. Quando parece que a força dessa união vai vencer qualquer obstáculo, a malícia, o infortúnio e o destino conspiram para transformar os piores medos de Ana em realidade.</info>
-<fanart>https://lh6.googleusercontent.com/proxy/d7Ap-CSHK-XMQRXzf8cDAaSrTXUcbtswv5qUItKzPM-UTaBs0LIegjT50aljFB_CONQO4hWmAZbLTr5R9ZqkNfFOhyh2IPYHxpbGv6Q8Uvgl8j4mPzEX4TtL1yPeoAytFfMCy2WP_KP-bHc=w529-h278-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/ViewImage-646x1024.jpg</thumbnail>
 </item>
 
 <item>

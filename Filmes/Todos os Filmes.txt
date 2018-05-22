@@ -14,6 +14,54 @@ Todos Os Filmes
 
 
 
+<item>
+<title>[COLOR white]Pantera Negra (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PNTRNGR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Após uma tragédia, que forçou o jovem Príncipe TChalla a assumir o trono de Wakanda, ele é confrontado em um teste final, pondo em risco o destino de seu país e do mundo inteiro. Em conflito contra sua própria família, o novo rei deve reunir seus aliados e liberar o poder total da Pantera Negra para derrotar seus inimigos e abraçar o seu futuro como um Vingador.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ueX4qZyFuBGdHAVvgA3BbtvR08mFuQdd6HGRabTXSFrQkycGel1AmkBAxw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/IMG_20171016_111906.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Círculo de Fogo: A Revolta (Legendado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTALEG.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Já fazem dez anos desde a Batalha na Fenda e os oceanos continuam estáveis mas inquietos. Vindicado pela vitória na batalha, o programa Jaeger evoluiu para se tornar a força de defensa mais poderosa da história da humanidade. O PPDC agora seleciona os melhores e mais promissores para se tornar a nova geração de heróis.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgv90VNawKPAH0q4RvQPVpPhbiGtgJ2qPEbqVPwIwsMwaM63Ybm-tZZ8t85g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/27356464_914783745312883_9114029777077962705_o.jpg</thumbnail>
+</item>
+692
+<item>
+<title>[COLOR white]Cinquenta Tons de Liberdade (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Quando a ingênua Anastasia Steele conheceu o jovem empresário Christian Grey, teve início um sensual caso de amor que mudou a vida dos dois irrevogavelmente. Chocada, intrigada e, por fim, repelida pelas estranhas exigências sexuais de Christian, Ana exige um comprometimento mais profundo. Determinado a não perdê-la, ele concorda. Agora, Ana e Christian têm tudo: amor, paixão, intimidade, riqueza e um mundo de possibilidades a sua frente. Mas Ana sabe que o relacionamento não será fácil, e a vida a dois reserva desafios que nenhum deles seria capaz de imaginar. Ana precisa se ajustar ao mundo de opulência de Grey sem sacrificar sua identidade. E ele precisa aprender a dominar seu impulso controlador e se livrar do que o atormentava no passado. Quando parece que a força dessa união vai vencer qualquer obstáculo, a malícia, o infortúnio e o destino conspiram para transformar os piores medos de Ana em realidade.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/d7Ap-CSHK-XMQRXzf8cDAaSrTXUcbtswv5qUItKzPM-UTaBs0LIegjT50aljFB_CONQO4hWmAZbLTr5R9ZqkNfFOhyh2IPYHxpbGv6Q8Uvgl8j4mPzEX4TtL1yPeoAytFfMCy2WP_KP-bHc=w529-h278-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/ViewImage-646x1024.jpg</thumbnail>
+</item>
+691
+
+
+
+
+
+
 
 <item>
 <title>[COLOR white]Somos Tão Jovens - 2013[/COLOR][COLOR yellow] (YouTube)[/COLOR]</title>
@@ -373,19 +421,6 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 
 
-<item>
-<title>[COLOR white]Cinquenta Tons de Liberdade (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDSLEG.mp4|Referer=http://redecanais.link/watch.php</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf4.php</page>
-</regex>
-<genre>Drama e Romance</genre>
-<info>Quando a ingênua Anastasia Steele conheceu o jovem empresário Christian Grey, teve início um sensual caso de amor que mudou a vida dos dois irrevogavelmente. Chocada, intrigada e, por fim, repelida pelas estranhas exigências sexuais de Christian, Ana exige um comprometimento mais profundo. Determinado a não perdê-la, ele concorda. Agora, Ana e Christian têm tudo: amor, paixão, intimidade, riqueza e um mundo de possibilidades a sua frente. Mas Ana sabe que o relacionamento não será fácil, e a vida a dois reserva desafios que nenhum deles seria capaz de imaginar. Ana precisa se ajustar ao mundo de opulência de Grey sem sacrificar sua identidade. E ele precisa aprender a dominar seu impulso controlador e se livrar do que o atormentava no passado. Quando parece que a força dessa união vai vencer qualquer obstáculo, a malícia, o infortúnio e o destino conspiram para transformar os piores medos de Ana em realidade.</info>
-<fanart>https://lh6.googleusercontent.com/proxy/d7Ap-CSHK-XMQRXzf8cDAaSrTXUcbtswv5qUItKzPM-UTaBs0LIegjT50aljFB_CONQO4hWmAZbLTr5R9ZqkNfFOhyh2IPYHxpbGv6Q8Uvgl8j4mPzEX4TtL1yPeoAytFfMCy2WP_KP-bHc=w529-h278-nc</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/ViewImage-646x1024.jpg</thumbnail>
-</item>
 624
 <item>
 <title>[COLOR white]Projeto Éden (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
