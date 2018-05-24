@@ -21,16 +21,15 @@
 
 <item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-telecinepipoca.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-telecinepipoca.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
 <thumbnail>http://goo.gl/5IKysn</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
 <thumbnail>http://goo.gl/5IKysn</thumbnail>
 </item>
@@ -85,16 +84,15 @@
 
 <item>
 <title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-telecinepremium.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-telecinepremium.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
@@ -113,7 +111,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=tcpremiun</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
@@ -149,16 +147,15 @@
 
 <item>
 <title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-telecineaction.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-telecineaction.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
 <thumbnail>http://goo.gl/P79aKf</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TELECINE ACTION[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
 <thumbnail>http://goo.gl/P79aKf</thumbnail>
 </item>
@@ -177,7 +174,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=tcaction</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://aovivonatv.com/fotos/697-386-1218e365f3dd6d74493f64181f0183a7.jpg</fanart>
@@ -213,8 +210,7 @@
 
 <item>
 <title>[COLOR blue][B]TELECINE FUN[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-telecinefun.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-telecinefun.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
 <thumbnail>http://goo.gl/Dk6F7h</thumbnail>
 </item>
@@ -241,7 +237,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=tcfun</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_FUN.jpg</fanart>
@@ -257,7 +253,7 @@
 
 <item>
 <title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-touch.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<link>http://iptv.filmesonline.top/hls/redecanais-touch.m3u8|Referer=http://redecanais.link/</link>
 <regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
 <thumbnail>http://goo.gl/AfJkib</thumbnail>
@@ -265,8 +261,8 @@
 
 <item>
 <title>[COLOR blue][B]TELECINE TOUCH[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
 <thumbnail>http://goo.gl/AfJkib</thumbnail>
 </item>
@@ -285,7 +281,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=tctouch</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_TOUCH.jpg</fanart>
@@ -301,16 +297,15 @@
 
 <item>
 <title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-telecinecult.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-telecinecult.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
 <thumbnail>http://goo.gl/fLmSUL</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TELECINE CULT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/78821716219658219924/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/78821716219658219924/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
 <thumbnail>http://goo.gl/fLmSUL</thumbnail>
 </item>
@@ -329,7 +324,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=tccult</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/TELECINE_CULT.jpg</fanart>
@@ -345,8 +340,7 @@
 
 <item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-hbo.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-hbo.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
 </item>
@@ -360,8 +354,8 @@
 
 <item>
 <title>[COLOR blue][B]HBO[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
 <thumbnail>http://goo.gl/N9ccs5</thumbnail>
 </item>
@@ -373,7 +367,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=hbo</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/HBO.jpg</fanart>
@@ -409,16 +403,15 @@
 
 <item>
 <title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-hbo2.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-hbo2.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
 <thumbnail>http://goo.gl/yrDz67</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]HBO 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo2hd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo2hd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
 <thumbnail>http://goo.gl/yrDz67</thumbnail>
 </item>
@@ -437,7 +430,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=hbo2</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://aovivonatv.com/fotos/697-386-fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
@@ -473,16 +466,15 @@
 
 <item>
 <title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-hbofamily.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-hbofamily.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboFamily.jpg</fanart>
 <thumbnail>http://goo.gl/2BXhGr</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]HBO FAMILY[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbofamily/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbofamily/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboFamily.jpg</fanart>
 <thumbnail>http://goo.gl/2BXhGr</thumbnail>
 </item>
@@ -501,7 +493,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=hbofamily</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboFamily.jpg</fanart>
@@ -517,16 +509,15 @@
 
 <item>
 <title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-hboplus.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-hboplus.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
 <thumbnail>http://goo.gl/ISXYSM</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]HBO PLUS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
 <thumbnail>http://goo.gl/ISXYSM</thumbnail>
 </item>
@@ -545,7 +536,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=hboplus</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HboPlus.jpg</fanart>
@@ -581,16 +572,15 @@
 
 <item>
 <title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-hbosignature.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-hbosignature.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HBOSignature.jpg</fanart>
 <thumbnail>http://goo.gl/pTRcv8</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]HBO SIGNATURE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/28347661835572978857/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/28347661835572978857/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HBOSignature.jpg</fanart>
 <thumbnail>http://goo.gl/pTRcv8</thumbnail>
 </item>
@@ -602,7 +592,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=hbosignature<</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HBOSignature.jpg</fanart>
@@ -618,16 +608,15 @@
 
 <item>
 <title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-space.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-space.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
 <thumbnail>http://goo.gl/wOXdmw</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]SPACE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/spacehd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/spacehd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
 <thumbnail>http://goo.gl/wOXdmw</thumbnail>
 </item>
@@ -646,7 +635,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=space</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/SPACE.jpg</fanart>
@@ -662,16 +651,15 @@
 
 <item>
 <title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-megapix.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-megapix.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
 <thumbnail>http://goo.gl/qXR9CS</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]MEGAPIX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
 <thumbnail>http://goo.gl/qXR9CS</thumbnail>
 </item>
@@ -698,7 +686,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=megapix</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://igorlista.at.ua/fanart/MEGAPIX.jpg</fanart>
@@ -734,16 +722,15 @@
 
 <item>
 <title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-paramount.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-paramount.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/PramountChannel.jpg</fanart>
 <thumbnail>https://goo.gl/iwCiPM</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]PARAMOUNT CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/PramountChannel.jpg</fanart>
 <thumbnail>https://goo.gl/iwCiPM</thumbnail>
 </item>
@@ -757,16 +744,15 @@
 
 <item>
 <title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-tnt.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-tnt.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
 <thumbnail>http://goo.gl/vUl6oy</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TNT[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/TNT.jpg</fanart>
 <thumbnail>http://goo.gl/vUl6oy</thumbnail>
 </item>
@@ -800,8 +786,8 @@
 
 <item>
 <title>[COLOR blue][B]TCM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tcm/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tcm/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/tmc.jpg</fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/TCM.png</thumbnail>
 </item>
@@ -815,16 +801,15 @@
 
 <item>
 <title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-cinemax.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-cinemax.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
 <thumbnail>https://goo.gl/oDAihL</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]CINEMAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/cinemax-hd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/cinemax-hd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/CINEMAX.jpg</fanart>
 <thumbnail>https://goo.gl/oDAihL</thumbnail>
 </item>
@@ -845,16 +830,15 @@
 
 <item>
 <title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-max.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-max.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Max.jpg</fanart>
 <thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]MAX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Max.jpg</fanart>
 <thumbnail>http://logosc.ucoz.com/MAX.png</thumbnail>
 </item>
@@ -868,16 +852,15 @@
 
 <item>
 <title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-maxup.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-maxup.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
 <thumbnail>http://goo.gl/Hbr506</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]MAX UP[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
 <thumbnail>http://goo.gl/Hbr506</thumbnail>
 </item>
@@ -889,7 +872,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=maxup</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>http://tvonlinegratis1.com/wp-content/uploads/2016/01/Max-UP-Online-300x167.jpg</fanart>
@@ -905,16 +888,15 @@
 
 <item>
 <title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-maxprime.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-maxprime.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/MaxPrime.jpg</fanart>
 <thumbnail>http://goo.gl/JG4dUv</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]MAX PRIME[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxprime/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxprime/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/MaxPrime.jpg</fanart>
 <thumbnail>http://goo.gl/JG4dUv</thumbnail>
 </item>
@@ -933,7 +915,7 @@
 <name>Igor_Rangel_Ch</name>
 <expres>"(.*edge.*?)"</expres>
 <page>http://www.freelivestream.tv/mediaPlayer.php?file=maxprime</page>
-<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/MaxPrime.jpg</fanart>
@@ -949,8 +931,7 @@
 
 <item>
 <title>[COLOR blue][B]STUDIO UNIVERSAL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-studiouniversal.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
-<regex><name>Igor_Rangel_IP</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex><regex><name>Igor_Rangel_AuthSign</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://iptv.filmesonline.top/hls/redecanais-studiouniversal.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://w.peppermelon.tv/imagesok/proyectos/cd6ba9e667ff251927e09108f28768f705-universal.jpg</fanart>
 <thumbnail>http://goo.gl/lTL3Bs</thumbnail>
 </item>
@@ -964,15 +945,15 @@
 
 <item>
 <title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>http://stream01.enviandotorpedos.com/hls/redecanais-canalbrasi.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=http://redecanais.link/</link>
+<link>http://iptv.filmesonline.top/hls/redecanais-canalbrasi.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
 <thumbnail>http://goo.gl/zddqpQ</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]CANAL BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/brasilhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|Referer=$doregex[Igor_Rangel_Site]</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site</referer></regex><regex><name>Igor_Rangel_Page</name><expres>urlchannel = "(.*)"</expres><page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres><page>http://ekostreams.co/ch/sportvhd.php</page></regex>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/brasilhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/sportvhd.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/Canal-Brasil.png</fanart>
 <thumbnail>http://goo.gl/zddqpQ</thumbnail>
 </item>
