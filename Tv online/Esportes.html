@@ -13,6 +13,13 @@ z
 
 <item>
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SPORTV HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
+<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SPORTV HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
@@ -29,13 +36,6 @@ z
 <title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/sportvhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
-<fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
-<thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]SPORTV[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SPORTV HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV.jpg</fanart>
 <thumbnail>http://igorlistaaddon.ucoz.com/Logos_Ch/SporTV.png</thumbnail>
 </item>
@@ -112,6 +112,13 @@ z
 
 <item>
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>ESPN BRASIL HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/GwBMAl</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>ESPN BRASIL HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
@@ -128,13 +135,6 @@ z
 <title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnbrasil/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
-<fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
-<thumbnail>http://goo.gl/GwBMAl</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]ESPN BRASIL[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>ESPN BRASIL HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/Espn_Brasil.jpg</fanart>
 <thumbnail>http://goo.gl/GwBMAl</thumbnail>
 </item>
@@ -207,7 +207,21 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]ESPN EXTRA[/B] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>ESPN EXTRA HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>https://1.bp.blogspot.com/-ALcTklzD5dg/VvW62yBWjII/AAAAAAAAIPM/Ci6dzV4_XL8K7k0vcxIz4KmrWbp8BCtAw/s1600/123.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/EspnExtra.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]FOX SPORTS[/B] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>FOX SPORTS HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
+<thumbnail>http://goo.gl/2GxOT7</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>FOX SPORTS HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
@@ -224,13 +238,6 @@ z
 <title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxsports/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
-<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
-<thumbnail>http://goo.gl/2GxOT7</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]FOX SPORTS[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>FOX SPORTS HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS.jpg</fanart>
 <thumbnail>http://goo.gl/2GxOT7</thumbnail>
 </item>
@@ -303,6 +310,13 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>Espn+ HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
+<thumbnail>http://goo.gl/HBo8jM</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnmais/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
@@ -313,13 +327,6 @@ z
 <item>
 <title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://iptv.filmesonline.top/hls/redecanais-espnmais.m3u8|Referer=http://redecanais.link/</link>
-<fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
-<thumbnail>http://goo.gl/HBo8jM</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]Espn+[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>Espn+ HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/espn_mais.jpg</fanart>
 <thumbnail>http://goo.gl/HBo8jM</thumbnail>
 </item>
@@ -338,9 +345,8 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
+<title>[COLOR red][B]ESPN[/B] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>ESPN HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
 </item>
@@ -353,8 +359,9 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]ESPN[/B] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>ESPN HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<title>[COLOR red][B]ESPN[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/espnhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/espn.png</fanart>
 <thumbnail>http://goo.gl/Pgcyh0</thumbnail>
 </item>
@@ -382,6 +389,13 @@ z
 </item>
 
 <item>
+<title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SPORTV 2 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
+<thumbnail>http://goo.gl/vtGyTX</thumbnail>
+</item>
+
+<item>
 <title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
 <link>http://iptv.filmesonline.top/hls/redecanais-sportv2.m3u8|Referer=http://redecanais.link/</link>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
@@ -400,13 +414,6 @@ z
 <title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte2/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
-<fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
-<thumbnail>http://goo.gl/vtGyTX</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]SPORTV 2[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SPORTV 2 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_2.png</fanart>
 <thumbnail>http://goo.gl/vtGyTX</thumbnail>
 </item>
@@ -488,9 +495,8 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte3/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
+<title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR yellow] [B]HD[/B]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SPORTV 3 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
 <thumbnail>http://goo.gl/6ju0FK</thumbnail>
 </item>
@@ -503,8 +509,9 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SPORTV 3 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<title>[COLOR red][B]SPORTV 3[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/esporte3/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/SPORTV_3.jpg</fanart>
 <thumbnail>http://goo.gl/6ju0FK</thumbnail>
 </item>
@@ -556,6 +563,13 @@ z
 
 <item>
 <title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>PREMIERE HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
+<thumbnail>http://goo.gl/YpLC7E</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>PREMIERE HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>
@@ -572,13 +586,6 @@ z
 <title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/sat1/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
-<fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
-<thumbnail>http://goo.gl/YpLC7E</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]PREMIERE[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>PREMIERE HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/PREMIERE.jpg</fanart>
 <thumbnail>http://goo.gl/YpLC7E</thumbnail>
 </item>
@@ -604,6 +611,13 @@ z
 
 <item>
 <title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>COMBATE HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
+<thumbnail>http://goo.gl/q2H05k</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>COMBATE HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
 <thumbnail>http://goo.gl/q2H05k</thumbnail>
@@ -620,13 +634,6 @@ z
 <title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/combate-hd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
-<fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
-<thumbnail>http://goo.gl/q2H05k</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]COMBATE[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>COMBATE HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/COMBATE.jpg</fanart>
 <thumbnail>http://goo.gl/q2H05k</thumbnail>
 </item>
@@ -691,6 +698,13 @@ z
 
 <item>
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>FOX SPORTS 2 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
+<thumbnail>http://goo.gl/aXJTWu</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>FOX SPORTS 2 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/aXJTWu</thumbnail>
@@ -707,13 +721,6 @@ z
 <title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxsports2/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
-<fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
-<thumbnail>http://goo.gl/aXJTWu</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]FOX SPORTS 2[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>FOX SPORTS 2 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/fanart/FOX_SPORTS_2.jpg</fanart>
 <thumbnail>http://goo.gl/aXJTWu</thumbnail>
 </item>
@@ -810,6 +817,13 @@ z
 
 <item>
 <title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>Esporte Interativo HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
+<fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>Esporte Interativo HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
@@ -826,13 +840,6 @@ z
 <title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/max1/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>location:http://(.*)/loadbalance</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer><noredirect>true</noredirect><includeheaders/></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)</expres><page>$doregex[Igor_Rangel_Page]</page><referer>http://pxstream.tv/embed/</referer></regex><regex><name>Igor_Rangel_Page</name><expres><![CDATA[var urlchannel = "(.*?)"]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://ekostreams.co/</referer></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*pxstream.*?)"</expres<page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
-<fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
-<thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B]Esporte Interativo[/B][/COLOR] [COLOR gray] (App)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>Esporte Interativo HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo.png</thumbnail>
 </item>
@@ -868,7 +875,7 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<title>[COLOR red][B]Esporte Interativo 2[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>Esporte Interativo 2 HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_2.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_2.png</thumbnail>
@@ -952,7 +959,7 @@ z
 </item>
 
 <item>
-<title>[COLOR red][B]Esporte Interativo BR[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<title>[COLOR red][B]Esporte Interativo BR[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>Esporte Interativo BR HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
 <fanart>http://igorlista.at.ua/Logos/fanart/Esporte_Interativo_BR.png</fanart>
 <thumbnail>http://igorlista.at.ua/Logos/thumbnail/Esporte_Interativo_BR.png</thumbnail>
