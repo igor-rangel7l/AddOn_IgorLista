@@ -4,6 +4,48 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Daphne e Velma (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DPNEVLMA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Comédia</genre>
+<info>Daphne (Sarah Jeffery) e Velma (Sarah Gilman) são duas estudantes do ensino médio que se juntam para investigar quando suspeitam que seus colegas estão sendo transformados em zumbis controlados.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZPYCU_P-FrdwzpPyp1oNeXxsjr8MN0MoNK5LjxgGoQIMQPZ2Q</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/29594896_1825544604176700_6149597618833449306_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Escala: Amizade Em Segundo Lugar (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AESCLAMZDEEMSGNDLGR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>uas grandes amigas de infância (Lea Michele e Kate Upton) decidem fazer uma viagem juntas. Mas quando estão paradas na escala, uma ameaça de furacão faz com que fiquem presas no aeroporto. Enquanto esperam pelo próximo voo, elas conhecem um homem, e as duas se apaixonam por ele.</info>
+<fanart>https://4.bp.blogspot.com/-1QCbeMTtLRA/WwacxNFJMCI/AAAAAAAALq8/S3dFsKShF6oir_62jc_OdB0rDR1eH2eBgCLcBGAs/s1600/Filme%2BA%2BEscala%2BAmizade%2BEm%2BSegundo%2BLugar%2Btorrent%2Bdublado%2Bbluray.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/MV5BOTAyNDgwYzQtZGY1OS00OGM2LWExNTktNDJkMGUzMzdkNmVlXkEyXkFqcGdeQX_S5MKi3v.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Mãe e Pai (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MAEPAI.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Uma adolescente e seu irmãozinho devem sobreviver a 24 horas durante as quais uma histeria em massa de origens desconhecidas faz com que os pais se voltem violentamente para seus próprios filhos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqdmb_BHzsSwOxTO-LToxzXDKpKDTFty4CoY7ioiK-2q2pMGWx</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/mom_and_dad.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]A Escolha Perfeita 3 - 2018[/COLOR][COLOR yellow] (MMFilmes)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]</link><regex><name>Igor_Rangel_Site</name><expres><![CDATA[addiframe\([\'"](.*?player[^"']+)]]></expres><page>http://player.mmfilmes.tv/embed/$doregex[Igor_Rangel_ID]/</page><referer>http://www.mmfilmes.tv/</referer></regex><regex><name>Igor_Rangel_Link</name><expres><![CDATA[[\'"](h.*?)[\'"].*?[1080|720]]]></expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://www.mmfilmes.tv/</referer></regex><regex><name>Igor_Rangel_ID</name><expres>tv/embed/(.*?)/</expres>
 <page>http://www.mmfilmes.tv/a-escolha-perfeita-3/</page></regex>

@@ -4,6 +4,20 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Fahrenheit 451 (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]FAHRNHT451.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Ficção Cientifica</genre>
+<info>Num futuro distante, livros são banidos e queimados por bombeiros responsáveis pela ação. Guy Montag (Michael B. Jordan) é um deles: ele faz seu trabalho sem questionar nada, acreditando que está ajudando o fim da busca do conhecimento. Tudo muda quando ele conhece uma moça que o faz desafiar todas suas convicções e crenças.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3K5-5r40cH_-ll5PfHvtvEMKhH5N9N-e6aXBfbYUA8QsAz6oh</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/31398102_10155718946938877_8974178841794707456_n.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Projeto Éden (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRJCTEDN.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

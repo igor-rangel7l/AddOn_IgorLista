@@ -6,6 +6,34 @@
 
 
 <item>
+<title>[COLOR white]Mãe e Pai (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MAEPAI.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Uma adolescente e seu irmãozinho devem sobreviver a 24 horas durante as quais uma histeria em massa de origens desconhecidas faz com que os pais se voltem violentamente para seus próprios filhos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqdmb_BHzsSwOxTO-LToxzXDKpKDTFty4CoY7ioiK-2q2pMGWx</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/mom_and_dad.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Maldição da Casa Winchester (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMLDCDCSWNCHSTR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Herdeira de uma empresa de armas de fogo, Sarah Winchester (Helen Mirren) está convicta de que é assombrada pelas almas mortas através do rifle da família Winchester. Após as repentinas mortes do marido e do filho, ela decide construir uma mansão para afastar os espíritos e ao avaliá-la o psiquiatra Eric Price (Jason Clarke) percebe que talvez sua obsessão não seja tão insana quanto parece.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_SnCoxee2a0lyyV1wKCt1SRKOjHon48cmQhNQ0sQ3ZLfD_X5z</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/VeilHelen_AltPoster.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Os Esquecidos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OSEQCDS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

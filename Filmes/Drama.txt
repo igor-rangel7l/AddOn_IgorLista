@@ -5,6 +5,90 @@
 
 
 <item>
+<title>[COLOR white]Fahrenheit 451 (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]FAHRNHT451.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Ficção Cientifica</genre>
+<info>Num futuro distante, livros são banidos e queimados por bombeiros responsáveis pela ação. Guy Montag (Michael B. Jordan) é um deles: ele faz seu trabalho sem questionar nada, acreditando que está ajudando o fim da busca do conhecimento. Tudo muda quando ele conhece uma moça que o faz desafiar todas suas convicções e crenças.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3K5-5r40cH_-ll5PfHvtvEMKhH5N9N-e6aXBfbYUA8QsAz6oh</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/31398102_10155718946938877_8974178841794707456_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Trama Fantasma (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TRMFNTSMA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Década de 1950. Reynolds Woodcock (Daniel Day-Lewis) é um renomado e confiante estilista que trabalha ao lado da irmã, Cyril (Lesley Manville), para vestir grandes nomes da realeza e da elite britânica. Sua inspiração surge através das mulheres que, constantemente, entram e saem de sua vida. Mas tudo muda quando ele conhece a forte e inteligente Alma (Vicky Krieps), que vira sua musa e amante.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTh7RVmiVrXJesIxvZKWP7sbPNUggRM03q8LOB6sjjUq0XNkgwI</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/24862344_1584289468304779_1113907718829989551_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Que te Faz Mais Forte (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OQTFZMSFRT.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Baseado na história real que deu origem ao livro de mesmo título, as memórias de Jeff Bauman (Jake Gyllenhaal) sobre o dia mais impactante de sua vida, quando estava participando da maratona de Boston e foi atingido por uma bomba, arquitetada por dois irmãos chechenos que planejaram o atentado sobre o evento.</info>
+<fanart>http://cinepop.com.br/wp-content/uploads/2017/10/O-que-te-faz-mais-forte-CinePOP-750x380.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/0754657.png-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Eu, Tonya (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]EUTNYA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Tonya Harding dominava o gelo com perícia sem rivais. Ela dominou as manchetes por algo totalmente diferente. “I, Tonya” é uma visão, às vezes, absurda, trágica e hilária de uma mulher no centro do maior escândalo na história do esporte nos Estados Unidos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLWmHZYR0kxtMAp9KEuBulIzfiuITtngzMz_dm1KRXJLYI0ra6</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/Itonyaposternf.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Cargo (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRGO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Abandonado no meio de um apocalipse zumbi, um homem põe em marcha um plano improvável para proteger a preciosa carga que ele carrega: a sua filha recém-nascida.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTow6Gbc6rzdSJJCTuQaoxH5hbfDePO9SEgC-Y9HMa03v-MO1RH</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/cargo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]15h17: Trem para Paris (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]15H17TRMPRPRS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Suspense</genre>
+<info>Quando um terrorista invade o trem n° 9364 da Thalys a caminho de Paris, três amigos e soldados norte-americanos – Anthony Sadler, Alex Skarlatos e o piloto da Força Aérea Spencer Stone – se esforçam para imobilizar o extremista, armado com um fuzil AK-47, e evitar uma enorme tragédia.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR30VMB2-B0CD3sFUDVwyIQMnHTXifse49aRAxC72dhDi0gYQx_</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/fifteen_seventeen_to_paris.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Cinquenta Tons de Liberdade (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
