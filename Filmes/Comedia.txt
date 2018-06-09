@@ -4,12 +4,138 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Um Acampamento do Barulho (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMACMPDBRLHO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Aventura e Comédia</genre>
+<info>Em um acampamento cristão para jovens, as crianças aprendem a lidar com seus medos e não a procurar a violência para resolver o problema. Dois irmãos são separados em duas casas diferentes e, depois de uma série de pegadinhas promovidas pelos valentões do local, eles percebem que precisam um do outro. Quando chega a hora de disputar uma importante competição do acampamento, os garotos precisam colocar de lado suas diferenças se quiserem, além de vencer o torneio, aprender o verdadeiro valor do respeito, do perdão e da convivência em paz entre as pessoas.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5-jfG6HdVeFy2tK7lLd7NSn5ucwwWho2hASKKDUmMC2zjTdGk</fanart>
+<thumbnail>http://www.baixedetudo.net/imagens/uma-acampamento-do-barulho.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Psychokinesis (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>Um homem aleatório acidentalmente adquire superpoderes e os usa para ajudar sua filha e outras pessoas ao seu redor.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQLwp8R9MUuNli6exB8QgPkwQXFSojTSca-1Jd6kvry6M0Tbzn</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/2ndGkBbU8KgP0QnMEqZU5y0A06F.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Jeremias (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OJRMS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Jeremias é uma criança muito inteligente, que depois de saber que ele é um gênio, se esforça para ter sucesso, apesar da pobreza e da ignorância de sua família.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMNHwnHzVECKqekcOGObvgP9hCYHTOT2BTOko-UxM-KVsBn3VF</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/03/el-jeremias_tNone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Ibiza: Tudo Pelo DJ[/COLOR] [COLOR yellow](+18)[/COLOR][COLOR white](Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]IBZTDPLDJ.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Três amigas inseparáveis transformam uma viagem de negócios a Barcelona em uma louca aventura em Ibiza em busca de um DJ famoso.</info>
+<fanart>http://www.minhaserie.com.br/uploads/editor_pictures/000/061/108/content_pic.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/ibiza.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Fala Sério, Mãe! (Nacional) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]FLASROMAE.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>Baseada no romance teen escrito pelo fenômeno literário Thalita Rebouças, a comédia familiar traz a doce e intensa relação de Maria Lourdes (Larissa Manoela) e Ângela Cristina (Ingrid Guimarães) e acompanha a vida das duas desde a infância de Malu até à fase da adolescência e da independência. Contada sob o ponto de vista das duas personagens, a história aborda as principais dificuldades da maternidade nos primeiros anos de vida de Malu, o primeiro dia na escola, as amizades, as descobertas amorosas e os problemas familiares.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRu_a7Oyv0dUSUnhK9W3KwA0dbwrcIwQh-GF97TfleVytyVL7lZ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/fala-serio-mae-2017.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Repartição do Tempo (Nacional) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Aventura,Nacional,Comédia e Romance</genre>
+<info>“A Repartição do Tempo” é uma “comédia de aventura” que narra a história de funcionários públicos que viajam no tempo. A saga foi arquitetada pelo chefe da repartição. Um dos personagens tem aspirações artísticas e é apaixonado por uma colega. Ele vive preso à rotina burocrática e opressora do Registro de Patentes e Invenções (Repi). Quando um cientista registra a patente de uma máquina do tempo, o chefe do departamento vê a oportunidade de usar o invento para aprisionar os empregados no porão e obrigá-los a trabalhar.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLh1DgxCnwBBLnEtMBk0fgkmdSpXcMNZcwFYrMTlJfviKIJmqp</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/a_reparticao_do_tempo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Escolha Perfeita 3 - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA3.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Agora formadas, Beca (Anna Kendrick), Fat Amy (Rebel Wilson), Chloe (Brittany Snow) e as demais Bellas estão infelizes devido a trabalhos mal remunerados e pouco motivadores. Diante desta situação, elas decidem se unir mais uma vez como grupo a capela para participar do USO Tour, uma turnê que as levará para apresentações na Europa. Lá, elas precisam duelar com grupos musicais que privilegiam a autorialidade das canções em detrimento de novas versões de músicas já consagradas.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa7lMQAyIdPE8XQc1-hcvs2xIGfyE8UIIu3ubfbvz1Vih8DoXgcc1c0a86iA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/pitch_perfect_three_ver2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Escolha Perfeita 2 (Dublado) - 2015[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA2.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>As Barden Bellas estão de volta para conquistar o mundo. O grupo das adoráveis meninas desajustadas está de volta com uma única coisa em comum: a melodia mágica que fazem quando estão juntas como uma só unidade, misturadas e arranjadas como nunca antes. Mais de três anos se passaram desde que as Bellas trouxeram suas vozes marcantes, estilo e atitude para se tornar o primeiro grupo feminino a vencer o título nacional. Mas quando são banidas após um escândalo que ameaça destruir seu último ano em Barden, as campeãs temem que desta vez percam sua harmonia para sempre. Com apenas uma única chance para salvar seu legado, as Bellas devem lutar pelo direito de ganhar o Campeonato Mundial de A Cappella em Copenhagem. E enquanto brigam para equilibrar as pressões da dominação musical com sua angústia, o poder da amizade do grupo é o único guia na busca pela voz e pela força necessária para ganhar o Campeonato.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy7ZWdUkNdcUQ6WH7oeQ4H3ROrKiNTIbglQSM7BjYJfvwqrNdj</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/05/a-escolha-perfeita-2_t77686.jpg</thumbnail>
+</item>
+704
+<item>
+<title>[COLOR white]A Escolha Perfeita (Dublado) - 2012[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>A história segue Beca, uma estudante gótica e rebelde que esta infeliz por ser obrigada a estudar na faculdade onde o seu pai é professor. No entanto é nessa faculdade que ela descobre a sua voz e o seu jeito para a música</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy7ZWdUkNdcUQ6WH7oeQ4H3ROrKiNTIbglQSM7BjYJfvwqrNdj</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2012/06/f5d549c468127474e0787544ca3026b9.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Daphne e Velma (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DPNEVLMA.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Daphne (Sarah Jeffery) e Velma (Sarah Gilman) são duas estudantes do ensino médio que se juntam para investigar quando suspeitam que seus colegas estão sendo transformados em zumbis controlados.</info>
@@ -23,7 +149,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>uas grandes amigas de infância (Lea Michele e Kate Upton) decidem fazer uma viagem juntas. Mas quando estão paradas na escala, uma ameaça de furacão faz com que fiquem presas no aeroporto. Enquanto esperam pelo próximo voo, elas conhecem um homem, e as duas se apaixonam por ele.</info>
@@ -37,7 +163,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Uma adolescente e seu irmãozinho devem sobreviver a 24 horas durante as quais uma histeria em massa de origens desconhecidas faz com que os pais se voltem violentamente para seus próprios filhos.</info>
@@ -61,7 +187,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Ingrid (Aubrey Plaza) é uma jovem que tem como seus principais ídolos as personalidades das redes sociais. A que ela mais gosta é Taylor Sloane (Elizabeth Olsen), muito famosa e com uma vida aparentemente perfeita. Obcecada, Ingrid decide abandonar tudo e se mudar para perto de Taylor, colocando em prática o plano de se tornar sua melhor amiga. Porém, o que parecia mais um comportamento de fã, se torna aos poucos preocupante e perigoso.</info>
@@ -75,7 +201,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
 <info>Elle (Joey King) se encontra em um romance proibido depois do seu primeiro beijo com o menino mais bonito da escola: o irmão do seu melhor amigo.</info>
@@ -89,7 +215,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Comédia e Policial</genre>
 <info>nconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes (Frances McDormand) decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby (Woody Harrelson), responsável pela investigação.</info>
@@ -103,7 +229,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Nacional e Comédia</genre>
 <info>Lino é um animador de festas muito azarado que não aguenta mais seu emprego, pois precisa vestir todos os dias uma horrorosa fantasia de um gato gigante e aguentar sempre a mesma rotina de maus tratos das crianças.
@@ -119,7 +245,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>A história gira em torno de Damien (Vincent Elbaz), que um dia acorda em um mundo onde as mulheres e os homens inverteram os seus papéis na sociedade. O mundo mudou, agora são as mulheres que têm poder sobre os homens. Uma situação engraçada quando não somos avisados.</info>
@@ -133,7 +259,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>O longa conta a história de quatro amigas Lily (Lucy Hale), Chloe (Kathryn Prescott), Amelia (Alexandra Shipp) e Rebecca (Awkwafina), que após os intensos anos do ensino médio, precisaram lidar com as desvantagens, as responsabilidades, os problemas e os desafios da vida como jovens adultas, antes de se separarem para ingressar na faculdade.</info>
@@ -147,7 +273,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>A história de um casal divorciado cujo marido não consegue encontrar um apartamento para morar. À medida que sua situação financeira não lhe permite encontrar uma casa, Yvan lembra que detém 20% da casa de sua ex-esposa. Em seguida, ele volta a viver com Delphine por causa dos seus 20%. Ambos os ex vão descobrir as alegrias de morarem juntos novamente ...</info>
@@ -161,7 +287,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Quando descobrem que sua mãe está mentindo para eles sobre o susposto falecimento de seu pai biológico, dois irmãos decidem pegar a estrada encontrá-lo a todo custo.</info>
@@ -175,7 +301,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Tudo parecia estar em paz na relação do corpo docente de uma escola dos Estados Unidos. Entretanto, quando um professor (Charlie Day) arma para que um outro (Ice Cube) seja demitido da instituição, ele é desafiado para uma briga que vai chamar a atenção de todo mundo.</info>
@@ -189,7 +315,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Samuel tem 16 anos e é apaixonado por skates. Ele sonha estudar e se mudar para a Califórnia, mas seus planos são interrompidos quando a namorada fica grávida.</info>
@@ -203,7 +329,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Um ex-agente secreto com um olho biônico consegue um emprego de detetive particular na Ilha de Man.</info>
@@ -217,7 +343,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Rudolph tem problemas. Não só tem treze anos e um vampiro, mas toda a família está ameaçada de extinção pelo cruel caçador de vampiros Rookery. Rudolph, felizmente, encontra um Tony de doze anos, um humano. Rudolph traz Tony junto em sua aventura, que leva os dois meninos à Transilvânia, e junta suas duas famílias, ajudando-os a superar seus preconceitos uns contra os outros. Ao longo do caminho, eles enfrentam numerosos perigos, e tanto vampiros quanto humanos devem mostrar coragem e engenhosidade.</info>
@@ -231,7 +357,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Uma mãe (Goldie Hawn) e uma filha (Amy Schumer) são sequestradas durante as férias e terão que se virar para sobreviver.</info>
@@ -245,7 +371,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
 <info>Adaptação ao cinema da série de mesmo nome dos anos 70.
@@ -260,7 +386,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Madea e a gangue estão de volta para esta sequela hilária. Madea, Bam e Hattie se aventuraram em um acampamento assombrado e o grupo deve literalmente correr por suas vidas quando monstros, goblins e bogeyman são desencadeados.</info>
@@ -274,7 +400,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Dois parceiros de golfe, um ex-agente do FBI (Tommy Lee Jones) e um ex-advogado de criminosos (Morgan Freeman), atualmente em um programa de proteção à testemunhas, precisam colocar suas diferenças e rivalidades de lado para tentar solucionar um misterioso caso e impedir a ação criminosa de um bando de gângsters.</info>
@@ -288,7 +414,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Após a morte de seu pai, Wilson um homem de meia-idade e bastante ranzinza decide procurar sua ex-mulher, uma viciada em drogas, e descobre que tem uma filha já adolescente. Wilson vê nela sua última esperança de ter uma família e tenta criar um laço entre eles.</info>
@@ -302,7 +428,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Quatro amigas de longa data partem em uma longa jornada em busca de diversão por Nova Orleans, para participar dos grandes festejos anuais da cidade, o Essence Festival. Lá, as intimidades são reavivadas e todos voltam a se aproximar com a animação. Ao mesmo tempo, o lado selvagem de algumas se mostra, e a experiência pode mudar a vida de todas para sempre.</info>
@@ -316,7 +442,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>"Um Tio Quase Perfeito", traz Marcus Majella como Tio Tony, um trambiqueiro divertido que vive de bicos como estátua viva, pastor, cartomante e que conta com a cobertura de sua mãe Cecília (Ana Lúcia Torres). Os personagens se encontram sem saída quando são despejados e resolvem procurar a irmã distante de Tony, Angela (Letícia Isnard), que é divorciada e mora com os três filhos que mal conhecem a avó e o tio. A irmã precisa viajar a trabalho e a babá não aparece, em meio a confusão acaba aceitando a ajuda de Tony e Cecília para cuidar dos seus filhos, Valentina, de 5 anos; João, de 10; e Patricia, de 14. A partir dai, começa a aventura dos pequenos com uma dupla sem a menor habilidade e que provocará muitas confusões nas suas rotinas. Prepare-se, pois a sua vida também vai virar de cabeça para baixo com a presença desse tio.</info>
@@ -330,7 +456,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Um pai que trabalha demais vai visitar sua filha durante uma escala em Los Angeles, e descobre que ninguém sabe onde ela está. Ele precisa então se unir com o ex-namorado da jovem para tentar encontrá-la.</info>
@@ -344,7 +470,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um tigre! Após a morte de sua mãe, será sua responsabilidade manter a ordem e a justiça na selva, ainda mais agora que um malvado coala planeja destruir tudo.</info>
@@ -358,7 +484,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>"Step Sisters" gira em torno de uma ambiciosa garota de uma irmandade negra (Megalyn Echikunwoke), que, a fim de ser admitida na escola de direito de seus sonhos, compromete-se a cruzar as linhas culturais e ensinar a arte exclusiva de negros para um bando selvagem de meninas brancas.</info>
@@ -372,7 +498,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Gary (Adam Scott) é um homem que consegue se casar com a mulher de seus sonhos. Ainda por cima, ele tem a sorte de se tornar padrasto de um adorável menino de seis anos (Owen Atlas). O problema é que Gary descobre que o filho de Samantha (Evangeline Lily) pode ser o anticristo.</info>
@@ -386,7 +512,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
 <info>A jovem modelo Cora (Debby Ryan) é filha da chefe da melhor agência de modelo, e sempre trabalhou duro para atender as expectativas das mãe (Danielle Carter). Quando um vídeo caindo se torna um viral, Cora vai passar um tempo na Austrália com sua tia Margot (Genevieve Hegney). Margot também está passando por suas próprias dificuldades, e juntas elas terão uma experiência de aprendizado.</info>
@@ -400,7 +526,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Noah consegue ter a noite de seus sonhos com a garota por quem é apaixonado mas logo após ela deixa de demonstrar interesse por ele e fica na friend zone. Ele passa os próximos três anos tentando entender o que fez de errado, até que um dia tem a chance de voltar no tempo e alterar o que aconteceu durante aquela noite (e consequentemente, também o seu futuro) várias e várias vezes.</info>
@@ -414,7 +540,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>As mães Amy (Mila Kunis), Kiki (Kristen Bell) e Carla (Kathryn Hahn) se rebelam contra os desafios e expectativas do evento mais esperado do ano para as Mães: o Natal. Como se criar o feriado perfeito para suas famílias não fosse difícil o suficiente, elas ainda terão que lidar com as visitas de suas mães (Christine Baranksi, Cheryl Hines e Susan Sarandon).</info>
@@ -428,7 +554,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Prestes a terem seu jogo financiado, três amigos embarcam numa perigosa aventura quando o financiador é feito de refém por terroristas.</info>
@@ -442,7 +568,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Ignorando os desejos de sua Mulher Eva, Doug Glatt vai para a pista de hockey, descobrindo um parceiro ideal para treinamento, um aposentando executor e arqui-rival, Ross “The Boss“. Eles vão juntos tentar fazer o que fazem de melhor, em sua última chance defender sua equipe.</info>
@@ -456,7 +582,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Ignorando os desejos de sua Mulher Eva, Doug Glatt vai para a pista de hockey, descobrindo um parceiro ideal para treinamento, um aposentando executor e arqui-rival, Ross “The Boss“. Eles vão juntos tentar fazer o que fazem de melhor, em sua última chance defender sua equipe.</info>
@@ -470,7 +596,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Um jovem sagaz das ruas de South Central deve correr contra o tempo para recuperar um estoque de dinheiro roubado e entregar a uma fraternidade USC lírio-branco.</info>
@@ -484,7 +610,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Uma jovem (Lily Collins) está lidando com um problema que afeta muitos jovens no mundo: a anorexia. Sem perspectivas de se livrar da doença e ter uma vida feliz e saudável, a moça passa os dias sem esperança. Porém, quando ela encontra um médico (Keanu Reeves) não convencional que a desafia a enfrentar sua condição e abraçar a vida, tudo pode mudar.</info>
@@ -498,7 +624,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>A história centra-se à volta de Carrie Pilby, uma adolescente prodígio de 19 anos que não se consegue inserir na sociedade. Recentemente licenciada pela Universidade de Harvard, não consegue manter grandes relações de amizade e sua visão que tem da sociedade costuma ser bastante diferente da dos outros. Quando começa a ter sessões de terapia, Carrie começa a ver o mundo com outros olhos</info>
@@ -512,7 +638,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Madea acaba no meio do caos, quando ela passa o Dia das Bruxas num assombrado poltergeists paranormal com fantasmas, vampiros e zumbis , mantendo um olhar atento sobre um grupo de adolescentes mal-comportados .</info>
@@ -526,7 +652,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>O campeão gamer Jan (Moritz Jahn) tem que lutar por sua identidade digital e ganhar de volta a sua vida real também.</info>
@@ -540,7 +666,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Riqueza, poder e festas ou o aconchego da vida familiar? Para Brad (Ben Stiller) a vida dos amigos parece muito melhor que a sua. Seja nas redes sociais, na tv ou nas revistas todos parecem estar muito melhor que ele. Ele errou nas escolhas? Por que a grama dos amigos é sempre mais verde?</info>
@@ -554,7 +680,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Rob Anderson (Marlon Wayans) definitivamente detesta responsabilidades. Evitando ao máximo os deveres da vida adulta, ela está desesperado com a possibilidade de se casar. E sua desregrada vida lhe reservou uma surpresa trágica: ele acorda misteriosamente pelado no dia de seu casamento, dentro do elevador de um hotel.</info>
@@ -568,7 +694,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Uma cantora fracassada da Broadway que agora trabalha como gerente de produção precisa salvar a noite de abertura de sua nova produção tendo de cantar no espetáculo devido as disputas do elenco excêntrico que briga o tempo inteiro. Cabe a ela ou salvar o espetáculo ou afundá-lo de vez.</info>
@@ -582,7 +708,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Suellen (Letícia Lima) é uma moça romântica e que estuda bastante. Ela quer ter o casamento dos sonhos e deseja se tornar advogada. No entanto, quando Suellen fica presa em um motel com o namorado (Emiliano d'Ávila), a moça percebe que as coisas podem não sair como ela quer.</info>
@@ -596,7 +722,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Uma comédia sobre as questões existenciais que somos levados a perguntar... Laura, Eve, Anouch e Yael são quatro primas, muito diferentes e muito cativantes, que têm algo em comum: elas mentem, mas sempre com amor! Quando as três primeiras descobrem algumas semanas antes do casamento de sua prima que o seu noivo perfeito a engana, elas decidem em uma só voz: "Não contem a ela!"</info>
@@ -610,7 +736,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Em seu primeiro especial de comédia, o humorista Murilo Couto fala sobre ter saído de Belém, as dificuldades de morar sozinho, família, relacionamentos e outras situações divertidas.</info>
@@ -624,7 +750,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Passado em 1979, Mulheres do Século XX retrata a vida de Dorothea Fields, uma mãe solteira na casa dos 50 que está a cuidar do seu filho adolescente, durante uma época de mudanças culturais e de revolução. Na educação de Jamie, Dorothea conta com a ajuda de duas mulheres mais novas, Abbie, uma artista punk que aluga um quarto na casa dos Fields, e Julie, uma inteligente e provocadora adolescente.</info>
@@ -638,7 +764,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Após conquistar uma grande festa de aniversário de 15 anos, Bia (Larissa Manoela) tem sua noite ameaçada quando Jéssica, uma colega invejosa da turma da escola comparece no evento.</info>
@@ -652,7 +778,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>
@@ -666,7 +792,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>
@@ -680,7 +806,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Felipe é um rico empresário que ficou tetraplégico em um acidente e está procurando por um assistente. Existem vários qualificados, mas ele decide levar o auxiliar de seu jardineiro, Tito, que não reúne todas as condições para o cargo, como notam pessoas mais próximas a Felipe, como Verônica e Ivonne, sua governanta, mas Felipe permanece firme na sua decisão. Tito é a única pessoa em muito tempo, que não o trata com compaixão.</info>
@@ -694,7 +820,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
 <info>Inspirado em fatos reais contará a história de Emily (Keaton), uma viúva americana que mora em Hampstead Village, em Londres, considerado um local tranquilo no meio da metrópole. Um dia, ela repara em um homem vivendo em casa simples e conhece Donald (Gleeson), que mora há 17 anos no local, mas está sendo ameaçado por promotores imobiliários que querem fazer de tudo para tirá-lo dali. Quando descobre que sua melhor amiga Fiona está liderando uma iniciativa para apoiar a retirada dele, Emily fica ao lado de Donald.</info>
@@ -708,7 +834,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional,Comédia e Romance</genre>
 <info>No Rio de Janeiro, vivem quatro grandes e inseparáveis amigas: Beatriz, Tânia, Ivone e Marilu. Elas vestem manequim plus size e enfrentam todas as aventuras e desencontros amorosos e profissionais que quatro jovens mulheres podem enfrentar na capital carioca, (quase) sempre de bom humor.</info>
@@ -722,7 +848,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Dean (Demetri Martin) é um desenhista freelancer em crise que, depois da súbita morte de sua mãe, viaja para a costa oeste para tentar impedir que seu pai (Kevin Kline) venda a casa da família. Mas seu foco é totalmente desviado ao se apaixonar por uma bela mulher de Los Angeles (Gillian Jacobs).</info>
@@ -736,7 +862,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Eloise (Anna Kendrick) estava preparada para ser a Dama de Honra do casamento de seu cunhado. Até que ela foi liberta da função ao levar um fora do namorado, que seria o padrinho, via mensagem de texto. Mesmo assim, ela decide ter coragem e ir ao casamento. mas descobre que foi colocada em uma mesa aleatória no fundo do salão com um grupo de estranhos. Aos poucos eles vão se conhecendo, à medida que amizades e romances aparecem nas circunstâncias menos esperadas.</info>
@@ -750,7 +876,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Bunyan & Babe, baseado em uma lenda norte-americana, narra as aventuras de Bunyan, um gigante lenhador que precisa salvar o boi azul Babe, igualmente grande, das garras de um maligno dono de circo.Em uma das versões da lenda, Babe era tão imenso que, apenas com suas pegadas, criou diversos lagos na região de Minnesota.</info>
@@ -764,7 +890,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Allan é obrigado a fazer uma vasectomia e se vê em uma crise de meia-idade, o que o faz começar a aproveitar a vida com seus melhores amigos.</info>
@@ -778,7 +904,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
 <info>Em Emerald Bay ninguém se destaca mais do que o lendário salva-vidas Mitch Buchannon (Dwayne "The Rock"). Como líder da equipe de Baywatch, Mitch tornou-se uma espécie de herói local. Mas o novo e insubordinado recruta do time Matt Brody (Zac Efron) anda tirando a sua paciência. Apesar das desavenças, os dois se unem quando descobrem uma conspiração criminosa local que ameaça o futuro da baía onde trabalham.</info>
@@ -792,7 +918,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Harriet Lawler (Shirley MacLaine) é uma mulher de negócios bem-sucedida e decide escrever seu obituário, dizendo seus grandes feitos. Para isso ela contrata uma jornalista, Anne Sherman (Amanda Seyfried). Mas Harriet não fica satisfeita com o rascunho e resolve partir numa grande aventura para reescrever sua história de vida antes que seja tarde e leva Anne a tiracolo, surgindo daí uma amizade inesperada.</info>
@@ -806,7 +932,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Get the Girl é sobre um jovem rico que encena o sequestro da garota por quem ele é apaixonado, com o intuito de fingir um resgate, tornando-se um herói e conquistando o afeto dela. O plano obviamente falha, mas de maneira trágica, quando um dos sequestradores acaba morto e o jovem é forçado a salvá-la de verdade.</info>
@@ -820,7 +946,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Winfried (Peter Simonischek) é um senhor que gosta de levar a vida com bom humor, fazendo brincadeiras que proporcionem o riso nas pessoas. Seu jeito extrovertido fez com que se afastasse de sua filha, Ines (Sandra Hüller), sempre sisuda e extremamente dedicada ao trabalho. Percebendo o afastameto, Winfried decide visitar a filha na cidade em que ela mora, Bucareste. A iniciativa não dá certo, resultando em vários enfrentamentos entre pai e filha, o que faz com que ele volte para casa. Tempos depois, Winfried ressurge na vida de Ines sob o alter-ego de Toni Erdmann, especialista em contar mentiras bem-intencionadas a todos que ela conhece.</info>
@@ -834,7 +960,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Depois de serem vítimas de uma brincadeira humilhante pela Abelha Rainha da escola, as melhores amigas nerds, Mindy e Jodi, decidem começar uma vingança escolar reunindo todos os nerd que já foram pisados por ela. Porém no meio da guerra é que a amizade de Jodi e Mindy será provada.</info>
@@ -848,7 +974,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Continuação do filme "A Garota dos Seus Sonhos", de 1998. A ação se passará 17 anos depois da época do primeiro filme, e conta com grande parte do elenco.
@@ -863,7 +989,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Um grupo de veteranos acordam após uma noite de festa para descobrir que o apocalipse zumbi se espalhou por todo os Estados Unidos. Juntos, eles devem lutar contra seu caminho em todo o país, a fim de encontrar uma cura para o surto e restaurar a liberdade antes que seja tarde demais.</info>
@@ -877,7 +1003,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Um gerente de uma empresa de telecomunicações (Imanol Arias) está prestes a enfrentar a semana mais importante da sua vida, mas todos os planos serão interrompidos pela aparição de um personagem excêntrico (Dario Grandinetti) que vai fazer de sua semana um inferno.</info>
@@ -891,7 +1017,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Cinco amigas se reúnem durante um fim de semana em uma casa de praia em Miami para comemorar a despedida de solteira de uma delas. Mas as coisas saem do controle quando matam, acidentalmente, um stripper.</info>
@@ -905,7 +1031,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
 <info>Brooke (Alice Eve) é uma jovem que está correndo para tentar pegar o trem em direção à Boston, mas ela acaba se atrasando após ser assaltada. Sem dinheiro ou amigos, ela está perdida na noite de Nova York. Até que ela conhece, por acaso, o trompetista Nick (Chris Evans). A dupla começa a passear em torno da cidade e cresce um forte sentimento entre eles. Estreia de Chris Evans na direção.</info>
@@ -919,7 +1045,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>Duas amigas embarcam em uma viagem para retornar à sua cidade natal e ganhar um concurso de beleza do qual participaram, sem sucesso, na infância.</info>
@@ -933,7 +1059,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Um menino e seu tio fogem para as matas da Nova Zelândia. Para capturá-los, é organizada uma verdadeira caçada da qual os dois precisaram fugir unindo suas forças e superando suas diferenças.</info>
@@ -947,7 +1073,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Em uma aldeia na Sicília, Pietrammare, pontual como o horário de verão, vem o tempo da eleição para a escolha do novo prefeito. Dominando por anos sobre o lugar, está Gaetano Patane, o prefeito histórico da pequena cidade siciliana. Um lobista pronto para usar toda a política de armas para criar um consenso em torno dele. A ele se opõe Pierpaolo Natoli, um professor na casa dos cinquenta, que foi para a política pela primeira vez, apoiado por um pequeno grupo de ativistas para fornecer a filha de 18 anos, Betty, uma alternativa por ocasião de sua primeira votação . Nossos dois heróis Salvo e Valentino estão em lados opostos: o manhoso Salvo oferece seus serviços a Patane, desde a vitória em todas as pesquisas; enquanto Valentino toma o campo ao lado do Natoli. Além da rivalidade, porém, ambos têm como objetivo alcançar um "favor" que poderia mudar suas vidas: um pequeno quiosque de bebidas colocadas na praça principal da vila que iria expandir a clientela e os rendimentos.</info>
@@ -961,7 +1087,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Na sequência da revolução sexual e do surgimento do movimento feminista, a partida de tênis de 1973 entre a campeã mundial feminina Billie Jean King (Emma Stone) e o ex-campeão dos homens Bobby Riggs (Steve Carell) foi divulgada como A Guerra dos Sexos e se tornou um dos eventos esportivos televisionados mais vistos de todos os tempos, chegando a 90 milhões de telespectadores em todo o mundo. À medida em que a rivalidade entre King e Riggs aumentava, fora de campo, cada um enfrentava batalhas mais pessoais e complexas. Juntos, Billie e Bobby apresentaram um espetáculo cultural que ressoou muito além da quadra de tênis, provocando discussões em quartos e salas de reuniões que continuam a reverberar hoje.</info>
@@ -1036,7 +1162,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Policial</genre>
 <info>Refilmagem da comédia “Despedida em Grande Estilo” (1979), clássico de Martin Brest premiado no Festival de Veneza. Três amigos idosos, que vivem de doações e, para sair da pobreza, decidem tramar o roubo de um banco.</info>
@@ -1050,7 +1176,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Johanna Pasquali é a primeira mulher a entrar no RAID, tropa de elite da polícia francesa, mas se vê no caminho de Eugène Froissard, o mais misógino dos agentes da RAID. Essa dupla improvável está encarregada de parar a Gangue Leopardo, que está por trás de audaciosos roubos nas ruas de Paris. Mas antes de colocar os malfeitores atrás das grades, eles precisam encontrar uma maneira de serem parceiros sem que se matem, seja em treinamento ou trabalhando em casos complicados.</info>
@@ -1064,7 +1190,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Quatro mães que tem apenas em comum a classe pré-escolar de seus filhos decidem se reunir para um inofensivo e divertido jantar das mães, de repente a noite toma um rumo inesperado e essas novas amigas improváveis ??logo percebem que tem mais em comum do que apenas o casamento e a maternidade.</info>
@@ -1078,7 +1204,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
 <info>Rosa se cobra por ter que dar conta de todas as suas obrigações, mas descobre que não consegue e também que a vida é cheia de surpresas, principalmente, as vindas de sua própria mãe.</info>
@@ -1092,7 +1218,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Um homem mulherengo (Eugenio Derbez) é despejado pela namorada e se vê forçado a voltar a morar com a distante irmã e seu jovem filho, que aparentemente é problemático.</info>
@@ -1106,7 +1232,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
 <info>Um estudante do ensino médio lutando para ajudar a sua mãe instável e seu cão doente forma uma improvável amizade com uma bela fugitiva.</info>
@@ -1120,7 +1246,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>Após um ataque ao quartel general da Kingsman, Eggsy e Merlin viajam para os Estados Unidos, onde afiliam-se à Statesman, versão americana da organização de espionagem.</info>
@@ -1134,7 +1260,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
 <info>Ao chegar em Los Angeles, o pianista de jazz Sebastian (Ryan Gosling) conhece a atriz iniciante Mia (Emma Stone) e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva cidade, os jovens tentam fazer o relacionamento amoroso dar certo.</info>
@@ -1148,7 +1274,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Greg fundou uma empresa chamada Alibi.com que cria qualquer tipo de álibi. Com seu parceiro Augustin, e Medhi, seu novo funcionário, eles desenvolvem truques e encenações para cobrir seus clientes. Mas o surgimento de Flo, uma loira bonita que odeia homens mentirosos, vai complicar a vida de Greg, começando com a descoberta da verdadeira natureza dos seus negócios. Durante a apresentação aos pais, Greg inclui o pai de Flo, Gérard, que também é um dos seus clientes ...</info>
@@ -1162,7 +1288,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Bernado (Bruno Munhoz) e Pedro (Daniel Pimentel) são estudantes e enfrentam as clássicas tarefas de cumprir as obrigações escolares, tirar boas notas, ter bom comportamento e cumprir as regras da escola, cada vez mais elaboradas graças ao diretor Ademar (Carlos Villagrán). Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego, o que leva os dois amigos a seguirem as dicas do caderno.</info>
@@ -1176,7 +1302,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info>O ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Dru.</info>
@@ -1190,7 +1316,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Durante uma corrida de automóveis da NASCAR, o maior campeonato de stock car dos Estados Unidos, uma dupla de irmãos caipiras tenta realizar um ambicioso assalto.</info>
@@ -1204,7 +1330,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Em um café no centro de Madrid, pessoas tomam o seu café da manhã tranquilamente, como de costume. Mas, quando um dos clientes leva um tiro na cabeça ao colocar os pés fora da loja, o clima de tensão invade o local. Agora, eles estão presos, e temem sair do local e acabar terminando com o mesmo destino do homem. O problema é que a convivência com estranhos pode ser tão perigosa quanto sair dali.</info>
@@ -1218,7 +1344,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Após heroicamente derrotar a Rainha da Neve, Gerda ainda não conseguiu encontrar a paz. Seu sonho é encontrar os pais dela que foram levados pelo Vento do Norte e finalmente reunir a família. Então, Gerda e seus amigos embarcam em uma excitante jornada para buscar seus pais e encontram novos desafios pelo caminho: Eles descobrem um antigo artefato mágico dos Trolls, a Pedra do Desejo. A partir deste momento, as coisas não saem mais como planejado... será que Gerda conseguirá domar as poderosas forças dos elementos mágicos e conseguir ter sua família de volta? A resposta será revelada agora. Essa é uma história que inclui tudo que as crianças gostam: Bondade, bravura, amizade, mistério, amor fraternal e um final feliz, é claro!</info>
@@ -1232,7 +1358,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Quando a nerd adolescente, Dani finalmente atrai o interesse de sua paixão de longa data, ela também precisará enfrentar a antiga namorada dele, uma celebridade conhecida das redes sociais.</info>
@@ -1326,7 +1452,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf.txt</page>
+<page>http://redecanais.link/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
 <info>O azarado Capitão Jack Sparrow (Johnny Depp) encontra os ventos da má sorte assoprando mais forte ainda quando piratas fantasmas mortais liderados por seu velho inimigo, o aterrorizante Capitão Salazar (Javier Bardem), escapam do Triângulo do Diabo, determinados a matar todos os piratas no mar... incluindo ele. A única esperança de sobrevivência do Capitão Jack encontra-se em buscar o lendário Tridente de Poseidon, um poderoso artefato que dá sobre seu possuidor total controle sobre os mares.</info>
@@ -1380,7 +1506,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos são espiões do governo.</info>
@@ -1394,7 +1520,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Uma garota de 12 anos que passa por diversos lares adotivos durante sua vida ao ser enviada para a casa de Maime Trotter elabora um plano de fuga para se juntar à sua mãe biológica, mas descobre que as coisas não são tão simples quanto ela imaginava.</info>
@@ -1408,7 +1534,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Comédia musical romântica com roteiro de Bruna Lombardi e direção de Carlos Alberto Riccelli, o filme narra cinco histórias de amor que têm como ponto de partida uma ideia do publicitário Mauro (Rodrigo Lombardi), que desenvolve uma campanha para que a cidade de São Paulo mude para melhor, enquanto vive sua paixão pela estilista Tutti (Mariana Lima).</info>
@@ -1422,7 +1548,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Eddie Garrett (Jake Johnson) concorda em olhar uma bolsa para um conhecido que está indo para a prisão. Quando ele descobre que o que tem na sacola é dinheiro, não resiste à tentação e acaba gastando a grana. Quando o prisioneiro é solto mais cedo, Eddie tem uma pequena janela de tempo para ganhar todo o dinheiro de volta.</info>
@@ -1436,7 +1562,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
 <info>Heitor (Alexandre Borges) é um homem solteiro que trabalha fazendo filmagens de festas de casamento. Durante os preparativos para cobrir mais um casamento, ele conhece Penélope (Camila Morgado), uma mulher bonita e independente que quer acabar com a festa antes mesmo de começar. O objetivo de Heitor é garantir que dê tudo certo com o casamento. Já para Penélope, a cerimônia é uma oportunidade perfeita para executar seu plano.</info>
@@ -1450,7 +1576,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
 <info>Ben é o pai de seis crianças, que decide fugir da civilização e criar os filhos nas florestas selvagens do Pacífico Norte. Ele passa os seus dias dando lições às crianças, ensinando-os a praticar esportes e a combater inimigos. Um dia, no entanto, Ben é forçado a deixar o local e retornar à vida na cidade. Começa o aprendizado do pai, que deve se acostumar à vida moderna.</info>
@@ -1464,7 +1590,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
 <info>Coisas estranhas começam a acontecer na vida de Bruno (Fábio Porchat), um jovem de quase 30 anos que acaba de se separar da mulher (Giovana Lancelotti). Bruno tropeça no ar, esbarra no que não vê – até perceber que as pessoas ao seu redor estão desaparecendo só para ele. Os dias correm e a situação só piora. Com a ajuda da mãe (Irene Ravache) e do melhor amigo (Marcos Veras), Bruno tentará se adaptar a esse novo mundo com cada vez menos gente.</info>
@@ -1478,7 +1604,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Janey Briggs (Chyler Leigh) é uma garota que estuda na John Hughes High School e não tem muitos amigos. Ela sonha em se tornar uma artista plástica de sucesso, sendo rejeitada pelos demais colegas de escola por sempre usar rabo de cavalo, óculos e uma jardineira velha suja de tinta. Até que Jake Wyler (Chris Evans) faz uma aposta com seus colegas, de que poderá transformar Janey na rainha do baile de formatura. Enquanto isso, o time de futebol americano do colégio, liderado pelo próprio Jack e por Reggie Ray (Ron Lester), enfrenta problemas no campeonato que disputam. Além disto a escola ainda é agitada pelas presenças de Sadie (Beverly Polcyn), uma senhora de 90 anos que está disfarçada de repórter, e ainda Areola (Cerina Vincent), uma aluna estrangeira que chegou ao local pelo programa de intercâmbio.</info>
@@ -1492,7 +1618,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>No dia 19 de dezembro de 1983, a taça Jules Rimet, prêmio maior da Copa do Mundo de futebol e símbolo do tricampeonato brasileiro, foi roubada por três ladrões "pés de chinelo". Por ironia do destino, a "copa" acabou derretida por um argentino. O filme conta, com humor e de maneira dinâmica, a história do assalto, fazendo um resgate histórico do último suspiro da ditadura militar e retratando o sentimento dos brasileiros numa época decadente. ''O Incrível Roubo da Taça Jules Rimet" é um filme de época, que transporta o público para universo dos anos 80, seja pela direção de arte colorida e muito bem fundamentada, pelos figurinos típicos e pela trilha sonora potente e original.</info>
@@ -1506,7 +1632,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Vani (Fernanda Torres) e Rui (Luiz Fernando Guimarães) estão prestes a se casar. Ela com Sérgio (Evandro Mesquita), ele com Martha (Marisa Orth). Ambas as cerimônias estão marcadas para a mesma sacristia, sendo uma às 18 hs e outro às 20 hs. É lá que Vani e Rui se conhecem, quando ela lhe pede um pouco de arroz para comemorar o casamento que está para ocorrer.</info>
@@ -1520,7 +1646,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Miguel e Rodrigo são dois amigos que costumam realizar filmes juntos. Certa ocasião, um de seus filmes ganha um prêmio importante em um festival internacional. Animados com a premiação, os dois saem para comemorar e Rodrigo assina, em um guardanapo de bar, um contrato vitalício que garante que ele estaria em todos os filmes de Miguel dali para frente. No entanto, Miguel desaparece e só retorna dez anos depois; quando reaparece, ele leva para Rodrigo, agora um ator consagrado, a proposta de um filme insano que pode destruir a carreira e a vida do ator.</info>
@@ -1534,7 +1660,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
 <info>Tati (Cleo Pires) e Conrado (Malvino Salvador), que terminam juntos o primeiro filme, viajam a Cancún, onde ele participa de uma conferência para o lançamento de seu livro. Pronta para dar o próximo passo, ela aproveita a ocasião para pedi-lo em casamento, com transmissão via internet para todos os amigos no Brasil. Mas, ao responder, Conrado solta apenas um “Posso pensar?”. A moça, então, se decepciona e Marcelo (Dudu Azevedo), ex de Tati, volta a ter esperanças. Para complicar, Ângela (Rita Guedes), a ex de Conrado, também é convidada para o mesmo evento no México, onde está lançando um livro, cuja tese bate de frente com a dele.</info>
@@ -1548,7 +1674,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
 <info>“Qualquer Gato Vira-Lata” narra a história da jovem estudante de direito Tati (Cléo Pires), que é abandonada pelo namorado Marcelo (Dudu Azevedo). Disposta a recuperar o amor, a jovem oferece como cobaia para as pesquisas do professor Conrado (Malvino Salvador). O pesquisador tem uma tese polêmica sobre a harmonia entre as conquistas amorosas das pessoas e as leis da biologia, baseando- se nas atitudes dos animais, já que normalmente as fêmeas são recatadas e os machos são audaciosos.
@@ -1564,7 +1690,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
 <info>Nos tempos de escola Diogo era o cara. Mesmo quando metia a turma numa encrenca, seu carisma bastava para manter os amigos por perto. Vinte anos se passaram e Diogo, casado com Mariana e pai do pequeno Luca, já não é mais o mesmo. As noites de farra e bebedeira parecem tão distantes quanto sua última ida à academia. A festa dos 20 anos de formatura da escola é sua grande chance de dar a volta por cima e resgatar a antiga moral. Mas a noite promete ser muito mais desafiadora e cheia de surpresas do que Diogo e seus amigos podiam esperar.</info>
@@ -1578,7 +1704,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>O camelô Denílson (Rodrigo Sant'anna) vive no subúrbio do Rio de Janeiro e trabalha duro. 
@@ -1595,7 +1721,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>O premiado diretor de curtas Filippo Capuzzi está comprometido com o projeto, que é sua estreia em longas-metragens. Serão 8 esquetes, mostrando situações recorrentes do dia a dia. Em uma convenção de youtubers, os personagens vivenciam momentos de descobertas, erros, raiva, inveja e confusões em busca da fama.</info>
@@ -1609,7 +1735,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
 <info>Lisbela (Débora Falabella) é uma moça que adora ir ao cinema e vive sonhando com os galãs de Hollywood dos filmes que assiste. Leléu (Selton Mello) é um malandro conquistador, que em meio a uma de suas muitas aventuras chega à cidade de Lisbela. Após se conhecerem eles logo se apaixonam, mas há um problema: Lisbela está noiva. Em meio às dúvidas e aos problemas familiares que a nova paixão desperta, há ainda a presença de um matador (Marco Nanini) que está atrás de Leléu, devido a ele ter se envolvido com sua esposa (Virginia Cavendish).</info>
@@ -1623,7 +1749,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Aventura,Nacional e Comédia</genre>
 <info>As aventuras de João Grilo (Matheus Nachtergaele), um sertanejo pobre e mentiroso, e Chicó (Selton Mello), o mais covarde dos homens. Ambos lutam pelo pão de cada dia e atravessam por vários episódios enganando a todos da pequena cidade em que vivem.</info>
@@ -1637,7 +1763,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>Best Player é um filme para televisão original da Nickelodeon que foi lançado em 12 de março de 2011 nos Estados Unidos. É protagonizado pelos astros da famosa série iCarly, Jennette McCurdy como Chris "Prodigy" Saunders e Jerry Trainor como Quincy. Os dois são viciados em video games online, e juntos descobrem que o mundo real pode ser tão emocionante quanto o virtual.
@@ -1653,7 +1779,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>A hostilidade se transforma em outra coisa entre um fazendeiro viúvo e uma ornitóloga insistente que veio para sua fazenda para salvar uma família de cisnes.</info>
@@ -1667,7 +1793,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info></info>
@@ -1681,7 +1807,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
 <info>Conta a história do encontro de um homem e uma mulher numa cafeteria em um momento em que suas vidas estão à deriva, e o fez lembrar da importância de se atrever a sonhar.</info>
@@ -1695,7 +1821,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>Aos 13 anos, Marnie descobre que vem de uma longa linhagem de bruxas e deve praticar para não perder seus poderes. Ao visitar a avó, que vive afastada em sua casa de Halloweentown, um misterioso lugar onde feiticeiras, duendes e outros habitantes fantásticos, Marnie descobre que uma força maligna planeja se apoderar do lugar. Ela tem que lutar para salvar o futuro da magia.</info>
@@ -1709,7 +1835,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
 <info>Após sobreviver a um grave acidente, Nick Marshall (Mel Gibson), um executivo machista que trabalha em Chicago, misteriosamente passa a ter o dom de ler os pensamentos das mulheres. Inicialmente ele usa este novo poder para agradar sua chefe, Darcy Maguire (Helen Hunt), mas aos poucos começa a conhecer melhor a intimidade das mulheres e começa a mudar seu estilo de vida.</info>
@@ -1723,7 +1849,7 @@ vCruzeiro das Loucas (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Após romper com Felicia (Vivica A. Fox), sua noiva, Jerry (Cuba Gooding Jr.) entra em depressão.
@@ -1739,7 +1865,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
 <info>Rogério (Rafael Infante) é um cara que leva uma vida sossegada e comum. Casado com Jordana (Aline Fanju), ele vive pulando a cerca com Mirella. Em um dia, ele mente para a esposa e diz que vai viajar, quando na verdade vai para o motel com a amante. Mas o ônibus em que Rogério teoricamente estaria é sequestrado e vira notícia nacional, e ele começa a encenar, por telefone, que está no veículo sequestrado. Para se livrar da confusão em que se meteu, Rogério pecisa de qualquer jeito burlar a força policial e entrar no ônibus.</info>
@@ -1753,7 +1879,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Los Angeles, 1990. Sandy Wexler (Adam Sandler) é um agente determinado, empenhado e focado na evolução da carreira de seus excêntricos clientes. Sua rotina, no entanto, é abalada quando ele descobre em um parque de diversões a talentosa cantora Courtney Clarke (Jennifer Hudson), por quem acaba se apaixonando.</info>
@@ -1767,7 +1893,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
 <info>Um koala (McConaughey), que preside um grande teatro, que tem caído em tempos difíceis, decide recuperar a glória através da produção da maior competição de canto do mundo.
@@ -1783,7 +1909,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
 <info>Um casal suburbano se envolve em uma espionagem internacional quando descobrem que seus ''perfeitos'' novos vizinhos são espiões do governo.</info>
@@ -1797,7 +1923,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>É uma selva lá fora para Blu, Jade e seus três filhos depois que eles deixam a cidade maravilhosa para se aventurar em uma viagem pelo Brasil até chegar na Amazônia, para uma reunião de família. Fora de casa, em um lugar desconhecido, Blu terá que enfrentar seu maior medo - seu sogro - enquanto procura escapar do plano de vingança de Nigel.</info>
@@ -1811,7 +1937,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Blu é uma arara-azul que sempre viveu em cativeiro, nunca aprendeu a voar e não sabe viver fora de casa. Um dia, o pássaro que é nativo do Brasil, mas nunca morou aqui, vai para o Rio e descobre um mundo diferente, fora da gaiola.</info>
@@ -1825,7 +1951,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores, que é seu maior hobbie e, também, trabalho. Querendo descobrir mais sobre seu passado e ajudar sua família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Com a ajuda do lendário semideus Maiu, Moana começa sua jornada pelo mar aberto, onde vai enfrentar criaturas marinhas e descobrir antigas histórias do submundo.</info>
@@ -1839,7 +1965,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
 <info>Dona Hermínia (Paulo Gustavo) está de volta, desta vez rica, pois passou a apresentar um bem-sucedido programa de TV. Porém, a personagem superprotetora vai ter que lidar com o ninho vazio, afinal Juliano (Rodrigo Pandolfo) e Marcelina (Mariana Xavier) resolvem criar asas e sair de casa. Para balancear, Garib (Bruno Bebianno), o primogênito, chega com o neto. E ela também vai receber uma longa visitinha da irmã Lucia Helena (Patricya Travassos), a ovelha negra da família, que mora há anos em Nova York.</info>
@@ -1853,7 +1979,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
 <info>Adaptação da comédia que já levou quase um milhão de espectadores aos teatros pelo Brasil, “Minha Mãe é uma Peça – O Filme”, acompanha as hilárias peripécias de Dona Hermínia, uma mulher de meia idade, aposentada, que após ser trocada pelo marido por uma mulher mais nova e não ter mais que cuidar dos filhos já crescidos, tem como preocupação maior procurar o que fazer. Sem um trabalho ou um companheiro, a nada simpática Dona Hermínia passa seu tempo desabafando com a tia idosa, fugindo da vizinha fofoqueira, ou “enchendo o saco” dos filhos ao tentar continuar a “cuidar” da vida deles.</info>
@@ -1867,7 +1993,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
 <info>Com a morte recente do pai, os irmãos Clay (T.J. Miller) e Carol Vanston (Jennifer Aniston) disputam o controle da empresa de tecnologia por ele criada. Presidente da companhia, ele é ameaçado por ela, CEO, que planeja inclusive demitir todos os funcionários. Visando impressionar um novo cliente que pode representar sua garantia no poder, Clay pede que seu braço direito, Josh (Jason Bateman), organize uma espetacular festa de Natal.</info>
@@ -1881,7 +2007,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Ação,Nacional e Comédia</genre>
 <info>Durante a década de 80, lutadores de vale-tudo passam por dificuldades devido à falta de lutas profissionais. A fim de manter a paixão pela luta, eles desafiam os valentões no interior do Ceará que aceitam participar da competição criada. Aluísio Li, um aficionado e alienado por filmes de artes marciais, vê seu mundo ameaçado quando Toni Tora Pleura, um lutador profissional aposentado resolve desafiar a todos.</info>
@@ -1895,7 +2021,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
 <info>Dave (Aaron Johnson) é um adolescente viciado em quadrinhos cansado de apanhar ou ser ameaçado. Até o dia em que ele resolve virar o super herói Kick Ass e mudar esta rotina. Como? Nem ele sabia, mas ao defender fantasiado de herói (e apanhando mais ainda) um cara que levava uma surra, o vídeo com as imagens dele enfrentando os bandidos foi parar na internet e ele virou um fenômeno. Dave só não contava que a sua fama iria envolvê-lo no meio de um plano de vingança de Big Daddy (Nicolas Cage) e Hit Girl (Chloe Moretz) contra Frank D'Amico (Mark Strong), um mafioso da cidade, vivendo uma verdadeira e violenta aventura que mudaria para sempre a sua vida.</info>
@@ -1909,7 +2035,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
 <info>O ato insano de Dave Lizewski (Aaron Taylor-Johnson) em se vestir como o super-herói Kick-Ass e ir para as ruas combater o crime, mesmo sem ter qualquer tipo de superpoder, serviu de inspiração para dezenas de pessoas, que resolveram seguir o mesmo caminho. Mindy Macready (Chloë Moretz) deseja seguir como a super-heroína Hit-Girl, mas o sargento Marcus Williams (Morris Chestnut), que prometeu ao pai dela que iria cuidá-la em sua ausência, não quer que ela leve uma vida perigosa. Com isso, Mindy é obrigada a levar a vida de uma garota de sua idade, deixando de lado os atos heróicos, por mais que Dave insista para que ela faça o contrário. Entretanto, a carreira heróica de Dave não será solitária por muito tempo, já que não demora muito para conhecer o Coronel Estrelas e Listras (Jim Carrey), um ex-integrante da máfia que está reunindo um grupo de super-heróis sem poderes para combater o crime. Paralelamente, Chris D'Amico (Christopher Mintz-Plasse) prepara sua vingança contra Kick-Ass, assumindo um novo codinome: Motherfucker.</info>
@@ -1923,7 +2049,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Andrew Largeman (Zach Braff) conseguiu adiar por muito tempo uma visita a sua cidade natal, em Nova Jersey, e o inevitável confronto com seu pai (Ian Holm). Ao retornar ao lugar, entretanto, o destino lhe apresenta Sam (Natalie Portman), uma garota peculiar que consegue abrir seu coração para a vida e para a verdadeira cura interior.</info>
@@ -1937,7 +2063,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>A rivalidade entre dois irmãos vai longe demais durante uma competição de natação.</info>
@@ -1951,7 +2077,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Século XVIII. A bela viúva Lady Susan Vernon (Kate Beckinsale) foge das fofocas sobre seus casos amorosos buscando refúgio na fazenda dos antigos sogros. Lá reflete sobre a vida e decide arranjar um novo marido para si e um bom pretendente para a filha, Frederica (Morfydd Clark).</info>
@@ -1965,7 +2091,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
 <info>Klaus (Liam Aiken), Violet (Emily Browning) e Sunny (Kara Hoffman e Shelby Hoffman) são três irmãos que repentinamente recebem a notícia de que seus pais morreram em um incêndio. Como são menores de idade eles não podem ainda herdar a fortuna de seus pais, o que apenas ocorrerá quando Violet, a mais velha, completar 18 anos. O trio passa então a morar com o Conde Olaf (Jim Carrey), um parente distante bastante ganancioso, que deseja tomar a fortuna das crianças para si. Para atingir sua meta Olaf não medirá consequências.</info>
@@ -1979,7 +2105,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
 <info>Comédia que parodia o filme de terror "Uma noite de crime". Uma vez por ano, durante uma noite inteira, uma país pausa suas leis em relação aos crimes e permite com que todos os cidadãos se vinguem de seus inimigos. Recém mudados para uma vizinhança predominantemente branca, a família negra dos Black será perseguida das mais hilárias maneiras.</info>
@@ -1993,7 +2119,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Indisciplinado baterista de hip-hop ganha bolsa em escola de Atlanta para tocar na banda marcial que anima o intervalo dos jogos</info>
@@ -2007,7 +2133,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>Uma mulher (Mila Kunis), com uma vida aparentemente perfeita - bom casamento, filhos exemplares, ótimo emprego, etc - acaba ficando estressada além do ponto com as obrigações de sua vida. Cansada desse estado, ela se une a duas outras mulheres (Kathryn Hahn e Kristen Bell) que passam pelos mesmos problemas que ela para sair em uma jornada de libertação.</info>
@@ -2021,7 +2147,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Romance</genre>
 <info>Steve sempre termina o romance com suas namoradas em novembro para impedir que a relação fique mais séria, mas desta vez ele pode se arrepender de sua decisão.</info>
@@ -2035,7 +2161,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>A história acompanha um rapper que se reunirá com sua antiga boy band para recuperar o fracasso que foi seu último álbum.</info>
@@ -2049,7 +2175,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
 <info>Ronald Miller (Patrick Dempsey) é um jovem tímido e trabalhador, que sempre sonhou em ser popular no colégio. Quando ele descobre que Cindy Mancini (Amanda Peterson), uma garota linda que todos os garotos paqueram, está precisando de 1000 dólares ele surge com uma insólita proposta: empresta o dinheiro a ela e em troca ela deverá fingir ser sua namorada. Ela topa e, com sua ajuda, ele acaba se tornando um dos garotos mais populares do colégio.</info>
@@ -2063,7 +2189,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
 <info>Depois da morte do filho adolescente, um pai (Billy Crudup) tenta reconstruir sua vida. Certo dia ele encontra alguns objetos que pertenciam ao filho, entre os quais uma série letras de músicas e gravações originais. Para honrar a memória do filho, ele decide montar uma banda para tocar estas canções.</info>
@@ -2077,7 +2203,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>Dewey Finn (Jack Black) é um músico que acaba de ser demitido de sua banda. Cheio de dívidas para pagar e sem ter o que fazer, ele aceita dar aulas como professor substituto em uma escola particular de discilipla rígida. Logo Dewey se torna um exemplo para seus alunos, sendo que alguns deles se juntam ao professor para montar uma banda local, sem o conhecimento de seus pais.</info>
@@ -2091,7 +2217,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>Em 21 de dezembro de 1970, teve lugar um dos acontecimentos mais peculiares da história recente dos Estados Unidos. Na ocasião, a Casa Branca recebeu um ilustre visitante, um homem que pediu uma audiência privada - uma reunião que viria a se tornar lendária - com o presidente Richard Nixon (Kevin Spacey): o rei do rock and roll, Elvis Presley (Michael Shannon).</info>
@@ -2105,7 +2231,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
 <info>Ladrão sofre um acidente de carro numa rodovia e, antes de morrer, revela a um grupo de pessoas o local onde escondeu uma fortuna roubada. Começa uma desesperada corrida ao tesouro, que acabará envolvendo cada vez mais pessoas no caminho, culminando numa série de trapalhadas e confusões.</info>
@@ -2119,7 +2245,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
 <info>Ao serem expulsos do templo de Shaolin por desacatarem seu Mestre, dois jovens passam a lutar pela sobrevivência. Mas os caminhos escolhidos são opostos, Jun Bao (Jet Li) luta por um ideal de paz e poder. Anos depois, uma traição faz com que estes caminhos se cruzem, colocando os dois amigos frente a frente cada um a lutar pelo seu ideal. Inicia-se uma luta sangrenta onde os dois maiores representantes de artes marciais do Oriente terão que mostrar todas as suas habilidades nem que para isso um deles chegue a morte. Uma história de amizade e justiça foi responsável pela origem mundial da maravilhosa arte do Tai Chi Chuan</info>
@@ -2133,7 +2259,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
 <info>A história gira em torno de Dave Ghantt, um guarda noturno de uma companhia de carros blindados no sul dos Estados Unidos que organiza um dos mais ousados assaltos a banco da história norte-americana.</info>
@@ -2147,7 +2273,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://redecanais.link/player3/serverf3.php</page>
+<page>http://redecanais.link/player3/serverff3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Um ano após despistar o FBI e ganhar a adulação do público com seus números de mágica ao estilo Robin Hood, os Quatro Cavaleiros (Jesse Eisenberg, Woody Harrelson, Dave Franco e Lizzy Caplan) ressurgem em um espetáculo que pretende expor as práticas sem ética de um magnata da tecnologia, mas ao final do número, são desmascarados e raptados por um inimigo desconhecido. O homem por trás do ato de desaparecimento dos ilusionistas é nada menos que Walter Mabry (Daniel Radcliffe), um prodígio que ameaça os mágicos e os obriga a fazer um roubo dos mais espetaculares e impossíveis. A única esperança é conseguir produzir um golpe sem precedentes para limpar seus nomes e revelar o real mandante por trás de tudo.</info>

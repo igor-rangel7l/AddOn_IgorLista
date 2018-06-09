@@ -9,12 +9,27 @@
 
 
 <item>
+<title>[COLOR white]Crônicas da Tribo Fantasma (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Suspense,Ação e Aventura</genre>
+<info>Em 1979, um jovem soldado está trabalhando nas montanhas cobertas pela neve na China, quando uma explosão revela bizarros fósseis escondidos nas profundezas de uma caverna. A sua descoberta não só irá mudar sua vida para sempre, mas também a história da humanidade.
+Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTh52e9XjvdbrSX37gsd4z06_T_vz2dE9rK2d5d9InP8WVqS_Ss</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2015/10/jiu-ceng-yao-ta_tNone.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]15h17: Trem para Paris (Dublado) - 2018[/COLOR][COLOR yellow](Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]15H17TRMPRPRS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Suspense</genre>
 <info>Quando um terrorista invade o trem n° 9364 da Thalys a caminho de Paris, três amigos e soldados norte-americanos – Anthony Sadler, Alex Skarlatos e o piloto da Força Aérea Spencer Stone – se esforçam para imobilizar o extremista, armado com um fuzil AK-47, e evitar uma enorme tragédia.</info>
@@ -28,7 +43,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Ficção Cientifica</genre>
 <info>Evelyn Green (Emily Fradenburgh) descobre que o estado catatônico de seu filho pode ter ligação com uma conspiração global. E, com a ajuda de Ethan Varick (Peter Christian Hansen), um ex-oficial militar, ela acaba se tornando uma fugitiva.</info>
@@ -42,7 +57,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
 <info>Cory, caçador de coiotes e predadores traumatizado pela morte da filha adolescente, encontra o corpo congelado de uma menina em meio ao nada e passa a investigar o crime com o auxílio de uma agente novata do FBI que desconhece a região.</info>
@@ -56,7 +71,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
 <info>Cory, caçador de coiotes e predadores traumatizado pela morte da filha adolescente, encontra o corpo congelado de uma menina em meio ao nada e passa a investigar o crime com o auxílio de uma agente novata do FBI que desconhece a região.</info>
@@ -70,7 +85,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
 <info>Texas, 1965. Quatro jovens psicopatas escapam de um hospital psiquiátrico levando consigo uma enfermeira. Sendo perseguidos por um furioso policial em busca de vingança pela morte da filha, um deles está no caminho para ser um maníaco que usa máscaras de pele humana e mata suas vítimas com uma motosserra.</info>
@@ -84,7 +99,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
 <info>Um adolescente (Dylan Minnette) e sua mãe (Piercey Dalton) se mudam para uma nova casa e se veem na presença de forças ameaçadoras.</info>
@@ -98,7 +113,7 @@
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Suspense</genre>
 <info>Jin-Seok (Kang Ha-Neul) admira seu irmão mais velho Yoo-Seok (Kim Moo-Yul), que é perfeito para ele. 
@@ -114,7 +129,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
 <info>Cinco pessoas são sequestradas e são mantidas reféns em um lugar chamado "Murder World" para participar de um sangrento jogo chamando "31". O desafio é sobreviver 12 horas dentro do local, cheio de palhaços assassinos e sanguinários.</info>
@@ -138,7 +153,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
 <info>A trama gira em torno de um assassino que é traído por gangsters e cai nas mãos de uma desonesta cirurgiã, que o transforma em uma mulher. O assassino (agora assassina) decide ir atrás de vingança e conta com a ajuda de uma enfermeira chamada Johnnie, que também tem segredos obscuros, na sua jornada.</info>
@@ -152,7 +167,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Terror e Drama</genre>
 <info>Jesse (Elle Fannng) é uma jovem de 18 anos que acaba de chegar a Los Angeles. Dona de uma beleza natural impressionante, ela tenta a sorte como modelo profissional. Após tirar algumas fotos mórbidas para um jovem fotógrafo, é contratada por uma conceituada agência de modelos. Bastante ingênua, ela passa a lidar com o ego sempre inflado das demais modelos e também com a maquiadora Ruby (Jena Malone), que possui intenções ocultas com a jovem.</info>
@@ -166,7 +181,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+<page>http://redecanais.link/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Terror</genre>
 <info>Chris Redfield, da organização anti-bioterrorista B.S.A.A., baseado numa certa informação, invade uma mansão que era a base de uma organização de tráfico de armas. Durante a investigação Chris confronta Glenn Alias, um criminoso procurado internacionalmente. Ele acaba testemunhando uma cena inacreditável e Alias consegue escapar. Enquanto isso, Rebecca Chambers, ex-membro das forças especiais da polícia de Raccoon City, S.T.A.R.S., é atualmente uma professora universitária e está conduzindo uma pesquisa a respeito de um misterioso incidente envolvendo a ressurreição de mortos. De acordo com a pesquisa de Rebecca, há um novo tipo de vírus envolvido e os esforços dela para descobrir a verdade a levaram ao desenvolvimento de uma cura. Em seguida, uma pessoa misteriosa invade seu laboratório e Rebecca sofre uma tentativa de assassinato, mas é salva por Chris e a B.S.A.A. Após o ataque, Chris e Rebecca recorrem ao agente do governo dos EUA, Leon S. Kennedy, devido ao seu conhecimento sobre esse tipo de incidente. Chris e Leon se reencontram e os dois acreditam que a motivação de Alias é o bioterrorismo. Ao lado de Rebecca, eles vão para Nova York para impedir Arias e salvar a humanidade.</info>
@@ -240,7 +255,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
 <info>Um padre e um investigador do Vaticano tomam uma dona de casa possuía e levam para um convento para realizar um exorcismo.</info>
@@ -254,7 +269,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
 <info>A história gira em torno de um personagem chamado Jack, interpretado pelo ator George Eads, um jogador de poker que se encontra em débito com alguns personagens e precisa encontrar algum dinheiro rápido, para salvar a sua pele. Para isso ele conta com a ajuda de Paulie Trunks, papel de Seagal.</info>
@@ -268,7 +283,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+<page>http://redecanais.link/player3/serverf3.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
 <info>Um grupo de amigos muda-se para uma casa de com um passado sinistro em Fall River, Massachusetts. O proprietário da casa, Taryn sente uma forte ligação com a casa e encontram-se no centro de um dos poltergeists mais mortais da história americana.</info>
