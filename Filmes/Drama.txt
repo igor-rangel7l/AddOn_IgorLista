@@ -5,6 +5,132 @@
 
 
 <item>
+<title>[COLOR white]Submersão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SBMRSO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>De um lado está Danielle, uma exploradora do oceano que descobre um novo desafio no abismo Ártico. De outro, James, um empreiteiro acusado de ser um espião, interrogado constantemente por jihadistas africanos. Encarando missões de vida ou morte, os dois precisam confiar na conexão emocional do relacionamento.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeVB270UYcVCVLFJwcCecwPn60QRNiFr5Mc_lZuZbITpIzb8vUsiLKZnTq</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/TJDGDOt.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Projeto Flórida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRJTFLDA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Moone (Brooklynn Prince) é uma garota de seis anos que vive no Castelo Mágico, um motel na Flórida, nas sombras da Disneylândia. Durante o verão, ela se aventura com seus amigos e co-residentes enquanto lida com sua rebelde mas atenciosa mãe.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3R_VyMH_XSbYm-v3AypSNVOW8zBfUYa_dBK15U6OhHSHAPkqmkaZ8NlAww</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/08/florida_project.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]12 Heróis (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]12HERS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>Uma equipe formada por agentes da CIA e das forças especiais se dirige para o Afeganistão em resposta aos ataques do 11 de setembro, na tentativa de desmantelar o Talibã.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBXRwFGwAlHsvjMO9ZWMxz66w1e_Qew3Kl3uyU421o4rVyu0uTJiBcYGGk</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/5a0b2ef49007c1d3fe15968b3.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Sleight: O Truque Perfeito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OGRNDTRQ.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Drama e Ficção Cientifica</genre>
+<info>Depois de um mágico de rua sair para cuidar da sua irmã mais nova após a morte de sua mãe, ele se volta para a venda de drogas, e rapidamente se envolve em um problema com o seu fornecedor. Quando a sua irmã é sequestrada, ele deve recorrer a novos artifícios para resgatá-la.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/qfVmtCyDQD86x3f5EFjBvirlNuOez7p14qCPs3DLkiAXr4QxXTEHn-O66HKzVc8JPVAkdZo1FVAKehDmbgxtwIAugGiB0DUrFvtBtxGpvVUX_R-yYsrDXq2jA5LxJeMuKe1-=w470-h313-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/01/MV5BMTg3MjQ1MTA0Ml5BMl5BanBnXkFtZTgwNTQ3MjQ5MDI._V1_UY1200_CR89063_gqNltuw.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Levantando Poeira (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LEVNTDPRA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>'Dirt' centra em Dez Truss (DeRon Horton), de 17 anos, que está preso por roubo de carros, ao qual é dada uma última chance para ter uma vida honesta por um mentor compassivo. O jovem é introduzido a Rick Radden (Kevin Dillon), dono de uma equipe de corrida de carros que concorda em abrigar e supervisionar Dez para o verão em troca de trabalho. Dez começa a trabalhar para a equipe de corridas profissional de Rick, usando as habilidades que ele aprendeu ao roubar carros. Ele se torna um membro vital da equipe, mas não antes de seu passado ameaçar a segurança da família e a vida de Rick.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/t45sB7BpQrP7HJ4GM-FusDB9DCBxDG_cuUmtZF86dQAXL17H9pcOmMZsNWGgE6LntUgFwmT-EQ=w595-h247-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/04/883929607518.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Covil de Ladrões (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CVLDLDRS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Policial e Drama</genre>
+<info>Um ladrão planeja um roubo a um banco enquanto tenta ocultar um tenebroso segredo: ele pertence a duas facções rivais e sua sobrevivência depende que essa informação nunca chegue aos líderes desses movimentos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp27CfHb6cztJZM37AgEcOAfPcsJ4kTJf9tBmQwxs73ETMf4YfGZmaf1tIAw</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/Den_of_Thieves_Poster.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Mudbound: Lágrimas Sobre o Mississipi (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MUDBNDLGRMSSBROMSISPI.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Baseado no livro de Hillary Jordan, o longa se passa após a Segunda Guerra Mundial e segue uma mulher que se muda com o marido para a fazenda dele no Mississipi. Dois veteranos da guerra, um negro e um branco, vão trabalhar no local que ainda é regido pelas Leis de Jim Crow, que estabeleciam limites entre brancos e negros.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOwwTdQV3asISNQF0Uh_lrQ5VKvhplU9RZ1T2PKFuD3NCXmd4ab60M5lZE8w</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/11/IMG_20171122_102033.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Lady Bird: A Hora de Voar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LADYBRDEHRDEVOAR.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Sacramento, Califórnia, 2002. A estudante Lady Bird (Saoirse Ronan) está no último ano do colégio e não faz ideia do que fazer depois que se formar. A convivência com sua mãe, uma enfermeira, é sufocante. Tudo o que vai acontecendo na vida de Lady Bird só a deixa cada vez mais desnorteada.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQApxEtwYuNCffAm8I-uso4LMKD5oETtdfQzGvrkLRg01v-bpQnfLqdxSSCtA</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/2019953.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]De Fora para Dentro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DEFRPRDNTRO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Carol (Edie Falco), professora de ensino médio e Chris (Jay Duplass), seu ex-aluno, exploram um relacionamento após sua liberação de uma pena de prisão de 20 anos. Enquanto Chris navega em sua reentrada no mundo, Carol trabalha para reconstruir sua família e se reconecta com sua filha adolescente.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/4PoOx_xXawKG1v_jlXPUECXgkGL52QBsKWcooBOBS3NNF8vjksJUQr9PwZKXdAlM6Bctyx6E9NPlDSBI1bGcsW2yCW_7YRuZWKbH_-_dyOhkdRePL2NNH-97fVM8jzxkv-nZHSK4fQ=w511-h288-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/03/outside-in-2017.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Com Amor, Simon (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]COMAMRSMN.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

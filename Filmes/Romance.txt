@@ -7,6 +7,20 @@
 
 
 <item>
+<title>[COLOR white]Submersão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SBMRSO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>De um lado está Danielle, uma exploradora do oceano que descobre um novo desafio no abismo Ártico. De outro, James, um empreiteiro acusado de ser um espião, interrogado constantemente por jihadistas africanos. Encarando missões de vida ou morte, os dois precisam confiar na conexão emocional do relacionamento.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeVB270UYcVCVLFJwcCecwPn60QRNiFr5Mc_lZuZbITpIzb8vUsiLKZnTq</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/TJDGDOt.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Com Amor, Simon (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]COMAMRSMN.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

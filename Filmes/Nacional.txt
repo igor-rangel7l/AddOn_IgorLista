@@ -5,6 +5,48 @@
 
 
 <item>
+<title>[COLOR white]Peixonauta: O Filme (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Aventura,Nacional,Comédia e Aventura</genre>
+<info>Uma aventura de Peixonauta e seus amigos, pela primeira vez na cidade grande e longe da segurança do Parque das Árvores Felizes. Peixonauta, Marina e Zico saem do Parque em busca do Dr. Jardim, e dos primos Pedro e Juca, mas ao chegarem à cidade grande encontram tudo vazio. Após investigarem melhor, percebem que as pessoas não sumiram, mas sim encolheram. Estão minúsculas e por isso a cidade parece deserta. Agora Peixonauta e seus amigos terão que descobrir a causa do encolhimento de todos e salvar a cidade.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt_79o6P8lGrBSVI8xjV8eoVk-CW5IfDgFXLV7X-e5H4KvZbKEemfGLHwb7g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/4020040.jpg-r_x_600-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Acrimonia (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACRMNIA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>Colegas de trabalho, Lima, Alexandre, Rocha e Diguinho decidem sair juntos em uma viagem com suas famílias para curtir o feriadão. Entre engarrafamentos quilome?tricos em carros apertados, ataques de mosquitos e disputas por um espac?o na areia de praias lotadas, nada parece dar certo na viagem. Os planos de um passeio perfeito vão definitivamente por água abaixo quando descobrem que a casa que alugaram estava abandonada e caindo aos pedaços. Sem ter para onde ir, eles irão se meter em confusões hilárias e ainda terão que administrar os problemas de convivência para superar aquele que será o feriado mais infernal de suas vidas.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/IAMYjLe_Ph0FIQ2iaKPcCH_NvzWYmQpXW1OZqEcRx1Ug9deFoZMSwettosldJmXt0oUKKKdyvw=w540-h200-nc</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/acrimony_ver4.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Os Farofeiros (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OSFAROFRS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Nacional</genre>
+<info>Colegas de trabalho, Lima, Alexandre, Rocha e Diguinho decidem sair juntos em uma viagem com suas famílias para curtir o feriadão. Entre engarrafamentos quilome?tricos em carros apertados, ataques de mosquitos e disputas por um espac?o na areia de praias lotadas, nada parece dar certo na viagem. Os planos de um passeio perfeito vão definitivamente por água abaixo quando descobrem que a casa que alugaram estava abandonada e caindo aos pedaços. Sem ter para onde ir, eles irão se meter em confusões hilárias e ainda terão que administrar os problemas de convivência para superar aquele que será o feriado mais infernal de suas vidas.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKqyH7Y7OC5qaVFOZhiOe_rkgMm4IvYjU3JhaIfbSKV5HKgplG6zVW_W0NkQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/farofeiros_2.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Fala Sério, Mãe! (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]FLASROMAE.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

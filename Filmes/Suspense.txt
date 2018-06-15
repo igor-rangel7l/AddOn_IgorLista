@@ -9,6 +9,20 @@
 
 
 <item>
+<title>[COLOR white]Mimic: Não Confie nas Vozes (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MMCNCNFNASVZS.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Suspense e Terror</genre>
+<info>Uma família se envolve com uma misteriosa criatura conhecida como "Jangsanbum". O animal pode imitar a voz de um ser humano e seduzir as crianças para comê-las.</info>
+<fanart>https://4.bp.blogspot.com/-9rYeaCYbbkY/WxP3N1ezXXI/AAAAAAAAMAc/AZTW1l2I26Id-CgljW_yquLeirKq4CyqQCLcBGAs/s1600/Filme%2BMimic%2BN%25C3%25A3o%2BConfie%2Bnas%2BVozes%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/09/The_Mimic.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Crônicas da Tribo Fantasma (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

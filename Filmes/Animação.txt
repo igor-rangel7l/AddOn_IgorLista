@@ -4,6 +4,34 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Peixonauta: O Filme (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Aventura,Nacional,Comédia e Aventura</genre>
+<info>Uma aventura de Peixonauta e seus amigos, pela primeira vez na cidade grande e longe da segurança do Parque das Árvores Felizes. Peixonauta, Marina e Zico saem do Parque em busca do Dr. Jardim, e dos primos Pedro e Juca, mas ao chegarem à cidade grande encontram tudo vazio. Após investigarem melhor, percebem que as pessoas não sumiram, mas sim encolheram. Estão minúsculas e por isso a cidade parece deserta. Agora Peixonauta e seus amigos terão que descobrir a causa do encolhimento de todos e salvar a cidade.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt_79o6P8lGrBSVI8xjV8eoVk-CW5IfDgFXLV7X-e5H4KvZbKEemfGLHwb7g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/10/4020040.jpg-r_x_600-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Gnomeu e Julieta: O Mistério do Jardim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SHRLCKGNMSEOMSTRODJRDM.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Animação e Comédia</genre>
+<info>Sequência da comédia animada Gnomeu e Julieta. Vários gnomos de jardim começam a desaparecer em Londres, até quando Gnomeu e Julieta resolvem contratar o lendário detetive Sherlock Gnomes para solucionar o mistério.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3R1HAATv20roo0zMKEZ0XBIz-wem0rUMCxEosTdjjaXoz3b3tEAZCDfgO</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/gnomeo_and_juliet_sherlock_gnomes_ver9.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Lino: Uma Aventura de Sete Vidas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
