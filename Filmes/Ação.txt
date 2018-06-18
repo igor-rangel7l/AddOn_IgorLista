@@ -4,6 +4,34 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Beirute (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BEITELEG.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Beirute, década de 1980. Mason Skiles, diplomata norte-americano afastado do cargo, volta ao serviço para tentar evitar que um colega seja assassinado pelos mesmos criminosos que destruíram sua família. Uma agente da CIA que trabalha disfarçada na embaixada é designada para protegê-lo e contribuir com o sucesso da missão.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCOsPijc5LvcozZ1FUHrSY_7ZDpJ420lKLDv3vyo2yQ7AM52IuXl2n71welg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MV5BZWU5MjMxYmMtYzY2NS00MDU1LWIwMzAtMzIwYjY5NDIxZjZkXkEyXkFqcGdeQX_LO77AN7.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Passageiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPSGRO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Durante o seu trajeto usual de volta para casa, o vendedor de seguros Michael (Liam Neeson) é forçado por uma estranha misteriosa (Vera Farmiga) a descobrir a identidade de um dos passageiros do trem em que se encontra antes da última parada. Com a rotina quebrada, o homem se encontra no meio de uma conspiração criminosa, que coloca em perigo a sua vida e dos demais passageiros.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzU36gauHJspdlxPVtSdWn5y30IsZ2XqD3oO87CwNLI45dv7DOLC1pFOqC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/unnamed_GqXT6zi.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Feliz Aniversário de Casamento (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]FLZANSRIODCSMNTO.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>
@@ -184,16 +212,6 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <info>Do mesmo time responsável por ‘Cão Selvagem’. Um lutador, especialista em artes marciais, começa a trabalhar para a máfia local. O trabalho parece simples, até que um dos clientes o involucra em uma situação muito mais complicada do que o esperado.</info>
 <fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2pnOYoAL37A2Wd1-3RR4D_A6mc8l9rld3i-7U2IKs2eoyIBqN-QUWJWiX</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MV5BNGViZjAwODUtYzFiYS00NmE1LWIxOWUtYzZkMTJkNjc1MTc3XkEyXkFqcGdeQX_zigG8je.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]O Passageiro (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/o-passageiro/</page></regex>
-<genre>Ação</genre>
-<info>Durante o seu trajeto usual de volta para casa, o vendedor de seguros Michael (Liam Neeson) é forçado por uma estranha misteriosa (Vera Farmiga) a descobrir a identidade de um dos passageiros do trem em que se encontra antes da última parada. Com a rotina quebrada, o homem se encontra no meio de uma conspiração criminosa, que coloca em perigo a sua vida e dos demais passageiros.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzU36gauHJspdlxPVtSdWn5y30IsZ2XqD3oO87CwNLI45dv7DOLC1pFOqC</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/unnamed_GqXT6zi.jpg</thumbnail>
 </item>
 
 <item>

@@ -7,6 +7,20 @@
 
 
 <item>
+<title>[COLOR white]De Encontro com a Vida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPLNIMPRPTO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Uma dupla de assistentes decide arquitetar um plano para que os seus chefes se apaixonem para que, assim, os chefes parem de os incomodar com o trabalho.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIflDtmHbKw0DZ5ivcgYMWueLa2y0sOCLE0WqQFmc9gRfNZFeaSAVrgRDi5Q</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/05/SetitUp_Vertical-Main_PRE_BPO.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Submersão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SBMRSO.mp4|Referer=http://redecanais.link/watch.php</link>
 <regex>

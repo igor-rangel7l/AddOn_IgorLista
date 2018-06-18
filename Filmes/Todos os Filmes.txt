@@ -10,6 +10,69 @@ Todos Os Filmes
 
 
 
+
+
+
+<item>
+<title>[COLOR white]Beirute (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]BEITELEG.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Beirute, década de 1980. Mason Skiles, diplomata norte-americano afastado do cargo, volta ao serviço para tentar evitar que um colega seja assassinado pelos mesmos criminosos que destruíram sua família. Uma agente da CIA que trabalha disfarçada na embaixada é designada para protegê-lo e contribuir com o sucesso da missão.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCOsPijc5LvcozZ1FUHrSY_7ZDpJ420lKLDv3vyo2yQ7AM52IuXl2n71welg</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/MV5BZWU5MjMxYmMtYzY2NS00MDU1LWIwMzAtMzIwYjY5NDIxZjZkXkEyXkFqcGdeQX_LO77AN7.jpg</thumbnail>
+</item>
+750
+<item>
+<title>[COLOR white]O Passageiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPSGRO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Durante o seu trajeto usual de volta para casa, o vendedor de seguros Michael (Liam Neeson) é forçado por uma estranha misteriosa (Vera Farmiga) a descobrir a identidade de um dos passageiros do trem em que se encontra antes da última parada. Com a rotina quebrada, o homem se encontra no meio de uma conspiração criminosa, que coloca em perigo a sua vida e dos demais passageiros.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzU36gauHJspdlxPVtSdWn5y30IsZ2XqD3oO87CwNLI45dv7DOLC1pFOqC</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/unnamed_GqXT6zi.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]De Encontro com a Vida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPLNIMPRPTO.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Uma dupla de assistentes decide arquitetar um plano para que os seus chefes se apaixonem para que, assim, os chefes parem de os incomodar com o trabalho.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIflDtmHbKw0DZ5ivcgYMWueLa2y0sOCLE0WqQFmc9gRfNZFeaSAVrgRDi5Q</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/05/SetitUp_Vertical-Main_PRE_BPO.jpg</thumbnail>
+</item>
+748
+<item>
+<title>[COLOR white]De Encontro com a Vida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DENCTROCMAVDA.mp4|Referer=http://redecanais.link/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>file: "(.*).mp4</expres>
+<page>http://redecanais.link/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Um jovem ambicioso luta para alcançar o seu sonho de se tornar empregado em um hotel de luxo em Munique, apesar de ter uma grave deficiência visual.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCcTh-CncXcyyzptj0m2eNVcJWk_8pG8z7yUaUHM3uLo4pPRu2cr17cbHesQ</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/06/mein-blind-date-mit-dem-leben-2017.jpg</thumbnail>
+</item>
+747
+
+
+
+
 <item>
 <title>[COLOR white]Submersão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SBMRSO.mp4|Referer=http://redecanais.link/watch.php</link>
@@ -1070,15 +1133,6 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 
 
-<item>
-<title>[COLOR white]O Passageiro (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/o-passageiro/</page></regex>
-<genre>Ação</genre>
-<info>Durante o seu trajeto usual de volta para casa, o vendedor de seguros Michael (Liam Neeson) é forçado por uma estranha misteriosa (Vera Farmiga) a descobrir a identidade de um dos passageiros do trem em que se encontra antes da última parada. Com a rotina quebrada, o homem se encontra no meio de uma conspiração criminosa, que coloca em perigo a sua vida e dos demais passageiros.</info>
-<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzU36gauHJspdlxPVtSdWn5y30IsZ2XqD3oO87CwNLI45dv7DOLC1pFOqC</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/unnamed_GqXT6zi.jpg</thumbnail>
-</item>
 672
 671
 <item>
