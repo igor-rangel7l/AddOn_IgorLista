@@ -6,7 +6,7 @@
 
 <item>
 <title>[COLOR white]Peixonauta: O Filme (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -20,7 +20,7 @@
 
 <item>
 <title>[COLOR white]Acrimonia (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACRMNIA.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACRMNIA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -34,7 +34,7 @@
 
 <item>
 <title>[COLOR white]Os Farofeiros (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSFAROFRS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSFAROFRS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -48,7 +48,7 @@
 
 <item>
 <title>[COLOR white]Fala Sério, Mãe! (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FLASROMAE.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FLASROMAE.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -62,7 +62,7 @@
 
 <item>
 <title>[COLOR white]A Repartição do Tempo (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -87,7 +87,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Lino: Uma Aventura de Sete Vidas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -103,7 +103,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Um Tio Quase Perfeito (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMTIOQSPRFTO.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMTIOQSPRFTO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -117,7 +117,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]O Crime da Gávea (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -131,7 +131,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]Ninguém Entra, Ninguém Sai (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NGMENRNGMSAI.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NGMENRNGMSAI.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -145,7 +145,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]Murilo Couto: Eu, Eu Murilo (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MRLCLTEUEUMRLO.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MRLCLTEUEUMRLO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -159,7 +159,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]Meus 15 Anos (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MES15ANS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MES15ANS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -173,7 +173,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]João, O Maestro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -191,7 +191,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]João, O Maestro (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -209,7 +209,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Gostosas, Lindas & Sexies (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -223,7 +223,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Elon Não Acredita na Morte (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELNACRDT.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELNACRDT.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -237,7 +237,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]As Duas Irenes (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -251,7 +251,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]A Menina Índigo (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMENIAINDGO.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMENIAINDGO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -275,7 +275,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Como Nossos Pais (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -289,7 +289,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Bingo: O Rei das Manhãs (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -303,7 +303,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -327,7 +327,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://redecanais.link/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
 <genre>Ação,Nacional e Faroeste</genre>
 <info>Criado e dirigido por Marcelo Galvão (Colegas), a história é um faroeste e acontece entre as décadas de 1910 e 1940, e conta a história de Cabeleira (Morgado), um temido matador do estado de Pernambuco. Cabeleira, criado por um cangaceiro local chamado Sete Orelhas (Montenegro), que o encontrou abandonado quando bebê, cresce no sertão completamente isolado da civilização. Agora um adulto, ele finalmente vai à cidade para procurar o desaparecido Sete Orelhas e encontra uma cidade sem lei, governada pelo tirânico Monsieur Blanchard (Chicot), um francês que domina o mercado de pedras preciosas e anteriormente empregava Sete Orelhas como seu matador.</info>
@@ -357,7 +357,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Amor em Sampa (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREMSP.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMREMSP.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -371,7 +371,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Aquarius (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AQRIS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AQRIS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -385,7 +385,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Bem Casados (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -399,7 +399,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Depois de Tudo (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DPSDTD.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DPSDTD.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -413,7 +413,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Entre Abelhas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -427,7 +427,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Jonas (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JNS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JNS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -441,7 +441,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]José do Egito: O Filme - (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -456,7 +456,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Mãe Só Há Uma (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MASHUM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MASHUM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -470,7 +470,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Mundo Cão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNDCA.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNDCA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -484,7 +484,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Roubo da Taça (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OROBDTA.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OROBDTA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -498,7 +498,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Os Normais: O Filme (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -512,7 +512,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Ouro Suor e Lagrimas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OURSURELGRM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OURSURELGRM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -526,7 +526,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Porta Do Fundo Contrato Vitalicio (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -540,7 +540,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Qualquer Gato Vira-Lata 2 (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -554,7 +554,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Qualquer Gato Vira-Lata (Nacional) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -570,7 +570,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Reza a Lenda (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RZALND.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RZALND.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -584,7 +584,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Superpai (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SPRPAI.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SPRPAI.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -598,7 +598,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Um Suburbano Sortudo (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -615,7 +615,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Internet: O Filme (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INTNET.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INTNET.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -629,7 +629,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Lisbela e o Prisioneiro (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -643,7 +643,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -657,7 +657,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Refém: O Filme (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RFMNAC.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RFMNAC.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -671,7 +671,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Sangue Azul (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGAZL.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNGAZL.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -685,7 +685,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]O Shaolin Do Sertão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -699,7 +699,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Minha Mãe é uma Peça 2 (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -713,7 +713,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Minha Mãe é uma Peça: O Filme (Nacional) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -727,7 +727,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Amor Estranho Amor (Nacional) - 1982[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRESTNHAMR.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMRESTNHAMR.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -741,7 +741,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Mais Forte que o Mundo: A História de José Aldo (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MSFRTQOMUND.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MSFRTQOMUND.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -755,7 +755,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Carrossel 2: O Sumiço de Maria Joaquina (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CARSL2.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CARSL2.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>

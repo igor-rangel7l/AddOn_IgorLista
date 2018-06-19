@@ -5,7 +5,7 @@
 
 <item>
 <title>[COLOR white]Peixonauta: O Filme (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -19,7 +19,7 @@
 
 <item>
 <title>[COLOR white]Gnomeu e Julieta: O Mistério do Jardim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SHRLCKGNMSEOMSTRODJRDM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SHRLCKGNMSEOMSTRODJRDM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -33,7 +33,7 @@
 
 <item>
 <title>[COLOR white]Lino: Uma Aventura de Sete Vidas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -49,7 +49,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Esquadrão Suicida: Acerto de Contas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -63,7 +63,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -77,7 +77,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Uma Floresta Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -91,7 +91,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Tropas Estelares: Invasores de Marte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -105,7 +105,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]Bruxarias (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRXRS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BRXRS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -119,7 +119,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]Bunyan e Babe: Os Amigos da Floresta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -133,7 +133,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]Big Pai, Big Filho (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BGPABGFLH.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BGPABGFLH.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -147,7 +147,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]As Aventuras do Capitão Cueca: O Filme (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASAVNTRSDCAPCUC.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASAVNTRSDCAPCUC.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -161,7 +161,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white][COLOR white]Canção do Oceano (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACNCAO.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACNCAO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -234,7 +234,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white][COLOR white]Emoji: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -248,7 +248,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -262,7 +262,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Monster High: Eletrizante (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -276,7 +276,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]O Reino Gelado: Fogo e Gelo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -290,7 +290,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Os Smurfs e a Vila Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -303,7 +303,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 </item>
 <item>
 <title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://redecanais.link/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/paw-patrol-os-filhotes-salvam-o-natal-2017-dublado/</page></regex>
 <genre>Aventura e Animação</genre>
 <info>Os filhotes se equipam para consertar o trenó do Papai Noel e salvar o Natal, levar os pinguins de volta para sua casa congelada, ajudar Everest em alguns resgates na neve e muito mais!</info>
@@ -413,7 +413,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -427,7 +427,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABLRN.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -441,7 +441,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Hop: Rebelde Sem Páscoa (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -455,7 +455,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 
 <item>
 <title>[COLOR white]Sing: Quem Canta Seus Males Espanta (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -471,7 +471,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -485,7 +485,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -499,7 +499,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -513,7 +513,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]As Aventuras de Peabody & Sherman (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -527,7 +527,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Trolls (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRLS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRLS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -541,7 +541,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -555,7 +555,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Cantando de Galo[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CATNDGL.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CATNDGL.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -569,7 +569,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 
 <item>
 <title>[COLOR white]Liga da Justiça Sombria (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -583,7 +583,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 
 <item>
 <title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
@@ -597,7 +597,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 
 <item>
 <title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://redecanais.link/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|User-Agent=iPad&amp;Referer=http://redecanais.link/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
 <expres>file: "(.*).mp4</expres>
