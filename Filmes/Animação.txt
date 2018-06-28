@@ -4,6 +4,20 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]A Melhor Escolha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.ink/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Nos tempos em que os dinossauros e mamutes ainda percorriam a face da terra, um corajoso homem das cavernas une sua tribo contra um inimigo poderoso da Idade do Bronze para tentar vencê-lo em uma grande batalha.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThADOuTyI0UMTweUC9houFYHm-r5iN1V2VLEDrPiaUItqSxU8KK-juFnAOoA</fanart>
+<thumbnail>https://media.fstatic.com/DSjSOBvEwiOVjKbqxTHf5RZy1pQ=/fit-in/210x312/smart/media/movies/covers/2018/04/22713324_1640564262671788_362794143587327109_o.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Peixonauta: O Filme (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
 <regex>

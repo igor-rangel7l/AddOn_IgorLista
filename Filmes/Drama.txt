@@ -5,6 +5,34 @@
 
 
 <item>
+<title>[COLOR white]O Culto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OCLTO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.ink/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Dois irmãos, Justin e Aaron, foram criados num culto religioso do qual fugiram quando Justin percebeu a possibilidade da ocorrência de um suicídio em massa. Dez anos depois, eles, recebem uma mensagem em vídeo bastante enigmática. Nela, um membro do culto fala de uma ‘ascensão’ iminente e então resolvem regressar ao local aonde eram realizados os cultos em busca de respostas. Mas, ao chegarem, descobrem que o ‘culto’ pode afinal não ser o que pensavam e começam a duvidar, inclusive, se serão bem-vindos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTDRgpp-aoe7-VpYR98jMQE5NLJjfBGe3TU8gTD9med6Er_nQDenU-hi2Q</fanart>
+<thumbnail>https://media.fstatic.com/oZNlCfUo-4Q5sHYMQ4ANKHyoQuY=/fit-in/290x478/smart/media/movies/covers/2018/04/endb.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Melhor Escolha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMLHRESCLHA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.ink/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Trinta anos após servirem juntos no Vietnã, o ex-marinheiro Larry "Doc" Shepherd (Steve Carell) se reúne com seus velhos amigos, Sal Nealon (Bryan Cranston) e o reverendo Richard Mueller (Laurence Fishburdne), para enterrar seu filho, um jovem marinheiro morto na guerra do Iraque.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROopMX4n3t1IPyFLYXhgkEg7yP0gx7BJWgjuRDk_HyvNt00FYHI_N9Zi_-Lw</fanart>
+<thumbnail>https://media.fstatic.com/nrEGXqEn73Xw_tMs2SiOl2ip6jk=/fit-in/290x478/smart/media/movies/covers/2017/09/21731477_1641457812552842_7557659615293058100_o.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]De Encontro com a Vida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DENCTROCMAVDA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
 <regex>

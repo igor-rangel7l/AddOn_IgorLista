@@ -5,6 +5,34 @@
 
 
 <item>
+<title>[COLOR white]Vingadores: Guerra Infinita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTCINEMA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.ink/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O maior e mais mortal confronto de todos os tempos. Os Vingadores e seus aliados Super Heróis devem se dispor a sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que seu ataque de devastação e ruína dê um fim ao universo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMRiI-0WLGIevV-7lL6aPyH6mLFGsJwm44HEMizLWkFNJe5tMmmUQUE2T</fanart>
+<thumbnail>https://media.fstatic.com/zOnNnoUkiZRFf7BkmyyEzD8LGDk=/fit-in/290x478/smart/media/movies/covers/2018/03/3651678.jpg-r_770_1100-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Melhor Escolha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.ink/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Aventura e Comédia</genre>
+<info>Nos tempos em que os dinossauros e mamutes ainda percorriam a face da terra, um corajoso homem das cavernas une sua tribo contra um inimigo poderoso da Idade do Bronze para tentar vencê-lo em uma grande batalha.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThADOuTyI0UMTweUC9houFYHm-r5iN1V2VLEDrPiaUItqSxU8KK-juFnAOoA</fanart>
+<thumbnail>https://media.fstatic.com/DSjSOBvEwiOVjKbqxTHf5RZy1pQ=/fit-in/210x312/smart/media/movies/covers/2018/04/22713324_1640564262671788_362794143587327109_o.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Um Tira E Meio: A Nova Recruta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMTREMEIOANVRCRT.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
 <regex>
