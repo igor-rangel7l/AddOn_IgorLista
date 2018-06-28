@@ -27,13 +27,6 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]TNT SERIES[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/tntseries.m3u8|Referer=http://redecanais.link/</link>
-<fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/TNT%20SERIES.jpg</fanart>
-<thumbnail>https://goo.gl/PSt2sw</thumbnail>
-</item>
-
-<item>
 <title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]|User-Agent=iPhone</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>FOX HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve_App.txt</page></regex>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
@@ -63,30 +56,6 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (PxStream 2)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/aovivonatv7/index.m3u8$doregex[Igor_Rangel_AuthSign]||Referer=$doregex[Igor_Rangel_Site]</link>
-<regex>
-<name>Igor_Rangel_IP</name>
-<expres>location:http://(.*)/loadbalance</expres>
-<page>$doregex[Igor_Rangel_Page]</page><referer>$doregex[Igor_Rangel_Site]</referer><noredirect>true</noredirect><includeheaders/>
-</regex>
-<regex>
-<name>Igor_Rangel_AuthSign</name>
-<expres>m3u8(.*)</expres>
-<page>$doregex[Igor_Rangel_Page]</page>
-<referer>$doregex[Igor_Rangel_Site]</referer>
-</regex>
-<regex>
-<name>Igor_Rangel_Page</name>
-<expres>hls: '(.*)'</expres
-<page>$doregex[Igor_Rangel_Site]?IGOR_RANGEL</page><referer>http://ekostreams.co/</referer>
-</regex><regex><name>Igor_Rangel_Site</name><expres>(.*)</expres><page>http://igorlista.at.ua/Serves/pxstream.txt</page>
-</regex>
-<fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
-<thumbnail>http://goo.gl/13gfQq</thumbnail>
-</item>
-
-<item>
 <title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR yellow][B] [B]SD[/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]:8088/adfree/tvfoxaovivo1/playlist.m3u8?id=1086&amp;pk=$doregex[Igor_Rangel_Pk]|User-Agent: Mozilla/5.0</link>
 <regex>
@@ -111,6 +80,19 @@
 <regex><name>Igor_Rangel_CH</name><expres>source.*?[\'"]([^"']+)</expres><page>$doregex[Igor_Rangel_ID]</page></regex><regex><name>Igor_Rangel_ID</name><expres>$pyFunction:get_unpacked(page_data,'player.*\n.*(eval.*)')</expres><page>$doregex[Igor_Rangel_Site]</page><referer>http://portalzuca.com/</referer><regex><name>Igor_Rangel_Site</name><expres>src=[\'"](.*?/embed[^"']+)</expres>
 <page>http://portalzuca.com/canais/fox.php</page>
 <referer>http://www.futebolaovivo.in</referer>
+<fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
+<thumbnail>http://goo.gl/13gfQq</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]FOX[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/mediaPlayer.php?file=fox</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
 <fanart>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/fanart/FOX.jpg</fanart>
 <thumbnail>http://goo.gl/13gfQq</thumbnail>
 </item>
@@ -227,17 +209,23 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B]FX[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/fx.m3u8|Referer=http://redecanais.link/</link>
+<title>[COLOR yellow][B]FX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/fxhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
 <fanart>http://igorlista.at.ua/fanart/FX.png</fanart>
 <thumbnail>http://goo.gl/RnqXjY</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow][B]FX[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_IP]/loadbalance/fxhd/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
-<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
-page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</referer></regex>
+<title>[COLOR yellow][B]FX[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/mediaPlayer.php?file=fx</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
 <fanart>http://igorlista.at.ua/fanart/FX.png</fanart>
 <thumbnail>http://goo.gl/RnqXjY</thumbnail>
 </item>
@@ -252,13 +240,6 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]TBS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>TBS HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/TBS.jpg</fanart>
-<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/TBS.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]TBS[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/tbs.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/TBS.jpg</fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/TBS.png</thumbnail>
 </item>
@@ -313,13 +294,6 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 </item>
 
 <item>
-<title>[COLOR yellow][B]UNIVERSAL CHANNEL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/universal.m3u8|Referer=http://redecanais.link/</link>
-<fanart>http://igorlista.at.ua/fanart/Universal.jpg</fanart>
-<thumbnail>http://goo.gl/K8V00r</thumbnail>
-</item>
-
-<item>
 <title>[COLOR yellow][B]UNIVERSAL CHANNEL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/universalch/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
@@ -330,13 +304,6 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]WARNER[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>WARNER HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Warner_Bros.png</fanart>
-<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/Warner.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]WARNER[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/warner.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Warner_Bros.png</fanart>
 <thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/Warner.png</thumbnail>
 </item>
@@ -384,25 +351,11 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 </item>
 
 <item>
-<title>[COLOR yellow][B]COMEDY CENTRAL[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/comedycentral.m3u8|Referer=http://redecanais.link/</link>
-<fanart>http://igorlista.at.ua/fanart/COMEDY_CENTRAL.jpg</fanart>
-<thumbnail>http://logosc.ucoz.com/Comedy-Central.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR yellow][B]COMEDY CENTRAL[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/26796742673143856911/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
 <fanart>http://igorlista.at.ua/fanart/COMEDY_CENTRAL.jpg</fanart>
 <thumbnail>http://logosc.ucoz.com/Comedy-Central.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]INVESTIGAÇÃO DISCOVERY[/B] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/investigacaodiscovery.m3u8|Referer=http://redecanais.link/</link>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/investigacaoDiscovery.jpg</fanart>
-<thumbnail>https://goo.gl/al1XQO</thumbnail>
 </item>
 
 <item>
@@ -441,13 +394,6 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 </item>
 
 <item>
-<title>[COLOR yellow][B]FOX LIFE[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/foxlife.m3u8|Referer=http://redecanais.link/</link>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Fox_Life.png</fanart>
-<thumbnail>https://goo.gl/STGSLK</thumbnail>
-</item>
-
-<item>
 <title>[COLOR yellow][B]FOX LIFE[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxlife/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
@@ -458,13 +404,6 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]SYFY[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SYFY HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Syfy.jpg</fanart>
-<thumbnail>http://goo.gl/VDyslJ</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]SYFY[/B][/COLOR]  [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/syfy.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Syfy.jpg</fanart>
 <thumbnail>http://goo.gl/VDyslJ</thumbnail>
 </item>
@@ -493,13 +432,6 @@ page>http://ekostreams.co/ch/pfc2.php</page><referer>http://m.tudotv.tv/</refere
 <item>
 <title>[COLOR yellow][B]SONY[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_2</name><expres>SONY HD$doregex[Igor_Rangel_4]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_3</name><expres>Ts$doregex[Igor_Rangel_4]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex><regex><name>Igor_Rangel_4</name><expres>T"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel.Serve.txt</page></regex>
-<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Sony%20Channel.jpg</fanart>
-<thumbnail>http://goo.gl/omksVK</thumbnail>
-</item>
-
-<item>
-<title>[COLOR yellow][B]SONY[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR][COLOR gray] (RedeCanais)[/COLOR]</title>
-<link>https://world.pornthe.top/hls/sony.m3u8|Referer=http://redecanais.link/</link>
 <fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/Sony%20Channel.jpg</fanart>
 <thumbnail>http://goo.gl/omksVK</thumbnail>
 </item>
