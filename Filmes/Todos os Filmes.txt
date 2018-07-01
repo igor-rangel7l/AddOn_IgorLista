@@ -4103,7 +4103,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 437
 <item>
 <title>[COLOR white]Lego DC Comics Super Heroes: The Flash (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/lego-dc-comics-super-heroes-the-flash/</page></regex>
 <genre>Animação</genre>
 <info>Na trama, o Flash Reverso usa a força de aceleração para voltar no tempo e afetar a vida do Flash. Batman, Superman, Mulher-Maravilha, Ciborgue, Zatanna e Senhor Destino são alguns dos personagens do filme.</info>
@@ -4113,7 +4113,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 436
 <item>
 <title>[COLOR white]Braven (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/braven/</page></regex>
 <genre>Ação</genre>
 <info>Na trama, Jason Momoa viverá um humilde madereiro que reside na fronteira dos EUA e Canadá e é confrontado com um grupo de traficantes de drogas. Ele então é forçado a fazer tudo que for possível para proteger sua família.</info>
@@ -4123,7 +4123,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 435
 <item>
 <title>[COLOR white]O Estrangeiro (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-estrangeiro/</page></regex>
 <genre>Aventura</genre>
 <info>Quan (Jackie Chan) é dono de um típico restaurantes chinês em Londres, capital da Inglaterra. Após um misterioso ataque de um grupo de terroristas irlandeses ao seu estabelecimento, ele tem sua vida e família devastadas. Sem muito apoio da polícia local, ele terá que ultrapassar seus limites físicos e morais, buscando vingança com suas próprias mãos.</info>
@@ -4133,7 +4133,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 434
 <item>
 <title>[COLOR white]Dívida Perigosa (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/divida-perigosa/</page></regex>
 <genre>Drama e Policial</genre>
 <info>Com direção de Martin Zandvliet, longa é ambientado após a Segunda Guerra Mundial, no Japão. The Outsider mostra um soldado americano que é libertado com a ajuda de seu colega de cela, membro da Yakuza, e se vê obrigado a se juntar à organização criminal para pagar sua dívida.</info>
@@ -4143,7 +4143,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 433
 <item>
 <title>[COLOR white]Star Wars: Os Últimos Jedi (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/star-wars-os-ultimos-jedi/</page></regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Tendo dado seus primeiros passos no universo Jedi, Rey se junta à Luke Skywalker numa aventura com Leia, Finn e Poe que revela os mistérios da Força e os segredos do passado.</info>
@@ -4154,7 +4154,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Batman Vs. Duas-Caras (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BATMANDUASCARAS.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BATMANDUASCARAS.*?)" fra</expres>
 <page>http://netcine.us/batman-vs-two-face/</page></regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>Marcado como último trabalho de Adam West, ”Batman vs. Duas-Caras”, sequência de ”Batman & Robin: O Retorno da Dupla Dinâmica”, teve sua capa e data de lançamento revelados há pouco pelo Best Buy, a animação será disponibilizada em 17 de outubro.
@@ -4167,7 +4167,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 
 <item>
 <title>[COLOR white]Annabelle 2: A Criação do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/annabelle-2-a-criacao-do-mal/</page></regex>
 <genre>Terror</genre>
 <info>nos após a trágica morte de sua filha, um habilidoso artesão de bonecas e sua esposa decidem, por caridade, acolher em sua casa uma freira e dezenas de meninas desalojadas de um orfanato. Atormentado pelas lembranças traumáticas, o casal ainda precisa lidar com um amendrontador demônio do passado: Annabelle, criação do artesão.</info>
@@ -4179,7 +4179,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 430
 <item>
 <title>[COLOR white]O Rei do Show (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/o-rei-do-show/</page></regex>
 <genre>Drama</genre>
 <info>P. T. Barnum, um showman que tem uma tendência natural de enganar seu público, decide montar um circo na esperança de ficar famoso. Durante sua saga há ainda uma importante questão pendente em sua vida, uma paixão cega pela cantora Jenny Lind.</info>
@@ -4189,7 +4189,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 429
 <item>
 <title>[COLOR white]Com Amor, Van Gogh (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/com-amor-van-gogh/</page></regex>
 <genre>Animação e Drama<</genre>
 <info>Investigação aprofundada sobre a vida e a misteriosa morte de Vincent Van Gogh através das suas pinturas e dos personagens que habitam suas telas. Animado com a técnica de pintura a óleo do pintor holandês, os personagens mais próximos são entrevistados e há reconstruções dos acontecimentos que precederam sua morte.</info>
@@ -4199,7 +4199,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 428
 <item>
 <title>[COLOR white]A Estrela de Belém (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BELEM.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*BELEM.*?)" fra</expres>
 <page>http://netcine.us/a-estrela-de-belem/</page></regex>
 <genre>Animação</genre>
 <info>Um pequeno, mas valente burro e seus amigos animais tornam-se os heróis desconhecidos da maior história já contada, o primeiro Natal.</info>
@@ -4209,7 +4209,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 427
 <item>
 <title>[COLOR white]A Silent Voice (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/a-silent-voice/</page></regex>
 <genre>Drama e Romance</genre>
 <info>Shouko Nishimiya é uma estudante com deficiência auditiva. Durante o ensino fundamental, após se transferir para uma nova escola, Shouko passa a ser alvo de bullying e em pouco tempo precisa se transferir. O que ela não esperava é que alguns anos depois, Ishida Shouya, um dos valentões que tanto a fez sofrer no passado, surgisse de novo em sua vida com um novo propósito.</info>
@@ -4221,7 +4221,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 
 <item>
 <title>[COLOR white]Thor: Ragnarok (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/thor-ragnarok/</page></regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
 <info>Thor está aprisionado do outro lado do universo, sem seu martelo, e se vê em uma corrida para voltar até Asgard e impedir o Ragnarok – a destruição de seu lar e o fim da civilização asgardiana – que está nas mãos de uma nova e poderosa ameaça, a terrível Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador – o Incrível Hulk.</info>
@@ -4232,7 +4232,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 425
 <item>
 <title>[COLOR white]Os Parças (Nacional) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*OSPARCAS2018.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*OSPARCAS2018.*?)" fra</expres>
 <page>http://netcine.us/os-parcas/</page></regex>
 <genre>Comédia e Nacional</genre>
 <info>A história segue quatro amigos que resolvem abrir uma agência de casamentos.</info>
@@ -4244,7 +4244,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 
 <item>
 <title>[COLOR white]Jogos Mortais: Jigsaw (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/jigsaw/</page></regex>
 <genre>Terror</genre>
 <info>Corpos estão aparecendo pela cidade, cada um tendo encontrado uma morte terrível. Conforme a investigação segue, as evidências apontam para um homem: John Kramer. Mas como pode ser? O homem conhecido como Jigsaw está morto há mais de dez anos. Ou um aprendiz está seguindo os passos de Jigsaw, talvez até alguém de dentro da própria investigação?</info>
@@ -4254,7 +4254,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 
 <item>
 <title>[COLOR white]Hangman (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/hangman/</page></regex>
 <genre>Policial</genre>
 <info>Dois detetives (Pacino e Urban) se unem para encontrar um serial killer, que faz suas vítimas com base no jogo infantil da forca.</info>
@@ -4264,7 +4264,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 422
 <item>
 <title>[COLOR white]Doentes de Amor (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/doentes-de-amor/</page></regex>
 <genre>Romance e Comédia</genre>
 <info>O paquistanês Kumail e sua namorada americana Emily têm que superar as expectativas sufocantes de sua família e das tradições de 1.400 anos de idade. Contra esses obstáculos, o amor parece impossível, e sua separação parece permanente. Em seguida, vem a tragédia e Emily entra em um misterioso coma.</info>
@@ -4275,7 +4275,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 
 <item>
 <title>[COLOR white]Espelho (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/looking-glass/</page></regex>
 <info>Depois de experimentar uma perda trágica, um casal adquire um motel deserto onde descobre uma série de eventos perturbadores e inexplicáveis que ocorrem dentro de um dos quartos frequentemente solicitados.</info>
 <fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/01/nic-1.jpg</fanart>
@@ -4284,7 +4284,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 420
 <item>
 <title>[COLOR white]Mudo (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/mudo/</page></regex>
 <genre>Ficção Cientifica</genre>
 <info>Berlim. 40 anos no futuro. Leo Beiler (Alexander Skarsgard), um barman mudo, tem apenas um motivo para viver aqui, e ela desapareceu. Mas quando a busca de Leo o leva para o submundo da cidade, um curioso par de cirurgiões americanos parece ter as respostas que ele precisa, mas Leo não sabe se deve confiar neles ou temê-los.</info>
@@ -4294,7 +4294,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 419
 <item>
 <title>[COLOR white]Três Anúncios Para um Crime (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/tres-anuncios-para-um-crime/</page></regex>
 <genre>Drama e Comédia</genre>
 <info>Inconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes (Frances McDormand) decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby (Woody Harrelson), responsável pela investigação.</info>
@@ -4304,7 +4304,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 418
 <item>
 <title>[COLOR white]Fullmetal Alchemist (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/fullmetal-alchemist/</page></regex>
 <genre>Ação</genre>
 <info>Escrito por Arakawa Hiromu, o mundo de "Fullmetal Alchemist" é baseado no período pós-Revolução Industrial europeu. Situado num universo ficcional em que a alquimia é uma das mais avançadas técnicas científicas conhecidas pelo homem, a trama acompanha a jornada de Edward e Alphonse Elric, que desejam restaurar os seus corpos após uma desastrosa tentativa de trazer a sua mãe falecida de volta à vida através da alquimia.</info>
@@ -4314,7 +4314,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 417
 <item>
 <title>[COLOR white]Viva: A Vida é uma Festa (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/viva-a-vida-e-uma-festa/</page></regex>
 <genre>Animação,Aventura e Comédia</genre>
 <info>A nova animação da Disney Pixar será dirigido por Lee Unkrich e contará com a produção de Darla Anderson. A trama será ambientada em uma das datas mais importantes e comemorada no México, o Dia dos Mortos, onde todos os moradores comemoram os parentes e amigos que faleceram.</info>
@@ -4324,7 +4324,7 @@ No elenco, também teremos os retornos de Julia Newmar como Mulher-Gato e Burt Wa
 416
 <item>
 <title>[COLOR white]Espião Por Acaso (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/espiao-por-acaso/</page></regex>
 <genre>Aventura e Comédia</genre>
 <info>Uma aventura incrível e uma amizade verdadeira.
@@ -4335,7 +4335,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 415
 <item>
 <title>[COLOR white]O Destino de Uma Nação (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-destino-de-uma-nacao/</page></regex>
 <genre>Drama</genre>
 <info>Winston Churchill (Gary Oldman) está prestes a encarar um de seus maiores desafios: tomar posse do cargo de Primeiro Mnistro da Grã-Bretanha. Paralelamente, ele começa a costurar um tratado de paz com a alemanhã Nazista que pode significar o fim de anos de conflito.</info>
@@ -4345,7 +4345,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 414
 <item>
 <title>[COLOR white]The Post: A Guerra Secreta (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/the-post-a-guerra-secreta/</page></regex>
 <genre>Drama</genre>
 <info>Um encobrimento escandaloso que abrangeu quatro mandados presidenciais dos Estados Unidos força a primeira editora jornalística do país (Meryl Streep) e um editor difícil de trabalhar (Tom Hanks) a juntarem forças numa batalha sem precedentes entre os jornalistas e o governo.</info>
@@ -4355,7 +4355,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 414
 <item>
 <title>[COLOR white]O Paradoxo Cloverfield (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-paradoxo-cloverfield/</page></regex>
 <genre>Ficção Cientifica e Terror</genre>
 <info>Em órbita sobre um planeta prestes a entrar em guerra, cientistas testam uma possível solução para a crise de energia, mas acabam em uma realidade alternativa.</info>
@@ -4365,7 +4365,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 413
 <item>
 <title>[COLOR white]Um Conto de Batman: Gotham City 1889 (Dublado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/batman-gotham-by-gaslight/</page></regex>
 <genre>Animação</genre>
 <info>Gotham, na virada do século, está passando por uma época de descoberta e indústria, mas nos becos mais sombrios há um assassino à solta. Trabalhando juntos, Batman e o comandante da Polícia James Gordon tentam capturar o temível Jack, o estripador.
@@ -4377,7 +4377,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 411
 <item>
 <title>[COLOR white]Voldemort: A Origem do Herdeiro (Legendado) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*VOLDEMORT2018.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*VOLDEMORT2018.*?)" fra</expres>
 <page>http://netcine.us/voldemort-origins-of-the-heir/</page></regex>
 <genre>Aventura</genre>
 <info>Um filme independente criada por fãs da saga Harry Potter. 
@@ -4391,7 +4391,7 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 409
 <item>
 <title>[COLOR white]A Morte Te Dá Parabéns (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/morte-te-da-parabens/</page></regex>
 <genre>Terror</genre>
 <info>Tree (Jessica Rothe) é uma jovem que é assassinada no seu aniversário e tem que reviver o dia de sua morte várias e várias vezes, tentando descobrir quem foi seu assassino, antes que suas chances se acabem.</info>
@@ -5707,7 +5707,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 321
 <item>
 <title>[COLOR white]Feito na América (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB*?)" fra</expres>
 <page>http://netcine.us/feito-na-america/</page></regex>
 <genre>Policial</genre>
 <info>Baseado na vida de Barry Seal, um piloto que, na década de 1980, traficava drogas e armas para a CIA e o cartel de Medellín ao mesmo tempo. O título refere-se a Mena, Arkansas, nos EUA, onde ocorriam várias atividades ilegais sob os narizes dos presidentes Ronald Reagan, George H.W. Bush e do então governador do Arkansas, Bill Clinton. Cruise interpretaria Seal.</info>
@@ -5717,7 +5717,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 320
 <item>
 <title>[COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CSATO.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CSATO.*?)" fra</expres>
 <page>http://netcine.us/como-se-tornar-o-pior-aluno-da-escola/</page></regex>
 <genre>Comédia e Nacional</genre>
 <info>Bernado (Bruno Munhoz) e Pedro (Daniel Pimentel) são estudantes e enfrentam as clássicas tarefas de cumprir as obrigações escolares, tirar boas notas, ter bom comportamento e cumprir as regras da escola, cada vez mais elaboradas graças ao diretor Ademar (Carlos Villagrán). Frustrados, Pedro acaba encontrando um diário de como provocar o caos na escola sem ser pego, o que leva os dois amigos a seguirem as dicas do caderno.</info>
@@ -5727,7 +5727,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 319
 <item>
 <title>[COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB*?)" fra</expres>
 <page>http://netcine.us/os-guardioes/</page></regex>
 <genre>Ação e Aventura</genre>
 <info>A trama se passa durante a Guerra Fria, quando uma organização chamada "Patriot" criou um esquadrão de super-heróis, que inclui membros de várias repúblicas soviéticas. Durante anos, os heróis tiveram que esconder suas identidades, mas em tempos difíceis eles precisam se revelar novamente.</info>
@@ -5737,7 +5737,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 317
 <item>
 <title>[COLOR white]Polícia Federal: A Lei É para Todos (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*POFE20117.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*POFE20117.*?)" fra</expres>
 <page>http://netcine.us/policia-federal-a-lei-e-para-todos/</page></regex>
 <genre>Nacional e Drama</genre>
 <info>O filme conta a saga da maior e mais bem-sucedida operação de combate à corrupção da história do país – a Operação Lava Jato. Pelo ponto de vista do delegado Ivan (Antonio Calloni) e de sua equipe da Polícia Federal, em conjunto com a força-tarefa do Ministério Público Federal, o longa revela os esforços para desvendar o esquema de lavagem de dinheiro e pagamento de propinas a executivos de uma estatal de petróleo, empreiteiras, partidos políticos e parlamentares. O thriller mostra ainda o papel decisivo da Justiça para que a investigação não fosse destruída pelas forças políticas envolvidas.</info>
@@ -5747,7 +5747,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 316
 <item>
 <title>[COLOR white]Crise na Terra X (Legendado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CRISENATERRA.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*CRISENATERRA.*?)" fra</expres>
 <page>http://netcine.us/crise-na-terra-x-o-filme/</page></regex>
 <genre>Aventura</genre>
 <info>O ÉPICO CROSSOVER ENTRE ARROW, SUPERGIRL, THE FLASH E LEGENDS OF TOMORROW TEM INÍCIO – O casamento de Barry (Grant Gustin) e Iris (Candice Patton) reúne todo o grupo, mas as coisas acabam fora de controle quando vilões da Terra-X atacam a cerimônia. Todos os super-heróis do universo alternativo se unem para salvar seus aliados, como o Cidadão Frio (Wentworth Miller), The Ray (Russell Tovey), Felicity Smoak (Emily Bett Rickards), Iris West e Alex Danvers (Chyler Leigh). Todos tentam derrotar os mais formidáveis vilões. Enquanto isso, os maiores heróis da Terra – Arqueiro Verde (Stephen Amell), Flash, Supergirl (Melissa Benoist) e Canário Branco (Caity Lotz) – lideram suas equipes para salvar o mundo.</info>
@@ -6211,7 +6211,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 267
 <item>
 <title>[COLOR white]O Culto de Chucky (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/o-culto-de-chucky/</page></regex>
 <genre>Suspense e Terror</genre>
 <info>Nica Pierce (Fiona Dourif) está cumprindo pena em um hospital psiquiátrico após ser acusada pelos crimes que o boneco Chucky (voz de Brad Dourif) cometeu. Agora, o brinquedo assassino dá um jeito de ir terminar o que começou, colocando a vida da moça em perigo novamente. O único que pode ajudá-la é Andy Barclay (Alex Vincent), o primeiro a enfrentar o boneco, agora adulto, e que terá sérias dificuldades quando Tiffany (Jennifer Tilly), a noiva de Chucky, retorna para ajudar o amado.</info>
@@ -6221,7 +6221,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 265
 <item>
 <title>[COLOR white]Planeta dos Macacos: A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Netcine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*PDMAG.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*PDMAG.*?)" fra</expres>
 <page>http://netcine.us/planeta-dos-macacos-a-guerra/</page></regex>
 <genre>Ação,Drama e Aventura</genre>
 <info>César e seus macacos são forçados a um conflito mortal contra um exército de seres humanos liderados por um Coronel implacável. Depois que os macacos sofrem perdas inimagináveis, César luta contra seus instintos mais escuros e começa sua própria busca mítica para vingar sua espécie. À medida em que a jornada finalmente os coloca cara a cara, César e o Coronel se enfrentam em uma batalha épica que determinará o destino de suas espécies e o futuro do planeta.</info>

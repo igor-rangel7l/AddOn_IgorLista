@@ -265,7 +265,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white]Os Parças (Nacional) - 2018[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*OSPARCAS2018.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*OSPARCAS2018.*?)" fra</expres>
 <page>http://netcine.us/os-parcas/</page></regex>
 <genre>Comédia e Nacional</genre>
 <info>A história segue quatro amigos que resolvem abrir uma agência de casamentos.</info>
@@ -317,7 +317,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Polícia Federal: A Lei É para Todos (Nacional) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>link: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*POFE20117.*?)" fra</expres>
+<link>$doregex[Igor_Rangel_Video]|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*POFE20117.*?)" fra</expres>
 <page>http://netcine.us/policia-federal-a-lei-e-para-todos/</page></regex>
 <genre>Nacional e Drama</genre>
 <info>O filme conta a saga da maior e mais bem-sucedida operação de combate à corrupção da história do país – a Operação Lava Jato. Pelo ponto de vista do delegado Ivan (Antonio Calloni) e de sua equipe da Polícia Federal, em conjunto com a força-tarefa do Ministério Público Federal, o longa revela os esforços para desvendar o esquema de lavagem de dinheiro e pagamento de propinas a executivos de uma estatal de petróleo, empreiteiras, partidos políticos e parlamentares. O thriller mostra ainda o papel decisivo da Justiça para que a investigação não fosse destruída pelas forças políticas envolvidas.</info>
