@@ -5,6 +5,20 @@
 
 
 <item>
+<title>[COLOR white]A Vida Em Espera (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AVDAEMESPRA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.ink/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Advogado de Manhattan depois de encontrar um guaxinim no sótão de sua casa sofre um colapso nervoso e sem nenhum aviso deixa sua esposa, por um período muito longo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqM4YzX_3pooS_mXL29Ut0sdovJGqxnGywtFULA5r8nCazfZ5u4b7RwSmY</fanart>
+<thumbnail>https://media.fstatic.com/NH9gIThVGutBU-Im8_bDUD3nSsI=/fit-in/290x478/smart/media/movies/covers/2017/05/MV5BMjM3ODY5MzE4Nl5BMl5BanBnXkFtZTgwNjcxNTgxMjI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]O Culto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCLTO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
 <regex>

@@ -15,6 +15,43 @@ Todos Os Filmes
 
 
 
+
+
+
+<item>
+<title>[COLOR white]Círculo de Fogo: A Revolta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.ink/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Já fazem dez anos desde a Batalha na Fenda e os oceanos continuam estáveis mas inquietos. Vindicado pela vitória na batalha, o programa Jaeger evoluiu para se tornar a força de defensa mais poderosa da história da humanidade. O PPDC agora seleciona os melhores e mais promissores para se tornar a nova geração de heróis.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgv90VNawKPAH0q4RvQPVpPhbiGtgJ2qPEbqVPwIwsMwaM63Ybm-tZZ8t85g</fanart>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/27356464_914783745312883_9114029777077962705_o.jpg</thumbnail>
+</item>
+756
+<item>
+<title>[COLOR white]A Vida Em Espera (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AVDAEMESPRA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.ink/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Advogado de Manhattan depois de encontrar um guaxinim no sótão de sua casa sofre um colapso nervoso e sem nenhum aviso deixa sua esposa, por um período muito longo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqM4YzX_3pooS_mXL29Ut0sdovJGqxnGywtFULA5r8nCazfZ5u4b7RwSmY</fanart>
+<thumbnail>https://media.fstatic.com/NH9gIThVGutBU-Im8_bDUD3nSsI=/fit-in/290x478/smart/media/movies/covers/2017/05/MV5BMjM3ODY5MzE4Nl5BMl5BanBnXkFtZTgwNjcxNTgxMjI._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+755
+
+
+
+
+
+
 <item>
 <title>[COLOR white]O Culto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OCLTO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
@@ -918,20 +955,6 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <info>Após uma tragédia, que forçou o jovem Príncipe TChalla a assumir o trono de Wakanda, ele é confrontado em um teste final, pondo em risco o destino de seu país e do mundo inteiro. Em conflito contra sua própria família, o novo rei deve reunir seus aliados e liberar o poder total da Pantera Negra para derrotar seus inimigos e abraçar o seu futuro como um Vingador.</info>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ueX4qZyFuBGdHAVvgA3BbtvR08mFuQdd6HGRabTXSFrQkycGel1AmkBAxw</fanart>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/10/IMG_20171016_111906.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white]Círculo de Fogo: A Revolta (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTALEG.mp4|User-Agent=iPad&amp;Referer=http://redecanais.ink/watch.php</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
-<page>http://redecanais.ink/player3/serverf4.php</page>
-</regex>
-<genre>Ação</genre>
-<info>Já fazem dez anos desde a Batalha na Fenda e os oceanos continuam estáveis mas inquietos. Vindicado pela vitória na batalha, o programa Jaeger evoluiu para se tornar a força de defensa mais poderosa da história da humanidade. O PPDC agora seleciona os melhores e mais promissores para se tornar a nova geração de heróis.</info>
-<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgv90VNawKPAH0q4RvQPVpPhbiGtgJ2qPEbqVPwIwsMwaM63Ybm-tZZ8t85g</fanart>
-<thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/01/27356464_914783745312883_9114029777077962705_o.jpg</thumbnail>
 </item>
 692
 <item>
