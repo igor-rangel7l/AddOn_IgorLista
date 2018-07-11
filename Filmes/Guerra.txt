@@ -12,6 +12,20 @@
 
 
 <item>
+<title>[COLOR white]Além das Águas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ALMDSAGUA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Guerra</genre>
+<info>Um emocionante conto da fuga dos judeus dinamarqueses para a Suécia em outubro de 1943.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/wP3sGd6-dCetJd5YT_PUG8soqqPgPPMJv2oQGgX5Gu6itUI3uHyNRNRg5vwmrN3oY-V3JEAkdGxR6BB0iansjJ8oW8Ejzif4CmG_gNY9ZF_4LhUCgt2IjFd1VAYKyCRZWCR8JLVb8kBQ5Fbfm4u6FDB2_Wn0jCirTpmXYKyY8A=w514-h286-nc</fanart>
+<thumbnail>https://media.fstatic.com/m_clqOncPMYWMYu_exyt3Tau5LU=/fit-in/290x478/smart/media/movies/covers/2018/06/1490679965_922951.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]12 Heróis (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]12HERS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>

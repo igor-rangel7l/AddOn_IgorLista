@@ -5,6 +5,34 @@
 
 
 <item>
+<title>[COLOR white]Aos Teus Olhos (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional e Drama</genre>
+<info>Um professor de natação infantil (Daniel de Oliveira) é acusado por Alex (Luiz Felipe Mello), um de seus alunos, de ter lhe dado um beijo na boca no vestiário. A acusação toma proporções gigantes graças ao uso da internet pela mãe do menino (Stella Rabelo) que pode acabar com a carreira de Rubens.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp9r17IeXq6rwVmF-ReOfTpv2Ovj8ejw-t9qpC4tNMQKmI_nyOw8hYeFUC</fanart>
+<thumbnail>https://media.fstatic.com/3Pi4L1G0Qgi0IaW9GBYL05u5s9E=/fit-in/210x312/smart/media/movies/covers/2017/10/2271177.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Nada a Perder: Contra Tudo. Por Todos (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NDAPRDR.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Nacional e Drama</genre>
+<info>Cinebiografia autorizada do bispo evangélico Edir Macedo (Petrônio Gontijo), empresário fundador e líder espiritual da Igreja Universal do Reino de Deus e proprietário da Record TV. Baseado nos livros da trilogia homônica, conta a história do self made man que enfrentou diversos momentos de turbulência enquanto perseguia sua convicção.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKQhAPU-Dtf0oMaKw4-MueDTsMsPXDEBWoJuPPygdlX381djwDHdr7gLReBg</fanart>
+<thumbnail>https://media.fstatic.com/hV_CRIKXxD0ET8yH5OWvRQhgOTU=/fit-in/210x312/smart/media/movies/covers/2018/02/nada-a-perder-poster.jpeg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Peixonauta: O Filme (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>

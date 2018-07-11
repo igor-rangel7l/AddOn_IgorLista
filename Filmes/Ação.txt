@@ -4,6 +4,34 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]A Noite do Jogo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ANTDJGO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Comédia e Policial</genre>
+<info>Max (Jason Bateman) e Annie (Rachel McAdams) participam de um grupo de casais que organizam noites de jogos. O irmão de Max, Brooks (Kyle Chandler), chega decidido a organizar uma festa de assassinato e mistério e acaba sequestrado, levando todos a acreditarem que o sumiço faz parte da misteriosa brincadeira. Os seis amigos competitivos precisam então resolver o caso para vencer o jogo, cujo rumo vai se tornando cada vez mais inesperado.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4x88e9ZWBiVfF7pSuQT2qlIinbmpycMr3JWXcFqaKZ7y-LHbRoQphug8P</fanart>
+<thumbnail>https://media.fstatic.com/HrWHkkoEvMwxHLATsaSVtFPEUCs=/fit-in/210x312/smart/media/movies/covers/2018/01/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM._V1_SY1000_CR006741000_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Rampage: Destruição Tota (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O primatólogo Davis Okoye (Dwayne Johnson) prefere a companhia dos animais do que a dos humanos. Ele possui um laço com George, um gorila com inteligência extraordinária, do qual cuida desde o nascimento. Mas um experimento extraoficial dá errado e transforma o gentil primata em um monstro furioso. Para piorar, é descoberto que outros animais tiveram o DNA alterado e agora, essas criaturas recém-criadas fogem Estados Unidos, deixando um rastro de destruição por onde passam. Cabe à Okoye, que se junta com uma engenheira genética, encontrar um antídoto antes que a catástrofe seja global - e que o animal que um dia foi seu amigo possa ser salvo.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW2kxw9_eehRiiIJzrRRd6bffNpQBAb1Cx8sRtjrQvmVsgpVT4z5rnEciBSg</fanart>
+<thumbnail>https://media.fstatic.com/Z9hiU6_vRlnNwd1zSQCk5_solvw=/fit-in/210x312/smart/media/movies/covers/2018/06/rampage-5aac65cee8a4a.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Círculo de Fogo: A Revolta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>
