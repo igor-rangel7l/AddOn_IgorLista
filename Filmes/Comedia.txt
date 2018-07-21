@@ -4,6 +4,48 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]A Garota Perfeita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AGRTPRFTA.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Um grupo heterogéneo de artistas aspirantes sob a orientação de um professor de atuação excêntrico e volátil.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHtzP-6CvbCf06pWL94xfe3FUVI6Nn8qRL-mhGjEfdNgirjdqHCIQqui5u5g</fanart>
+<thumbnail>https://media.fstatic.com/75fvV3YV2WguUM-5vnuxqBVQr8w=/fit-in/210x312/smart/media/movies/covers/2017/01/20170111_114547.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Doutor da Felicidade Knock (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ODTRDFLCDADE.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Drama</genre>
+<info>Um médico, para aumentar os seus ganhos, convence os habitantes saudáveis de uma pequena aldeia francesa que eles estão sofrendo de doenças previamente não diagnosticadas.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ56YB5EnLDzcrg2QhlV1fgeMOq8GA0YlyKmhGCtIcKQ1BFnwzh6rioiOVF</fanart>
+<thumbnail>https://media.fstatic.com/3MaM6KMQ2zqx_271GhAmCBiv3MQ=/fit-in/210x312/smart/media/movies/covers/2017/08/knock-2017-01.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Acertando o Passo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACRTDOPASO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Casada há 35 anos, Lady Sandra Abbott (Imelda Staunton) descobre que seu marido tem tido um caso amoroso com sua melhor amiga. Ela decide começar a fazer aulas de dança comunitária junto da irmã e acaba descobrindo um novo sopro de diversão e romance em sua vida.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDNdVoxB3rPrEB_RCJVjOJfV31ejdxQB6_B8eQUjpATYqdZ9eG9v1Accc9aA</fanart>
+<thumbnail>https://media.fstatic.com/pZbD4xgF27g5gmlsLoKmrN7hUNM=/fit-in/210x312/smart/media/movies/covers/2018/04/finding_your_feet_ver2.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Gostos e Cores (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]GOSTSECRS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>

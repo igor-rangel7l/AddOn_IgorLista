@@ -5,6 +5,20 @@
 
 
 <item>
+<title>[COLOR white]Todas As Razões Para Esquecer (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TDSASRZSPRESQCR.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama,Nacional e Comédia</genre>
+<info>Antonio achava que seria moleza esquecer sua ex, Sofia. Ele é a prova de que superar um rompimento é mais difícil que parece.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJz22NV-Vq3zhRlBdPZMo-k0b5z2eox5-Wo92p8Xg5UhbwMpUgNs3RHtM</fanart>
+<thumbnail>https://media.fstatic.com/3VARsKNH_WnIrrjWaJUxNE1y_ms=/fit-in/210x312/smart/media/movies/covers/2018/02/1080x1620_1518804499.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Aos Teus Olhos (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>

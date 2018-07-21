@@ -5,6 +5,20 @@
 
 
 <item>
+<title>[COLOR white]Uma Dobra no Tempo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMDOBRNTEMP.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Aventura</genre>
+<info>Os irmãos Meg (Storm Reid) e Charles (Deric McCabe) decidem reencontrar o pai, um cientista que trabalha para o governo e está desaparecido desde que se envolveu em um misterioso projeto. Eles contarão com a ajuda do colega Calvin (Levi Miller) e de três excêntricas mulheres em uma ousada jornada por diferentes lugares do universo.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIOCGgcXIvJktqgplo3XslUT3Tzez_NqbQ1YGOmGpVv0pWlgjxa72TXCPPhA</fanart>
+<thumbnail>https://media.fstatic.com/6EJL-EKDPJ9hXcTOCXgxeGVMfSY=/fit-in/210x312/smart/media/movies/covers/2017/11/23668980_1693660770655517_3987160627636131499_o.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Rampage: Destruição Tota (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>

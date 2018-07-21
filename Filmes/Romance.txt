@@ -7,6 +7,20 @@
 
 
 <item>
+<title>[COLOR white]Acertando o Passo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ACRTDOPASO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Romance e Comédia</genre>
+<info>Casada há 35 anos, Lady Sandra Abbott (Imelda Staunton) descobre que seu marido tem tido um caso amoroso com sua melhor amiga. Ela decide começar a fazer aulas de dança comunitária junto da irmã e acaba descobrindo um novo sopro de diversão e romance em sua vida.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDNdVoxB3rPrEB_RCJVjOJfV31ejdxQB6_B8eQUjpATYqdZ9eG9v1Accc9aA</fanart>
+<thumbnail>https://media.fstatic.com/pZbD4xgF27g5gmlsLoKmrN7hUNM=/fit-in/210x312/smart/media/movies/covers/2018/04/finding_your_feet_ver2.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]O Plano Imperfeito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OPLNIMPRPTO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>

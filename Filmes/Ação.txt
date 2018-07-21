@@ -4,6 +4,48 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Próxima Parada: Apocalipse (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRXMPRDAPCLPSE.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação</genre>
+<info>Um evento apocalíptico misterioso transforma as estradas em caos e um jovem pai vai parar em nada para chegar em casa, com sua esposa grávida do outro lado do país.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5nM-GPIsOiPbdKyMJgsBSJzSpzFFMONxSHzMPnKEptaq-AuLp1p9mVI97</fanart>
+<thumbnail>https://media.fstatic.com/WQQkQ3mcmI-QthUJSAITqEUOcYo=/fit-in/210x312/smart/media/movies/covers/2018/06/how-it-ends.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Guerreiro da Escuridão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GRERODESCRDAO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Policial</genre>
+<info>Um médico bem-sucedido perde seu irmão mais novo em um assalto relacionado a gangues e desiste de sua vida privilegiada para se tornar um guerreiro mascarado para poder vingar a morte do seu irmão.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/A-hwCUSYJmtYbpAC6jqXQE42zvFmH9bxc526GoooHIYed8F3Bs6QYP47uz_NxB-E2HoDTy7y0b_vfyBcPFMkjNrEsk1-HuIVcrCvWQ=w512-h288-nc</fanart>
+<thumbnail>https://media.fstatic.com/pd3ZokSW7_hb44IVt9_HSAdLV2I=/fit-in/210x312/smart/media/movies/covers/2017/12/MV5BMWQ4NTBhMWItNmNmNi00M2I1LWEzZWUtZWRmYTA2MzE1MjcxXkEyXkFqcGdeQX_I3DEL9p.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]211 - O Grande Assalto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]211OGRNDASLTO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres>link: "(.*).mp4</expres>
+<page>http://redecanais.baixarvideos.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>O oficial Mike Chandler (Nicolas Cage) e um jovem passageiro civil encontram-se despreparados e desarmados quando o destino os coloca diretamente na mira de um ousado roubo a banco em andamento por uma equipe destemida de homens altamente treinados e fortemente armados. Inspirado por um dos eventos mais longos e sangrentos da vida real na história da polícia.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/P39Z-rJT75RnKgK7DHjNdkaBbTThQgeA2y52bWE3kXs-Rrpj5HUMbB-9TZ92H5_UKnors2vSGMgZDy00-VG99jyQdAVPTdfSlnkCaA=w512-h288-nc</fanart>
+<thumbnail>https://media.fstatic.com/m0A5uhrj-vEJAPxOqhz2DLo3cIk=/fit-in/210x312/smart/media/movies/covers/2018/04/211-poster-600x889.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]A Noite do Jogo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ANTDJGO.mp4|User-Agent=iPad&amp;Referer=http://redecanais.baixarvideos.top/watch.php</link>
 <regex>
