@@ -6,10 +6,10 @@
 
 <item>
 <title>[COLOR white]Todas As Razões Para Esquecer (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TDSASRZSPRESQCR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TDSASRZSPRESQCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -20,10 +20,10 @@
 
 <item>
 <title>[COLOR white]Maria Madalena (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MARMDLNA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MARMDLNA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -34,10 +34,10 @@
 
 <item>
 <title>[COLOR white]Um Lugar Silencioso (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMLGRSLNCOSO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMLGRSLNCOSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -48,10 +48,10 @@
 
 <item>
 <title>[COLOR white]Tudo Começa no Brooklyn (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TDCMCNBROKLYN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TDCMCNBROKLYN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -62,10 +62,10 @@
 
 <item>
 <title>[COLOR white]O Doutor da Felicidade Knock (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODTRDFLCDADE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ODTRDFLCDADE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -76,10 +76,10 @@
 
 <item>
 <title>[COLOR white]Disturbio (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSTURB.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DSTURB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -90,10 +90,10 @@
 
 <item>
 <title>[COLOR white]211 - O Grande Assalto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]211OGRNDASLTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]211OGRNDASLTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -104,10 +104,10 @@
 
 <item>
 <title>[COLOR white]Aos Teus Olhos (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Drama</genre>
@@ -118,10 +118,10 @@
 
 <item>
 <title>[COLOR white]Sob a Pele do Lobo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SOBAPLEDOLBO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SOBAPLEDOLBO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -132,10 +132,10 @@
 
 <item>
 <title>[COLOR white]Sem Fôlego (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSSOID.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NOSSOID.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -146,10 +146,10 @@
 
 <item>
 <title>[COLOR white]Paulo, Apóstolo de Cristo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PLNOQSEPRFTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PLNOQSEPRFTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Comédia e Policial</genre>
@@ -160,10 +160,10 @@
 
 <item>
 <title>[COLOR white]Paulo, Apóstolo de Cristo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PALOAPSTLODCRST.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PALOAPSTLODCRST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -174,10 +174,10 @@
 
 <item>
 <title>[COLOR white]Nada a Perder: Contra Tudo. Por Todos (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NDAPRDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NDAPRDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -188,10 +188,10 @@
 
 <item>
 <title>[COLOR white]Minha Primeira Caçada (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHAPRMRACACDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNHAPRMRACACDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -202,10 +202,10 @@
 
 <item>
 <title>[COLOR white]Ella e John (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELEJHN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELEJHN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -216,10 +216,10 @@
 
 <item>
 <title>[COLOR white]Além das Águas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALMDSAGUA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALMDSAGUA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -230,10 +230,10 @@
 
 <item>
 <title>[COLOR white]A Vida Em Espera (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVDAEMESPRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AVDAEMESPRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -244,10 +244,10 @@
 
 <item>
 <title>[COLOR white]O Culto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCLTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCLTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -258,10 +258,10 @@
 
 <item>
 <title>[COLOR white]A Melhor Escolha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMLHRESCLHA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMLHRESCLHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -272,10 +272,10 @@
 
 <item>
 <title>[COLOR white]De Encontro com a Vida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DENCTROCMAVDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DENCTROCMAVDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -286,10 +286,10 @@
 
 <item>
 <title>[COLOR white]Submersão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SBMRSO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SBMRSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -300,10 +300,10 @@
 
 <item>
 <title>[COLOR white]Projeto Flórida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRJTFLDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRJTFLDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -314,10 +314,10 @@
 
 <item>
 <title>[COLOR white]12 Heróis (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]12HERS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]12HERS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -328,10 +328,10 @@
 
 <item>
 <title>[COLOR white]Sleight: O Truque Perfeito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OGRNDTRQ.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OGRNDTRQ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Ficção Cientifica</genre>
@@ -342,10 +342,10 @@
 
 <item>
 <title>[COLOR white]Levantando Poeira (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LEVNTDPRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LEVNTDPRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -356,10 +356,10 @@
 
 <item>
 <title>[COLOR white]Covil de Ladrões (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CVLDLDRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CVLDLDRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Policial e Drama</genre>
@@ -370,10 +370,10 @@
 
 <item>
 <title>[COLOR white]Mudbound: Lágrimas Sobre o Mississipi (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MUDBNDLGRMSSBROMSISPI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MUDBNDLGRMSSBROMSISPI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -384,10 +384,10 @@
 
 <item>
 <title>[COLOR white]Lady Bird: A Hora de Voar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LADYBRDEHRDEVOAR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LADYBRDEHRDEVOAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -398,10 +398,10 @@
 
 <item>
 <title>[COLOR white]De Fora para Dentro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEFRPRDNTRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DEFRPRDNTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -412,10 +412,10 @@
 
 <item>
 <title>[COLOR white]Com Amor, Simon (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]COMAMRSMN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]COMAMRSMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -426,10 +426,10 @@
 
 <item>
 <title>[COLOR white]O Jeremias (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OJRMS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OJRMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -440,10 +440,10 @@
 
 <item>
 <title>[COLOR white]O Insulto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OINSLTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OINSLTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -454,10 +454,10 @@
 
 <item>
 <title>[COLOR white]O Caderno de Sara (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCDRNODSRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCDRNODSRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -468,10 +468,10 @@
 
 <item>
 <title>[COLOR white]Eternamente Manhattan (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ETRNDMENTMNHTN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ETRNDMENTMNHTN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -482,10 +482,10 @@
 
 <item>
 <title>[COLOR white]Fahrenheit 451 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FAHRNHT451.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FAHRNHT451.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Ficção Cientifica</genre>
@@ -496,10 +496,10 @@
 
 <item>
 <title>[COLOR white]Trama Fantasma (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRMFNTSMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRMFNTSMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -510,10 +510,10 @@
 
 <item>
 <title>[COLOR white]O Que te Faz Mais Forte (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OQTFZMSFRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OQTFZMSFRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -524,10 +524,10 @@
 
 <item>
 <title>[COLOR white]Eu, Tonya (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EUTNYA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]EUTNYA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -538,10 +538,10 @@
 
 <item>
 <title>[COLOR white]Cargo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -552,10 +552,10 @@
 
 <item>
 <title>[COLOR white]15h17: Trem para Paris (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]15H17TRMPRPRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]15H17TRMPRPRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Suspense</genre>
@@ -566,10 +566,10 @@
 
 <item>
 <title>[COLOR white]Cinquenta Tons de Liberdade (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -591,10 +591,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Ingrid Vai para o Oeste (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INGRDVPROSTE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INGRDVPROSTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -605,10 +605,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]A Grande Jogada (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGRNDJGD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AGRNDJGD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -619,10 +619,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Três Anúncios Para um Crime (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Comédia e Policial</genre>
@@ -633,10 +633,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Paterno (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PTRNO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PTRNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -647,10 +647,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]O Destino de Uma Nação (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODSTNDUNCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ODSTNDUNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -661,10 +661,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Dude: A Vida é Assim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DUDAVDEASSM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DUDAVDEASSM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -675,10 +675,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Carteirista (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRTRSTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRTRSTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -689,10 +689,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]A Caminho da Fé (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACMNHDFE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACMNHDFE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -703,10 +703,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Imperium: Resistência Sem Líder (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]IMPRSTNCSMLDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]IMPRSTNCSMLDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -717,10 +717,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Cordeiros e Carrascos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRDRSECRSCS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRDRSECRSCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -731,10 +731,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Amador (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -745,10 +745,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]6 Balões (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]6BLOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]6BLOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -759,10 +759,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]T2 Trainspotting: Sem Limites 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SMLMTS2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SMLMTS2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -773,10 +773,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]O Espaço Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OESPCENTNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OESPCENTNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Drama e Romance</genre>
@@ -787,10 +787,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]Negação (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NGCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NGCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -801,10 +801,10 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 
 <item>
 <title>[COLOR white]CHiPs: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -816,10 +816,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]A Última Canção (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AULTMCAC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AULTMCAC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -830,10 +830,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Viagem das Garotas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VIAGMDSGRTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VIAGMDSGRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -844,10 +844,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Victoria e Abdul: O Confidente da Rainha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VCTREABDL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VCTREABDL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -858,10 +858,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Um Laço de Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMLCDAMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMLCDAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -872,10 +872,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Uma Razão Para Recomeçar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -886,10 +886,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Tudo e Todas as Coisas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TDETDSASCOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TDETDSASCOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -900,10 +900,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Minha Primeira Luta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHPRMLTA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNHPRMLTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -914,10 +914,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Steel Rain (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STLRN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]STLRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -928,10 +928,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Super Dark Times (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SPRDRKTMS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SPRDRKTMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -942,10 +942,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Somos Todos Iguais (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SMSTDSIGUS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SMSTDSIGUS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -956,10 +956,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SMPRDAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SMPRDAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -970,10 +970,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Roman J. Israel, Esq (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RMNJIRAL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RMNJIRAL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -984,10 +984,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Professor Marston e as Mulheres-Maravilhas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRFMRSTNEASMLHRSMRV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRFMRSTNEASMLHRSMRV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -998,10 +998,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Perfeita Pra Você (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PERFTPRVC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PERFTPRVC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1012,10 +1012,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Patti Cake$ (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PATCK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PATCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1026,10 +1026,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Último Vice-Rei (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OULTMVICREI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OULTMVICREI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1040,10 +1040,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Rei da Polca (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OREIDPLC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OREIDPLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1054,10 +1054,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Mínimo Para Viver (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMNMOPRVIVR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OMNMOPRVIVR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -1068,10 +1068,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Mundo de Carrie Pilby (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMNDCRIE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OMNDCRIE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -1082,10 +1082,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Estado das Coisas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OESTDDSCOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OESTDDSCOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1096,10 +1096,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Crime da Gávea (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -1110,10 +1110,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Newness (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NWNSS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NWNSS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1124,10 +1124,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Norman: Confie em Mim (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NRMNCONFEMIN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NRMNCONFEMIN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1138,10 +1138,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]No Rastro da Violência (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NORSTRDVLNC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NORSTRDVLNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -1152,10 +1152,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Mate o Rei (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MTOREI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MTOREI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1166,10 +1166,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Marshall: Igualdade e Justiça (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MRSLIGLDEJSTC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MRSLIGLDEJSTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1180,10 +1180,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Mark Felt: O Homem que Derrubou a Casa Branca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MRKFLTOHMNQDRBACSBRNC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MRKFLTOHMNQDRBACSBRNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1194,10 +1194,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Mulheres do Século 20 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MLHRSDSCL20.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MLHRSDSCL20.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1208,10 +1208,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Megan Leavey (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MGNLAVY.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MGNLAVY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -1222,10 +1222,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Max 2: Um Agente Animal (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MAX2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MAX2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1236,10 +1236,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Menendez: Irmãos de Sangue (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MENDZITMSDSNG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MENDZITMSDSNG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1250,10 +1250,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Kalinka: Em Nome Da Minha Filha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KLNKAEMNMDMNHFLH.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KLNKAEMNMDMNHFLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1264,10 +1264,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Honra ao Merito (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HNRAOMRTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HNRAOMRTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -1278,10 +1278,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Fobia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FBIA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FBIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1292,10 +1292,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Coração de Corredor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCAODCRDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCAODCRDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1306,10 +1306,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]A Vilã (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVLA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AVLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1320,10 +1320,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Lowriders: A Arte nos Carros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOWRDRSAARTNSCRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LOWRDRSAARTNSCRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1334,10 +1334,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]João, O Maestro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -1352,10 +1352,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]João, O Maestro (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -1370,10 +1370,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Inseparáveis (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INSPRVEIS2018.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INSPRVEIS2018.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1384,10 +1384,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Hampstead: Nunca é Tarde Para Amar (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HMPSTDNCETRDPRAMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HMPSTDNCETRDPRAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -1398,10 +1398,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Hacker: Todo Crime Tem Um Início (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HKRTDCRMTMUINC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HKRTDCRMTMUINC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -1412,10 +1412,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Gostosas, Lindas & Sexies (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional,Comédia e Romance</genre>
@@ -1426,10 +1426,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Grande Saída (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GRNDSIDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GRNDSIDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1440,10 +1440,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Extraordinário (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EXTRORDNR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]EXTRORDNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1454,10 +1454,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Elon Não Acredita na Morte (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELNACRDT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELNACRDT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -1468,10 +1468,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Detroit em Rebelião (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DTRTEMRBL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DTRTEMRBL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1482,10 +1482,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Dean: A Vida e Outras Piadas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DENAVDEORTPADS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DENAVDEORTPADS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1496,10 +1496,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Certas Mulheres (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRTSMLHRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRTSMLHRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1510,10 +1510,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Criminosos de Novembro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRMNOSDNOV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRMNOSDNOV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -1524,10 +1524,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Convidados Sem Honra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNDDOSDHNR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CNDDOSDHNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1538,10 +1538,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Meia-irmã (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BARCDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BARCDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1552,10 +1552,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Boneco de Neve (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BNCDNVE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BNCDNVE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -1566,10 +1566,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Beijar e Chorar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BJRECHRAR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BJRECHRAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1580,10 +1580,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]Baywatch: S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BAYWTCSOSMLBU.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BAYWTCSOSMLBU.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -1594,10 +1594,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]A Volta de Jack (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVLTDJACK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AVLTDJACK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1608,10 +1608,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]A Vigilante do Amanhã: Ghost in the Shell (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVAGMDFNY.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AVAGMDFNY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1622,10 +1622,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]A Viagem de Fanny (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVAGMDFNY.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AVAGMDFNY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1636,10 +1636,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]A Última Palavra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AULTMPLVRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AULTMPLVRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1650,10 +1650,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]A Última Fronteira (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AULTMFRONT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AULTMFRONT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1664,10 +1664,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]As Faces de Toni Erdmann (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASFCSDTNERDM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASFCSDTNERDM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1678,10 +1678,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]As Duas Irenes (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -1692,10 +1692,10 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 
 <item>
 <title>[COLOR white][COLOR white]A Rainha da Espanha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ARANHDESPNH.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ARANHDESPNH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -1707,10 +1707,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Promessa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]APRMSA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]APRMSA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1721,10 +1721,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Apenas um Garoto em Nova York (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]APNSUGRTOEMNVYRK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]APNSUGRTOEMNVYRK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1735,10 +1735,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Ao Cair Da Noite (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AOCRDNT2017.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AOCRDNT2017.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1749,10 +1749,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Noiva do Diabo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANVDODIAB.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANVDODIAB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1763,10 +1763,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Antes Que Eu Vá (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANTSQEVA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANTSQEVA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1777,10 +1777,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Antes do Adeus (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
@@ -1791,10 +1791,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Amor em Tempos de Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREMTMPSDGRRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMREMTMPSDGRRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -1805,10 +1805,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Amar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1819,10 +1819,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Menina Índigo (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMENIAINDGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMENIAINDGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -1833,10 +1833,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Cura (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACUA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACUA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1847,10 +1847,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Alvo Triplo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALVOTRPL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALVOTRPL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1861,10 +1861,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Além da Morte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALMDMRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALMDMRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1875,10 +1875,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Leoa (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALEOA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALEOA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1890,10 +1890,10 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 
 <item>
 <title>[COLOR white][COLOR white]A Lâmina do Imortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALAMNA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALAMNA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1904,10 +1904,10 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 
 <item>
 <title>[COLOR white][COLOR white]A Guerra dos Sexos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGURDSXS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AGURDSXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1918,10 +1918,10 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 
 <item>
 <title>[COLOR white][COLOR white]Man Down - A Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGURA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AGURA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1932,10 +1932,10 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 
 <item>
 <title>[COLOR white][COLOR white]À Espera da Chuva (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AESPRDCHV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AESPRDCHV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1946,10 +1946,10 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 
 <item>
 <title>[COLOR white][COLOR white]Adeus Christopher Robin (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ADSCHRSPRRBBIN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ADSCHRSPRRBBIN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1961,10 +1961,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]1922 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]1922.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]1922.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2069,10 +2069,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]O Poder e o Impossível (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPDREOIMPSVL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPDREOIMPSVL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2083,10 +2083,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Rainha do Mundo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RANHDMND.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RANHDMND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2097,10 +2097,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Rei Arthur – A Lenda da Espada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -2111,10 +2111,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Um Reino Unido (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2126,10 +2126,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 </item>
 <item>
 <title>[COLOR white]Um Reino Unido (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2140,10 +2140,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]As Tribos de Palos Verdes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASTRBDPLSVRDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASTRBDPLSVRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2153,10 +2153,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 </item>
 <item>
 <title>[COLOR white]A Transfiguração (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -2167,10 +2167,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Blade Runner 2049 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Ficção Cientifica</genre>
@@ -2181,10 +2181,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Churchill (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHRCHL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CHRCHL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2195,10 +2195,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Como Nossos Pais (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -2209,10 +2209,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]De Canção em Canção (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2222,10 +2222,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 </item>
 <item>
 <title>[COLOR white]DOCINHO DA AMÉRICA (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DCNHDAMRC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DCNHDAMRC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2236,10 +2236,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Demônio de Neon (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Terror e Drama</genre>
@@ -2250,10 +2250,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Dunkirk (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DUKRK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DUKRK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
@@ -2264,10 +2264,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Em Defesa de Cristo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EMDEFDCRST.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]EMDEFDCRST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2278,10 +2278,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Desconhecida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSCNHCD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DSCNHCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2292,10 +2292,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Estrelas Além do Tempo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2306,10 +2306,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Estarei em Casa Para o Natal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2320,10 +2320,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Fechando Negócio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -2334,10 +2334,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Farol das Orcas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FRLDSORCS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FRLDSORCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2348,10 +2348,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Honra e Lealdade (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -2362,10 +2362,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Herbert (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -2376,10 +2376,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]La La Land: Cantando Estações (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -2390,10 +2390,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOGN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
@@ -2404,10 +2404,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Bingo: O Rei das Manhãs (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -2418,10 +2418,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Coração de Dragão (Dublado) - 1997[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -2432,10 +2432,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Coração de Dragão 2: Um Novo Começo (Dublado) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -2446,10 +2446,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Coração de Dragão 3: A Maldição do Feiticeiro (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -2460,10 +2460,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Coração de Dragão 4: A Batalha Pelo Coração de Fogo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -2474,10 +2474,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Mãe! (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MAE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MAE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -2488,10 +2488,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Na Mira Do Atirador (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NAMRDATRDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NAMRDATRDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -2502,10 +2502,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Nossas Noites (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSNITS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NOSNITS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2516,10 +2516,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]No Topo do Poder (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NTOPDPDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NTOPDPDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2530,10 +2530,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]It - A Coisa (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ITACOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ITACOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -2544,10 +2544,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Moonlight: Sob a Luz do Luar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONLGHTSBLZDLR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MONLGHTSBLZDLR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2558,10 +2558,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Amor e Tulipas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2572,10 +2572,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Em Busca de Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EMBSCDVNG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]EMBSCDVNG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2586,10 +2586,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Na Batida do Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NABTDADAMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NABTDADAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2600,10 +2600,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]O Castelo de Vidro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCSTLDVDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCSTLDVDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2614,10 +2614,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]O Estranho Que Nós Amamos  (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OESTNHQNSAMAMS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OESTNHQNSAMAMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2628,10 +2628,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Os Caminhos do Terror (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSCMNHSDOTRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSCMNHSDOTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2642,10 +2642,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]O Mago das Mentiras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMGDSMENTRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OMGDSMENTRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2656,10 +2656,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Os Meninos que Enganavam Nazistas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSMENQENGNVMNZIS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSMENQENGNVMNZIS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2670,10 +2670,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]O Túnel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OTNEL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OTNEL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2684,10 +2684,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]O Zoológico de Varsóvia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OZOLGCDVRSVIA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OZOLGCDVRSVIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2698,10 +2698,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Snowden: Herói ou Traidor (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNODNHROTRIDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNODNHROTRIDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2722,10 +2722,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Castelo de Areia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -2736,10 +2736,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Cinquenta Tons Mais Escuros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2750,10 +2750,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Chet Baker: A Lenda do Jazz (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHTBKRALNDJZ.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CHTBKRALNDJZ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2764,10 +2764,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Christine (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHRSTINE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CHRSTINE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2778,10 +2778,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Código de Silêncio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CDGDSLNC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CDGDSLNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2792,10 +2792,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]A Mala e os Errantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2806,10 +2806,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]A Lei da Noite (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALEIDNOT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALEIDNOT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -2820,10 +2820,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]A Colheita da Fé (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACLHTDFE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACLHTDFE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2834,7 +2834,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]A Origem do Dragão  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/origem-do-dragao-2017-legendado/</page></regex>
 <genre>Ação e Drama</genre>
 <info>Bruce Lee (Philip Ng), célebre lutador de artes marciais, e seu rival, o mestre de Kung Fu Wong Jack Man (Yu Xia), tentam resolver suas desavenças e divergências em uma luta sem regras. O embate, que se deu na Califórnia com poucas testemunhas, viria a se tornar o mais importante e emblemático duelo da carreira do futuro grande ator de cinema, um marco fundamental em sua trajetória. Depois desse evento, os dois ainda se unem para lutar contra o poderio da máfia chinesa em Chinatown, São Francisco.</info>
@@ -2844,7 +2844,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Quase 18 (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/quase-18-2017-dublado/</page></regex>
 <genre>Comédia e Drama</genre>
 <info>Crescer não é nada fácil para alguns, como para Nadine, uma estudante que está enfrentando uma difícil situação desde que sua melhor amiga, Krista, está namorando com o seu irmão mais velho, Darian. Nadine se sente mais sozinha do que nunca, ao menos até começar uma amizade com um jovem atencioso.</info>
@@ -2854,7 +2854,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white][COLOR white]Sem Perdão (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/sem-perdao-2017-dublado/</page></regex>
 <genre>Drama e Policial</genre>
 <info></info>
@@ -2984,10 +2984,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]A Descoberta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2998,10 +2998,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]A Fabulosa Gilly Hopkins (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -3012,10 +3012,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Aquarius (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AQRIS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AQRIS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -3026,10 +3026,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Capitão Fantástico (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -3040,10 +3040,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Deidra e Laney Assaltam um Trem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Policial e Drama</genre>
@@ -3054,10 +3054,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Depois de Tudo (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DPSDTD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DPSDTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -3068,10 +3068,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 5: Tudo ou Nada (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -3082,10 +3082,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 3 (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -3096,10 +3096,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço 2 (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -3110,10 +3110,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Ela Dança, Eu Danço (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -3124,10 +3124,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Entre Abelhas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -3138,10 +3138,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Aventura e Ficção Cientifica</genre>
@@ -3152,10 +3152,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]Jonas (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -3166,10 +3166,10 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 
 <item>
 <title>[COLOR white]José do Egito: O Filme - (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -3181,10 +3181,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Lavanda (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LVNDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LVNDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3195,10 +3195,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Mãe Só Há Uma (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MASHUM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MASHUM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -3209,10 +3209,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Mundo Cão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNDCA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNDCA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -3223,10 +3223,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Não Me Abandone Jamais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Ficção Cientifica</genre>
@@ -3237,10 +3237,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Chamado (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -3251,10 +3251,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Chamado 2 (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMDII.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCHMDII.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -3265,10 +3265,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Chamado 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -3279,10 +3279,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Chamado 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -3293,10 +3293,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Os Amores de Anne (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSAMRSDANLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSAMRSDANLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3307,10 +3307,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Sete Minutos Depois da Meia-Noite (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STMNDPSDMENTDUB.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]STMNDPSDMENTDUB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3321,10 +3321,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Sete Minutos Depois da Meia-Noite (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STMNDPSDMENT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]STMNDPSDMENT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3335,10 +3335,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Além Da Realidade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -3349,10 +3349,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Armas na Mesa (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ARMSNMSA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ARMSNMSA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3363,10 +3363,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Até o Último Homem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATOULHMN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATOULHMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -3376,10 +3376,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 </item>
 <item>
 <title>[COLOR white]Manchester à Beira Mar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MACHABRMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MACHABRMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3389,10 +3389,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 </item>
 <item>
 <title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
@@ -3403,10 +3403,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Desvio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODSVIO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ODSVIO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -3417,10 +3417,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Sangue Azul (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGAZL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNGAZL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -3431,10 +3431,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Um Limite Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMLMTENTNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMLMTENTNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3445,10 +3445,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Pandora (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PNDRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PNDRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3459,10 +3459,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Monstro no Armário (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3473,10 +3473,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Dia do Atentado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3487,10 +3487,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Horizonte Profundo: Desastre no Golfo (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -3501,10 +3501,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Breaking Bad: O Filme (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -3515,10 +3515,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Hora de Voltar (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -3529,10 +3529,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Como Eu Era Antes de Você (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -3543,10 +3543,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]As Aventuras de Pi (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -3557,10 +3557,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]A Chegada (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACHGDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Ficção Científica</genre>
@@ -3571,10 +3571,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]100 Streets (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]100STRTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]100STRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3585,10 +3585,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]Amor & Amizade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -3599,10 +3599,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -3613,10 +3613,10 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 
 <item>
 <title>[COLOR white]O Contador (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -3628,10 +3628,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Snowden: Herói ou Traidor (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNODNHROTRIDRLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNODNHROTRIDRLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3642,10 +3642,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]O Programa (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRGMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPRGMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3656,10 +3656,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]O Mestre dos Gênios (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3670,10 +3670,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Come And Find Me (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3684,10 +3684,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Sansão e Dalila (Dublado) - 1951[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -3698,10 +3698,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Ritmo Total (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -3712,10 +3712,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Os Embalos de Sábado à Noite (Dublado) - 1978[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSEMBLDSBDANT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSEMBLDSBDANT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3726,10 +3726,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Operação Dragão (Dublado) - 1973[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -3740,10 +3740,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]O Dragão do Natal (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -3754,10 +3754,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]O Aviador (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OAVADR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OAVADR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3768,10 +3768,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Namorada de Aluguel (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -3782,10 +3782,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Mercy (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MERCY.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MERCY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -3796,10 +3796,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Jogo da Morte: A Última Jogada (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -3810,10 +3810,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Horas Decisivas[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -3824,10 +3824,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Honey 3: No Ritmo do Amor[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONY3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HONY3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3838,10 +3838,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Honey 2: No Ritmo dos Sonhos (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HONY1.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HONY1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3852,10 +3852,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Guerra ao Terror (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
@@ -3867,10 +3867,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Força Para Viver (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -3881,10 +3881,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Cavalo de Guerra (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -3895,10 +3895,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Batalha de Honra (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -3909,10 +3909,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]As Torres Gêmeas (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASTRSGMS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASTRSGMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3923,10 +3923,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Esquadrão de Elite (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -3937,10 +3937,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INFRNO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INFRNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -3951,10 +3951,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Uma Canção (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>

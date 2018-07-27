@@ -5,10 +5,10 @@
 
 <item>
 <title>[COLOR white]Próxima Parada: Apocalipse (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRXMPRDAPCLPSE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRXMPRDAPCLPSE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -19,10 +19,10 @@
 
 <item>
 <title>[COLOR white]Guerreiro da Escuridão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GRERODESCRDAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GRERODESCRDAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -33,10 +33,10 @@
 
 <item>
 <title>[COLOR white]211 - O Grande Assalto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]211OGRNDASLTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]211OGRNDASLTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -47,10 +47,10 @@
 
 <item>
 <title>[COLOR white]A Noite do Jogo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANTDJGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANTDJGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
@@ -61,10 +61,10 @@
 
 <item>
 <title>[COLOR white]Rampage: Destruição Tota (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -75,10 +75,10 @@
 
 <item>
 <title>[COLOR white]Círculo de Fogo: A Revolta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -89,10 +89,10 @@
 
 <item>
 <title>[COLOR white]Vingadores: Guerra Infinita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTCINEMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTCINEMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -103,10 +103,10 @@
 
 <item>
 <title>[COLOR white]Beirute (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BEITELEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BEITELEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -117,10 +117,10 @@
 
 <item>
 <title>[COLOR white]O Passageiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPSGRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPSGRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -131,10 +131,10 @@
 
 <item>
 <title>[COLOR white]Feliz Aniversário de Casamento (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FLZANSRIODCSMNTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FLZANSRIODCSMNTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -145,10 +145,10 @@
 
 <item>
 <title>[COLOR white]Festival da Morte / Versões (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FSTVLDMRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FSTVLDMRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -159,10 +159,10 @@
 
 <item>
 <title>[COLOR white]Atos de Violencia (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATSDVIOLNC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATSDVIOLNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -173,10 +173,10 @@
 
 <item>
 <title>[COLOR white]Sleight: O Truque Perfeito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OGRNDTRQ.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OGRNDTRQ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Ficção Cientifica</genre>
@@ -187,10 +187,10 @@
 
 <item>
 <title>[COLOR white]Covil de Ladrões (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CVLDLDRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CVLDLDRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Policial e Drama</genre>
@@ -201,10 +201,10 @@
 
 <item>
 <title>[COLOR white]Mudança no Jogo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MDCANOJOGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MDCANOJOGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -215,10 +215,10 @@
 
 <item>
 <title>[COLOR white]Tomb Raider: A Origem (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TMBRDRORGM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TMBRDRORGM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -229,10 +229,10 @@
 
 <item>
 <title>[COLOR white]Psychokinesis (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -243,10 +243,10 @@
 
 <item>
 <title>[COLOR white]Crônicas da Tribo Fantasma (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Aventura</genre>
@@ -258,10 +258,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Daphne e Velma (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DPNEVLMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DPNEVLMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -272,10 +272,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Pantera Negra (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PNTRNGR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PNTRNGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -286,10 +286,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Círculo de Fogo: A Revolta (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTALEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTALEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -300,10 +300,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Perseguição Criminosa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRSGCRMNSA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRSGCRMNSA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -314,10 +314,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Esquadrão Suicida: Acerto de Contas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Animação</genre>
@@ -328,10 +328,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -342,10 +342,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Terra Selvagem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -356,10 +356,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]A Grande Muralha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGRNDMRLHA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AGRNDMRLHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -370,10 +370,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Viagem das Loucas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VGMDSLCS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VGMDSLCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -384,10 +384,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Um Dia de Caos : Mayhem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMDIDCAOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMDIDCAOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -398,10 +398,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]CHiPs: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -413,10 +413,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Apenas o Começo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]APNSOCMCO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]APNSOCMCO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -427,10 +427,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Wheelman (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]WHRLMN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]WHRLMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -441,10 +441,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Tropas Estelares: Invasores de Marte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Ação e Ficção Cientifica</genre>
@@ -455,10 +455,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]xXx: Reativado (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRPLXRATVD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRPLXRATVD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -469,10 +469,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Tempestade: Planeta em Fúria (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TMPSDPLNTEMFURA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TMPSDPLNTEMFURA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -483,10 +483,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Steel Rain (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STLRN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]STLRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -497,10 +497,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Sem Controle (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SMCNTRL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SMCNTRL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -511,10 +511,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Skyline: Além do Horizonte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -525,10 +525,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Segurança em Risco (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSSOID.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NOSSOID.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -539,10 +539,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Perda Total (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDTOTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRDTOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -553,10 +553,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Onde Está o Dinheiro? (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ONDESTODNHRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ONDESTODNHRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -567,10 +567,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Kickboxer: A Retaliação (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKBXERARETLCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KCKBXERARETLCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -581,10 +581,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Assassino: O Primeiro Alvo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OASSNOPRMRALV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OASSNOPRMRALV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -595,10 +595,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]No Limite (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOLMTE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NOLMTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -609,10 +609,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Conspiração Terrorista (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNSPRCTRRST.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CNSPRCTRRST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -623,10 +623,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]A Vilã (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVLA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AVLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -637,10 +637,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Loucuras em Familia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOUCRSEMFML.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LOUCRSEMFML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -651,10 +651,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOCSEPRGSOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LOCSEPRGSOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -665,10 +665,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Liga da Justiça  (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LGDJSTC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LGDJSTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Ficção Cientifica</genre>
@@ -679,10 +679,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Em Ritmo de Fuga (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EMRTMDFG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]EMRTMDFG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -693,10 +693,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Deus da Guerra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEUSDGRRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DEUSDGRRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -707,10 +707,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Boyka: O Imbatível (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BOYKOIMBTVL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BOYKOIMBTVL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -721,10 +721,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Baywatch: S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BAYWTCSOSMLBU.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BAYWTCSOSMLBU.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -735,10 +735,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Atração Violenta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATRCVIOLENT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATRCVIOLENT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -749,10 +749,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Ataque a Bushwick (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATQABUSHWCK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATQABUSHWCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -763,10 +763,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]12 Rounds 3: Caçada Mortal (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]12RNDS3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]12RNDS3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -777,10 +777,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]A Onda Perfeita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -792,10 +792,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]A Múmia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMUM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMUM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -806,10 +806,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white][COLOR white]A Lâmina do Imortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALAMNA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALAMNA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -820,10 +820,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white][COLOR white]A Inundação (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AINDCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AINDCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -875,10 +875,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Assassinos Múltiplos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASSNSMULT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASSNSMULT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -889,10 +889,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Bright (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRGHT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BRGHT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -903,10 +903,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Rei Arthur – A Lenda da Espada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -917,10 +917,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -931,10 +931,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Uma Agente Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -945,10 +945,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white][COLOR white]Valerian e a Cidade dos Mil Planetas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -959,10 +959,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Velozes e Furiosos 8 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VLZEFROSOS08.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VLZEFROSOS08.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -973,10 +973,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VNGA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VNGA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -987,10 +987,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Caçada Brutal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CACDBRTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CACDBRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1002,10 +1002,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Dunkirk (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DUKRK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DUKRK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
@@ -1016,10 +1016,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]Kickboxer: A Vingança Do Dragão (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKBXRVNGA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KCKBXRVNGA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1030,10 +1030,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -1044,10 +1044,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1058,10 +1058,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Kite: Anjo Da Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KTANJDVNGC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KTANJDVNGC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1072,10 +1072,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Logan (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOGN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
@@ -1086,10 +1086,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Coração de Dragão (Dublado) - 1997[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -1100,10 +1100,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Coração de Dragão 2: Um Novo Começo (Dublado) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -1114,10 +1114,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Coração de Dragão 3: A Maldição do Feiticeiro (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -1128,10 +1128,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Coração de Dragão 4: A Batalha Pelo Coração de Fogo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -1142,10 +1142,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Mecânica das Sombras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MECMDSMBRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MECMDSMBRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1156,10 +1156,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Dia De Trabalho Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1170,10 +1170,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]O Fim do Dia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Terror</genre>
@@ -1184,10 +1184,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]O Grande Roubo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OGRNDRB.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OGRNDRB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1198,10 +1198,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Operação Mekong (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1212,10 +1212,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1226,10 +1226,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Resident Evil: A Vingança (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Terror</genre>
@@ -1240,10 +1240,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1274,10 +1274,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]Atomica: Agente Especial (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATMCAGNTESPC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATMCAGNTESPC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1308,7 +1308,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]Bon Cop, Bad Cop 2  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/bon-cop-bad-cop-2-2017-legendado/</page></regex>
 <genre>Ação</genre>
 <info>Seis anos se passaram desde Martin Ward e David Bouchard reuniram-se em uma maneira espetacular na fronteira Quebec / Ontario. Os dois homens ficaram amigos, mas o tempo tem seu preço e eles não se falam há quase um ano. Neste segundo capítulo, Ward e Bouchard deve enfrentar uma importante quadrilha de roubo de carro que acaba por ser muito mais do que esperava: um onde os carros roubados servirá como bombas em um ataque terrorista bem planejado.</info>
@@ -1318,7 +1318,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]A Origem do Dragão  (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/origem-do-dragao-2017-legendado/</page></regex>
 <genre>Ação e Drama</genre>
 <info>Bruce Lee (Philip Ng), célebre lutador de artes marciais, e seu rival, o mestre de Kung Fu Wong Jack Man (Yu Xia), tentam resolver suas desavenças e divergências em uma luta sem regras. O embate, que se deu na Califórnia com poucas testemunhas, viria a se tornar o mais importante e emblemático duelo da carreira do futuro grande ator de cinema, um marco fundamental em sua trajetória. Depois desse evento, os dois ainda se unem para lutar contra o poderio da máfia chinesa em Chinatown, São Francisco.</info>
@@ -1328,7 +1328,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
 <genre>Ação,Nacional e Faroeste</genre>
 <info>Criado e dirigido por Marcelo Galvão (Colegas), a história é um faroeste e acontece entre as décadas de 1910 e 1940, e conta a história de Cabeleira (Morgado), um temido matador do estado de Pernambuco. Cabeleira, criado por um cangaceiro local chamado Sete Orelhas (Montenegro), que o encontrou abandonado quando bebê, cresce no sertão completamente isolado da civilização. Agora um adulto, ele finalmente vai à cidade para procurar o desaparecido Sete Orelhas e encontra uma cidade sem lei, governada pelo tirânico Monsieur Blanchard (Chicot), um francês que domina o mercado de pedras preciosas e anteriormente empregava Sete Orelhas como seu matador.</info>
@@ -1338,7 +1338,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]Vovô Disfarçado (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/vovo-disfarcado-2017-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>O encontro de Jake com a garota dos sonhos toma outro rumo quando ela desaparece. Mas o avô dele, um ex-oficial da inteligencia, está dispostoa encontrá-la.</info>
@@ -1348,7 +1348,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/loucos-e-perigosos-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>
@@ -1408,10 +1408,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -1512,10 +1512,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1526,10 +1526,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Busca Explosiva 5: Campo de Batalha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV5.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV5.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1540,10 +1540,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Busca Explosiva 4 (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV4.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV4.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1554,10 +1554,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Busca Explosiva 3 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1568,10 +1568,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Busca Explosiva 2 (Dublado) - 2009[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1582,10 +1582,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Busca Explosiva (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSCEXPLSV1.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BSCEXPLSV1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1596,10 +1596,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Ação e Aventura</genre>
@@ -1610,10 +1610,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MXSTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1624,10 +1624,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Maze Runner: Prova de Fogo (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Cientifica</genre>
@@ -1638,10 +1638,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Reza a Lenda (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RZALND.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RZALND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Ação</genre>
@@ -1652,10 +1652,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]The Warrior's Gate (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]WRISGT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]WRISGT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1666,10 +1666,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1680,10 +1680,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Resgate Suicida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1694,10 +1694,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]A Lenda do Rei Macaco (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1708,10 +1708,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1722,10 +1722,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1736,10 +1736,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1750,10 +1750,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Resident Evil 6: O Capítulo Final (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL06.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL06.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1764,10 +1764,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Resident Evil 6: O Capítulo Final (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1778,10 +1778,10 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 
 <item>
 <title>[COLOR white]Resident Evil 5: Retribuição (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL05.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1795,10 +1795,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Resident Evil 4: Recomeço (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL04.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL04.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1809,10 +1809,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Resident Evil 3: A Extinção (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL03.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL03.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1823,10 +1823,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Resident Evil: Apocalipse (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL02.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL02.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1837,10 +1837,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Resident Evil: O Hóspede Maldito (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL01.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL01.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1851,10 +1851,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Passageiros (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Romance</genre>
@@ -1865,10 +1865,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Horizonte Profundo: Desastre no Golfo (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1879,10 +1879,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Hancock (Dublado) - 2008[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HNCK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HNCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1893,10 +1893,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Assassin's Creed (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1907,10 +1907,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]O Shaolin Do Sertão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Nacional e Comédia</genre>
@@ -1921,10 +1921,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Kick Ass: Quebrando Tudo (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
@@ -1935,10 +1935,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Kick-Ass 2 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
@@ -1949,10 +1949,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Assassino a Preço Fixo (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1963,10 +1963,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Assassino a Preço Fixo 2: A Ressurreição (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1977,10 +1977,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>Jack Reacher: Sem Retorno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JCKRCHSRTN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JCKRCHSRTN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1991,10 +1991,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]A Volta do Juízo Final (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVLTDJZFNL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AVLTDJZFNL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2005,10 +2005,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -2019,10 +2019,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2033,10 +2033,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2047,10 +2047,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2061,10 +2061,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2075,10 +2075,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2089,10 +2089,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2103,10 +2103,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]O Contador (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -2118,10 +2118,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Terror</genre>
@@ -2132,10 +2132,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Spectral (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SPCTRL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SPCTRL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -2146,10 +2146,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Sete Homens e Um Destino (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Faroeste</genre>
@@ -2160,10 +2160,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Planeta dos Tubarões (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Científica e Terror</genre>
@@ -2174,10 +2174,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Os Caçadores de Atlântida (Dublado) - 1983[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -2188,10 +2188,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Operação Dragão (Dublado) - 1973[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -2202,10 +2202,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Jogo da Morte (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -2216,10 +2216,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]A Fúria do Dragão (Dublado) - 1972[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AFRDRGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AFRDRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2230,10 +2230,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Jason Bourne (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2244,10 +2244,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Jogo da Morte: A Última Jogada (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -2258,10 +2258,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Horas Decisivas[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -2272,10 +2272,10 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 
 <item>
 <title>[COLOR white]Guerra ao Terror (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
@@ -2287,10 +2287,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Cyborg: O Dragão do Futuro (Dublado) - 1989[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -2301,10 +2301,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Batalha de Honra (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -2315,10 +2315,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Esquadrão de Elite (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -2329,10 +2329,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]iBoy (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]IBOY.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]IBOY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -2343,10 +2343,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INFRNO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INFRNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -2357,10 +2357,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Gênios do Crime (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
@@ -2371,10 +2371,10 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 
 <item>
 <title>[COLOR white]Esquadrao Suicida (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>

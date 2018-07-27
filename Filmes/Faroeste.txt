@@ -13,10 +13,10 @@
 
 <item>
 <title>[COLOR white][COLOR white]Amaldiçoada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Faroeste</genre>
@@ -27,7 +27,7 @@
 
 <item>
 <title>[COLOR white][COLOR white]O Matador (Nacional) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-matador-2017-nacional/</page></regex>
 <genre>Ação,Nacional e Faroeste</genre>
 <info>Criado e dirigido por Marcelo Galvão (Colegas), a história é um faroeste e acontece entre as décadas de 1910 e 1940, e conta a história de Cabeleira (Morgado), um temido matador do estado de Pernambuco. Cabeleira, criado por um cangaceiro local chamado Sete Orelhas (Montenegro), que o encontrou abandonado quando bebê, cresce no sertão completamente isolado da civilização. Agora um adulto, ele finalmente vai à cidade para procurar o desaparecido Sete Orelhas e encontra uma cidade sem lei, governada pelo tirânico Monsieur Blanchard (Chicot), um francês que domina o mercado de pedras preciosas e anteriormente empregava Sete Orelhas como seu matador.</info>
@@ -37,10 +37,10 @@
 
 <item>
 <title>[COLOR white]Sete Homens e Um Destino (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Faroeste</genre>

@@ -7,10 +7,10 @@
 
 <item>
 <title>[COLOR white]Um Lugar Silencioso (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMLGRSLNCOSO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMLGRSLNCOSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -21,10 +21,10 @@
 
 <item>
 <title>[COLOR white]Abandonada: O Mal Foi Eleito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABNDNDOMLFOIELTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABNDNDOMLFOIELTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -35,10 +35,10 @@
 
 <item>
 <title>[COLOR white]Disturbio (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSTURB.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DSTURB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -49,10 +49,10 @@
 
 <item>
 <title>[COLOR white]Mimic: Não Confie nas Vozes (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MMCNCNFNASVZS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MMCNCNFNASVZS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -63,10 +63,10 @@
 
 <item>
 <title>[COLOR white]Verónica (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VRNCA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VRNCA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -77,10 +77,10 @@
 w
 <item>
 <title>[COLOR white]Os Curados (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSCRDOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSCRDOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -91,10 +91,10 @@ w
 
 <item>
 <title>[COLOR white]Luzes de Phoenix (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LUZSDPNX.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LUZSDPNX.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -105,10 +105,10 @@ w
 
 <item>
 <title>[COLOR white]Carnivore: O Lobisomem de Londres (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRNVRE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRNVRE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -119,10 +119,10 @@ w
 
 <item>
 <title>[COLOR white]Mãe e Pai (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MAEPAI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MAEPAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -133,10 +133,10 @@ w
 
 <item>
 <title>[COLOR white]A Maldição da Casa Winchester (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMLDCDCSWNCHSTR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMLDCDCSWNCHSTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -147,10 +147,10 @@ w
 
 <item>
 <title>[COLOR white]Os Esquecidos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSEQCDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSEQCDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -161,10 +161,10 @@ w
 
 <item>
 <title>[COLOR white]Sobrenatural: A Última Chave (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SBNTLAULTMCHV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SBNTLAULTMCHV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -175,10 +175,10 @@ w
 
 <item>
 <title>[COLOR white]Fragmentado (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FRGMTDO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FRGMTDO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -189,10 +189,10 @@ w
 
 <item>
 <title>[COLOR white]Um Dia de Caos : Mayhem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMDIDCAOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMDIDCAOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -203,10 +203,10 @@ w
 
 <item>
 <title>[COLOR white]Pesadelos Mortais (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PDRSMLMTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PDRSMLMTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -217,10 +217,10 @@ w
 
 <item>
 <title>[COLOR white]Massacre no Texas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MASCRNTXS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MASCRNTXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -231,10 +231,10 @@ w
 
 <item>
 <title>[COLOR white]Dia dos Mortos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DIADSMRTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DIADSMRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -245,10 +245,10 @@ w
 
 <item>
 <title>[COLOR white]Vamps: A Morte Não Existe para o Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -259,10 +259,10 @@ w
 
 <item>
 <title>[COLOR white]Vende-se Esta Casa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VNDSESTCS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VNDSESTCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -273,10 +273,10 @@ w
 
 <item>
 <title>[COLOR white]Vamps: A Morte Não Existe para o Amor (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -287,10 +287,10 @@ w
 
 <item>
 <title>[COLOR white]Totem (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TOTM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TOTM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -301,10 +301,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Pequeno Demônio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PQNDEMO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PQNDEMO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -315,10 +315,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]O Som (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSOM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSOM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -329,10 +329,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Nunca Diga Seu Nome (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NUNCDGSNME.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NUNCDGSNME.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -343,10 +343,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]O Halloween de Madea (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OHLWNDMDEA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OHLWNDMDEA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -357,10 +357,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Continue Assistindo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNTNASSTND.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CNTNASSTND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -371,10 +371,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Corra! (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CORRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CORRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -385,10 +385,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]O Paradoxo Cloverfield (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CLVRFLDAPRTCDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CLVRFLDAPRTCDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -399,10 +399,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]A Volta de Jack (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AVLTDJACK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AVLTDJACK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -413,10 +413,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Área 15 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AR15.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AR15.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -427,10 +427,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]A Noiva (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANIVA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANIVA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -441,10 +441,10 @@ w
 
 <item>
 <title>[COLOR white]Annabelle 2: A Criação do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (NetCine)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANBL2ACRCDML.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANBL2ACRCDML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -455,10 +455,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]A Cura (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACUA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACUA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -469,10 +469,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Alvo Triplo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALVOTRPL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALVOTRPL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -483,10 +483,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Além da Morte (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALMDMRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALMDMRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -497,10 +497,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]A Babá (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABAB.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABAB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -511,10 +511,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]A Autópsia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AAUTSPS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AAUTSPS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -525,10 +525,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]31: A Morte É A Única Saída (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]31AMRTEAUNCSID.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]31AMRTEAUNCSID.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -539,10 +539,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]7 Desejos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]7DSJS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]7DSJS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -584,10 +584,10 @@ w
 
 <item>
 <title>[COLOR white]Amityville: O Despertar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMTVLODSPRTR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMTVLODSPRTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -598,10 +598,10 @@ w
 
 <item>
 <title>[COLOR white]A Transfiguração (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -612,10 +612,10 @@ w
 
 <item>
 <title>[COLOR white]Sam Was Here (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SAMWSHRE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SAMWSHRE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -626,10 +626,10 @@ w
 
 <item>
 <title>[COLOR white]Demônio de Neon (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Terror e Drama</genre>
@@ -640,10 +640,10 @@ w
 
 <item>
 <title>[COLOR white]Dominação (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DMNCAO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DMNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -654,10 +654,10 @@ w
 
 <item>
 <title>[COLOR white]Mãe! (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MAE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MAE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -668,10 +668,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]It - A Coisa (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ITACOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ITACOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -682,10 +682,10 @@ w
 
 <item>
 <title>[COLOR white]Dia De Trabalho Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -696,10 +696,10 @@ w
 
 <item>
 <title>[COLOR white]O Bar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OBAR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OBAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -710,10 +710,10 @@ w
 
 <item>
 <title>[COLOR white]O Criador do Boneco Robert (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCRADRDBNCORBRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCRADRDBNCORBRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -724,10 +724,10 @@ w
 
 <item>
 <title>[COLOR white]O Fim do Dia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Terror</genre>
@@ -738,10 +738,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Clowntergeist (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -752,10 +752,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Conexão Mortal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -766,7 +766,7 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Olhos Famintos 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/olhos-famintos-3-2017-legendado/</page></regex>
 <genre>Suspense e Terror</genre>
 <info>No último dia de alimentação de vinte e três dias do Creeper, as equipes policiais do Sargento Tubbs reúnem uma força-tarefa, na missão de destruir o Creeper para sempre. O Creeper trava uma batalha sangrenta enquanto seus inimigos se aproximam de descobrir o segredo de suas origens sombrias.</info>
@@ -776,7 +776,7 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Área 51 - A Invasão Alien (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/alien-domicile-2017-legendado/</page></regex>
 <genre>Terror</genre>
 <info>Após décadas de teorias da conspiração e segredos, a CIA finalmente reconheceu a existência da Área 51. Mas isso não foi o suficiente, pois o que acontece lá dentro ainda é um mistério. Agora, um grupo heterogêneo, que inclui membros do exército e funcionários do governo, está preso nesse ambiente infame e precisa descobrir uma saída. Mas esse lugar trará surpresas horríveis pelo caminho, quando eles são forçados a enfrentar sinistros experimentos e seres de outros planetas. Eles saberão exatamente o que está acontecendo lá, para o bem ou para o mal.</info>
@@ -786,7 +786,7 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]O Filho do Satã (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/o-filho-do-sata-2017-legendado/</page></regex>
 <genre>Terror</genre>
 <info>Após um estranho incidente durante seu chá de bebê, a enfermeira Allison é levada para o hospital às pressas, para o parto do prematuro Neron. Depois do nascimento, a vida de Allison é cercada por misteriosos acontecimentos, ilusões, sonhos e assassinatos sem explicação. Todos os eventos acabam tendo uma ligação com bebê Neron e sua mãe tem premonições repentinas que revelam as próximas vítimas de seu filho. Em busca de ajuda, ela conhece o Reverendo Jones que tentará de todas as formas libertar o garoto deste poder maligno.</info>
@@ -817,10 +817,10 @@ w
 
 <item>
 <title>[COLOR white][COLOR white]Invocação do Mal 2 (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INVCAODML2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INVCAODML2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -831,10 +831,10 @@ w
 268
 <item>
 <title>[COLOR white][COLOR white]Invocação do Mal (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INVCAODML.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INVCAODML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -865,10 +865,10 @@ w
 
 <item>
 <title>[COLOR white]Jogos Mortais: O Final (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS07.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS07.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -879,10 +879,10 @@ w
 
 <item>
 <title>[COLOR white]Jogos Mortais 6 (Dublado) - 2009[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTS06.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTS06.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -894,10 +894,10 @@ No entanto, quando a investigação do FBI se aproxima do detetive, ele é obrigado
 
 <item>
 <title>[COLOR white]Jogos Mortais 5 (Dublado) - 2008[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS05.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -911,10 +911,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]Jogos Mortais 4 (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS04.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS04.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -925,10 +925,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]Jogos Mortais 3 (Dublado) - 2006[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS03.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS03.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -939,10 +939,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]Jogos Mortais 2 (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTAS02.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTAS02.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -953,10 +953,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]Jogos Mortais (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGSMRTS01.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JGSMRTS01.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1008,10 +1008,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]Escondidos (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESCNDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESCNDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1022,10 +1022,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]O Chamado (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1036,10 +1036,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]O Chamado 2 (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMDII.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCHMDII.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1050,10 +1050,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]O Chamado 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1064,10 +1064,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]O Chamado 3 (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1078,10 +1078,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]Além Da Realidade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1092,10 +1092,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]O Olho do Mal (Dublado) - 2008[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OLHDML.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OLHDML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1106,10 +1106,10 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 
 <item>
 <title>[COLOR white]12 Horas para Sobreviver: O Ano Da Eleição / Uma Noite de Crime 3 (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMNTDCRM3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1122,10 +1122,10 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 
 <item>
 <title>[COLOR white]Uma Noite de Crime 2: Anarquia (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMNTDCRM2ARQU.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM2ARQU.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1136,10 +1136,10 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 
 <item>
 <title>[COLOR white]Uma Noite de Crime (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMNTDCRM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMNTDCRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1150,10 +1150,10 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 
 <item>
 <title>[COLOR white]Resident Evil 6: O Capítulo Final (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1164,10 +1164,10 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 
 <item>
 <title>[COLOR white]Resident Evil 5: Retribuição (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL05.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1181,10 +1181,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Resident Evil 4: Recomeço (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL04.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL04.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1195,10 +1195,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Resident Evil 3: A Extinção (Dublado) - 2007[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL03.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL03.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1209,10 +1209,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Resident Evil: Apocalipse (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL02.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL02.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1223,10 +1223,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Resident Evil: O Hóspede Maldito (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]REVIL01.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]REVIL01.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1237,10 +1237,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]O Exorcismo de Anna Ecklund (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -1251,10 +1251,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Ouija: Origem Do Mal (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OUJORGMDML.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OUJORGMDML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1265,10 +1265,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Ouija Exorcismo (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OUJEXRCMS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OUJEXRCMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1279,10 +1279,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Ouija: Onde Tudo Começo (Dublado) - 2011.[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
@@ -1293,10 +1293,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Fugindo Do Inferno (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FGNDINFNO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FGNDINFNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1307,10 +1307,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Bruxa de Blair (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BRXDBLR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BRXDBLR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1321,10 +1321,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]A Bruxa de Blair 2: O Livro das Sombras (Dublado) - 2001[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRXDBLR2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABRXDBLR2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1335,10 +1335,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Anjos e Demônios (Dublado) - 2009[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANJSEDMNIS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANJSEDMNIS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1349,10 +1349,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Terror</genre>
@@ -1363,10 +1363,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Planeta dos Tubarões (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Científica e Terror</genre>
@@ -1377,10 +1377,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Uma Noite Com a Família Blacks (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -1391,10 +1391,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Os Pássaros (Dublado) - 1963[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSPSRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSPSRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1405,10 +1405,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]American Poltergeist (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -1419,10 +1419,10 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 
 <item>
 <title>[COLOR white]Quando as Luzes se Apagam (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QNDASLZSAPGM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]QNDASLZSAPGM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>

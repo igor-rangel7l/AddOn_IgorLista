@@ -5,10 +5,10 @@
 
 <item>
 <title>[COLOR white]A Garota Perfeita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGRTPRFTA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AGRTPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -19,10 +19,10 @@
 
 <item>
 <title>[COLOR white]O Doutor da Felicidade Knock (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODTRDFLCDADE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ODTRDFLCDADE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -33,10 +33,10 @@
 
 <item>
 <title>[COLOR white]Acertando o Passo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACRTDOPASO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACRTDOPASO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -47,10 +47,10 @@
 
 <item>
 <title>[COLOR white]Gostos e Cores (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GOSTSECRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GOSTSECRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -61,10 +61,10 @@
 
 <item>
 <title>[COLOR white]Gostos e Cores (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GOSTSECRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GOSTSECRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -75,10 +75,10 @@
 
 <item>
 <title>[COLOR white]Medidas Desesperadas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -89,10 +89,10 @@
 
 <item>
 <title>[COLOR white]A Noite do Jogo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANTDJGO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANTDJGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
@@ -103,10 +103,10 @@
 
 <item>
 <title>[COLOR white]Paulo, Apóstolo de Cristo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PLNOQSEPRFTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PLNOQSEPRFTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Comédia e Policial</genre>
@@ -117,10 +117,10 @@
 
 <item>
 <title>[COLOR white]Minha Primeira Caçada (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHAPRMRACACDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNHAPRMRACACDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -131,10 +131,10 @@
 
 <item>
 <title>[COLOR white]Ella e John (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELEJHN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELEJHN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -145,10 +145,10 @@
 
 <item>
 <title>[COLOR white]A Melhor Escolha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -159,10 +159,10 @@
 
 <item>
 <title>[COLOR white]A Melhor Escolha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMLHRESCLHA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMLHRESCLHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -173,10 +173,10 @@
 
 <item>
 <title>[COLOR white]O Plano Imperfeito (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPLNIMPRPTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPLNIMPRPTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -187,10 +187,10 @@
 
 <item>
 <title>[COLOR white]De Encontro com a Vida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DENCTROCMAVDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DENCTROCMAVDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -201,10 +201,10 @@
 
 <item>
 <title>[COLOR white]Um Tira E Meio: A Nova Recruta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMTREMEIOANVRCRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMTREMEIOANVRCRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -215,10 +215,10 @@
 
 <item>
 <title>[COLOR white]Toc Toc: Uma Comedia Obsessivamente Divertida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TCTCUMCMDUBSVDVRTDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TCTCUMCMDUBSVDVRTDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -229,10 +229,10 @@
 
 <item>
 <title>[COLOR white]Gnomeu e Julieta: O Mistério do Jardim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SHRLCKGNMSEOMSTRODJRDM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SHRLCKGNMSEOMSTRODJRDM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -243,10 +243,10 @@
 
 <item>
 <title>[COLOR white]Peixonauta: O Filme (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Aventura</genre>
@@ -257,10 +257,10 @@
 
 <item>
 <title>[COLOR white]Alex Strangelove (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALXSTRGLV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALXSTRGLV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -271,10 +271,10 @@
 
 <item>
 <title>[COLOR white]Acrimonia (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACRMNIA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACRMNIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -285,10 +285,10 @@
 
 <item>
 <title>[COLOR white]Os Farofeiros (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSFAROFRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSFAROFRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -299,10 +299,10 @@
 
 <item>
 <title>[COLOR white]Lady Bird: A Hora de Voar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LADYBRDEHRDEVOAR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LADYBRDEHRDEVOAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -313,10 +313,10 @@
 
 <item>
 <title>[COLOR white]Um Acampamento do Barulho (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMACMPDBRLHO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMACMPDBRLHO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -327,10 +327,10 @@
 
 <item>
 <title>[COLOR white]Psychokinesis (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -341,10 +341,10 @@
 
 <item>
 <title>[COLOR white]O Jeremias (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OJRMS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OJRMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -355,10 +355,10 @@
 
 <item>
 <title>[COLOR white]Ibiza: Tudo Pelo DJ[/COLOR] [COLOR yellow](+18)[/COLOR][COLOR white](Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]IBZTDPLDJ.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]IBZTDPLDJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -369,10 +369,10 @@
 
 <item>
 <title>[COLOR white]Fala Sério, Mãe! (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FLASROMAE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FLASROMAE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -383,10 +383,10 @@
 
 <item>
 <title>[COLOR white]A Repartição do Tempo (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Romance</genre>
@@ -397,10 +397,10 @@
 
 <item>
 <title>[COLOR white]A Escolha Perfeita 3 - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -411,10 +411,10 @@
 
 <item>
 <title>[COLOR white]A Escolha Perfeita 2 (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -425,10 +425,10 @@
 704
 <item>
 <title>[COLOR white]A Escolha Perfeita (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AESCLHPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -439,10 +439,10 @@
 
 <item>
 <title>[COLOR white]Daphne e Velma (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DPNEVLMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DPNEVLMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -453,10 +453,10 @@
 
 <item>
 <title>[COLOR white]A Escala: Amizade Em Segundo Lugar (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AESCLAMZDEEMSGNDLGR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AESCLAMZDEEMSGNDLGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -467,10 +467,10 @@
 
 <item>
 <title>[COLOR white]Mãe e Pai (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MAEPAI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MAEPAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -491,10 +491,10 @@
 
 <item>
 <title>[COLOR white]Ingrid Vai para o Oeste (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INGRDVPROSTE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INGRDVPROSTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -505,10 +505,10 @@
 
 <item>
 <title>[COLOR white]A Barraca do Beijo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABARCDBJ.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABARCDBJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -519,10 +519,10 @@
 
 <item>
 <title>[COLOR white]Três Anúncios Para um Crime (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Comédia e Policial</genre>
@@ -533,10 +533,10 @@
 
 <item>
 <title>[COLOR white]Lino: Uma Aventura de Sete Vidas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Nacional e Comédia</genre>
@@ -549,10 +549,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Eu Não Sou um Homem Fácil (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]EUNSOUMHMNFCL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]EUNSOUMHMNFCL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -563,10 +563,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Dude: A Vida é Assim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DUDAVDEASSM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DUDAVDEASSM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -577,10 +577,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Debaixo do Mesmo Teto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DBXDMSMTTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DBXDMSMTTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -591,10 +591,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Correndo Atrás de um Pai (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRNDATRSDUMPAI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRNDATRSDUMPAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -605,10 +605,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Te Pego na Saída (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TPGNSDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TPGNSDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -619,10 +619,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Slam (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SLM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -633,10 +633,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Mindhorn (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MINDHRN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MINDHRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -647,10 +647,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -661,10 +661,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]Viagem das Loucas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VGMDSLCS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VGMDSLCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -675,10 +675,10 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 
 <item>
 <title>[COLOR white]CHiPs: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -690,10 +690,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Boo 2! Um Halloween De Madea (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BO2IHLWNDMDEA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BO2IHLWNDMDEA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -704,10 +704,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Apenas o Começo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]APNSOCMCO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]APNSOCMCO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -718,10 +718,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Wilson (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]WLSN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]WLSN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -732,10 +732,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Viagem das Garotas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VIAGMDSGRTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VIAGMDSGRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -746,10 +746,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Um Tio Quase Perfeito (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMTIOQSPRFTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMTIOQSPRFTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -760,10 +760,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Uma Noite e Tanto (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMNTEMTANT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMNTEMTANT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -774,10 +774,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Uma Floresta Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -788,10 +788,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white]Step Sisters (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]STPSTRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]STPSTRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -802,10 +802,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Pequeno Demônio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PQNDEMO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PQNDEMO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -816,10 +816,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Rip Tide: A Garota da Hora (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RPDTDAGRTDHRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RPDTDAGRTDHRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -830,10 +830,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Quando nos Conhecemos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QNDNSCONHMS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]QNDNSCONHMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -844,10 +844,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Perfeita é a Mãe 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRFTEAMA2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRFTEAMA2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -858,10 +858,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Perda Total (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDTOTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRDTOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -872,10 +872,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Santo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSNTO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSNTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -886,10 +886,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Os Brutamontes 2 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSBRTMNTS2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSBRTMNTS2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -900,10 +900,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Onde Está o Dinheiro? (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ONDESTODNHRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ONDESTODNHRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -914,10 +914,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Mínimo Para Viver (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMNMOPRVIVR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OMNMOPRVIVR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -928,10 +928,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Mundo de Carrie Pilby (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OMNDCRIE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OMNDCRIE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -942,10 +942,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Halloween de Madea (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OHLWNDMDEA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OHLWNDMDEA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -956,10 +956,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Offline: Sem Bônus Nessa Vida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OFLNSMBNSNESVDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OFLNSMBNSNESVDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -970,10 +970,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]O Estado das Coisas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OESTDDSCOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OESTDDSCOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -984,10 +984,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Nu (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NU.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NU.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -998,10 +998,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Noite de Abertura (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOTDABRTRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NOTDABRTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1012,10 +1012,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Ninguém Entra, Ninguém Sai (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NGMENRNGMSAI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NGMENRNGMSAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1026,10 +1026,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Não Conte para Ela (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NCNTPRELA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NCNTPRELA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1040,10 +1040,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Murilo Couto: Eu, Eu Murilo (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MRLCLTEUEUMRLO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MRLCLTEUEUMRLO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1054,10 +1054,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Mulheres do Século 20 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MLHRSDSCL20.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MLHRSDSCL20.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1068,10 +1068,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Meus 15 Anos (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MES15ANS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MES15ANS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1082,10 +1082,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Loucuras em Familia (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOUCRSEMFML.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LOUCRSEMFML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1096,10 +1096,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LOCSEPRGSOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LOCSEPRGSOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1110,10 +1110,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Inseparáveis (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INSPRVEIS2018.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INSPRVEIS2018.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1124,10 +1124,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Hampstead: Nunca é Tarde Para Amar (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HMPSTDNCETRDPRAMR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HMPSTDNCETRDPRAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -1138,10 +1138,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Gostosas, Lindas & Sexies (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional,Comédia e Romance</genre>
@@ -1152,10 +1152,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Dean: A Vida e Outras Piadas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DENAVDEORTPADS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DENAVDEORTPADS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1166,10 +1166,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Convidados Sem Honra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CNDDOSDHNR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CNDDOSDHNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1180,10 +1180,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Bunyan e Babe: Os Amigos da Floresta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1194,10 +1194,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Bem-Vindo À Meia-Idade (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BMVNDAMAIDE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BMVNDAMAIDE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1208,10 +1208,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Baywatch: S.O.S. Malibu (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BAYWTCSOSMLBU.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BAYWTCSOSMLBU.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -1222,10 +1222,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]A Última Palavra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AULTMPLVRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AULTMPLVRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1236,10 +1236,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]Atração Violenta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATRCVIOLENT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATRCVIOLENT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1250,10 +1250,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]As Faces de Toni Erdmann (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASFCSDTNERDM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASFCSDTNERDM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1264,10 +1264,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]As Excluídas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASEXCLDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASEXCLDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1278,10 +1278,10 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 
 <item>
 <title>[COLOR white][COLOR white]A Rainha da Espanha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ARANHDESPNH.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ARANHDESPNH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -1293,10 +1293,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Área 15 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AR15.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AR15.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -1307,10 +1307,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Aposentadoria Voluntária (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]APSTDRIAVLTAR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]APSTDRIAVLTAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1321,10 +1321,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Noite É Delas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANTEDLS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANTEDLS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1335,10 +1335,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Antes do Adeus (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
@@ -1349,10 +1349,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]Amigas Inseparáveis (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMGSINSPRVS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMGSINSPRVS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1363,10 +1363,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Incrível Aventura de Rick Baker (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AINCRVLAVNTDRCK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AINCRVLAVNTDRCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1377,10 +1377,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Hora Oficial (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AHROFCL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AHROFCL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1391,10 +1391,10 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 
 <item>
 <title>[COLOR white][COLOR white]A Guerra dos Sexos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGURDSXS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AGURDSXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1466,10 +1466,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Despedida em Grande Estilo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DESPDAEMGRNDESTLO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DESPDAEMGRNDESTLO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Policial</genre>
@@ -1480,10 +1480,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Uma Agente Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1494,10 +1494,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Uma Noite de Loucuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMANTDLOCRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMANTDLOCRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1508,10 +1508,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Como Nossos Pais (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -1522,10 +1522,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Como se Tornar um Conquistador (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMSTNRUMCONQSTDR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CMSTNRUMCONQSTDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1536,10 +1536,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white][COLOR white]Fechando Negócio (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1550,10 +1550,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -1564,10 +1564,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]La La Land: Cantando Estações (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -1578,10 +1578,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Alibi.com (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALBCM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALBCM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1592,10 +1592,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Como Se Tornar o Pior Aluno da Escola (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1606,10 +1606,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Meu Malvado Favorito 3 (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -1620,10 +1620,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Logan Lucky: Roubo em Família (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELGNLCKYRBEMFML.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELGNLCKYRBEMFML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1634,10 +1634,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]O Bar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OBAR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OBAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -1648,10 +1648,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]O Reino Gelado: Fogo e Gelo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1662,10 +1662,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]#REALITYHIGH (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RALTYHGH.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RALTYHGH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1696,7 +1696,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white][COLOR white]Quase 18 (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/quase-18-2017-dublado/</page></regex>
 <genre>Comédia e Drama</genre>
 <info>Crescer não é nada fácil para alguns, como para Nadine, uma estudante que está enfrentando uma difícil situação desde que sua melhor amiga, Krista, está namorando com o seu irmão mais velho, Darian. Nadine se sente mais sozinha do que nunca, ao menos até começar uma amizade com um jovem atencioso.</info>
@@ -1706,7 +1706,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white][COLOR white]Dupla Explosiva (Legendado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/dupla-explosiva-2017-legendado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>Um guarda-costas de elite, que só trabalha para os clientes mais seletos do mundo, descobre que terá um novo cliente: um assassino de aluguel que ressurgiu das cinzas, com quem costumava se estranhar no passado. Apesar do ódio mútuo, eles terão 24 horas para viajar de Londres para a Holanda, enquanto são perseguidos pelos agentes de um ditador do Leste Europeu.</info>
@@ -1716,7 +1716,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white][COLOR white]Vovô Disfarçado (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/vovo-disfarcado-2017-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>O encontro de Jake com a garota dos sonhos toma outro rumo quando ela desaparece. Mas o avô dele, um ex-oficial da inteligencia, está dispostoa encontrá-la.</info>
@@ -1736,7 +1736,7 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white][COLOR white]Loucos e Perigosos (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/loucos-e-perigosos-dublado/</page></regex>
 <genre>Ação e Comédia</genre>
 <info>Em Los Angeles, o detetive Steve (Bruce Willis) divide seu tempo entre o trabalho e os momentos de descanso ao lado de seu cachorro. Mas o animal é roubado por uma gangue, liderada por Spider (Jason Momoa), e Steve parte em seu encalço.</info>
@@ -1756,10 +1756,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -1810,10 +1810,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1824,10 +1824,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]A Fabulosa Gilly Hopkins (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -1838,10 +1838,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Amor em Sampa (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREMSP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMREMSP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1852,10 +1852,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Apostando Tudo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1866,10 +1866,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Bem Casados (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -1880,10 +1880,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Capitão Fantástico (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -1894,10 +1894,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Entre Abelhas (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -1908,10 +1908,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Não é Mais Um Besteirol Americano (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NEUMBSTRAMRCN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NEUMBSTRAMRCN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1922,10 +1922,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]O Roubo da Taça (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OROBDTA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OROBDTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1936,10 +1936,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Os Normais: O Filme (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1950,10 +1950,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Porta Do Fundo Contrato Vitalicio (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1964,10 +1964,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Qualquer Gato Vira-Lata 2 (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -1978,10 +1978,10 @@ Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, qua
 
 <item>
 <title>[COLOR white]Qualquer Gato Vira-Lata (Nacional) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -1994,10 +1994,10 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Superpai (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SPRPAI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SPRPAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -2008,10 +2008,10 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 
 <item>
 <title>[COLOR white]Um Suburbano Sortudo (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -2025,10 +2025,10 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Internet: O Filme (Nacional) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]INTNET.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]INTNET.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -2039,10 +2039,10 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Lisbela e o Prisioneiro (Nacional) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -2053,10 +2053,10 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Aventura,Nacional e Comédia</genre>
@@ -2067,10 +2067,10 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 
 <item>
 <title>[COLOR white]Best Player: Guerreiros Virtuais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -2083,10 +2083,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Fazenda Dos Cisnes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -2097,10 +2097,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Hop: Rebelde Sem Páscoa (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -2111,10 +2111,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Nossos Amantes (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
@@ -2125,10 +2125,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Halloweentown: A Cidade do Halloween (Dublado) - 1998[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -2139,10 +2139,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Do Que as Mulheres Gostam (Dublado) - 2001[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -2153,10 +2153,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 vCruzeiro das Loucas (Dublado) - 2003[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OCRZRDLCS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OCRZRDLCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2169,10 +2169,10 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 
 <item>
 <title>[COLOR white]Refém: O Filme (Nacional) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RFMNAC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RFMNAC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -2183,10 +2183,10 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 
 <item>
 <title>[COLOR white]Sandy Wexler (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2197,10 +2197,10 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 
 <item>
 <title>[COLOR white]Sing: Quem Canta Seus Males Espanta (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -2213,10 +2213,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Vizinhos Nada Secretos (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -2227,10 +2227,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -2241,10 +2241,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -2255,10 +2255,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -2269,10 +2269,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Minha Mãe é uma Peça 2 (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -2283,10 +2283,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Minha Mãe é uma Peça: O Filme (Nacional) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -2297,10 +2297,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]A Última Ressaca Do Ano (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2311,10 +2311,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]O Shaolin Do Sertão (Nacional) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Ação,Nacional e Comédia</genre>
@@ -2325,10 +2325,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Kick Ass: Quebrando Tudo (Dublado) - 2010[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
@@ -2339,10 +2339,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Kick-Ass 2 (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KCKASS2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
@@ -2353,10 +2353,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Hora de Voltar (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -2367,10 +2367,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Meu Irmão Cego (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2381,10 +2381,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Amor & Amizade (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -2395,10 +2395,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Desventuras em Série (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -2409,10 +2409,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Uma Noite Com a Família Blacks (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -2423,10 +2423,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Ritmo Total (Dublado) - 2002[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -2437,10 +2437,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Perfeita é a Mãe (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2451,10 +2451,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Porque é Novembro (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Romance</genre>
@@ -2465,10 +2465,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Popstar: Sem Parar, Sem Limites (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2479,10 +2479,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Namorada de Aluguel (Dublado) - 1987[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -2493,10 +2493,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Força Para Viver (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -2507,10 +2507,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Escola de Rock (Dublado) - 2004[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2521,10 +2521,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Elvis & Nixon[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2535,10 +2535,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Deu a Louca no Mundo (Dublado) - 1963[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2549,10 +2549,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Batalha de Honra (Dublado) - 1993[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -2563,10 +2563,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Gênios do Crime (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]GNSDCRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
@@ -2577,10 +2577,10 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 
 <item>
 <title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverff3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>

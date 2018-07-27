@@ -6,10 +6,10 @@
 
 <item>
 <title>[COLOR white]Uma Dobra no Tempo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMDOBRNTEMP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMDOBRNTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -20,10 +20,10 @@
 
 <item>
 <title>[COLOR white]Rampage: Destruição Tota (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -34,10 +34,10 @@
 
 <item>
 <title>[COLOR white]Minha Primeira Caçada (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MNHAPRMRACACDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MNHAPRMRACACDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -48,10 +48,10 @@
 
 <item>
 <title>[COLOR white]Jogador Nº 1 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JGDRN1.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JGDRN1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -62,10 +62,10 @@
 
 <item>
 <title>[COLOR white]Ella e John (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ELEJHN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ELEJHN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -76,10 +76,10 @@
 
 <item>
 <title>[COLOR white]Vingadores: Guerra Infinita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTCINEMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTCINEMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -90,10 +90,10 @@
 
 <item>
 <title>[COLOR white]A Melhor Escolha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -104,10 +104,10 @@
 
 <item>
 <title>[COLOR white]Um Tira E Meio: A Nova Recruta (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMTREMEIOANVRCRT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMTREMEIOANVRCRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -118,10 +118,10 @@
 
 <item>
 <title>[COLOR white]Peixonauta: O Filme (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Aventura</genre>
@@ -132,10 +132,10 @@
 
 <item>
 <title>[COLOR white]Tomb Raider: A Origem (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TMBRDRORGM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TMBRDRORGM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -146,10 +146,10 @@
 
 <item>
 <title>[COLOR white]Um Acampamento do Barulho (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMACMPDBRLHO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMACMPDBRLHO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -160,10 +160,10 @@
 
 <item>
 <title>[COLOR white]Psychokinesis (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -174,10 +174,10 @@
 
 <item>
 <title>[COLOR white]Crônicas da Tribo Fantasma (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Aventura</genre>
@@ -189,10 +189,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]A Repartição do Tempo (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Romance</genre>
@@ -203,10 +203,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Pantera Negra (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PNTRNGR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PNTRNGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -217,10 +217,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Meu Amigo Vampiro (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -231,10 +231,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]A Grande Muralha (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGRNDMRLHA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AGRNDMRLHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -245,10 +245,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]O Espaço Entre Nós (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OESPCENTNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OESPCENTNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Drama e Romance</genre>
@@ -259,10 +259,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Uma Floresta Muito Louca (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -273,10 +273,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Uma Razão Para Recomeçar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -287,10 +287,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]Tesouros Da Vida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRSROSDVA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRSROSDVA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -301,10 +301,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white]xXx: Reativado (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRPLXRATVD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRPLXRATVD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -315,10 +315,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white][COLOR white]Offline: Sem Bônus Nessa Vida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OFLNSMBNSNESVDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OFLNSMBNSNESVDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -329,10 +329,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white][COLOR white]Bunyan e Babe: Os Amigos da Floresta (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -343,10 +343,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white][COLOR white]A Torre Negra (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATRENGR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATRENGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -357,10 +357,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white][COLOR white]Ataque a Bushwick (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ATQABUSHWCK.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ATQABUSHWCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -371,10 +371,10 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 
 <item>
 <title>[COLOR white][COLOR white]A Onda Perfeita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -386,10 +386,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white][COLOR white]Amigas Inseparáveis (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AMGSINSPRVS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AMGSINSPRVS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -419,10 +419,10 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 
 <item>
 <title>[COLOR white]Jumanji: Bem-Vindo à Selva (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JMNJBMVNDASLV.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JMNJBMVNDASLV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -485,10 +485,10 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 
 <item>
 <title>[COLOR white]Transformers: O Último Cavaleiro (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -499,10 +499,10 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 
 <item>
 <title>[COLOR white]Andorinhas e Amazonas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANDRNHSEAMZNS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANDRNHSEAMZNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -514,10 +514,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white][COLOR white]Kingsman: O Círculo Dourado (Legendado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -528,10 +528,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Kong: A Ilha da Caveira (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -542,10 +542,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Lendas do Templo Perdido: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -556,10 +556,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Lendas do Templo Perdido: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -570,10 +570,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Coração de Dragão (Dublado) - 1997[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -584,10 +584,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Coração de Dragão 2: Um Novo Começo (Dublado) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -598,10 +598,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Coração de Dragão 3: A Maldição do Feiticeiro (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -612,10 +612,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Coração de Dragão 4: A Batalha Pelo Coração de Fogo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -626,10 +626,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]O Reino Gelado: Fogo e Gelo (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -640,10 +640,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Operação Mekong (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -654,10 +654,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Power Rangers (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -668,10 +668,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Os Smurfs e a Vila Perdida (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
@@ -692,10 +692,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white][COLOR white]Os Guardiões (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -726,7 +726,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white][COLOR white]Patrulha Canina: Os Filhotes Salvam o Natal  (Dublado) - 2017[/COLOR][COLOR yellow] (Estream)[/COLOR]</title>
-<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
+<link>$doregex[Filme_Igor_rangel]|User-Agent=iPhone</link><regex><name>Filme_Igor_rangel</name><expres>src="(.*mp4|Referer=http://cometa.top/watch.php.*?)"</expres><page>http://estream.to/embed-$doregex[ID_Igor_rangel].html</page><referer>http://estream.to//</referer></regex><regex><name>ID_Igor_rangel</name><expres>estream=(.*?)&</expres>
 <page>http://filmeseseriesonline.net/paw-patrol-os-filhotes-salvam-o-natal-2017-dublado/</page></regex>
 <genre>Aventura e Animação</genre>
 <info>Os filhotes se equipam para consertar o trenó do Papai Noel e salvar o Natal, levar os pinguins de volta para sua casa congelada, ajudar Everest em alguns resgates na neve e muito mais!</info>
@@ -788,10 +788,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Piratas do Caribe – A Vingança de Salazar (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -892,10 +892,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Perdido em Marte (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Aventura e Ficção Cientifica</genre>
@@ -906,10 +906,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Jovens Titãs: O Contrato de Judas (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Ação e Aventura</genre>
@@ -920,10 +920,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Max Steel (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MXSTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -934,10 +934,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]The Warrior's Gate (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]WRISGT.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]WRISGT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -948,10 +948,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -962,10 +962,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]O Auto da Compadecida (Nacional) - 2000[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Nacional e Comédia</genre>
@@ -976,10 +976,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]A Bailarina (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABLRN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
@@ -990,10 +990,10 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 
 <item>
 <title>[COLOR white]Best Player: Guerreiros Virtuais (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1006,10 +1006,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Halloweentown: A Cidade do Halloween (Dublado) - 1998[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1020,10 +1020,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]A Lenda do Rei Macaco (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1034,10 +1034,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]A Lenda do Rei Macaco 2: Viagem ao Oeste (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1048,10 +1048,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Rio 2 (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1062,10 +1062,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Rio (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RIO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1076,10 +1076,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Rogue One: Uma História Star Wars (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1090,10 +1090,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Moana: Um Mar de Aventuras (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1104,10 +1104,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Assassin's Creed (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1118,10 +1118,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]As Aventuras de Pi (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -1132,10 +1132,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Animais Fantásticos e Onde Habitam (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1146,10 +1146,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Malévola (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]MLVLA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]MLVLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1160,10 +1160,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Doutor Estranho (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1174,10 +1174,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]10000 Anos Depois (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Aventura</genre>
@@ -1188,10 +1188,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]O Rei Macaco (Legendado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -1202,10 +1202,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Desventuras em Série (Dublado) - 2005[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1216,10 +1216,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 14 - Branco: Victini e Zekrom (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1230,10 +1230,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 14 - Preto: Victini e Reshiram (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1244,10 +1244,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 15 - Kyurem contra a Espada da Justiça (Dublado) - 2012[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1258,10 +1258,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 16 - Genesect e a Lenda Reveladam (Dublado) - 2013[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1272,10 +1272,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 17 - Diancie e o Casulo da Destruição (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1286,10 +1286,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Pokémon - Filme 18 - Hoopa e o Duelo Lendário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1300,10 +1300,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Tubarão de Gelo (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Terror</genre>
@@ -1314,10 +1314,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]O Bom Gigante Amigo (Dublado) - 2016 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1328,10 +1328,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Agente Mirim (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1342,10 +1342,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Sansão e Dalila (Dublado) - 1951[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -1356,10 +1356,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]O Dragão do Natal (Dublado) - 2014[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -1370,10 +1370,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Abril e o Mundo Extraordinário (Dublado) - 2015[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Animação e Ficção Científica</genre>
@@ -1384,10 +1384,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Perdidos no Pacifico (Legendado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1398,10 +1398,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]O Lar das Crianças Peculiares (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1412,10 +1412,10 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 
 <item>
 <title>[COLOR white]Truque de Mestre: O Segundo Ato (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|User-Agent=iPad&amp;Referer=http://cometa.top/watch.php</link>
+<link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres>link: "(.*).mp4</expres>
+<expres> link: "(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
