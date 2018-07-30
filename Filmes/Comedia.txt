@@ -4,6 +4,34 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Lar Ideal (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LARIDLEG.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Paul (Paul Rudd) e Erasmus (Steve Coogan) formam um casal que vivem discutindo um com o outro por coisas banais e levam uma vida cheia de extravagâncias. Erasmus é uma celebridade exigente e popular, enquanto Paul é o seu parceiro e sócio de personalidade mais hesitante.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/8J078bU1LhhzJMjm8k91a3ETbayLcMYgU3LuYvCMYNFMgmAG8baz8AwNcEAesgi_T18zEqrkAz7v5C_C318MGd0t4mKFTFN_=w443-h332-nc</fanart>
+<thumbnail>https://media.fstatic.com/CxEwnSUpDLC7MSRQxfJYYJi3s_A=/fit-in/210x312/smart/media/movies/covers/2018/05/MV5BMTU5NzkxMTQ5Ml5BMl5BanBnXkFtZTgwODg5Mzk0NTM._V1_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pai do Ano (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PAIDANO.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Comédia</genre>
+<info>Uma noite de bebedeira levanta uma questão hipotética: se seus pais se enfrentassem em um duelo, quem venceria? Eles só não esperavam que o desafio fosse levado a sério.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/iympcdS3Dxgca7mlujLEXvL0ji9jR8RFDQ0nGUJozikDHqhV7mCejItgb9gwTTRHiaZak3UH4x7TLUU03QVa5peSROHyZyb6lb1toRg20lkL4zdLF-vil1XWggAkBFiNHgXOiYdzKU56yvyrVQaGyUgHku7xmKLh6mWJhdfgiSZZo5p9VUryIIw3P3kxfw=w509-h289-nc</fanart>
+<thumbnail>https://media.fstatic.com/-deTKafHwdGLo1r5GQbEJqFdWvA=/fit-in/210x312/smart/media/movies/covers/2018/06/father_of_the_year.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]A Garota Perfeita (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AGRTPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

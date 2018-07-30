@@ -5,6 +5,48 @@
 
 
 <item>
+<title>[COLOR white]O Aviso (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OAVSO.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Depois de seu amigo ser baleado, Jon descobre um padrão matemático nas mortes ocorridas no local e tenta alertar a próxima vítima.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/q8D_gKtHr2bPxJH-8eamNddDdYK47adzASOrnAFux9tPy1DTv4FoqRF8i_q9H6lneERphi748pEfHTGRIEWwP3_utYgx7eYLxq-3BjCzlw1cjF4T2rxj=w511-h288-nc</fanart>
+<thumbnail>https://media.fstatic.com/mWj103P695LBqfLFm2LO0_1HrTE=/fit-in/210x312/smart/media/movies/covers/2018/06/MV5BMWY5NjU4MTEtOTY0Yy00NDY1LTg5YmYtNjlkYWE1YWM4N2ZkXkEyXkFqcGdeQX_MRbjueC.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Lar Ideal (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LARIDLEG.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Paul (Paul Rudd) e Erasmus (Steve Coogan) formam um casal que vivem discutindo um com o outro por coisas banais e levam uma vida cheia de extravagâncias. Erasmus é uma celebridade exigente e popular, enquanto Paul é o seu parceiro e sócio de personalidade mais hesitante.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/8J078bU1LhhzJMjm8k91a3ETbayLcMYgU3LuYvCMYNFMgmAG8baz8AwNcEAesgi_T18zEqrkAz7v5C_C318MGd0t4mKFTFN_=w443-h332-nc</fanart>
+<thumbnail>https://media.fstatic.com/CxEwnSUpDLC7MSRQxfJYYJi3s_A=/fit-in/210x312/smart/media/movies/covers/2018/05/MV5BMTU5NzkxMTQ5Ml5BMl5BanBnXkFtZTgwODg5Mzk0NTM._V1_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Going for Gold (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GINGFRGLD.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama</genre>
+<info>Após se mudar para a Austrália, uma adolescente americana convence suas novas amigas a formar uma equipe de líderes de torcida e competir contra suas arquirrivais.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-Uq9LBEeQzrtGIPqlhNtg83nP3jTGB8aHkWQt5dUbMNKPN595E_uDuCJS</fanart>
+<thumbnail>https://media.fstatic.com/4S19VQnNW35OF5ur4kmRf-glHAU=/fit-in/210x312/smart/media/movies/covers/2018/07/e6aedae485c183ce75ab47d3c97516ce.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Todas As Razões Para Esquecer (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TDSASRZSPRESQCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

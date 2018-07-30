@@ -4,6 +4,20 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Godzilla: A Cidade no Limiar da Batalha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GDZLA2CDADNLMRDBTLH.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Ação e Ficção Cientifica</genre>
+<info>Na sequência de "Godzilla: Planeta dos Monstros", Haruo e seus companheiros fazem contato com uma tribo indígena, um dos poucos descendentes restantes da raça humana. Agora, para derrotar Godzilla, o grupo parte rumo ao laboratório do Meca-Godzilla.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS44cumukEs-5_CkrhAmTM_3SvlhaUs-JRYwaJciHTGOPo0poA9xzJdxxKPkQ</fanart>
+<thumbnail>https://media.fstatic.com/4gHuUZhrTDjaLZ-nmNL1h3KkXas=/fit-in/290x478/smart/media/movies/covers/2018/07/hGmMRNW.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]A Melhor Escolha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

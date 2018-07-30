@@ -4,6 +4,48 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Vingança (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNGNCA2018.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Terror</genre>
+<info>Três homens casados e ricos fazem anualmente uma espécie de caçada no deserto. Desta vez, um dos empresários decide trazer sua amante (Matilda Lutz). Quando ela é abandonada para morrer devido a uma série de acontecimentos, eles terão que lidar consequências de uma mulher que busca vingança.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf_ZgFb_0_F7Pn0pIteNxYc4Rmyqbko-Bjql8eRvEnsauPy-PC5MLI1Pz</fanart>
+<thumbnail>https://media.fstatic.com/GveOEv79nhDLnH9SDKh-suR0W48=/fit-in/210x312/smart/media/movies/covers/2018/04/31357997_1669089336514100_3665557632820707328_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Godzilla: A Cidade no Limiar da Batalha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GDZLA2CDADNLMRDBTLH.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Animação,Ação e Ficção Cientifica</genre>
+<info>Na sequência de "Godzilla: Planeta dos Monstros", Haruo e seus companheiros fazem contato com uma tribo indígena, um dos poucos descendentes restantes da raça humana. Agora, para derrotar Godzilla, o grupo parte rumo ao laboratório do Meca-Godzilla.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS44cumukEs-5_CkrhAmTM_3SvlhaUs-JRYwaJciHTGOPo0poA9xzJdxxKPkQ</fanart>
+<thumbnail>https://media.fstatic.com/4gHuUZhrTDjaLZ-nmNL1h3KkXas=/fit-in/290x478/smart/media/movies/covers/2018/07/hGmMRNW.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]7 Dias em Entebbe (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]7DIASEMENTBE.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Em julho de 1976, um voo da Air France de Tel-Aviv à Paris foi sequestrado e forçado a pousar em Entebbe, na Uganda. Os passageiros judeus foram mantidos reféns para ser negociada a liberação dos terroristas e anarquistas palestinos presos em Israel, na Alemanha e na Suécia. Sob pressão, o governo israelita decidiu organizar uma operação de resgate atacar o campo de pouso e soltar os reféns.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5Dj5zvNiYUvS8ClBQ5CbU0TXIyqa4ZJu9Wx5MoCKKUqWXAKeU5xRzDnE7</fanart>
+<thumbnail>https://media.fstatic.com/5vD0ZNFtRgLalA25fpduQC-ICTw=/fit-in/210x312/smart/media/movies/covers/2018/02/28168477_1178321248964464_3148140074878428458_n.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Próxima Parada: Apocalipse (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRXMPRDAPCLPSE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
