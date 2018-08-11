@@ -6,6 +6,48 @@
 
 
 <item>
+<title>[COLOR white]Desaparecida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRDA.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Policial</genre>
+<info>Um professora de uma prestigiosa escola de inglês em Buenos Aires viaja com cinco alunas para El Paraje, para estudar como a cidade do sul da Argentina ressurgiu após a erupção do vulcão Tunik. Mas na viagem, Cornelia Villalba, filha de um renomado médico, desaparece misteriosamente. Dez anos depois, o caso será reaberto e, como consequência, desaparecerá outra das quatro ex-alunas.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqmV1V9I3KfTLLgW5tu8sFobj7_kAX9i9Y5Ebi_Xmmy2vn4WPTYmTOMekOg</fanart>
+<thumbnail>https://media.fstatic.com/n_o23UHIYqidBaWiebakgbJL97g=/fit-in/210x312/smart/media/movies/covers/2018/03/perdida-2018.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Desejo de Matar (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DESJODMTR.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Policial e Drama</genre>
+<info>Após ter sua casa invadida e esposa assassinada por bandidos Paul (Bruce Willis) passa a acompanhar a polícia nas investigações para capturar os criminosos. Em poucos dias ele percebe que a polícia jamais encontrará os assassinos. Sem opções, ele terá que se aventurar por caminhos obscuros em uma jornada pessoal em busca de justiça.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSb7hnDYk-z1fsB6UqON0yi1nic8fcyUVVe1OqUhfZ5JOlg53-mqiw-j2Cm</fanart>
+<thumbnail>https://media.fstatic.com/b492zxh4PlmXNcVHX9wW4lsbOSc=/fit-in/210x312/smart/media/movies/covers/2018/02/death-wish-grindhouse-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Gringo: Vivo ou Morto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GRNGVIVOUMRT.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Comédia e Policial</genre>
+<info>Uma mistura de comédia e ação que explora a luta para sobrevivência do empresário Harold Soyinka (David Oyelowo) depois que ele atravessa a limite de cidadão respeitador da lei e se transforma em um criminoso procurado</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX3LP84bO1oFfqRIhRYSNN_qUKuYSvBeQSyS3XzPelMhHhItzNDwf0-7VJ</fanart>
+<thumbnail>https://media.fstatic.com/UIxhBxvRyc4VySchbSXtguPlIwU=/fit-in/210x312/smart/media/movies/covers/2017/12/gringo.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Tudo Começa no Brooklyn (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TDCMCNBROKLYN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

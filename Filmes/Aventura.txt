@@ -5,6 +5,62 @@
 
 
 <item>
+<title>[COLOR white]O Rei da Montanha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OREIDMNTNHA.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Aventura</genre>
+<info>Espen "Ash Lad", filho de um pobre agricultor, embarca em uma missão perigosa com seus irmãos para salvar a princesa de um vilão conhecido como o Rei da Montanha - para ganhar uma recompensa e salvar a fazenda da sua família da ruína.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/W7_x3qYZt3oOjjJVDAzWpEaI-MKPuLacNQ67vQ-uc4mP0swBYn6W5-sAG81S0NP-vXLYpBOXIK90ZSK29k0UuB7vsrLDdCzMBE2LnA=w512-h288-nc</fanart>
+<thumbnail>https://media.fstatic.com/N9xWruwtWx9iGhF23pVBZqmFTV8=/fit-in/210x312/smart/media/movies/covers/2018/07/MV5BOTg4MTE5MWQtMmE5ZC00ODA4LWI2YTktMzY0OWM0Njg1ODVlXkEyXkFqcGdeQX_4gDe1Yi.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Deadpool 2 (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DEADP2LEG.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói - tudo isso, enquanto chuta 50 tons de bundas. Porque, às vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf_PtlfU6e-LugdmoImYE8Yf-fGRVy6ERr12GPUlUxAE1XMoQ3ywK9Kob</fanart>
+<thumbnail>https://media.fstatic.com/X0n7rjicIQPsYuguOCKVs2nsl4E=/fit-in/210x312/smart/media/movies/covers/2018/05/deadpool_two_ver15_xxlg.jpg</thumbnail>
+</item>
+816
+<item>
+<title>[COLOR white]Deadpool (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DEADP.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>Ex-militar e mercenário, Wade Wilson (Ryan Reynolds) é diagnosticado com câncer em estado terminal, porém encontra uma possibilidade de cura em uma sinistra experiência científica. Recuperado, com poderes e um incomum senso de humor, ele torna-se Deadpool e busca vingança contra o homem que destruiu sua vida.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf_PtlfU6e-LugdmoImYE8Yf-fGRVy6ERr12GPUlUxAE1XMoQ3ywK9Kob</fanart>
+<thumbnail>https://media.fstatic.com/L1pqtvH3bxTRLeIUy4oZLhxab1o=/fit-in/210x312/smart/media/movies/covers/2015/12/deadpool_t14204_djEjzFl.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Vingadores: Guerra Infinita (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTLEG.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O maior e mais mortal confronto de todos os tempos. Os Vingadores e seus aliados Super Heróis devem se dispor a sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que seu ataque de devastação e ruína dê um fim ao universo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMRiI-0WLGIevV-7lL6aPyH6mLFGsJwm44HEMizLWkFNJe5tMmmUQUE2T</fanart>
+<thumbnail>https://media.fstatic.com/zOnNnoUkiZRFf7BkmyyEzD8LGDk=/fit-in/290x478/smart/media/movies/covers/2018/03/3651678.jpg-r_770_1100-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Uma Dobra no Tempo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMDOBRNTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

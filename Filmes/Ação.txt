@@ -4,6 +4,104 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Deadpool 2 (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DEADP2LEG.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói - tudo isso, enquanto chuta 50 tons de bundas. Porque, às vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf_PtlfU6e-LugdmoImYE8Yf-fGRVy6ERr12GPUlUxAE1XMoQ3ywK9Kob</fanart>
+<thumbnail>https://media.fstatic.com/X0n7rjicIQPsYuguOCKVs2nsl4E=/fit-in/210x312/smart/media/movies/covers/2018/05/deadpool_two_ver15_xxlg.jpg</thumbnail>
+</item>
+816
+<item>
+<title>[COLOR white]Deadpool (Dublado) - 2016[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DEADP.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>Ex-militar e mercenário, Wade Wilson (Ryan Reynolds) é diagnosticado com câncer em estado terminal, porém encontra uma possibilidade de cura em uma sinistra experiência científica. Recuperado, com poderes e um incomum senso de humor, ele torna-se Deadpool e busca vingança contra o homem que destruiu sua vida.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf_PtlfU6e-LugdmoImYE8Yf-fGRVy6ERr12GPUlUxAE1XMoQ3ywK9Kob</fanart>
+<thumbnail>https://media.fstatic.com/L1pqtvH3bxTRLeIUy4oZLhxab1o=/fit-in/210x312/smart/media/movies/covers/2015/12/deadpool_t14204_djEjzFl.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Morte do Superman (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMRTDSPRMN.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Animação</genre>
+<info>Quando a Lexcorp acidentalmente liberta o assassino serial intergaláctico Doomsday, Superman enfrenta a criatura mano a mano na batalha de sua vida... literalmente. O mundo inteiro lamenta a queda do herói, a humanidade percebe que nunca mais se sentirá segura novamente. Os inimigos do Superman regozijam de felicidade - todos eles menos Lex Luthor, que lamenta a perda a sua maneira, desencadeando uma seqüência de fatos marcantes que nem mesmo ele poderia prever.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeB26EnJLdTA42ywIJNZSszvD6Z_fx4zWXTtrNY0XyY12LjKiNyur0q_uL</fanart>
+<thumbnail>https://media.fstatic.com/yAtvpw1JJb0QXamcE4kCnEsk3J4=/fit-in/210x312/smart/media/movies/covers/2010/01/6eda1a653bf6d6105b44ccaac353ad14.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Desejo de Matar (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DESJODMTR.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Policial e Drama</genre>
+<info>Após ter sua casa invadida e esposa assassinada por bandidos Paul (Bruce Willis) passa a acompanhar a polícia nas investigações para capturar os criminosos. Em poucos dias ele percebe que a polícia jamais encontrará os assassinos. Sem opções, ele terá que se aventurar por caminhos obscuros em uma jornada pessoal em busca de justiça.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSb7hnDYk-z1fsB6UqON0yi1nic8fcyUVVe1OqUhfZ5JOlg53-mqiw-j2Cm</fanart>
+<thumbnail>https://media.fstatic.com/b492zxh4PlmXNcVHX9wW4lsbOSc=/fit-in/210x312/smart/media/movies/covers/2018/02/death-wish-grindhouse-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LEGO DC Comics Super Heróis: Aquaman: A Fúria de Atlântida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LGODCAQMNAFRDATLNDA.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Animação, Comédia, Ação e Ficção Cientifica</genre>
+<info>Sob ataque de Atrocitus e os Lanternas Vermelhos, Aquaman percebe que ele deve abandonar sua soberania e ir em uma jornada para recuperar sua confiança antes de retornar ao seu trono legítimo. Ao longo do caminho, Aquaman se reúne com a Liga da Justiça – incluindo Batman, Superman, Mulher Maravilha e a mais recente membro Jessica Cruz/Lanterna Verde – para derrubar o mais recente inimigo de Atlantis e ressurgir como o governante dos Sete Mares.</info>
+<fanart>https://media.fstatic.com/QC-HTXvKBnsmLoQ280mwhqRlXh8=/fit-in/210x312/smart/media/movies/covers/2018/06/41072569735_62f5950fa7.jpg</fanart>
+<thumbnail>https://media.fstatic.com/QC-HTXvKBnsmLoQ280mwhqRlXh8=/fit-in/210x312/smart/media/movies/covers/2018/06/41072569735_62f5950fa7.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Gringo: Vivo ou Morto (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]GRNGVIVOUMRT.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Comédia e Policial</genre>
+<info>Uma mistura de comédia e ação que explora a luta para sobrevivência do empresário Harold Soyinka (David Oyelowo) depois que ele atravessa a limite de cidadão respeitador da lei e se transforma em um criminoso procurado</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX3LP84bO1oFfqRIhRYSNN_qUKuYSvBeQSyS3XzPelMhHhItzNDwf0-7VJ</fanart>
+<thumbnail>https://media.fstatic.com/UIxhBxvRyc4VySchbSXtguPlIwU=/fit-in/210x312/smart/media/movies/covers/2017/12/gringo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Vingadores: Guerra Infinita (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTLEG.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O maior e mais mortal confronto de todos os tempos. Os Vingadores e seus aliados Super Heróis devem se dispor a sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que seu ataque de devastação e ruína dê um fim ao universo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMRiI-0WLGIevV-7lL6aPyH6mLFGsJwm44HEMizLWkFNJe5tMmmUQUE2T</fanart>
+<thumbnail>https://media.fstatic.com/zOnNnoUkiZRFf7BkmyyEzD8LGDk=/fit-in/290x478/smart/media/movies/covers/2018/03/3651678.jpg-r_770_1100-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Vingança (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VNGNCA2018.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

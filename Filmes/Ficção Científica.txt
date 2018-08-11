@@ -4,6 +4,48 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]LEGO DC Comics Super Heróis: Aquaman: A Fúria de Atlântida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LGODCAQMNAFRDATLNDA.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Animação, Comédia, Ação e Ficção Cientifica</genre>
+<info>Sob ataque de Atrocitus e os Lanternas Vermelhos, Aquaman percebe que ele deve abandonar sua soberania e ir em uma jornada para recuperar sua confiança antes de retornar ao seu trono legítimo. Ao longo do caminho, Aquaman se reúne com a Liga da Justiça – incluindo Batman, Superman, Mulher Maravilha e a mais recente membro Jessica Cruz/Lanterna Verde – para derrubar o mais recente inimigo de Atlantis e ressurgir como o governante dos Sete Mares.</info>
+<fanart>https://media.fstatic.com/QC-HTXvKBnsmLoQ280mwhqRlXh8=/fit-in/210x312/smart/media/movies/covers/2018/06/41072569735_62f5950fa7.jpg</fanart>
+<thumbnail>https://media.fstatic.com/QC-HTXvKBnsmLoQ280mwhqRlXh8=/fit-in/210x312/smart/media/movies/covers/2018/06/41072569735_62f5950fa7.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Extinção (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]EXTNCAO.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ficção Cientifica</genre>
+<info>Sonhando recorrentemente com a perda da sua família, um homem vê seus pesadelos se tornando realidade quando o planeta é invadido por uma força brutal e destrutiva. Ele luta pela vida e para proteger sua família, descobrindo dentro de si uma força desconhecida capaz de manter todos que amam a salvo.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/AYPtSK0F9vQHxRqN890hO5LCYKFkCuc2XQKB9f8vgCLdpCrS3rJWGXGwBSImHBMhdAfgmORkh-OqA8ACquS9RCQYC6-fuSyZ8XPKiVJSrZlxhAhMG5rT9XNvGoiMV2I5mB1Oivn1Uiu6RJxud55AvKHWGjs0tWdD6v7hNVKUVf4NArp2SUofl_7D=w534-h275-nc</fanart>
+<thumbnail>https://media.fstatic.com/Q44tcdcxW1Rqd1G4y4y-cXT9x7g=/fit-in/210x312/smart/media/movies/covers/2018/07/image002.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Vingadores: Guerra Infinita (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTLEG.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O maior e mais mortal confronto de todos os tempos. Os Vingadores e seus aliados Super Heróis devem se dispor a sacrificar tudo em uma tentativa de derrotar o poderoso Thanos antes que seu ataque de devastação e ruína dê um fim ao universo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMRiI-0WLGIevV-7lL6aPyH6mLFGsJwm44HEMizLWkFNJe5tMmmUQUE2T</fanart>
+<thumbnail>https://media.fstatic.com/zOnNnoUkiZRFf7BkmyyEzD8LGDk=/fit-in/290x478/smart/media/movies/covers/2018/03/3651678.jpg-r_770_1100-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Godzilla: A Cidade no Limiar da Batalha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]GDZLA2CDADNLMRDBTLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

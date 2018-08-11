@@ -12,6 +12,20 @@
 
 
 <item>
+<title>[COLOR white]Pistoleiros: Vingança Sem Perdão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PSTLRSVNGSMPRDAO.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Faroeste</genre>
+<info>Depois da Guerra Civil Norte-Americana, Charles Holley volta para casa e descobre que sua família foi assassinada. Deste momento em diante, a missão de vida de Charles é executar sua vingança.Ao longo de sua jornada, ele encontra dois guias, o Reverendo MacKenzie, que está em busca de redenção enquanto peregrina pelo país, e o misterioso Carlo, que o leva até Animus Smite, o homem que controla, na base da violência, a cidade.</info>
+<fanart>https://lh4.googleusercontent.com/proxy/09zjTGbm0F4JY96bGkpi0tRcyuWA_xzCX_kTENaz_oXpsns0rU6a_5PuK3jnYzA1Y7lT6UejAjlN5hfLRXc5evjxVKFDu2HsU-FGww=w512-h288-nc</fanart>
+<thumbnail>https://media.fstatic.com/2OQtmFQ0xT2CroPAzQUdYBIkeN0=/fit-in/210x312/smart/media/movies/covers/2018/07/33546743_sa.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white][COLOR white]Amaldiçoada (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

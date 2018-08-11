@@ -6,6 +6,48 @@
 
 
 <item>
+<title>[COLOR white]O Grito 3: O Início do Fim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OGRTO3.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Ju-on: Beginning of the End seguimos uma professora que visita a casa de um aluno que tem faltado às aulas. É lá que ela revive uma tragédia ocorrida há 10 anos atrás e será através de algo escondido num armário que conseguirá chegar à trágica verdade.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7scXDQbB3uljoJhvLoJ6DWYQWljO7xEVHvTV4yqHPkFD8s0k40UNiCDiO</fanart>
+<thumbnail>https://media.fstatic.com/pQnv-uKq6QO79lS8ubhUjsjHjV0=/fit-in/210x312/smart/media/movies/covers/2014/03/ju-on-owari-no-hajimari_tNone.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Os Estranhos: Caçada Noturna (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OSESTNHSCACDNTRNA.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Terror</genre>
+<info>Uma família prestes a mandar a problemática filha adolescente para o internato embarca em uma viagem de carro. Para descansar durante a noite, eles estacionam em um monótono estacionamento de trailers, onde descobrem que o terror os espreitam. A noite se torna um pesadelo quando a família se vê atormentada por um grupo de mascarados e devem lutar pela sobrevivência para escapar dos Estranhos.</info>
+<fanart>https://media.fstatic.com/9ZmmejhILO4QDvSH9VJ_R2bRDz4=/fit-in/210x312/smart/media/movies/covers/2018/03/strangers_prey_at_night_ver4.jpg</fanart>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCrH7EC7fd_txUDNuPC210vfM-4WJUEO-wD2bEl_aO3jpEXO98-LwpGCwl3g</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Mansão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMSAO.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Um grupo de estudantes decide comemorar o Ano-Novo em uma mansão abandonada e isolada, mas a farra logo se transforma em um pesadelo mortal.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJj84tm_i-MpRIfmnQ2FzdKXP9IH0PvifR7lpiN_jXpoAuFQMbpDcy2kFx</fanart>
+<thumbnail>https://media.fstatic.com/l9EaZJcGSTIuxCIelVDEP_pC7f4=/fit-in/210x312/smart/media/movies/covers/2018/07/le-manoir-french-movie-poster.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Vingança (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]VNGNCA2018.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

@@ -4,6 +4,48 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]A Morte do Superman (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMRTDSPRMN.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação e Animação</genre>
+<info>Quando a Lexcorp acidentalmente liberta o assassino serial intergaláctico Doomsday, Superman enfrenta a criatura mano a mano na batalha de sua vida... literalmente. O mundo inteiro lamenta a queda do herói, a humanidade percebe que nunca mais se sentirá segura novamente. Os inimigos do Superman regozijam de felicidade - todos eles menos Lex Luthor, que lamenta a perda a sua maneira, desencadeando uma seqüência de fatos marcantes que nem mesmo ele poderia prever.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeB26EnJLdTA42ywIJNZSszvD6Z_fx4zWXTtrNY0XyY12LjKiNyur0q_uL</fanart>
+<thumbnail>https://media.fstatic.com/yAtvpw1JJb0QXamcE4kCnEsk3J4=/fit-in/210x312/smart/media/movies/covers/2010/01/6eda1a653bf6d6105b44ccaac353ad14.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Ploey: Você Nunca Voará Sozinho (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PLOYVCNCVORSO.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Animação</genre>
+<info>Uma pequena ave ainda não aprendeu a voar quando sua família migra no outono. Ele deve sobreviver ao inverno ártico, inimigos viciosos e a si mesmo para se reunir com a amada família na próxima primavera.</info>
+<fanart>https://lh6.googleusercontent.com/proxy/Ya89tTxlTFJqa4MotQ3PEVuNgecVJm5QXYuuOp_LkA6SBX4BOgl7fYqhypwo4kTpAGfa8O9RcPQdj6K4caf97EJKrWPS94W443qZUpUmgQBLjFiCvwNu0i55-BiGSqzVO6nAURaA5fBiZSIWCLgmtwmAPhtni1hMoCOBA56IFvU=w512-h288-nc</fanart>
+<thumbnail>https://media.fstatic.com/gpPqy0E9qYrKT_3Mr3BoeDaaYU0=/fit-in/210x312/smart/media/movies/covers/2017/12/3_XAoNchc.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LEGO DC Comics Super Heróis: Aquaman: A Fúria de Atlântida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LGODCAQMNAFRDATLNDA.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Animação, Comédia, Ação e Ficção Cientifica</genre>
+<info>Sob ataque de Atrocitus e os Lanternas Vermelhos, Aquaman percebe que ele deve abandonar sua soberania e ir em uma jornada para recuperar sua confiança antes de retornar ao seu trono legítimo. Ao longo do caminho, Aquaman se reúne com a Liga da Justiça – incluindo Batman, Superman, Mulher Maravilha e a mais recente membro Jessica Cruz/Lanterna Verde – para derrubar o mais recente inimigo de Atlantis e ressurgir como o governante dos Sete Mares.</info>
+<fanart>https://media.fstatic.com/QC-HTXvKBnsmLoQ280mwhqRlXh8=/fit-in/210x312/smart/media/movies/covers/2018/06/41072569735_62f5950fa7.jpg</fanart>
+<thumbnail>https://media.fstatic.com/QC-HTXvKBnsmLoQ280mwhqRlXh8=/fit-in/210x312/smart/media/movies/covers/2018/06/41072569735_62f5950fa7.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Godzilla: A Cidade no Limiar da Batalha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]GDZLA2CDADNLMRDBTLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

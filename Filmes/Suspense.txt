@@ -9,6 +9,20 @@
 
 
 <item>
+<title>[COLOR white]Por Trás dos Seus Olhos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRTRSDSUSOLHS.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> link: "(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Drama e Suspense</genre>
+<info>Gina (Blake Lively) perde a visão e a recupera, após uma cirurgia. Ao passarem por essa mudança, que impacta o dia a dia dela e seu marido James (Jason Clarke), eles observam que o relacionamento não permanece igual, e à medida que o relacionamento muda, ambos se enxergam de uma forma diferente, como um despertar para os dois.</info>
+<fanart>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScLkSMqF6M07H_DafHObqwF0RDoQPFPYDmofUB8ztf6TajETL3J46j7cEj</fanart>
+<thumbnail>https://media.fstatic.com/memfFP8gxOPOF6d-fxk8dGWQg9U=/fit-in/210x312/smart/media/movies/covers/2017/10/all_i_see_is_you_ver2.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Mimic: Não Confie nas Vozes (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MMCNCNFNASVZS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
