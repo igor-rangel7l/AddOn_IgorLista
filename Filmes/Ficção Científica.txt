@@ -8,7 +8,7 @@
 <link>$doregex[Igor_Rangel_Link]LGODCAQMNAFRDATLNDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação, Comédia, Ação e Ficção Cientifica</genre>
@@ -22,7 +22,7 @@
 <link>$doregex[Igor_Rangel_Link]EXTNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -36,7 +36,7 @@
 <link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -50,7 +50,7 @@
 <link>$doregex[Igor_Rangel_Link]GDZLA2CDADNLMRDBTLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Ação e Ficção Cientifica</genre>
@@ -64,7 +64,7 @@
 <link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -78,7 +78,7 @@
 <link>$doregex[Igor_Rangel_Link]JGDRN1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -92,7 +92,7 @@
 <link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTCINEMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -106,7 +106,7 @@
 <link>$doregex[Igor_Rangel_Link]OGRNDTRQ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Ficção Cientifica</genre>
@@ -120,7 +120,7 @@
 <link>$doregex[Igor_Rangel_Link]LUZSDPNX.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -134,7 +134,7 @@
 <link>$doregex[Igor_Rangel_Link]FAHRNHT451.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Ficção Cientifica</genre>
@@ -148,7 +148,7 @@
 <link>$doregex[Igor_Rangel_Link]PRJCTEDN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Ficção Cientifica</genre>
@@ -162,7 +162,7 @@
 <link>$doregex[Igor_Rangel_Link]SNHSLCDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -177,7 +177,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Ação e Ficção Cientifica</genre>
@@ -191,7 +191,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]TMPSDPLNTEMFURA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -205,7 +205,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -219,7 +219,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]ONDESTSGNDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -233,7 +233,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]LGDJSTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Ficção Cientifica</genre>
@@ -247,7 +247,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]CLVRFLDAPRTCDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -261,7 +261,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]ATRENGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -275,7 +275,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]ANQLCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -289,7 +289,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]AMRSCNBAS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Ficção Cientifica</genre>
@@ -343,7 +343,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -357,7 +357,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -371,7 +371,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Ficção Cientifica</genre>
@@ -385,7 +385,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]INVSALIEN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -399,7 +399,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
@@ -413,7 +413,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Terror</genre>
@@ -427,7 +427,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -441,7 +441,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -455,7 +455,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]BLME.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -603,7 +603,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Aventura e Ficção Cientifica</genre>
@@ -617,7 +617,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -631,7 +631,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Cientifica</genre>
@@ -645,7 +645,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Ficção Cientifica</genre>
@@ -659,7 +659,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -673,7 +673,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -687,7 +687,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Romance</genre>
@@ -701,7 +701,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ACHGDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Ficção Científica</genre>
@@ -715,7 +715,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]SPCTRL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -729,7 +729,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Científica e Terror</genre>
@@ -743,7 +743,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -757,7 +757,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -771,7 +771,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]STRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ficção Científica</genre>
@@ -785,7 +785,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]IBOY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -799,7 +799,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Animação e Ficção Científica</genre>

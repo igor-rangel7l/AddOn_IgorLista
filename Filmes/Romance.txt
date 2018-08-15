@@ -11,7 +11,7 @@
 <link>$doregex[Igor_Rangel_Link]ASCDADELTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -25,7 +25,7 @@
 <link>$doregex[Igor_Rangel_Link]SHKORIOSBRDJVNTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -39,7 +39,7 @@
 <link>$doregex[Igor_Rangel_Link]HMNAOMAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -53,7 +53,7 @@
 <link>$doregex[Igor_Rangel_Link]ESRTLSNCINENCAMRE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -67,7 +67,7 @@
 <link>$doregex[Igor_Rangel_Link]ACRTDOPASO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -81,7 +81,7 @@
 <link>$doregex[Igor_Rangel_Link]OPLNIMPRPTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -95,7 +95,7 @@
 <link>$doregex[Igor_Rangel_Link]SBMRSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -109,7 +109,7 @@
 <link>$doregex[Igor_Rangel_Link]COMAMRSMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -123,7 +123,7 @@
 <link>$doregex[Igor_Rangel_Link]IBZTDPLDJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -137,7 +137,7 @@
 <link>$doregex[Igor_Rangel_Link]ETRNDMENTMNHTN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -151,7 +151,7 @@
 <link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Romance</genre>
@@ -165,7 +165,7 @@
 <link>$doregex[Igor_Rangel_Link]AESCLHPRFTA3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -179,7 +179,7 @@
 <link>$doregex[Igor_Rangel_Link]AESCLHPRFTA2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -193,7 +193,7 @@
 <link>$doregex[Igor_Rangel_Link]AESCLHPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -207,7 +207,7 @@
 <link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -221,7 +221,7 @@
 <link>$doregex[Igor_Rangel_Link]MERMNCPRFTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance</genre>
@@ -235,7 +235,7 @@
 <link>$doregex[Igor_Rangel_Link]ABARCDBJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -249,7 +249,7 @@
 <link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -263,7 +263,7 @@
 <link>$doregex[Igor_Rangel_Link]OESPCENTNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Drama e Romance</genre>
@@ -277,7 +277,7 @@
 <link>$doregex[Igor_Rangel_Link]TDETDSASCOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -291,7 +291,7 @@
 <link>$doregex[Igor_Rangel_Link]RPDTDAGRTDHRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -305,7 +305,7 @@
 <link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -319,7 +319,7 @@
 <link>$doregex[Igor_Rangel_Link]HMPSTDNCETRDPRAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -333,7 +333,7 @@
 <link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional,Comédia e Romance</genre>
@@ -347,7 +347,7 @@
 <link>$doregex[Igor_Rangel_Link]GSTSDSCT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -361,7 +361,7 @@
 <link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
@@ -375,7 +375,7 @@
 <link>$doregex[Igor_Rangel_Link]AMRSCNBAS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Ficção Cientifica</genre>
@@ -418,7 +418,7 @@
 <link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -433,7 +433,7 @@
 <link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -447,7 +447,7 @@
 <link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -460,7 +460,7 @@
 <link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -474,7 +474,7 @@
 <link>$doregex[Igor_Rangel_Link]NOSNITS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -488,7 +488,7 @@
 <link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -502,7 +502,7 @@
 <link>$doregex[Igor_Rangel_Link]CRTAODNTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance</genre>
@@ -516,7 +516,7 @@
 <link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -550,7 +550,7 @@
 <link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -564,7 +564,7 @@
 <link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -578,7 +578,7 @@
 <link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -592,7 +592,7 @@
 <link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Policial e Drama</genre>
@@ -606,7 +606,7 @@
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -620,7 +620,7 @@
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -634,7 +634,7 @@
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -648,7 +648,7 @@
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -662,7 +662,7 @@
 <link>$doregex[Igor_Rangel_Link]JNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -676,7 +676,7 @@
 <link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -691,7 +691,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Ficção Cientifica</genre>
@@ -705,7 +705,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -719,7 +719,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -735,7 +735,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]RZALND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Ação</genre>
@@ -749,7 +749,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -763,7 +763,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -777,7 +777,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
@@ -791,7 +791,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -805,7 +805,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Romance</genre>
@@ -819,7 +819,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -833,7 +833,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -847,7 +847,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -861,7 +861,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -875,7 +875,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Romance</genre>
@@ -889,7 +889,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -903,7 +903,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]MERCY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>

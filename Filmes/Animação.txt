@@ -8,7 +8,7 @@
 <link>$doregex[Igor_Rangel_Link]AMRTDSPRMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Animação</genre>
@@ -22,7 +22,7 @@
 <link>$doregex[Igor_Rangel_Link]PLOYVCNCVORSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -36,7 +36,7 @@
 <link>$doregex[Igor_Rangel_Link]LGODCAQMNAFRDATLNDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação, Comédia, Ação e Ficção Cientifica</genre>
@@ -50,7 +50,7 @@
 <link>$doregex[Igor_Rangel_Link]GDZLA2CDADNLMRDBTLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Ação e Ficção Cientifica</genre>
@@ -64,7 +64,7 @@
 <link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -78,7 +78,7 @@
 <link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Aventura</genre>
@@ -92,7 +92,7 @@
 <link>$doregex[Igor_Rangel_Link]SHRLCKGNMSEOMSTRODJRDM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -106,7 +106,7 @@
 <link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Nacional e Comédia</genre>
@@ -122,7 +122,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Animação</genre>
@@ -136,7 +136,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -150,7 +150,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -164,7 +164,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Ação e Ficção Cientifica</genre>
@@ -178,7 +178,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]BRXRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -192,7 +192,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -206,7 +206,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]BGPABGFLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -220,7 +220,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]ASAVNTRSDCAPCUC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -234,7 +234,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]ACNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -307,7 +307,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -321,7 +321,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -335,7 +335,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -349,7 +349,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -363,7 +363,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
@@ -466,7 +466,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Ação e Aventura</genre>
@@ -480,7 +480,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
@@ -494,7 +494,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -508,7 +508,7 @@ Foi revelado através dos extras de Batman e Arlequina que Um Conto de Batman: Go
 <link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -524,7 +524,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -538,7 +538,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -552,7 +552,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -566,7 +566,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
@@ -580,7 +580,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]TRLS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
@@ -594,7 +594,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Aventura</genre>
@@ -608,7 +608,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]CATNDGL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
@@ -622,7 +622,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
@@ -636,7 +636,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Animação e Ficção Científica</genre>
@@ -650,7 +650,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>

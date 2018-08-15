@@ -3,7 +3,7 @@
 <link>$doregex[Igor_Rangel_Link]JGSMRTAS03.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -17,7 +17,7 @@
 <link>$doregex[Igor_Rangel_Link]JGSMRTAS02.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -31,7 +31,7 @@
 <link>$doregex[Igor_Rangel_Link]JGSMRTS01.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -76,7 +76,7 @@
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -307,7 +307,7 @@
 <link>$doregex[Igor_Rangel_Link]INTNET.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -321,7 +321,7 @@
 <link>$doregex[Igor_Rangel_Link]WRISGT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -335,7 +335,7 @@
 <link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -352,7 +352,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]STMNDPSDMENTDUB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -365,7 +365,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]STMNDPSDMENT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -379,7 +379,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]SPRPAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -393,7 +393,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]RZALND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Ação</genre>
@@ -407,7 +407,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]REVIL06.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -421,7 +421,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -435,7 +435,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -449,7 +449,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -465,7 +465,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -479,7 +479,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]OURSURELGRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional</genre>
@@ -493,7 +493,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -507,7 +507,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]OSAMRSDANLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -521,7 +521,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]OROBDTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -535,7 +535,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]OCHMD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -549,7 +549,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]OCHMDII.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -563,7 +563,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]OCHMD3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -577,7 +577,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]OCHMD3LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -591,7 +591,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]NMABNDJMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Ficção Cientifica</genre>
@@ -605,7 +605,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]NEUMBSTRAMRCN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -619,7 +619,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]MZRNRPRVDFG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Cientifica</genre>
@@ -633,7 +633,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -647,7 +647,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]MNDCA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -661,7 +661,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]MASHUM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -675,7 +675,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]LVNDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -689,7 +689,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Ação e Aventura</genre>
@@ -703,7 +703,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -718,7 +718,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]JNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -732,7 +732,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Aventura e Ficção Cientifica</genre>
@@ -746,7 +746,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ESCNDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -760,7 +760,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -774,7 +774,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC5.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -788,7 +788,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -802,7 +802,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -816,7 +816,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ELDNCEUDNC1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -830,7 +830,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]DPSDTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -844,7 +844,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]DEDRELNYASTMUTRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Policial e Drama</genre>
@@ -858,7 +858,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]CPTFNTSC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -872,7 +872,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV5.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -886,7 +886,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV4.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -900,7 +900,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -914,7 +914,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -928,7 +928,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]BSCEXPLSV1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -942,7 +942,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -956,7 +956,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]AQRIS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -970,7 +970,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]APSTNDTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -984,7 +984,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]AMREMSP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -998,7 +998,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]AFBLSGLHP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -1012,7 +1012,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]ADSCBRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -1026,7 +1026,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]VZNHSNDSCRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1040,7 +1040,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]UMLMTENTNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1054,7 +1054,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]SNGQCSME.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -1070,7 +1070,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]SNGAZL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -1084,7 +1084,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]SNDYWXLR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1098,7 +1098,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]RFUS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre></genre>
@@ -1112,7 +1112,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]RFMNAC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -1126,7 +1126,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]OLHDML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1140,7 +1140,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]ODSVIO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -1154,7 +1154,7 @@ Dos criadores de "Meu Malvado Favorito", o filme apresenta mais de 85 canções e 
 <link>$doregex[Igor_Rangel_Link]OCRZRDLCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1170,7 +1170,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]DQAMLHRSGSTM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -1184,7 +1184,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1198,7 +1198,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1212,7 +1212,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1226,7 +1226,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]NOSAMNTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
@@ -1240,7 +1240,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]MACHABRMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1254,7 +1254,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]HOPRBLSPSC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -1268,7 +1268,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]FZNDSCSN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -1282,7 +1282,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]FNKELOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -1296,7 +1296,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCRLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1310,7 +1310,7 @@ Porém, quando ambos já estão em alto mar percebem algo: ao invés de mulheres lin
 <link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1326,7 +1326,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ATOULHMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -1340,7 +1340,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ARMSNMSA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1354,7 +1354,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ALMDRLD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -1368,7 +1368,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
@@ -1382,7 +1382,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Nacional e Comédia</genre>
@@ -1396,7 +1396,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -1410,7 +1410,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1424,7 +1424,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1438,7 +1438,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]MNSTRRCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Animação</genre>
@@ -1452,7 +1452,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]UMNTDCRM3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1468,7 +1468,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 <link>$doregex[Igor_Rangel_Link]UMNTDCRM2ARQU.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1482,7 +1482,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 <link>$doregex[Igor_Rangel_Link]UMNTDCRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1496,7 +1496,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 <link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1510,7 +1510,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 <link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1524,7 +1524,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1538,7 +1538,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 <link>$doregex[Igor_Rangel_Link]REVIL06.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1551,7 +1551,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 <link>$doregex[Igor_Rangel_Link]REVIL06LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1565,7 +1565,7 @@ pôr do sol... ou ambos serão sacrificados por seus pecados contra o Estado.</inf
 <link>$doregex[Igor_Rangel_Link]REVIL05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1582,7 +1582,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]REVIL04.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1596,7 +1596,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]REVIL03.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1610,7 +1610,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]REVIL02.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1624,7 +1624,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]REVIL01.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -1638,7 +1638,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PNDRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1652,7 +1652,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PASGRIOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Romance</genre>
@@ -1666,7 +1666,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OMSNTNARMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1680,7 +1680,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -1694,7 +1694,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ODIDATNTDO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1708,7 +1708,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1722,7 +1722,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1736,7 +1736,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]HRZNTPRFNDSTRDGLF.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -1750,7 +1750,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]HNCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1764,7 +1764,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]CLTDTY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -1778,7 +1778,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]BRKNGBDOFLMLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -1792,7 +1792,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]AULTMRSCDAN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1806,7 +1806,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1820,7 +1820,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Nacional e Comédia</genre>
@@ -1834,7 +1834,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -1848,7 +1848,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]KCKASSQBRTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
@@ -1862,7 +1862,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]KCKASS2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Ação</genre>
@@ -1876,7 +1876,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]HRDVLTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -1890,7 +1890,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]CMEUERANTSDVC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -1904,7 +1904,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -1918,7 +1918,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1932,7 +1932,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ASASINOAPRCFX2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1946,7 +1946,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1960,7 +1960,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]AAVNTRSDPABYESHRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
@@ -1974,7 +1974,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OUJORGMDML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1988,7 +1988,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OUJEXRCMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2002,7 +2002,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OUJONDTDCM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVvciAAq5Wt_wnsqKlo4Uh-MISvEZm2-ONYQ97h96uzj5Mb8Mm5YSnc69ZnA</fanart>
@@ -2016,7 +2016,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]LGDJSTCSMBRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
@@ -2030,7 +2030,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]IBOY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -2044,7 +2044,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Animação e Ficção Científica</genre>
@@ -2058,7 +2058,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ESQDSCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -2072,7 +2072,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ESQDRDELT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -2086,7 +2086,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]MLVLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -2100,7 +2100,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]MEUIRMCG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2114,7 +2114,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]JCKRCHSRTN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2128,7 +2128,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]INFRNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -2142,7 +2142,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -2156,7 +2156,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]FGNDINFNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2170,7 +2170,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -2184,7 +2184,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]AVLTDJZFNL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2198,7 +2198,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]AMRESTNHAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional</genre>
@@ -2212,7 +2212,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ACHGDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Ficção Científica</genre>
@@ -2226,7 +2226,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]BRXDBLR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2240,7 +2240,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ABRXDBLR2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2254,7 +2254,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ABRXDBLR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2268,7 +2268,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]100STRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2282,7 +2282,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]TRLS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
@@ -2296,7 +2296,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]AMREAMZD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -2310,7 +2310,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Aventura</genre>
@@ -2324,7 +2324,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -2338,7 +2338,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -2352,7 +2352,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -2366,7 +2366,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]ANJSEDMNIS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2380,7 +2380,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2394,7 +2394,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2408,7 +2408,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2422,7 +2422,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2436,7 +2436,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2450,7 +2450,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2464,7 +2464,7 @@ Ajudada por novos e velhos aliados, Alice deve lutar para viver o suficiente, at
 <link>$doregex[Igor_Rangel_Link]OCNTDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -2479,7 +2479,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]MSFRTQOMUND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional</genre>
@@ -2493,7 +2493,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Terror</genre>
@@ -2507,7 +2507,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]SPCTRL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -2522,7 +2522,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]SETHMNSEUDSTNLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Faroeste</genre>
@@ -2536,7 +2536,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OPRGMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2550,7 +2550,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]PLNTSDTUBRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Ficção Científica e Terror</genre>
@@ -2564,7 +2564,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OMSTRDSGNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2578,7 +2578,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -2592,7 +2592,7 @@ Com o Departamento Criminal do Ministério da Fazenda, coordenado por Ray King (J
 <link>$doregex[Igor_Rangel_Link]NRVUJSR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Policia</genre>
@@ -2608,7 +2608,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]CMANFNDMLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2622,7 +2622,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]CARSL2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional</genre>
@@ -2636,7 +2636,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -2650,7 +2650,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]UMANTCMAFMLBLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -2664,7 +2664,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]UMACNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2678,7 +2678,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -2692,7 +2692,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]RTMTOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -2706,7 +2706,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]PRFTEAMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2720,7 +2720,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]PQENVBRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Romance</genre>
@@ -2734,7 +2734,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]POPSTSMPRSMLMT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -2748,7 +2748,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]OVODRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2762,7 +2762,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]OSPSRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2776,7 +2776,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]OSEMBLDSBDANT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2790,7 +2790,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]OSCADRSDATLD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -2804,7 +2804,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Policia</genre>
@@ -2818,7 +2818,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -2832,7 +2832,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -2846,7 +2846,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]ODRGOCHNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -2860,7 +2860,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]OAVADR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2874,7 +2874,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]NOSSFILTRDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <info>Perry Makepeace e Gail Perkins conhecem Dima, um membro do alto escalão da máfia russa. Para tentar preservar sua vida e de sua família, Dima pede ajuda aos dois para conseguir asilo político na Inglaterra via MI6, o serviço britânico de inteligência. Em troca, promete nomes de políticos, advogados e banqueiros britânicos envolvidos em um esquema internacional de lavagem de dinheiro.</info>
@@ -2887,7 +2887,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]NARMDALGL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia,Drama e Romance</genre>
@@ -2901,7 +2901,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]AFRDRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2915,7 +2915,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]MERCY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2929,7 +2929,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]JSONBRNE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2943,7 +2943,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -2957,7 +2957,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]JOGDMRTAUJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -2971,7 +2971,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]HRSDCSVS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -2985,7 +2985,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]HONY3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2999,7 +2999,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]HONY2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3013,7 +3013,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]HONY1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3027,7 +3027,7 @@ xx
 <link>$doregex[Igor_Rangel_Link]GURAOTER.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
@@ -3042,7 +3042,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]FRCPRVIV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -3056,7 +3056,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]ESCLDRCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -3070,7 +3070,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]ELVSENIXN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -3084,7 +3084,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]DEUALUCNMND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comedia</genre>
@@ -3098,7 +3098,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]CVLDGUR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -3112,7 +3112,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]CBRGODRGDFTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Ficção Científica</genre>
@@ -3126,7 +3126,7 @@ Vencedor de seis Oscars, nas categorias Melhor Filme, Melhor Diretor, Melhor Rot
 <link>$doregex[Igor_Rangel_Link]CATNDGL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação</genre>
@@ -3140,7 +3140,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]BTLHDHNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -3154,7 +3154,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]ATHRPDLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <info>Baseado em um dos grandes eventos da Segunda Guerra Mundial, a Operação Antropoid, que visava matar o general Heydrich, que era protetor do reich. Terceiro homem mais poderoso do período nazista, ele foi o principal arquiteto da solução final das questões judáicas e da ocupação nazista na Tchecoslováquia. Suas ações fizeram com que soldados aliados se unissem para mudar o futuro da Europa.</info>
@@ -3167,7 +3167,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -3181,7 +3181,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]QNDASLZSAPGM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -3195,7 +3195,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]ASTRSGMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3209,7 +3209,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]AMRERVLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -3223,7 +3223,7 @@ fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV4vmgZJ-1U8u7ziUQ8
 <link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Suspense e Terror</genre>

@@ -9,7 +9,7 @@
 <link>$doregex[Igor_Rangel_Link]TDSASRZSPRESQCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -23,7 +23,7 @@
 <link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Drama</genre>
@@ -37,7 +37,7 @@
 <link>$doregex[Igor_Rangel_Link]NDAPRDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -51,7 +51,7 @@
 <link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Aventura</genre>
@@ -65,7 +65,7 @@
 <link>$doregex[Igor_Rangel_Link]ACRMNIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -79,7 +79,7 @@
 <link>$doregex[Igor_Rangel_Link]OSFAROFRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -93,7 +93,7 @@
 <link>$doregex[Igor_Rangel_Link]FLASROMAE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -107,7 +107,7 @@
 <link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Romance</genre>
@@ -132,7 +132,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Nacional e Comédia</genre>
@@ -148,7 +148,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]UMTIOQSPRFTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -162,7 +162,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -176,7 +176,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]NGMENRNGMSAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -190,7 +190,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]MRLCLTEUEUMRLO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -204,7 +204,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]MES15ANS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -218,7 +218,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -236,7 +236,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -254,7 +254,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional,Comédia e Romance</genre>
@@ -268,7 +268,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ELNACRDT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -282,7 +282,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -296,7 +296,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]AMENIAINDGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -320,7 +320,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -334,7 +334,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -348,7 +348,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -402,7 +402,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]AMREMSP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -416,7 +416,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]AQRIS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -430,7 +430,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BMCSDOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -444,7 +444,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]DPSDTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -458,7 +458,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ENTRABLHS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -472,7 +472,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]JNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -486,7 +486,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]JSDEGTOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -501,7 +501,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]MASHUM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -515,7 +515,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]MNDCA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -529,7 +529,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OROBDTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -543,7 +543,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OSNRMASOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -557,7 +557,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]OURSURELGRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional</genre>
@@ -571,7 +571,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]PRTSDFNDCTRVIT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -585,7 +585,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -599,7 +599,7 @@ De escravo a governador da maior nação do planeta. A história de um homem de Deu
 <link>$doregex[Igor_Rangel_Link]QLQURGTVRLT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -615,7 +615,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]RZALND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Ação</genre>
@@ -629,7 +629,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]SPRPAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -643,7 +643,7 @@ Qualquer Gato Vira-Lata é inspirada na peça (quase) homônima 'Qualquer Gato Vira
 <link>$doregex[Igor_Rangel_Link]UMSUBSRTDO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -660,7 +660,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]INTNET.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -674,7 +674,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]RSGTSCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -688,7 +688,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Nacional e Comédia</genre>
@@ -702,7 +702,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]RFMNAC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -716,7 +716,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]SNGAZL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -730,7 +730,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]OSHLINDSRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Nacional e Comédia</genre>
@@ -744,7 +744,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -758,7 +758,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]MNHMAEUMPC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional e Comédia</genre>
@@ -772,7 +772,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]AMRESTNHAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional</genre>
@@ -786,7 +786,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]MSFRTQOMUND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional</genre>
@@ -800,7 +800,7 @@ Mas ele aguenta e ainda vai tentar usar sua experiência como camelô para comanda
 <link>$doregex[Igor_Rangel_Link]CARSL2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Nacional</genre>

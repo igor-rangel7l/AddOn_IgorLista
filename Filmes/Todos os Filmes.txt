@@ -25,7 +25,7 @@ Todos Os Filmes
 <link>$doregex[Igor_Rangel_Link]OGRTO3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -39,7 +39,7 @@ Todos Os Filmes
 <link>$doregex[Igor_Rangel_Link]UMVGMPRESPNHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -53,7 +53,7 @@ Todos Os Filmes
 <link>$doregex[Igor_Rangel_Link]PRDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -67,7 +67,7 @@ Todos Os Filmes
 <link>$doregex[Igor_Rangel_Link]OSESTNHSCACDNTRNA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -81,7 +81,7 @@ Todos Os Filmes
 <link>$doregex[Igor_Rangel_Link]OREIDMNTNHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -95,7 +95,7 @@ Todos Os Filmes
 <link>$doregex[Igor_Rangel_Link]OPCTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -109,7 +109,7 @@ Todos Os Filmes
 <link>$doregex[Igor_Rangel_Link]OMTRSTDTX.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -124,7 +124,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]ASCDADELTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -138,7 +138,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]SHKORIOSBRDJVNTD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -152,7 +152,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]DEADP2LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -166,7 +166,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]DEADP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -180,7 +180,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]UMDIAPRVIVR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Um assassino (Ethan Hawke) ganha uma segunda chance quando seu empregador o traz de volta à vida temporariamente, logo após ter sido morto no trabalho. Ele ganha então 24 horas para realizar sua missão e se redimir.</info>
@@ -193,7 +193,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]PRSMPRCHPE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>A história da Chapecoense, time de futebol de Santa Catarina. Um clube que não parou em homenagem às vítimas e aos sobreviventes da tragédia.</info>
@@ -206,7 +206,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]MATRLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -220,7 +220,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]LBJAESPCDUMNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -234,7 +234,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]AMRTDSPRMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Animação</genre>
@@ -248,7 +248,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]DESJODMTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Policial e Drama</genre>
@@ -262,7 +262,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]TALPAITALFHLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -276,7 +276,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]PRTRSDSUSOLHS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Suspense</genre>
@@ -290,7 +290,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]PLOYVCNCVORSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -304,7 +304,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]NMRDMEDO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Bleed conta a história de um sonho de férias, transformado em pesadelo quando um homem deve lutar para permanecer vivo enquanto tenta salvar sua esposa de invasores maníacos.</info>
@@ -317,7 +317,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]LGODCAQMNAFRDATLNDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação, Comédia, Ação e Ficção Cientifica</genre>
@@ -331,7 +331,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]HMNAOMAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -345,7 +345,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]GRNGVIVOUMRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
@@ -359,7 +359,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]ESRTLSNCINENCAMRE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -373,7 +373,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]ASCLRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -387,7 +387,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]PSTLRSVNGSMPRDAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Faroeste</genre>
@@ -401,7 +401,7 @@ Com base na história verdadeira do Massacre de Gwangju.</info>
 <link>$doregex[Igor_Rangel_Link]OPRCENGNSA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -416,7 +416,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]EXTNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -430,7 +430,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]AULTMTSTMNHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Thriller de pós-guerra sobre o assassinato em massa de 22.000 poloneses. Após a Segunda Guerra Mundial, o jornalista Stephen Underwood (Alex Pettyfer ) descobre o terrível assassinato de 22.000 poloneses sob as instruções de Stalin, embora durante muitos anos a culpa pelo assassinato foi atribuída aos nazistas. Na época, as informações sobre o Massacre de Katyn, como veio a ser conhecido, foram encobertas por ambos os governos britânico e norte-americano em vista da delicada relação com a Rússia durante e depois da guerra.</info>
@@ -443,7 +443,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]ASAVNTRSDBGBYBER.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -457,7 +457,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]AMSAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -471,7 +471,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -484,7 +484,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]MADMHYDLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -506,7 +506,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]OAVSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -520,7 +520,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]LARIDLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -534,7 +534,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]VNGNCA2018.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -548,7 +548,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]PAIDANO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -562,7 +562,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]OSECRVSDSTNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -576,7 +576,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]GINGFRGLD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -590,7 +590,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]GDZLA2CDADNLMRDBTLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Ação e Ficção Cientifica</genre>
@@ -604,7 +604,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]7DIASEMENTBE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -626,7 +626,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]AGRTPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -640,7 +640,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]TDSASRZSPRESQCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -654,7 +654,7 @@ A narrativa concentra-se na indústria de dispositivos médicos, multibilionária e
 <link>$doregex[Igor_Rangel_Link]OCRMADUMASASNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>A história centra-se na vida de Mike Fallon, um assassino de alta classe, conhecido por fazer assassinatos parecerem acidentes infelizes. A atitude cavalheiresca de Fallon muda o dia em que sua ex-namorada, Beth é assassinada. Ele se junta com a nova namorada de Beth, Charlie (Ashley Greene) para descobrir quem a matou.
@@ -668,7 +668,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]FRNTRVRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Após dezenas de pessoas serem mortas em ataques terroristas em série, dois gênios da tecnologia criam uma maneira de acessar as memórias do terrorista em um espaço virtual.</info>
@@ -681,7 +681,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]PRXMPRDAPCLPSE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -695,7 +695,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]MARMDLNA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -709,7 +709,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]UMLGRSLNCOSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -723,7 +723,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]UMDOBRNTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -737,7 +737,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ABNDNDOMLFOIELTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -751,7 +751,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]TDCMCNBROKLYN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -765,7 +765,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ODTRDFLCDADE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -779,7 +779,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]GRERODESCRDAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -793,7 +793,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]DSTURB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -807,7 +807,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ACRTDOPASO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -821,7 +821,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]211OGRNDASLTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -846,7 +846,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]GOSTSECRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -860,7 +860,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Drama</genre>
@@ -874,7 +874,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]MEDSPRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -888,7 +888,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ANTDJGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Policial</genre>
@@ -902,7 +902,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]SOBAPLEDOLBO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -916,7 +916,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]NOSSOID.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -930,7 +930,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -944,7 +944,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]PLNOQSEPRFTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Comédia e Policial</genre>
@@ -958,7 +958,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]PALOAPSTLODCRST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -972,7 +972,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]NDAPRDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -986,7 +986,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]MNHAPRMRACACDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -1000,7 +1000,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]JGDRN1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -1014,7 +1014,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ELEJHN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -1028,7 +1028,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]AMGSDCLNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>No centro da epidemia de opioides nos EUA, quatro homens tentam reinventar suas vidas e reatar relacionamentos rompidos após anos de abuso de drogas.</info>
@@ -1041,7 +1041,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ALMDSAGUA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -1061,7 +1061,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]CRLODEFGOARVLTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1075,7 +1075,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]AVDAEMESPRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1095,7 +1095,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OCLTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1110,7 +1110,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1124,7 +1124,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]AMLHRESCLHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1148,7 +1148,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]BEITELEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1162,7 +1162,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OPSGRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1176,7 +1176,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OPLNIMPRPTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -1190,7 +1190,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]DENCTROCMAVDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1208,7 +1208,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]SBMRSO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -1222,7 +1222,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]PRJTFLDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1236,7 +1236,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]12HERS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -1250,7 +1250,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]FLZANSRIODCSMNTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1264,7 +1264,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]FSTVLDMRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1278,7 +1278,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ATSDVIOLNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -1292,7 +1292,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]UMTREMEIOANVRCRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1306,7 +1306,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]TCTCUMCMDOBSVDVRTDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1320,7 +1320,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]SHRLCKGNMSEOMSTRODJRDM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -1334,7 +1334,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Aventura</genre>
@@ -1348,7 +1348,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OGRNDTRQ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Ficção Cientifica</genre>
@@ -1362,7 +1362,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]NAESCRDAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Pianista cega, Sofia (Natalie Dormer) escuta uma briga vinda do apartamento acima do seu, que acaba levando à morte de sua vizinha, Veronique (Emily Ratajkowski). É o começo de uma jornada que empurra Sofia para fora de sua zona de conforto e a faz entrar em contato com o pai de Veronique, Milos Radic (Jan Bijvoet), um empresário sérvio e suspeito criminoso de guerra acusado de cometer genocídio durante a guerra da Bósnia, que agora vive em Londres sob asilo político. Atrás da verdade, Sofia arrisca sua vida em busca de respostas e mergulha em um obscuro submundo de corrupção, violência e chantagem. .</info>
@@ -1375,7 +1375,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]MMCNCNFNASVZS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -1389,7 +1389,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]LEVNTDPRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1403,7 +1403,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]CVLDLDRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Policial e Drama</genre>
@@ -1417,7 +1417,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ALXSTRGLV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1431,7 +1431,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ACRMNIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1445,7 +1445,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OSFAROFRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1459,7 +1459,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OPCRDSPWR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Na Rússia governada por Vladimir Putin, Dominika Egorova (Jennifer Lawrence) luta para sobreviver na era pós soviética como membro da inteligência russa. Ordenada contra sua vontade a se tornar uma Sparrow, ou seja, uma sedutora treinada, ela precisa lidar com o jovem agente da CIA Nate Nash (Joel Edgerton). Os dois acabam desenvolvendo uma paixão proibida que ameaça não só suas vidas, mas também a de outras pessoas.</info>
@@ -1472,7 +1472,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]MUDBNDLGRMSSBROMSISPI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1486,7 +1486,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]MDCANOJOGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -1500,7 +1500,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]LADYBRDEHRDEVOAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1514,7 +1514,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]DEFRPRDNTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1535,7 +1535,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]AMSCADSLCN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Cinebiografia de Andrea Bocelli. "The Music of Silence" será baseado nas memórias de Bocelli de 1999 e incluirá canções que Bocelli compôs quando era jovem, mas nunca foram lançadas anteriormente. Ambi Group está financiando e produzindo, conforme noticiou o site Variety.</info>
@@ -1548,7 +1548,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]COMAMRSMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -1562,7 +1562,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]TMBRDRORGM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1576,7 +1576,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]VRNCA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1590,7 +1590,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]UMACMPDBRLHO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1604,7 +1604,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -1618,7 +1618,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OSCRDOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1632,7 +1632,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OJRMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -1646,7 +1646,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OINSLTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1660,7 +1660,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]OCDRNODSRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1674,7 +1674,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]LUZSDPNX.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -1688,7 +1688,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]IBZTDPLDJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -1702,7 +1702,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]FLASROMAE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -1716,7 +1716,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]ETRNDMENTMNHTN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -1730,7 +1730,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]CRNVRE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1744,7 +1744,7 @@ O filme é baseado em um personagem da extinta graphic novel britânica Toxic !, q
 <link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Aventura</genre>
@@ -1759,7 +1759,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Romance</genre>
@@ -1773,7 +1773,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]AESCLHPRFTA3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -1787,7 +1787,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]AESCLHPRFTA2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -1801,7 +1801,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]AESCLHPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -1823,7 +1823,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]FAHRNHT451.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Ficção Cientifica</genre>
@@ -1837,7 +1837,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]TRMFNTSMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1851,7 +1851,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]DPNEVLMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -1865,7 +1865,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]AESCLAMZDEEMSGNDLGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -1879,7 +1879,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]OQTFZMSFRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1893,7 +1893,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]MAEPAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -1907,7 +1907,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]EUTNYA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1921,7 +1921,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]CRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -1935,7 +1935,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]AMLDCDCSWNCHSTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -1949,7 +1949,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]15H17TRMPRPRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Suspense</genre>
@@ -1973,7 +1973,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]PNTRNGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1987,7 +1987,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]CQNTTNSDLRBDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2020,7 +2020,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]MERMNCPRFTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance</genre>
@@ -2034,7 +2034,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]INGRDVPROSTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -2048,7 +2048,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]AGRNDJGD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2062,7 +2062,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]ABARCDBJ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -2092,7 +2092,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]TRSANCSPRUMCRM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Comédia e Policial</genre>
@@ -2106,7 +2106,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]PTRNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2120,7 +2120,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]PRSGCRMNSA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2134,7 +2134,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]ODSTNDUNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2148,7 +2148,7 @@ Ele precisa estudar, dar aulas de inglês, tranquilizar os pais, curtir a turma, 
 <link>$doregex[Igor_Rangel_Link]LNUMAVTRADSTVDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Nacional e Comédia</genre>
@@ -2164,7 +2164,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]EUNSOUMHMNFCL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2178,7 +2178,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]DUDAVDEASSM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -2192,7 +2192,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]DBXDMSMTTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2206,7 +2206,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]CRTRSTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2220,7 +2220,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]CRNDATRSDUMPAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2234,7 +2234,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]ACMNHDFE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2256,7 +2256,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]UMHISTRDVING.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Uma mãe solteira foi vítima de um crime brutal: um estupro coletivo. Ela foi deixada pelos criminosos em uma garagem de barcos para morrer. A única testemunha do crime, sua filha, foi desacreditada no julgamento, e vai ter que contar com a ajuda de um policial veterano da Guerra do Golfo para tentar fazer justiça pela mãe.</info>
@@ -2269,7 +2269,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]IMPRSTNCSMLDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -2283,7 +2283,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]ESQDRSCDAACRTDCNTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Animação</genre>
@@ -2297,7 +2297,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]CRDRSECRSCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2311,7 +2311,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]AMDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2325,7 +2325,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]6BLOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2349,7 +2349,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]PRJCTEDN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Ficção Cientifica</genre>
@@ -2363,7 +2363,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]OSEQCDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2385,7 +2385,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -2399,7 +2399,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]TPGNSDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2413,7 +2413,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]SLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2427,7 +2427,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]SBNTLAULTMCHV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2441,7 +2441,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]MINDHRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2455,7 +2455,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -2469,7 +2469,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]FRGMTDO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2483,7 +2483,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]AGRNDMRLHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2498,7 +2498,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]AFRMDAGULEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Uma história de amor num mundo mágico e misterioso na América em 1963. Elisa (Sally Hawkins) é uma zeladora muda que trabalha em um laboratório onde um homem anfíbio está sendo mantido em cativeiro. Quando Elisa se apaixona com a criatura, ela elabora um plano para ajudá-lo a escapar com a ajuda de seu vizinho. O mundo exterior do laboratório, no entanto, pode revelar-se mais perigoso para o homem anfíbio do que Elisa poderia ter previsto.</info>
@@ -2512,7 +2512,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]VGMDSLCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -2526,7 +2526,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]UMDIDCAOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -2540,7 +2540,7 @@ Em sua jornada para reverter o feitiço, Lino será confundido com o “maníaco da f
 <link>$doregex[Igor_Rangel_Link]SNHSLCDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -2555,7 +2555,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]SMLMTS2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2569,7 +2569,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]PDRSMLMTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2583,7 +2583,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]OESPCENTNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Drama e Romance</genre>
@@ -2597,7 +2597,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]NGCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2611,7 +2611,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]MASCRNTXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -2625,7 +2625,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]DIADSMRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2639,7 +2639,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]CONTRPNCH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Disciplina, suor, emoção e triunfo. O documentário de Jay Bulger sobre o mundo do boxe tem tudo isso. Jovens lutadores desafiam as probabilidades, determinados a colocar seus nomes ao lado dos mais célebres e adorados campeões do passado. Com um olhar arrojado sobre a dor e o orgulho indispensáveis no caminho da grandeza, Contragolpe tem o efeito de um nocaute.</info>
@@ -2652,7 +2652,7 @@ Descobre através de um sonho lúcido uma pista sobre o desaparecimento de seu fil
 <link>$doregex[Igor_Rangel_Link]CHPSOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -2667,7 +2667,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]BO2IHLWNDMDEA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2681,7 +2681,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]AULTMCAC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2695,7 +2695,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]APNSOCMCO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -2714,7 +2714,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]WLSN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2728,7 +2728,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]WHRLMN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -2741,7 +2741,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2755,7 +2755,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]VNDSESTCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -2769,7 +2769,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]VMPSAMRTNEXTPROAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2783,7 +2783,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]VIAGMDSGRTS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -2797,7 +2797,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]VCTREABDL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2811,7 +2811,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]UMTIOQSPRFTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -2825,7 +2825,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]UMNTEMTANT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -2839,7 +2839,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]UMLCDAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2853,7 +2853,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -2867,7 +2867,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2881,7 +2881,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -2895,7 +2895,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]TRSROSDVA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -2909,7 +2909,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]TRPSESTLRSINVSRSDMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Ação e Ficção Cientifica</genre>
@@ -2923,7 +2923,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]TRPLXRATVD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -2937,7 +2937,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]TOTM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -2951,7 +2951,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]TMPSDPLNTEMFURA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -2965,7 +2965,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]TDETDSASCOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -2979,7 +2979,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]MNHPRMLTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -2993,7 +2993,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]STPSTRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -3007,7 +3007,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]STLRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -3021,7 +3021,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]SPRDRKTMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3035,7 +3035,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]SMSTDSIGUS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3049,7 +3049,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]SMPRDAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -3064,7 +3064,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]SMCNTRL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -3078,7 +3078,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]SKYLNALMDHRZNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -3092,7 +3092,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]NOSSOID.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -3106,7 +3106,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]RMNJIRAL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -3120,7 +3120,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]PQNDEMO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -3134,7 +3134,7 @@ O filme gira em torno dos patrulheiros rodoviários Jon Baker (Dax Shepard) e Fra
 <link>$doregex[Igor_Rangel_Link]RSTRDUMSQSTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense</genre>
@@ -3150,7 +3150,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]RPDTDAGRTDHRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Comédia</genre>
@@ -3164,7 +3164,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]QNDNSCONHMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -3178,7 +3178,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]PRFTEAMA2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -3192,7 +3192,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]PRFMRSTNEASMLHRSMRV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3206,7 +3206,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]PRDTOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -3220,7 +3220,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]PERFTPRVC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3234,7 +3234,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]PATCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3248,7 +3248,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OULTMVICREI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3262,7 +3262,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OSOM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -3276,7 +3276,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OSNTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -3290,7 +3290,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OSBRTMNTS2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -3304,7 +3304,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OREIDPLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3318,7 +3318,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OPRCANTRPD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Baseado em um dos grandes eventos da Segunda Guerra Mundial, a Operação Antropoid, que visava matar o general Heydrich, que era protetor do reich. Terceiro homem mais poderoso do período nazista, ele foi o principal arquiteto da solução final das questões judáicas e da ocupação nazista na Tchecoslováquia. Suas ações fizeram com que soldados aliados se unissem para mudar o futuro da Europa.</info>
@@ -3331,7 +3331,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]ONDESTSGNDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -3345,7 +3345,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]ONDESTODNHRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -3359,7 +3359,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NUNCDGSNME.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -3373,7 +3373,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OMNMOPRVIVR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -3387,7 +3387,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OMNDCRIE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -3401,7 +3401,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OHLWNDMDEA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -3415,7 +3415,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OGRDOINVSVL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Policial</genre>
@@ -3429,7 +3429,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OFLNSMBNSNESVDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -3443,7 +3443,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OESTDDSCOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -3457,7 +3457,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]KCKBXERARETLCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -3471,7 +3471,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OCRMDGV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Romance</genre>
@@ -3485,7 +3485,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OASSNOPRMRALV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -3499,7 +3499,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NWNSS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3513,7 +3513,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NU.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -3527,7 +3527,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NRMNCONFEMIN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3541,7 +3541,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NOTDABRTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -3555,7 +3555,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NORSTRDVLNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -3569,7 +3569,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NOLMTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -3583,7 +3583,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NGMENRNGMSAI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -3597,7 +3597,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]NCNTPRELA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -3611,7 +3611,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MTOREI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3625,7 +3625,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MRSLIGLDEJSTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3639,7 +3639,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MRLCLTEUEUMRLO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -3653,7 +3653,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MRKFLTOHMNQDRBACSBRNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3667,7 +3667,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MLHRSPRGS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Duas jovens aterrorizadas por um grupo de psicopatas de uma pequena cidade partem em busca de vingança.</info>
@@ -3680,7 +3680,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MLHRSDSCL20.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -3694,7 +3694,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MGNLAVY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -3708,7 +3708,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MES15ANS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -3722,7 +3722,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MENDZITMSDSNG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3736,7 +3736,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]MAX2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3750,7 +3750,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]KLNKAEMNMDMNHFLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3764,7 +3764,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]HNRAOMRTO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -3778,7 +3778,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]FBIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3792,7 +3792,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]CRCAODCRDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3806,7 +3806,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]CNTNASSTND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -3820,7 +3820,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]CNSPRCTRRST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -3834,7 +3834,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]BNJI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Duas crianças criam laços com um cãozinho órfão chamado Benji. Quando eles são sequestrados por ladrões, Benji e seu parceiro humano vão ao resgate.</info>
@@ -3847,7 +3847,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]AVLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -3861,7 +3861,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]LOWRDRSAARTNSCRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -3875,7 +3875,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]LOUCRSEMFML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -3889,7 +3889,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]LOCSEPRGSOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -3903,7 +3903,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]LGDJSTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Ficção Cientifica</genre>
@@ -3916,7 +3916,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]JMNJBMVNDASLV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -3930,7 +3930,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -3948,7 +3948,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]JAOOMSTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -3966,7 +3966,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]INSPRVEIS2018.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -3980,7 +3980,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]HMPSTDNCETRDPRAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -3994,7 +3994,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]HKRTDCRMTMUINC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -4008,7 +4008,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]GSTSLNDESXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional,Comédia e Romance</genre>
@@ -4022,7 +4022,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]GSTSDSCT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Nacional e Comédia</genre>
@@ -4036,7 +4036,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]GRNDSIDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4050,7 +4050,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]EXTRORDNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4064,7 +4064,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]EMRTMDFG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -4078,7 +4078,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ELNACRDT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -4092,7 +4092,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]DTRTEMRBL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4106,7 +4106,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]DEUSDGRRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -4120,7 +4120,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]DENAVDEORTPADS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -4134,7 +4134,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CRTSMLHRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4148,7 +4148,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CRMNOSDNOV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -4162,7 +4162,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CORRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -4176,7 +4176,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CONTDWMTDTHPBLESCBR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Com entrevistas raras, imagens e escutas clandestinas, documentário reconstrói os últimos nove anos de Pablo Escobar, o chefão do narcotráfico da Colômbia.</info>
@@ -4189,7 +4189,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CNFRTONPVLH99.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Bradley Thomas é um ex-boxeador que perde o emprego como mecânico e resolve trabalhar, contra a vontade, como entregador de drogas, unicamente para dar uma vida melhor à esposa que está grávida do seu primeiro filho. Depois de uma entrega de rotina sair terrivelmente errado, Bradley é preso e mergulha num inferno de extrema violência.</info>
@@ -4202,7 +4202,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CNDDOSDHNR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -4216,7 +4216,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]CLVRFLDAPRTCDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -4230,7 +4230,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BARCDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4244,7 +4244,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BRXRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -4258,7 +4258,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BRBLTNGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Um escritor sem muita sorte na vida encontra um andarilho e oferece um lugar para ele ficar. No entanto, quando o estranho enlouquecido faz de refém o escritor e o obriga a escrever, isso traz muitos segredos à tona.</info>
@@ -4271,7 +4271,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BOYKOIMBTVL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -4285,7 +4285,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -4299,7 +4299,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BNCDNVE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -4313,7 +4313,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BMVNDAMAIDE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -4327,7 +4327,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BJRECHRAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4341,7 +4341,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BGPABGFLH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -4355,7 +4355,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]BAYWTCSOSMLBU.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Comédia e Drama</genre>
@@ -4369,7 +4369,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]AVLTDJACK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -4383,7 +4383,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]AVAGMDFNY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4397,7 +4397,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]AVAGMDFNY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4411,7 +4411,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]AULTMPLVRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -4425,7 +4425,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]AULTMFRONT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4439,7 +4439,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ATRENGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -4453,7 +4453,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ATRCVIOLENT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -4467,7 +4467,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ATQABUSHWCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -4487,7 +4487,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]12RNDS3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -4501,7 +4501,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ASNHRCNZ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>O parceiro do detetive de homicídios James Doyle de Boston é assassinado em uma emboscada. Sua busca por justiça o leva para a remota ilha de Nantucket.</info>
@@ -4514,7 +4514,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ASFCSDTNERDM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -4528,7 +4528,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ASEXCLDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -4542,7 +4542,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ASDUSIRNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -4556,7 +4556,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ASAVNTRSDCAPCUC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -4570,7 +4570,7 @@ Já consagrado e após décadas de carreira, aposentou-se como pianista em 2002 dev
 <link>$doregex[Igor_Rangel_Link]ARANHDESPNH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Drama</genre>
@@ -4585,7 +4585,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AR15.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -4599,7 +4599,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]APSTDRIAVLTAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -4613,7 +4613,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]APRMSA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4627,7 +4627,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]APNSUGRTOEMNVYRK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4641,7 +4641,7 @@ Anos 1950. A atriz espanhola Macarena Granada (Penélope Cruz) se tornou uma gran
 <link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -4656,7 +4656,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AOCRDNT2017.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4670,7 +4670,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ANVDODIAB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4684,7 +4684,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ANTSQEVA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4698,7 +4698,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ANTEDLS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -4712,7 +4712,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ANTSDADUS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance,Comédia e Drama</genre>
@@ -4726,7 +4726,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ANQLCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -4740,7 +4740,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ANIVA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -4758,7 +4758,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ANBL2ACRCDML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -4777,7 +4777,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AMUM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -4794,7 +4794,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AMRSCNBAS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance e Ficção Cientifica</genre>
@@ -4808,7 +4808,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AMREMTMPSDGRRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -4822,7 +4822,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4836,7 +4836,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AMGSINSPRVS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -4850,7 +4850,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AMENIAINDGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -4864,7 +4864,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ACUA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -4878,7 +4878,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ALVOTRPL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -4892,7 +4892,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ALMDMRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -4906,7 +4906,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]ALEOA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -4921,7 +4921,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]ALAMNA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -4935,7 +4935,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AINDCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -4949,7 +4949,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AINCRVLAVNTDRCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -4963,7 +4963,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]ABAB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -4977,7 +4977,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AHROFCL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -4991,7 +4991,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AGURDSXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -5005,7 +5005,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AGURA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5019,7 +5019,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]AESPRDCHV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5033,7 +5033,7 @@ Filme baseado na obra do escritor Erik Fosnes Hansen, que significa em inglês 'T
 <link>$doregex[Igor_Rangel_Link]ADSCHRSPRRBBIN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5048,7 +5048,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]ACNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -5062,7 +5062,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]AAUTSPS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -5079,7 +5079,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]1922.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5095,7 +5095,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]31AMRTEAUNCSID.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -5109,7 +5109,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]7DSJS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -5123,7 +5123,7 @@ Pooh (Puff) foi nomeado por causa do ursinho de Robin. Outros brinquedos verdade
 <link>$doregex[Igor_Rangel_Link]6DIS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>O filme é baseado nos eventos de abril de 1980, quando seis homens armados invadiram a embaixada iraniana em Londres e tomaram mais de 20 pessoas como reféns por seis dias.</info>
@@ -5454,7 +5454,7 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 <link>$doregex[Igor_Rangel_Link]DECNCAOEMCNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -5468,7 +5468,7 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 <link>$doregex[Igor_Rangel_Link]CMSTNRUMCONQSTDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -5482,7 +5482,7 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 <link>$doregex[Igor_Rangel_Link]CMNSPAS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Nacional e Comédia</genre>
@@ -5496,7 +5496,7 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 <link>$doregex[Igor_Rangel_Link]CHRCHL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5510,7 +5510,7 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 <link>$doregex[Igor_Rangel_Link]CACDBRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -5525,7 +5525,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]BLDRNR2049.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Ficção Cientifica</genre>
@@ -5539,7 +5539,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ATRNSFGRCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -5553,7 +5553,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ASTRBDPLSVRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5567,7 +5567,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]AMTVLODSPRTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -5581,7 +5581,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]VNGA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -5595,7 +5595,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]VLZEFROSOS08.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -5608,7 +5608,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -5622,7 +5622,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]VLRIANEACDEDSMLPLNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica</genre>
@@ -5635,7 +5635,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]UMRNOUND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -5649,7 +5649,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]UMANTDLOCRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -5663,7 +5663,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]UMAGNTMTLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Comédia</genre>
@@ -5677,7 +5677,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -5691,7 +5691,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]REARTHRALNDESPDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Drama</genre>
@@ -5704,7 +5704,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]RANHDMND.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5719,7 +5719,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OPDREOIMPSVL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5733,7 +5733,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]DESPDAEMGRNDESTLO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Policial</genre>
@@ -5747,7 +5747,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]BRGHT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Policial</genre>
@@ -5761,7 +5761,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ASSNSMULT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -5775,7 +5775,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
@@ -5789,7 +5789,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]SONMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Uma equipe de trabalhadores altamente treinada fica sem saída dentro de uma base militar após o sistema de segurança subitamente entrar em pane. O grupo começa a presenciar terríveis fenômenos enquanto tentam descobrir o que matou a equipe anterior.</info>
@@ -5802,7 +5802,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]SNODNHROTRIDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5815,7 +5815,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]RESPSTARMDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Uma equipe de trabalhadores altamente treinada fica sem saída dentro de uma base militar após o sistema de segurança subitamente entrar em pane. O grupo começa a presenciar terríveis fenômenos enquanto tentam descobrir o que matou a equipe anterior.</info>
@@ -5828,7 +5828,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Terror</genre>
@@ -5841,7 +5841,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]RESPSTARMDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Uma equipe de trabalhadores altamente treinada fica sem saída dentro de uma base militar após o sistema de segurança subitamente entrar em pane. O grupo começa a presenciar terríveis fenômenos enquanto tentam descobrir o que matou a equipe anterior.</info>
@@ -5854,7 +5854,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]RALTYHGH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -5868,7 +5868,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -5881,7 +5881,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OZOLGCDVRSVIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5895,7 +5895,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OTNEL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5909,7 +5909,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OSMENQENGNVMNZIS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5923,7 +5923,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -5936,7 +5936,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OSCMNHSDOTRO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5950,7 +5950,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -5964,7 +5964,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OMGDSMENTRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -5978,7 +5978,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OGRNDRB.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -5992,7 +5992,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OFMDODIA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Terror</genre>
@@ -6006,7 +6006,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OESTNHQNSAMAMS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6019,7 +6019,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OCSTLDVDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6033,7 +6033,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -6047,7 +6047,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OCRADRDBNCORBRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -6061,7 +6061,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]OBAR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Terror</genre>
@@ -6075,7 +6075,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]NABTDADAMR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6089,7 +6089,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ELGNLCKYRBEMFML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -6103,7 +6103,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]EMBSCDVNG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6117,7 +6117,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]DIADTRBLHMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Terror</genre>
@@ -6131,7 +6131,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]CRTAODNTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Romance</genre>
@@ -6145,7 +6145,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]AMRETLPA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -6159,7 +6159,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]MONLGHTSBLZDLR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6173,7 +6173,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]ITACOS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -6186,7 +6186,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]NTOPDPDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6200,7 +6200,7 @@ Hayden Christensen vai interpretar o homem cujo filho é tomado como refém. Ele e
 <link>$doregex[Igor_Rangel_Link]NOSRNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>A cineasta Lucy Cohen passou mais de três anos filmando com a família West Midlands, que foram deixados em ruína financeira após a morte de seu pai, Paul Shanks.
@@ -6214,7 +6214,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]NOSNITS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -6228,7 +6228,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]NTLEMELCMNO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Estranhos viram reféns num suposto assalto a uma loja de bebidas na véspera de Natal. Os segredos que compartilham fazem surgir um vínculo inesperado entre eles.</info>
@@ -6241,7 +6241,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]NAMRDATRDR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -6255,7 +6255,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]MNSTRHGELTRZNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -6269,7 +6269,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]MEMLVDFAV3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação e Comédia</genre>
@@ -6282,7 +6282,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]MECMDSMBRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -6296,7 +6296,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]MAE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror e Drama</genre>
@@ -6310,7 +6310,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -6324,7 +6324,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -6338,7 +6338,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -6352,7 +6352,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -6366,7 +6366,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]CMSTNROPRALN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia e Nacional</genre>
@@ -6380,7 +6380,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]BNGORDSMNH.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Nacional e Drama</genre>
@@ -6394,7 +6394,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]ALBCM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Comédia</genre>
@@ -6408,7 +6408,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -6422,7 +6422,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]LOGN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Ficção Cientifica e Drama</genre>
@@ -6435,7 +6435,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]LNGSHT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Ao ser preso por um assassinato que não cometeu, Juan Catalan tenta provar sua inocência usando as cenas cortadas de um programa de TV.</info>
@@ -6448,7 +6448,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -6462,7 +6462,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]LALNDCTNDESTC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama,Romance e Comédia</genre>
@@ -6476,7 +6476,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]KTANJDVNGC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -6490,7 +6490,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -6504,7 +6504,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -6518,7 +6518,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]KCKBXRVNGA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -6532,7 +6532,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]INVSALIEN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -6546,7 +6546,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -6560,7 +6560,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]HONRELEAD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -6574,7 +6574,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]FRLDSORCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6588,7 +6588,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]FCHNDNEGC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Comédia</genre>
@@ -6602,7 +6602,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]ESTRLSALMDTMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6617,7 +6617,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]ESTREMCSPONTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -6631,7 +6631,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]EMJOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação</genre>
@@ -6645,7 +6645,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]DSCNHCD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6659,7 +6659,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]DMNCAO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -6673,7 +6673,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]EMDEFDCRST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6687,7 +6687,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]DUKRK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Drama e Guerra</genre>
@@ -6701,7 +6701,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Terror e Drama</genre>
@@ -6715,7 +6715,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]DCNHDAMRC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6729,7 +6729,7 @@ Através de filmes caseiros e entrevistas honestas, o filme segue a esposa de Pau
 <link>$doregex[Igor_Rangel_Link]ANDRNHSEAMZNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -6744,7 +6744,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]SAMWSHRE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -6808,7 +6808,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]DTHNT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Imagine se você tivesse o poder de vida ou morte sobre qualquer pessoa? Inspirado no famoso mangá, "Death Note" acompanha a história de um estudante que encontra um caderno sobrenatural: ao escrever nele o nome de alguém e imaginar seu rosto, essa pessoa morre. Seduzido por esse novo poder, o jovem começa a matar aqueles que ele acha que não merecem viver.</info>
@@ -6821,7 +6821,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CSTLDAREA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Guerra</genre>
@@ -6835,7 +6835,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CQNTTNSMSESCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Romance</genre>
@@ -6849,7 +6849,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Terror</genre>
@@ -6863,7 +6863,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CNXMRTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica e Terror</genre>
@@ -6877,7 +6877,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CHTBKRALNDJZ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6891,7 +6891,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CHRSTINE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6905,7 +6905,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CDGDSLNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -6919,7 +6919,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]BLME.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ficção Cientifica</genre>
@@ -6935,7 +6935,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Faroeste</genre>
@@ -6949,7 +6949,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ATMCAGNTESPC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação</genre>
@@ -6963,7 +6963,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ASNDRMDBRLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Durante um passeio de férias em Berlin, a jornalista australiana Clare (Teresa Palmer) conhece Andi (Max Rielmet), um carismático morador local e uma atração instantânea surge entre eles. Mas o que inicialmente parecia um romance, toma um rumo inesperado, quando Clare acorda trancada no apartamento de Andi. Ele saiu para trabalhar, mas o que Clare não sabe, é que ele não tem intenção de deixa-la sair, nunca mais.</info>
@@ -6976,7 +6976,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]AMLHRMSODADEUA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>O filme conta a história de Madalyn Murray O’Hair, ativista ateísta norte-americana.</info>
@@ -6989,7 +6989,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]AMLDODA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -7003,7 +7003,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ALEIDNOT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Policial</genre>
@@ -7017,7 +7017,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ACLHTDFE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama</genre>
@@ -7234,7 +7234,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]INVCAODML2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -7248,7 +7248,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]INVCAODML.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Terror</genre>
@@ -7344,7 +7344,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]ACSCUCSNVIZ.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <info>Um casal acidentalmente perde todo o dinheiro que haviam poupado para a universidade da filha. Para recuperar o valor, eles abrem um cassino clandestino em casa e convidam vizinhos e amigos para apostar.</info>
@@ -7359,7 +7359,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]JGSMRTAS07.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -7373,7 +7373,7 @@ Esta é a primeira-longa metragem animada japonesa lançada mundialmente pelo serv
 <link>$doregex[Igor_Rangel_Link]JGSMRTS06.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -7388,7 +7388,7 @@ No entanto, quando a investigação do FBI se aproxima do detetive, ele é obrigado
 <link>$doregex[Igor_Rangel_Link]JGSMRTAS05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>
@@ -7405,7 +7405,7 @@ Agora, ele precisa eliminar todas as pontas soltas deixadas pelo criminoso.</inf
 <link>$doregex[Igor_Rangel_Link]JGSMRTAS04.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Terror</genre>

@@ -9,7 +9,7 @@
 <link>$doregex[Igor_Rangel_Link]OREIDMNTNHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -23,7 +23,7 @@
 <link>$doregex[Igor_Rangel_Link]DEADP2LEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -37,7 +37,7 @@
 <link>$doregex[Igor_Rangel_Link]DEADP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -51,7 +51,7 @@
 <link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -65,7 +65,7 @@
 <link>$doregex[Igor_Rangel_Link]UMDOBRNTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -79,7 +79,7 @@
 <link>$doregex[Igor_Rangel_Link]RMPGEDSTRCAOTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -93,7 +93,7 @@
 <link>$doregex[Igor_Rangel_Link]MNHAPRMRACACDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -107,7 +107,7 @@
 <link>$doregex[Igor_Rangel_Link]JGDRN1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -121,7 +121,7 @@
 <link>$doregex[Igor_Rangel_Link]ELEJHN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Comédia e Drama</genre>
@@ -135,7 +135,7 @@
 <link>$doregex[Igor_Rangel_Link]VNGDRSGRAINFNTCINEMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -149,7 +149,7 @@
 <link>$doregex[Igor_Rangel_Link]OHMNDSCVNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -163,7 +163,7 @@
 <link>$doregex[Igor_Rangel_Link]UMTREMEIOANVRCRT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -177,7 +177,7 @@
 <link>$doregex[Igor_Rangel_Link]PEXNTAOFLM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Aventura</genre>
@@ -191,7 +191,7 @@
 <link>$doregex[Igor_Rangel_Link]TMBRDRORGM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -205,7 +205,7 @@
 <link>$doregex[Igor_Rangel_Link]UMACMPDBRLHO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -219,7 +219,7 @@
 <link>$doregex[Igor_Rangel_Link]PSYCHKNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -233,7 +233,7 @@
 <link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Aventura</genre>
@@ -248,7 +248,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]ARPRTCDTEMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Nacional,Comédia e Romance</genre>
@@ -262,7 +262,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]PNTRNGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -276,7 +276,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]MEUAMGVAMP.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -290,7 +290,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]AGRNDMRLHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -304,7 +304,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]OESPCENTNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura,Drama e Romance</genre>
@@ -318,7 +318,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]UMFLRSTMTLC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -332,7 +332,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]UMARZAOPRCOMCR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -346,7 +346,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]TRSROSDVA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -360,7 +360,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]TRPLXRATVD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -374,7 +374,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]OFLNSMBNSNESVDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -388,7 +388,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]BNYNEBABOSAMGSDFLST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -402,7 +402,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]ATRENGR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Ficção Cientifica</genre>
@@ -416,7 +416,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]ATQABUSHWCK.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -430,7 +430,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]AONDPRFTA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -445,7 +445,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]AMGSINSPRVS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -478,7 +478,7 @@ No cerne está a experiência de quase-morte de McCormack, que muda a sua vida par
 <link>$doregex[Igor_Rangel_Link]JMNJBMVNDASLV.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -544,7 +544,7 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 <link>$doregex[Igor_Rangel_Link]TNSFRMRS05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -558,7 +558,7 @@ Depois de sua formatura na Escola de Magia e Bruxaria de Hogwarts, Tom Riddle de
 <link>$doregex[Igor_Rangel_Link]ANDRNHSEAMZNS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -573,7 +573,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]KNGSMOCRVLDRDOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -587,7 +587,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]KONGAILHCVR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -601,7 +601,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -615,7 +615,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]LNDSDTMPLPERD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -629,7 +629,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CRCDRG1.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -643,7 +643,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CRCDRG2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -657,7 +657,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CRCDRG3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -671,7 +671,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]CRCDRG4.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -685,7 +685,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]ORNOGLDO3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -699,7 +699,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]OPRCMKNG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -713,7 +713,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]PWRNGRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -727,7 +727,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]OSMRFSEAVLPRDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
@@ -751,7 +751,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]OSGRDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -847,7 +847,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]PRTSDCRB05.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf.php</page>
 </regex>
 <genre>Ação,Aventura e Comédia</genre>
@@ -951,7 +951,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]PRDEMMRTE.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Drama,Aventura e Ficção Cientifica</genre>
@@ -965,7 +965,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]JVNSTSOCTRTDJDS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Ação e Aventura</genre>
@@ -979,7 +979,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]MXSTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -993,7 +993,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]WRISGT.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1007,7 +1007,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1021,7 +1021,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]OATDCPDCDA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Nacional e Comédia</genre>
@@ -1035,7 +1035,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]ABLRN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Animação</genre>
@@ -1049,7 +1049,7 @@ Situado ao longo de umas férias de um perfeito verão inglês, os quatro filhos Wa
 <link>$doregex[Igor_Rangel_Link]BSTPLY.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1065,7 +1065,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ACDDHLWN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1079,7 +1079,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ALNDRMC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1093,7 +1093,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ALNDRMC2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1107,7 +1107,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]RIO2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1121,7 +1121,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]RIO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1135,7 +1135,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]RGONUHSTRWRSLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Ficção Cientifica</genre>
@@ -1149,7 +1149,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]MONUMRDAVTRA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>
@@ -1163,7 +1163,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ASINSCRD.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1177,7 +1177,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ASAVNTDPI.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -1191,7 +1191,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ANMSFNTSTCEONDHBTM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1205,7 +1205,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]MLVLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1219,7 +1219,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]DRESTNHO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1233,7 +1233,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]1000ANSDPS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação e Aventura</genre>
@@ -1247,7 +1247,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]OREIMCLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -1261,7 +1261,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]DSVNTRESER.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Comédia</genre>
@@ -1275,7 +1275,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14B.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1289,7 +1289,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]PKMONFLM14P.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1303,7 +1303,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]PKMONFM15.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1317,7 +1317,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]PKMONFLM16.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1331,7 +1331,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]PKMONFM17.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1345,7 +1345,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]PKMONFLM18.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Aventura</genre>
@@ -1359,7 +1359,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]TUBRSDGLOLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Terror</genre>
@@ -1373,7 +1373,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]OBMGIGNTAMG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1387,7 +1387,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]AGNTMRIM.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1401,7 +1401,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]SNSOEDLA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação,Aventura e Drama</genre>
@@ -1415,7 +1415,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ODRGODNTL.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura e Drama</genre>
@@ -1429,7 +1429,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]ABRLEOMSNEXTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura,Animação e Ficção Científica</genre>
@@ -1443,7 +1443,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]PRDSNPCFCLEG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1457,7 +1457,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]OLRDSCRNPCLRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Aventura</genre>
@@ -1471,7 +1471,7 @@ Como atual campeão multi-player online, Quincy pensa que é um negócio já ganho… 
 <link>$doregex[Igor_Rangel_Link]TRQDMSTR2.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Animação,Aventura e Comédia</genre>

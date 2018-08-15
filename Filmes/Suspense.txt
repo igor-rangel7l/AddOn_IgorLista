@@ -13,7 +13,7 @@
 <link>$doregex[Igor_Rangel_Link]PRTRSDSUSOLHS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Suspense</genre>
@@ -27,7 +27,7 @@
 <link>$doregex[Igor_Rangel_Link]MMCNCNFNASVZS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -41,7 +41,7 @@
 <link>$doregex[Igor_Rangel_Link]CRNCSDTRBFNTSMA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Aventura</genre>
@@ -56,7 +56,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]15H17TRMPRPRS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Drama e Suspense</genre>
@@ -70,7 +70,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]PRJCTEDN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Ficção Cientifica</genre>
@@ -84,7 +84,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -98,7 +98,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]TRASLVG.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -112,7 +112,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]MASCRNTXS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -126,7 +126,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]VNDSESTCS.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -140,7 +140,7 @@ Adaptação do livro 'Ghost Blows Out the Light', de Zhang Muye.</info>
 <link>$doregex[Igor_Rangel_Link]RSTRDUMSQSTR.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense</genre>
@@ -156,7 +156,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]31AMRTEAUNCSID.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -180,7 +180,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]VNGA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -194,7 +194,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]DEMODNEN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Terror e Drama</genre>
@@ -208,7 +208,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]REVILAVNGNC.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf4.php</page>
 </regex>
 <genre>Suspense,Ação e Terror</genre>
@@ -273,7 +273,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OEXCSMDANECKLN.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
@@ -287,7 +287,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]OPRCDRGO.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Ação e Suspense</genre>
@@ -301,7 +301,7 @@ Jin-Seok luta para revelar a verdade escondida por trás de Yoo-Seok.</info>
 <link>$doregex[Igor_Rangel_Link]AMRCNPLTGST.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>
 <name>Igor_Rangel_Link</name>
-<expres> link: "(.*?).mp4</expres>
+<expres> src="(.*?).mp4</expres>
 <page>http://cometa.top/player3/serverf3.php</page>
 </regex>
 <genre>Suspense e Terror</genre>
