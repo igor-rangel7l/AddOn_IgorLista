@@ -8,6 +8,46 @@
 
 
 <item>
+<title>[COLOR white]Zion (Dublado) - 2018 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ZION.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<fanart>https://lh4.googleusercontent.com/proxy/m5qB0AE0tIc-Trok69bfUPT8olKCa2-OEglWqMK4qXW1DqAkZLT5h-6r1aMH_4lNNmOS6Asl6hdace0Do7CMLYQwm_3CEZmrWoQZwqfpubQ4gK6KNjqKPYbYLWIczEWH5tBxB7y7BVdoDhpJ1j1nZnge=w512-h288-nc</fanart>
+<thumbnail>https://media.fstatic.com/WdgQJLvPw1ULxOKf5TKm7sGg5MQ=/fit-in/210x312/smart/media/movies/covers/2018/08/048b5bc7be0947bf4bd7329b7d40befc32a2abc8.jpg</thumbnail>
+</item>
+828
+<item>
+<title>[COLOR white]Ilha dos Cachorros (Dublado) - 2018 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ILHSDSCHRRS.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Aventura e Animação</genre>
+<info>Atari Kobayashi é um garoto japonês de 12 anos de idade. Ele mora na cidade de Megasaki, sob tutela do corrupto prefeito Kobayashi. O político aprova uma nova lei que proíbe os cachorros de morarem no local, fazendo com que todos os animais sejam enviados a uma ilha vizinha repleta de lixo. Mas o pequeno Atari não aceita se separar do cachorro Spots. Ele convoca os amigos, rouba um jato em miniatura em parte em busca de seu fiel amigo. A aventura vai transformar completamente a vida da cidade.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/hyFAI9RoDylheDDDH2BNloQ45-HneqDCILvO9gSl5At5GVRqpoJws07URMlt9skUrP9qFvmHOaIxgTrH0HO5A3PRJ0ZIWgwc3ckRh0u-swQiAxj3r0Uc5oeZjALXO4aKQwwOSaEMtQgz7bSQ_GLwN1INOGyEyRK6xwIV5ASsUWgq38SPjkXdWLpIP76c-Dwxi75I_ilobFXu1IyvGAAfio3PJkk9ZQdEYKovO_WDuQ=w470-h313-nc</fanart>
+<thumbnail>https://media.fstatic.com/ZpGuefKTPkWFVUSlNkl2iLbQ2M4=/fit-in/210x312/smart/media/movies/covers/2017/12/25399033_10155792836060482_896414765016516156_n.png</thumbnail>
+</item>
+827
+<item>
+<title>[COLOR white]Do Fundo do Mar 2 (Dublado) - 2018 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DOFNDMR2.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Um bilionário brilhante, Carl Durant, está fazendo experimentos em tubarões-touro, o que logo se torna um pesadelo para um grupo de cientistas que terá sobreviver e lutar contra um bando de tubarões geneticamente modificados.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTD2ZknSdZfNuCySNeWM_B_6Ne05zHwKd8aXArHA-fA5N76Ojwn-kjMOrNDQQ</fanart>
+<thumbnail>https://media.fstatic.com/V8DPpQhYVHgoehtK31NpTmhZy88=/fit-in/210x312/smart/media/movies/covers/2018/04/Deep-Blue-Sea-2-2018.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]O Grito 3: O Início do Fim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OGRTO3.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

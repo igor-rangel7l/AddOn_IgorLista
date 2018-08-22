@@ -5,6 +5,20 @@
 
 
 <item>
+<title>[COLOR white]Ilha dos Cachorros (Dublado) - 2018 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ILHSDSCHRRS.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Aventura e Animação</genre>
+<info>Atari Kobayashi é um garoto japonês de 12 anos de idade. Ele mora na cidade de Megasaki, sob tutela do corrupto prefeito Kobayashi. O político aprova uma nova lei que proíbe os cachorros de morarem no local, fazendo com que todos os animais sejam enviados a uma ilha vizinha repleta de lixo. Mas o pequeno Atari não aceita se separar do cachorro Spots. Ele convoca os amigos, rouba um jato em miniatura em parte em busca de seu fiel amigo. A aventura vai transformar completamente a vida da cidade.</info>
+<fanart>https://lh3.googleusercontent.com/proxy/hyFAI9RoDylheDDDH2BNloQ45-HneqDCILvO9gSl5At5GVRqpoJws07URMlt9skUrP9qFvmHOaIxgTrH0HO5A3PRJ0ZIWgwc3ckRh0u-swQiAxj3r0Uc5oeZjALXO4aKQwwOSaEMtQgz7bSQ_GLwN1INOGyEyRK6xwIV5ASsUWgq38SPjkXdWLpIP76c-Dwxi75I_ilobFXu1IyvGAAfio3PJkk9ZQdEYKovO_WDuQ=w470-h313-nc</fanart>
+<thumbnail>https://media.fstatic.com/ZpGuefKTPkWFVUSlNkl2iLbQ2M4=/fit-in/210x312/smart/media/movies/covers/2017/12/25399033_10155792836060482_896414765016516156_n.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]O Rei da Montanha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OREIDMNTNHA.mp4|Referer=http://cometa.top/watch.php</link>
 <regex>

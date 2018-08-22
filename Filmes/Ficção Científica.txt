@@ -2,6 +2,35 @@
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+827
+<item>
+<title>[COLOR white]Do Fundo do Mar 2 (Dublado) - 2018 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DOFNDMR2.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Um bilionário brilhante, Carl Durant, está fazendo experimentos em tubarões-touro, o que logo se torna um pesadelo para um grupo de cientistas que terá sobreviver e lutar contra um bando de tubarões geneticamente modificados.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTD2ZknSdZfNuCySNeWM_B_6Ne05zHwKd8aXArHA-fA5N76Ojwn-kjMOrNDQQ</fanart>
+<thumbnail>https://media.fstatic.com/V8DPpQhYVHgoehtK31NpTmhZy88=/fit-in/210x312/smart/media/movies/covers/2018/04/Deep-Blue-Sea-2-2018.jpg</thumbnail>
+</item>
+826
+<item>
+<title>[COLOR white]Do Fundo do Mar (Dublado) - 1999[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DOFNDMR.mp4|Referer=http://cometa.top/watch.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://cometa.top/player3/serverf4.php</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>A Dra. Susan McAlester (Saffron Burrows) está fazendo pesquisa com tubarões, pois pretende através deles descobrir a cura para o Mal de Alzheimer. Russell Franklin (Samuel L. Jackson), um empresário e homem de negócios, é o principal patrocinador, pois doou 200 milhões de dólares para o projeto. Quando um tubarão escapa e ataca um barco, a reação de Russell não é boa, mas Susan consegue reverter a situação e ele decide visitar Aquática, uma antiga base no meio do oceano que foi usada para reabastecimento de submarinos e agora foi convertida em um laboratório. Neste local Susan faz alterações genéticas nos tubarões, deixando-os mais inteligentes, pois precisa que os cérebros deles estejam desenvolvidos pois a partir daí conseguirá as enzimas necessárias para que sua experiência seja bem sucedida. Mas os tubarões se tornam também mais rápidos e não sentem vontade de colaborar, pois anseiam ir para mar aberto e, para piorar a situação, uma terrível tempestade se abate sobre Aquática.</info>
+<fanart>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTD2ZknSdZfNuCySNeWM_B_6Ne05zHwKd8aXArHA-fA5N76Ojwn-kjMOrNDQQ</fanart>
+<thumbnail>https://media.fstatic.com/HXrjkGoG7reZaO1utVSESYtzeGI=/fit-in/210x312/smart/media/movies/covers/2009/03/bb51949e299c15ccee2b0a1d34f26a20.jpg</thumbnail>
+</item>
+825
 
 <item>
 <title>[COLOR white]LEGO DC Comics Super Heróis: Aquaman: A Fúria de Atlântida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>

@@ -15,23 +15,23 @@
 <item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>THD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
+<fanart>http://igorlista.at.ua/Logos/fanart/TC_Pipoca.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/Telecine_Pipoca_HD.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>TELECINE PIPOCA HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
+<fanart>http://igorlista.at.ua/Logos/fanart/TC_Pipoca.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/Telecine_Pipoca_HD.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
+<fanart>http://igorlista.at.ua/Logos/fanart/TC_Pipoca.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/Telecine_Pipoca_HD.jpg</thumbnail>
 </item>
 
 <item>
@@ -44,41 +44,21 @@
 <referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B]TELECINE PIPOCA[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
-<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
-<regex>
-<name>Igor_Rangel_ch</name>
-<expres>" \+ ea \+ "(.*?)"</expres>
-<page>http://www.p3g.tv/membedplayer/tcpipocaaovivo/1/1280/669</page>
-<referer>http://m.tudotv.tv/</referer>
-<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>Igor_Rangel_ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.p3gpublish.com:1935/loadbalancer</page>
-</regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PIPOCA.jpg</fanart>
-<thumbnail>http://goo.gl/5IKysn</thumbnail>
+<fanart>http://igorlista.at.ua/Logos/fanart/TC_Pipoca.png</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/Telecine_Pipoca_HD.jpg</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>TELECINE PREMIUM HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>THD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<fanart>http://igorlista.at.ua/Logos/fanart/tcpremium.png</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
 <item>
 <title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
 <link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>TELECINE PREMIUM HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<fanart>http://igorlista.at.ua/Logos/fanart/tcpremium.png</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
@@ -86,7 +66,7 @@
 <title>[COLOR blue][B]TELECINE PREMIUM[/B][/COLOR] [COLOR gray] (PxStream)[/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
 <regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<fanart>http://igorlista.at.ua/Logos/fanart/tcpremium.png</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
@@ -100,7 +80,7 @@
 <referer>http://www.freelivestream.tv/</referer>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<fanart>http://igorlista.at.ua/Logos/fanart/tcpremium.png</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
@@ -120,7 +100,7 @@
 <expres>redirect=(.*)</expres>
 <page>http://www.p3gpublish.com:1935/loadbalancer</page>
 </regex>
-<fanart>http://igorlista.at.ua/fanart/TELECINE_PREMIUM.jpg</fanart>
+<fanart>http://igorlista.at.ua/Logos/fanart/tcpremium.png</fanart>
 <thumbnail>http://goo.gl/XaOWO6</thumbnail>
 </item>
 
