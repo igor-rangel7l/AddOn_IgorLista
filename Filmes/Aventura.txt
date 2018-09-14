@@ -4,6 +4,48 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+
+
+<item>
+<title>[COLOR white]Jurassic World: Reino Ameaçado (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JRSCWRLDRNOAMCDOLEG.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Três anos após o fechamento do Jurassic Park, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. No local não há mais qualquer presença humana, com os dinossauros vivendo livremente. Diante da situação, é preciso tomar uma decisão: deve-se retornar à ilha para salvar os animais ou abandoná-los para uma nova extinção? Decidida a resgatá-los, Claire (Bryce Dallas Howard) convoca Owen (Chris Pratt) a retornar à ilha com ela.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/Y3kSJzeMB5Ag1aBw3MSUg7fONAocTPKGgpvUwlXYvA-tHE237363dKKFbnREasTQg4MgE5RhyvGDga0euc7PHq0LoahrqFR2Qzo0N9MutQ72k_abgLSSJaLAUqd9hsS3e8Riw14LBSDsdvnwrTLMt_fSzA=w470-h313-nc</fanart>
+<thumbnail>https://media.fstatic.com/D-W-oRQ2dZyns12ki9T9-P9OOT8=/fit-in/210x312/smart/media/movies/covers/2018/04/unnamed_qHby4w2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]LEGO Ninjago: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LEGNJGOFLM.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Aventura e Animação</genre>
+<info>A batalha por Ninjago City põe em ação o jovem mestre-construtor Lloyd, também conhecido como Ninja Verde, ao lado de seus amigos, que são todos guerreiros ninja secretos. Guiados pelo Mestre Wu, que é tão rabugento quanto sábio, eles precisam derrotar o vil senhor de guerra Lorde Garmadon, “O Pior Cara de Todos”, que também é pai de Lloyd. Com duelos de habilidades e poderes, de pai e filho, o confronto épico vai colocar em jogo o futuro deste corajoso, mas também indisciplinado grupo de ninjas modernos, que terão que aprender a deixar de lado seus egos e se unir para encontrar e libertar seus reais poderes de Spinjitzu.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1c7sncvkVbxi4grFRHtshUMR_8djnzfv91FyIV_3s29Cc7S288qOgjr6</fanart>
+<thumbnail>https://media.fstatic.com/YxlcE4d70ElBzJ17DlvEynlX0lY=/fit-in/210x312/smart/media/movies/covers/2017/06/DCs6XiIUAAI6JBk.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR white]Deadpool 2 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DEADP2.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Comédia</genre>
+<info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói - tudo isso, enquanto chuta 50 tons de bundas. Porque, às vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAf_PtlfU6e-LugdmoImYE8Yf-fGRVy6ERr12GPUlUxAE1XMoQ3ywK9Kob</fanart>
+<thumbnail>https://media.fstatic.com/X0n7rjicIQPsYuguOCKVs2nsl4E=/fit-in/210x312/smart/media/movies/covers/2018/05/deadpool_two_ver15_xxlg.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR white]Ilha dos Cachorros (Dublado) - 2018 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ILHSDSCHRRS.mp4|Referer=http://www.miceret.com/contador.php</link>

@@ -2,7 +2,21 @@
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-827
+
+<item>
+<title>[COLOR white]Jurassic World: Reino Ameaçado (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JRSCWRLDRNOAMCDOLEG.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Três anos após o fechamento do Jurassic Park, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. No local não há mais qualquer presença humana, com os dinossauros vivendo livremente. Diante da situação, é preciso tomar uma decisão: deve-se retornar à ilha para salvar os animais ou abandoná-los para uma nova extinção? Decidida a resgatá-los, Claire (Bryce Dallas Howard) convoca Owen (Chris Pratt) a retornar à ilha com ela.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/Y3kSJzeMB5Ag1aBw3MSUg7fONAocTPKGgpvUwlXYvA-tHE237363dKKFbnREasTQg4MgE5RhyvGDga0euc7PHq0LoahrqFR2Qzo0N9MutQ72k_abgLSSJaLAUqd9hsS3e8Riw14LBSDsdvnwrTLMt_fSzA=w470-h313-nc</fanart>
+<thumbnail>https://media.fstatic.com/D-W-oRQ2dZyns12ki9T9-P9OOT8=/fit-in/210x312/smart/media/movies/covers/2018/04/unnamed_qHby4w2.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR white]Do Fundo do Mar 2 (Dublado) - 2018 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DOFNDMR2.mp4|Referer=http://www.miceret.com/contador.php</link>

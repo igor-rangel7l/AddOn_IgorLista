@@ -3,6 +3,20 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+
+<item>
+<title>[COLOR white]LEGO Ninjago: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LEGNJGOFLM.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Aventura e Animação</genre>
+<info>A batalha por Ninjago City põe em ação o jovem mestre-construtor Lloyd, também conhecido como Ninja Verde, ao lado de seus amigos, que são todos guerreiros ninja secretos. Guiados pelo Mestre Wu, que é tão rabugento quanto sábio, eles precisam derrotar o vil senhor de guerra Lorde Garmadon, “O Pior Cara de Todos”, que também é pai de Lloyd. Com duelos de habilidades e poderes, de pai e filho, o confronto épico vai colocar em jogo o futuro deste corajoso, mas também indisciplinado grupo de ninjas modernos, que terão que aprender a deixar de lado seus egos e se unir para encontrar e libertar seus reais poderes de Spinjitzu.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1c7sncvkVbxi4grFRHtshUMR_8djnzfv91FyIV_3s29Cc7S288qOgjr6</fanart>
+<thumbnail>https://media.fstatic.com/YxlcE4d70ElBzJ17DlvEynlX0lY=/fit-in/210x312/smart/media/movies/covers/2017/06/DCs6XiIUAAI6JBk.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR white]Ilha dos Cachorros (Dublado) - 2018 [/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ILHSDSCHRRS.mp4|Referer=http://www.miceret.com/contador.php</link>
