@@ -4,6 +4,90 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Uma Quase Dupla (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMQSEDPLA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Nacional e Comédia</genre>
+<info>Quando uma série de assassinatos abala a rotina da pacata cidade de Joinlândia, nos confins do Brasil, Keyla (Werneck), uma destemida e experiente investigadora do Rio de Janeiro, é enviada para cuidar do caso. Apesar de preferir trabalhar sozinha, ela é obrigada a colaborar com Claudio (Reymond), subdelegado do cidade. No entanto, o ritmo dos dois é completamente incompatível e a falta de química só vai atravancar o andamento das investigações</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQD06CpY_pHRel_ImRrcK5idkqB_1VPmsJEL5cDuZkgI7lMxk8</fanart>
+<thumbnail>https://media.fstatic.com/sjc41yvVfeCOvgKqeg8IZenI-Qg=/fit-in/210x312/smart/media/movies/covers/2018/06/3982132.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Tully (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]TULY.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Marlo (Charlize Theron), mãe de três filhos, sendo um deles um recém-nascido, vive uma vida muito atarefada, e, certo dia, ganha de presente de seu irmão uma babá para cuidar das crianças durante a noite. Antes um pouco hesitante, Marlo acaba se surpreendendo com Tully (Mackenzie Davis).</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf7WHHBil5HRLCqzi7xz4autXZcGW4-leSokVkuUxpYyRBJxAk</fanart>
+<thumbnail>https://media.fstatic.com/6xUio_6YcwOOY7wyaLGwIxHJGcU=/fit-in/210x312/smart/media/movies/covers/2018/05/Tully.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Te Peguei! (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRTDSOSGRTSQUJAME.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Comédia</genre>
+<info>Desde a primeira série na escola um grupo de cinco amigos têm um hábito curioso, que realizam pelo menos uma vez ao ano: brincar enlouquecidamente de pega-pega, correndo em uma partida alucinante para ser o último homem de pé ao final da brincadeira, arriscando seus empregos e relacionamentos. Neste ano, que coincide com o casamento do jogador invicto da trupe, eles farão de tudo para derrubá-lo no momento de vulnerabilidade.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-LvKPCnsmbKdAKvE43zWGge8KGluKyTm2duIm5jutRDAGfUSH</fanart>
+<thumbnail>https://media.fstatic.com/Jq1Bal6zfw9LRSd1Clp12BMYSw8=/fit-in/290x478/smart/media/movies/covers/2018/04/2045777.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Melhor Presente é o Amor (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OMLHRPRSTEOAMR.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>História de uma mulher (Sharon Stone) que luta para escapar de sua mãe arrogante e codependente (Elen Burstyn). Enquanto isso, entra em cena um advogado sexy e sofisticado (Tony Goldwyn) que captura seu coração. O filme mostra a sua vida em cortes, uma vez por ano, sempre na mesma data: seu aniversário.</info>
+<fanart>http://www.ecp.org.br/wp-content/uploads/2018/08/O-Melhor-Presente-%C3%A9-o-Amor.png</fanart>
+<thumbnail>https://media.fstatic.com/Kc5OsCCcPxZTQXtBwazbB8oyg0k=/fit-in/210x312/smart/media/movies/covers/2018/06/A_LITTLE_SOMETHING_FOR_MY_BIRTHDAY_1280x1280.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Oito Mulheres e um Segredo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OITOMLHRSEUMSGRDO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Comédia e Policial</genre>
+<info>Recém-saída da prisão, Debbie Ocean (Sandra Bullock) planeja executar o assalto do século em pleno Met Gala, em Nova York, com o apoio de Lou (Cate Blanchett), Nine Ball (Rihanna), Amita (Mindy Kaling), Constance (Awkwafina), Rose (Helena Bonham Carter), Daphne Kluger (Anne Hathaway) e Tammy (Sarah Paulson).</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqMKUe1WkT6kCOwurvH901eczSC5rnKHr8i4HQ-fKoPKbE1yyT</fanart>
+<thumbnail>https://media.fstatic.com/DJuXZUcOYtGmsBml4G9NjGbQuf0=/fit-in/210x312/smart/media/movies/covers/2018/06/oceans-eight-5b121386a34a9.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Autor (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OAUTR.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Comédia</genre>
+<info>Álvaro (Javier Gutiérrez) sonha em ser escritor, de alta literatura, não um picareta como o escritor de bestsellers que sua esposa Amanda (María León) gosta. Quando ele encontra a mulher o traindo, ele decide largá-la e sair do emprego para tentar alcançar seu sonho. Ele começa a provocar conflitos reais para então poder escrever sobre eles, mas ele é a principal vítima dos seus atos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWRAhZAA-ajq0M6jHajrIucpvL-62rwtsjUeF0cQmLL4rDiIWF</fanart>
+<thumbnail>https://media.fstatic.com/IZs86mNDtU4UBJQt0TBNuEFtKm0=/fit-in/210x312/smart/media/movies/covers/2017/09/el_autor.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Uma Viagem Para Espanha (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMVGMPRESPNHA.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

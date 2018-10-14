@@ -6,6 +6,34 @@
 
 
 <item>
+<title>[COLOR white]Sicário: Dia do Soldado (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SCRODIADSLDO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Policial e Drama</genre>
+<info>Depois de Sicario - Terra de Ninguém, acompanhe o misterioso Alejandro Gillick (Benicio Del Toro) e o oficial da CIA, Matt Graver (Josh Brolin), trabalhando juntos em uma audaciosa ação secreta. Na missão que envolve a filha de um chefão das drogas, Isabela (Isabella Moner), Alejandro acaba se vendo em uma encruzilhada moral e suas escolhas podem acabar desencadeando uma sangrenta guerra de cartéis.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHcusq9m_l6PRBKYSzimdHI-E4EbEyTVUEeTSx42dbRazhSCqp</fanart>
+<thumbnail>https://media.fstatic.com/2EPBJ3CbGD5IobyHDnvrtiL2J7Q=/fit-in/210x312/smart/media/movies/covers/2018/04/sicario_day_of_the_soldado.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Oito Mulheres e um Segredo (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OITOMLHRSEUMSGRDO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Comédia e Policial</genre>
+<info>Recém-saída da prisão, Debbie Ocean (Sandra Bullock) planeja executar o assalto do século em pleno Met Gala, em Nova York, com o apoio de Lou (Cate Blanchett), Nine Ball (Rihanna), Amita (Mindy Kaling), Constance (Awkwafina), Rose (Helena Bonham Carter), Daphne Kluger (Anne Hathaway) e Tammy (Sarah Paulson).</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqMKUe1WkT6kCOwurvH901eczSC5rnKHr8i4HQ-fKoPKbE1yyT</fanart>
+<thumbnail>https://media.fstatic.com/DJuXZUcOYtGmsBml4G9NjGbQuf0=/fit-in/210x312/smart/media/movies/covers/2018/06/oceans-eight-5b121386a34a9.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Desaparecida (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRDA.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

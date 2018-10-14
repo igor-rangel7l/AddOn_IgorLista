@@ -7,6 +7,34 @@
 
 
 <item>
+<title>[COLOR white]Desobediência (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DESBDIENCA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Drama,Nacional e Romance</genre>
+<info>Ronit (Rachel Weisz) precisa voltar para sua cidade natal após a morte de seu pai distante - um rabino. Mas ela causa um rebuliço no pacato local ao recordar uma paixão proibida pela melhor amiga de infância, que atualmente é casada com seu primo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJ9LgOGycM5HtJGth1B0et3gCMlB5cQRRl6qpqSvvlR4-bQDt1</fanart>
+<thumbnail>https://media.fstatic.com/FLf2U7GTiT3fqC47EIZQYdIju5k=/fit-in/210x312/smart/media/movies/covers/2018/02/DU-jPi7W0AEdrcb.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Para Todos os Garotos que Já Amei (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PRTDSOSGRTSQUJAME.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>Lara Jean é uma garota atrapalhada e ingênua, mas muito forte. Romântica, ela escreve cartas para os garotos por quem se apaixonou. Mas tem um detalhe: nunca as envia. Até que um dia essas cartas são misteriosamente enviadas aos respectivos destinatários, e a vida amorosa da garota toma outro rumo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9AFDUPh-BBC1OLW2h3s0CIpikjRxp27jncrCTidw9kNxsYB1c</fanart>
+<thumbnail>https://media.fstatic.com/nmEDTZXoXRe7eBp5GfD_mjKYx_0=/fit-in/210x312/smart/media/movies/covers/2018/07/toalltheboys_vertical-main_pre_us.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]A Sociedade Literária e A Torta De Casca De Batata (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ASCDADELTRA.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

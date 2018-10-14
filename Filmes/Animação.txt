@@ -5,6 +5,20 @@
 
 
 <item>
+<title>[COLOR white]Next Gen (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NXTGEN.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Animação,Ação e Aventura</genre>
+<info>A amizade com um robô secreto transforma a vida de uma menina solitária em uma incrível aventura repleta de vilões, robôs do mal e um maluco querendo dominar o planeta.</info>
+<fanart>https://occ-0-37-2219.1.nflxso.net/art/feae9/9faea88be54c8e2483fc068a1fe6aae1e9bfeae9.jpg</fanart>
+<thumbnail>https://media.fstatic.com/gTCZ7hew53fryw5LbVsso27OKAY=/fit-in/210x312/smart/media/movies/covers/2018/08/fggsdf.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]LEGO Ninjago: O Filme (Dublado) - 2017[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]LEGNJGOFLM.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

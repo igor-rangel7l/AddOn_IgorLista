@@ -4,6 +4,62 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Homem-Formiga e a Vespa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HMNFRMGEVSPA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Após os acontecimentos de "Capitão América: Guerra Civil", Scott Lang tenta equilibrar sua vida familiar como pai com suas responsabilidades como Homem-Formiga, quando Hope Van Dyne e Hank Pym apresentam-lhe uma nova missão para trazer à luz segredos do passado, exigindo que ele se junte com Van Dyne como a nova Vespa.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb8Zdtzd3S93gD5GSgwXGlNqyZH8tNsMeChZpVJOtluglrrifM</fanart>
+<thumbnail>https://media.fstatic.com/A3dkLJ0A1djtgXoUTm6_DW0L_Ps=/fit-in/290x478/smart/media/movies/covers/2018/07/z4GC7e0XFBYT350DQhvED2ruxd6rQQwdJ1_3WB-jvErs.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Jurassic World: Reino Ameaçado (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JRSCWRLDRNOAMCDO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Três anos após o fechamento do Jurassic Park, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. No local não há mais qualquer presença humana, com os dinossauros vivendo livremente. Diante da situação, é preciso tomar uma decisão: deve-se retornar à ilha para salvar os animais ou abandoná-los para uma nova extinção? Decidida a resgatá-los, Claire (Bryce Dallas Howard) convoca Owen (Chris Pratt) a retornar à ilha com ela.</info>
+<fanart>https://lh5.googleusercontent.com/proxy/Y3kSJzeMB5Ag1aBw3MSUg7fONAocTPKGgpvUwlXYvA-tHE237363dKKFbnREasTQg4MgE5RhyvGDga0euc7PHq0LoahrqFR2Qzo0N9MutQ72k_abgLSSJaLAUqd9hsS3e8Riw14LBSDsdvnwrTLMt_fSzA=w470-h313-nc</fanart>
+<thumbnail>https://media.fstatic.com/D-W-oRQ2dZyns12ki9T9-P9OOT8=/fit-in/210x312/smart/media/movies/covers/2018/04/unnamed_qHby4w2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Han Solo: Uma História Star War (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HANSLOUHSTSTRWRS.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>As aventuras do emblemático mercenário Han Solo (Alden Ehrenreich) e seu fiel escudeiro Chewbacca (Joonas Suotamo) antes dos eventos retratados em Star Wars: Uma Nova Esperança, inclusive encontrando com Lando Calrissian (Donald Glover).</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5EN-Wk7NpgvUFOBj5jG7mSWj-Xi_V1irXdaRr9uGrn7I6UCpo</fanart>
+<thumbnail>https://media.fstatic.com/u_kld05o5Nw2nfAZJ4UJURFkF7w=/fit-in/210x312/smart/media/movies/covers/2018/04/hansolo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Megatubarão (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEGTBRAOLEGKR.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Terror</genre>
+<info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
+<fanart>https://cinepop.com.br/wp-content/uploads/2018/08/the-meg-cinepop-750x380.jpg</fanart>
+<thumbnail>https://media.fstatic.com/f1TMCaAIQW6JK5oeYXN5dUdfRbk=/fit-in/210x312/smart/media/movies/covers/2018/04/BR_Teaser_Art_-_MEG.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Jurassic World: Reino Ameaçado (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]JRSCWRLDRNOAMCDOLEG.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

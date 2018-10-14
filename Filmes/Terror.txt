@@ -6,6 +6,62 @@
 
 
 <item>
+<title>[COLOR white]Megatubarão (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEGTBRAOLEGKR.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Terror</genre>
+<info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
+<fanart>https://cinepop.com.br/wp-content/uploads/2018/08/the-meg-cinepop-750x380.jpg</fanart>
+<thumbnail>https://media.fstatic.com/f1TMCaAIQW6JK5oeYXN5dUdfRbk=/fit-in/210x312/smart/media/movies/covers/2018/04/BR_Teaser_Art_-_MEG.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Pânico no Lago: O Legado (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]PANCNLGOLGDO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Vários anos após o filme original, um grupo de exploradores tem uma missão de investigar uma área removida dos mapas atuais e protegida por várias cercas elétricas. Uma vez que chegam ao centro do lago, encontram uma pequena ilha com um instituto que protege um terrível predador: um crocodilo gigante.</info>
+<fanart>https://cinestroflix.xyz/wp-content/uploads/2018/09/panico-no-lago-o-legado-2018-836-backdrop.jpg</fanart>
+<thumbnail>https://media.fstatic.com/hv7R9HTTuP6UjaaQJwr72OEJ3lw=/fit-in/210x312/smart/media/movies/covers/2018/07/159839_front.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Verdade ou Desafio (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VRDAOUDSFIO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Em férias no México, uma jovem é levada a jogar "Verdade ou Desafio". Ao começar, o jogo desperta algo maligno - um demônio que força os amigos a compartilharem segredos sombrios e confrontarem seus medos mais profundos. A regra é simples, porém cruel: fale a verdade ou morra, faça o desafio ou morra, e se parar de jogar, também morre.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7Cr-2N9sKR7btTACXJVNwH-isq55EfKRcVSHV1ydnPO64rDXC</fanart>
+<thumbnail>https://media.fstatic.com/VX7FOs7Gb-m1tAtKOwKvPfa3IXY=/fit-in/210x312/smart/media/movies/covers/2018/04/DXsMzNGW4AAES1m.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Maldição da Casa do Lago (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AMALDCDCSDLGO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Uma família se muda para uma casa no lago que não foi vendida devido ao brutal e ritualístico assassinato de uma família anos atrás. Logo, eles percebem que um mal adormecido despertou, uma força possessiva que tem predado famílias desavisadas como a deles por séculos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS67XOwyhSXkJiuA2XJm09Y16U2RaJ0-eKgkG_opTqv9Pw_-1IV</fanart>
+<thumbnail>https://media.fstatic.com/zykFS89JTZ75Wf217R3KqSlzI0Q=/fit-in/210x312/smart/media/movies/covers/2018/06/le.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]O Grito 3: O Início do Fim (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]OGRTO3.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

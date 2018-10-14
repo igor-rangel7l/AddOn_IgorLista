@@ -5,6 +5,48 @@
 
 
 <item>
+<title>[COLOR white]Desobediência (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DESBDIENCA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Drama,Nacional e Romance</genre>
+<info>Ronit (Rachel Weisz) precisa voltar para sua cidade natal após a morte de seu pai distante - um rabino. Mas ela causa um rebuliço no pacato local ao recordar uma paixão proibida pela melhor amiga de infância, que atualmente é casada com seu primo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJ9LgOGycM5HtJGth1B0et3gCMlB5cQRRl6qpqSvvlR4-bQDt1</fanart>
+<thumbnail>https://media.fstatic.com/FLf2U7GTiT3fqC47EIZQYdIju5k=/fit-in/210x312/smart/media/movies/covers/2018/02/DU-jPi7W0AEdrcb.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Uma Quase Dupla (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]UMQSEDPLA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação,Nacional e Comédia</genre>
+<info>Quando uma série de assassinatos abala a rotina da pacata cidade de Joinlândia, nos confins do Brasil, Keyla (Werneck), uma destemida e experiente investigadora do Rio de Janeiro, é enviada para cuidar do caso. Apesar de preferir trabalhar sozinha, ela é obrigada a colaborar com Claudio (Reymond), subdelegado do cidade. No entanto, o ritmo dos dois é completamente incompatível e a falta de química só vai atravancar o andamento das investigações</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQD06CpY_pHRel_ImRrcK5idkqB_1VPmsJEL5cDuZkgI7lMxk8</fanart>
+<thumbnail>https://media.fstatic.com/sjc41yvVfeCOvgKqeg8IZenI-Qg=/fit-in/210x312/smart/media/movies/covers/2018/06/3982132.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Processo (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPRCESO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Nacional</genre>
+<info>O documentário acompanha a crise política que afeta o Brasil desde 2013 sem nenhum tipo de abordagem direta, como entrevistas ou intervenções nos acontecimentos. A diretora Maria Augusta Ramos passou meses no Planalto e no Congresso Nacional captando imagens sobre votações e discussões que culminaram com a destituição da presidenta Dilma Rousseff do cargo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3MxYp4wVtpqK9uXFzvdtpxlPA60qgr81JhW3s-y2cNSCCxBQL</fanart>
+<thumbnail>https://media.fstatic.com/PV61UN-i1hXR74Y4pYgH8eUlzZY=/fit-in/210x312/smart/media/movies/covers/2018/04/ed092283-ef53-40e0-9119-c6a997e72cab.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Todas As Razões Para Esquecer (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]TDSASRZSPRESQCR.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>
