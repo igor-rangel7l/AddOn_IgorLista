@@ -1,0 +1,313 @@
+
+<meta http-equiv="refresh" content="5; url=https://www.facebook.com/groups/igor.lista.iptv">
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<items>
+
+
+
+
+
+<item>
+<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>MULTISHOW HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>THD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>http://g.glbimg.com/og/gs/gsat4/f/thumbs/padrao/2014/05/25/placeholder_cda.jpg</fanart>
+<thumbnail>http://goo.gl/7LIjII</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>MULTISHOW HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>http://g.glbimg.com/og/gs/gsat4/f/thumbs/padrao/2014/05/25/placeholder_cda.jpg</fanart>
+<thumbnail>http://goo.gl/7LIjII</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/show/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<fanart>http://g.glbimg.com/og/gs/gsat4/f/thumbs/padrao/2014/05/25/placeholder_cda.jpg</fanart>
+<thumbnail>http://goo.gl/7LIjII</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MULTISHOW[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/mediaPlayer.php?file=multishow</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<fanart>http://g.glbimg.com/og/gs/gsat4/f/thumbs/padrao/2014/05/25/placeholder_cda.jpg</fanart>
+<thumbnail>http://goo.gl/7LIjII</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MTV[/B] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>MTV HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>THD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/6/60/%C3%9Altima_imagem_da_MTV_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/XQfSPS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>MTV HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/6/60/%C3%9Altima_imagem_da_MTV_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/XQfSPS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/83792545658779361413/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/assistir-telecine-pipoca-ao-vivo-em-hd-24-horas/opmobile/10111/</page><agent>iPad</agent></regex>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/6/60/%C3%9Altima_imagem_da_MTV_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/XQfSPS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MTV[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/mediaPlayer.php?file=mtv</page>
+<referer>http://queuecosm.bid/-36695DGMY/D7m4?rndad=2565395803-1517969743</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/6/60/%C3%9Altima_imagem_da_MTV_Brasil.jpg</fanart>
+<thumbnail>http://goo.gl/XQfSPS</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]VH1[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>VH1 HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>THD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cThaW80yH0WEZncXh9CEFDjB82Kx1GjASi82S0gemY7wh-TL</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/VH1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]VH1[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>VH1 HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cThaW80yH0WEZncXh9CEFDjB82Kx1GjASi82S0gemY7wh-TL</fanart>
+<thumbnail>http://igorlista.at.ua/Logos/VH1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MIX TV[/B][/COLOR]</title>
+<fanart>http://igorlistalogos.at.ua/fanart/MIX_TV.jpg</fanart>
+<thumbnail>http://goo.gl/9XI6AQ</thumbnail>
+
+<item>
+<title>[COLOR maroon][B]MIX TV[/B][/COLOR] [COLOR yellow] [B]HD[/B][/COLOR]</title>
+
+
+<item>
+<title>[COLOR maroon][B]MIX TV[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+
+
+<item>
+<title>[COLOR maroon][B]GNT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>GNT HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>http://g.glbimg.com/og/gs/gsat5/f/thumbs/padrao/2014/05/25/placeholder_cda.jpg</fanart>
+<thumbnail>http://goo.gl/YyHiwq</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]GNT[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/53745895287193198754/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<fanart>http://g.glbimg.com/og/gs/gsat5/f/thumbs/padrao/2014/05/25/placeholder_cda.jpg</fanart>
+<thumbnail>http://goo.gl/YyHiwq</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>VIVA HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>http://www.bastidoresdatv.com.br/wp-content/uploads/2016/01/Viva.jpg</fanart>
+<thumbnail>http://goo.gl/qnQSX0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR yellow] SD[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]$doregex[Igor_Rangel_ch]|User-Agent=Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>" \+ ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/vivaaovivo3/1/700/500</page>
+<referer>http://m.tudotv.tv/</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<fanart>http://www.bastidoresdatv.com.br/wp-content/uploads/2016/01/Viva.jpg</fanart>
+<thumbnail>http://goo.gl/qnQSX0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/66794148366752629122/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<fanart>http://www.bastidoresdatv.com.br/wp-content/uploads/2016/01/Viva.jpg</fanart>
+<thumbnail>http://goo.gl/qnQSX0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]VIVA[/B][/COLOR] [COLOR gray] (Vertv.net)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Ch]</link>
+<regex>
+<name>Igor_Rangel_Ch</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://www.freelivestream.tv/mediaPlayer.php?file=viva</page>
+<referer>http://www.freelivestream.tv/</referer>
+</regex>
+<fanart>http://www.bastidoresdatv.com.br/wp-content/uploads/2016/01/Viva.jpg</fanart>
+<thumbnail>http://goo.gl/qnQSX0</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]MUSIC BOX BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>MUSIC BOX BRASIL HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>THD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/musicboxbrasil.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/MusicBoxBrazilLogo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]PRIME BOX BRASIL[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>PRIME BOX BRASIL HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/PRIME%20BOX%20BRAZIL.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/primeboxbrazil.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]BIS[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>BIS HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://1.bp.blogspot.com/-B-_p_gjMTx8/WkKw2eY6f6I/AAAAAAAACp4/4sgHKSGfZdMxG5T6KLG-ly64AiEo9ujEwCLcBGAs/s1600/289f7668778d91e3742aecdd7ca5d389.jpg</fanart>
+<thumbnail>https://goo.gl/09Wgmh</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]BIS[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/67772968693833112715/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<fanart>https://1.bp.blogspot.com/-B-_p_gjMTx8/WkKw2eY6f6I/AAAAAAAACp4/4sgHKSGfZdMxG5T6KLG-ly64AiEo9ujEwCLcBGAs/s1600/289f7668778d91e3742aecdd7ca5d389.jpg</fanart>
+<thumbnail>https://goo.gl/09Wgmh</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]FISH TV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>FISH TV HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://yt3.ggpht.com/a-/AJLlDp0Fiymp_DHbrg66bOv58J9akoUvM-kOKEFjmw=s900-mo-c-c0xffffffff-rj-k-no</fanart>
+<thumbnail>http://goo.gl/Lcrqe6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]OFF[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>OFF HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://i.ytimg.com/vi/TvcVyGYRdNI/maxresdefault.jpg</fanart>
+<thumbnail>https://goo.gl/B5pwdb</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]OFF[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/74926671567415569875/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<fanart>https://i.ytimg.com/vi/TvcVyGYRdNI/maxresdefault.jpg</fanart>
+<thumbnail>https://goo.gl/B5pwdb</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]HOME & HEALTH[/B][/COLOR]  [COLOR yellow] [B]HD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>HOME & HEALTH HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>THD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>http://www.queroseralice.com.br/wp-content/uploads/2015/10/homeandhealth5.jpg</fanart>
+<thumbnail>http://goo.gl/ewCTK1</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>HOME & HEALTH HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>http://www.queroseralice.com.br/wp-content/uploads/2015/10/homeandhealth5.jpg</fanart>
+<thumbnail>http://goo.gl/ewCTK1</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]HOME & HEALTH[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/discoveryhomehealth/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<fanart>http://www.queroseralice.com.br/wp-content/uploads/2015/10/homeandhealth5.jpg</fanart>
+<thumbnail>http://goo.gl/ewCTK1</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]FOOD NETWORK[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>FOOD NETWORK HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/foodnetwork.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/Food_Network.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]FOOD NETWORK[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/55238371675456437141/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/foodnetwork.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/Food_Network.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]+GLOBOSAT[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>+GLOBOSAT HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/%2Bglobosat.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/%2Bglobosat.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]E! Entertainment[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>E! Entertainment HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>http://igorlistalogos.at.ua/fanart/E-Entertainment.png</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/E-Entertainment.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]E! Entertainment[/B][/COLOR] [COLOR gray] (Pxstream)[/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/99798948644286735598/chunks.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPad&amp;Referer=http://pxstream.tv/embed/</link>
+<regex><name>Igor_Rangel_IP</name><expres>file1 = "http://(.*)/loadbalance</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex><regex><name>Igor_Rangel_AuthSign</name><expres>m3u8(.*)";</expres><page>http://aovivonatv.com/band-ao-vivo/</page><agent>iPad</agent></regex>
+<fanart>http://igorlistalogos.at.ua/fanart/E-Entertainment.png</fanart>
+<thumbnail>http://igorlistalogos.at.ua/thumbnail/E-Entertainment.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]HIT TV[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>HIT TV HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/HitTV.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/HIT%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR maroon][B]ARTE 1[/B][/COLOR] [COLOR blue] [B]SD[/B][/COLOR]</title>
+<link>$doregex[Igor_Rangel_1]$doregex[Igor_Rangel_2]$doregex[Igor_Rangel_3]$doregex[Igor_Rangel_4]$doregex[Igor_Rangel_5]</link><regex><name>Igor_Rangel_1</name><expres>server$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_2</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_Link]")</expres><page></page></regex><regex><name>Igor_Rangel_Link</name><expres>ID$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_3</name><expres>$pyFunction:'$doregex[Igor_Rangel_file]'.replace("\/","/")</expres><page></page></regex><regex><name>Igor_Rangel_file</name><expres>url":"(.*)215</expres><page>$doregex[Igor_Rangel_site]</page></regex><regex><name>Igor_Rangel_site</name<expres>$pyFunction:base64.b64decode("$doregex[Igor_Rangel_cd]")</expres><page></page></regex><regex><name>Igor_Rangel_cd</name><expres>site$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_4</name><expres>ARTE 1 HD$doregex[Igor_Rangel_6]:"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_5</name><expres>Ts$doregex[Igor_Rangel_6]"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex><regex><name>Igor_Rangel_6</name><expres>TSD"(.*)"</expres><page>http://igorlista.at.ua/Serves/Igor_Rangel_Mestre.html</page></regex>
+<fanart>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/fanart/ARTE%201.jpg</fanart>
+<thumbnail>https://github.com/igor-rangel7l/AddOn_IgorLista/raw/master/Logos/Tv%20Online/thumbnail/ARTE%201.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR maroon][B]98LIVE[/B][/COLOR]</title>
+<link>http://98live.com.br/livestream</link>
+<fanart>https://i.ytimg.com/vi/SzpB8DXbzW4/mqdefault_live.jpg</fanart>
+<thumbnail>https://goo.gl/7evuSq</thumbnail>
+
+
+
+
+
+
+
+</channel>  
