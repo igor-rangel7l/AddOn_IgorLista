@@ -4,6 +4,20 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]127 Horas (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]127HRS.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Aventura e Drama</genre>
+<info>Em maio de 2003, o alpinista Aron Ralston (James Franco) fazia mais uma escalada nas montanhas de Utah, Estados Unidos, quando acabou ficando com seu braço preso em uma fenda. Sua luta pela sobrevivência durante mais de cinco dias (durou 127 horas) foi marcada por memórias e momentos de muita tensão, relatados em um livro.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2bLir3al1qPsMR_YP3wpYdyYwyS-fo-t9MpHNQ9hX4UMsi4rr</fanart>
+<thumbnail>https://media.fstatic.com/z9g24zKOYdIL34JmDjFxhdY_330=/fit-in/290x478/smart/media/movies/covers/2011/03/8356901efccd31169fe154c9ef573e74.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Desobediência (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]DESBDIENCA.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

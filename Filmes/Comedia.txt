@@ -4,6 +4,20 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Ana e Vitória (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ANEVTORA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Romance,Nacional e Comédia</genre>
+<info>Ana e Vitória se reencontram em uma festa, e após ouvir Vitória cantando, Ana oferece para gravarem uma música juntas. Isso marca o início da dupla, que faz um sucesso arrebatador. As duas precisam aprender a lidar com fãs e fama, ao mesmo tempo que ainda estão tentando encontrar quem elas realmente são.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRc3m2HpNN-uwDkfiizH1pA3z1VrC6PQKJfcCURQ-PT3CFZdk81</fanart>
+<thumbnail>https://media.fstatic.com/i5-Qjx5VY_UZI_1er-G4VKpjMRc=/fit-in/210x312/smart/media/movies/covers/2018/07/2605900.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Uma Quase Dupla (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]UMQSEDPLA.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

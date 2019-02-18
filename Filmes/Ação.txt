@@ -4,6 +4,49 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
+
+<item>
+<title>[COLOR white]Megatubarão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEGTBRAO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Terror</genre>
+<info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
+<fanart>https://cinepop.com.br/wp-content/uploads/2018/08/the-meg-cinepop-750x380.jpg</fanart>
+<thumbnail>https://media.fstatic.com/f1TMCaAIQW6JK5oeYXN5dUdfRbk=/fit-in/210x312/smart/media/movies/covers/2018/04/BR_Teaser_Art_-_MEG.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Arranha-Céu: Coragem Sem Limite (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ARNHCEUCRGMSMLMT.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação</genre>
+<info>Will Sawyer, um veterano de guerra e ex-líder da operação de resgate do FBI, que agora avalia segurança de arranha-céus. Em missão na China, ele encontra o mais seguro e mais alto edifício do mundo em chamas, e é culpado por isso. Will deve encontrar os responsáveis pelo incêndio, limpar seu nome e de alguma forma resgatar sua família que está presa no interior do edifício... acima da linha de fogo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSg7EiIwlHj5bFCj7mB_WfVho7jC_k_Q4cDtEfhINYrGcNhI4yW</fanart>
+<thumbnail>https://media.fstatic.com/FvOtp56TyW8i5zhHohVATU9jXnI=/fit-in/210x312/smart/media/movies/covers/2018/02/27657865_923262911131633_2213179279044390539_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Noite nos Persegue (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ANTNSPRGUE.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Ação</genre>
+<info>Em consequência de um massacre, um assassino da Tríade busca uma violenta vingança.</info>
+<fanart>https://interprete.me/wp-content/uploads/2018/10/a-noite-nos-persegue-netflix-filme-indonedio-assassino-ito-06.jpg</fanart>
+<thumbnail>https://media.fstatic.com/oN1XF13zRmm0OlbpGRQHicvg9mg=/fit-in/210x312/smart/media/movies/covers/2018/10/This_is_a_poster_for_The_Night_Comes_for_Us_2018_film.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR white]Homem-Formiga e a Vespa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HMNFRMGEVSPA.mp4|Referer=http://www.miceret.com/contador.php</link>

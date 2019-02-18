@@ -3,6 +3,21 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+
+<item>
+<title>[COLOR white]Megatubarão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MEGTBRAO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica e Terror</genre>
+<info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
+<fanart>https://cinepop.com.br/wp-content/uploads/2018/08/the-meg-cinepop-750x380.jpg</fanart>
+<thumbnail>https://media.fstatic.com/f1TMCaAIQW6JK5oeYXN5dUdfRbk=/fit-in/210x312/smart/media/movies/covers/2018/04/BR_Teaser_Art_-_MEG.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR white]Homem-Formiga e a Vespa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]HMNFRMGEVSPA.mp4|Referer=http://www.miceret.com/contador.php</link>

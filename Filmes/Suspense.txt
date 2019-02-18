@@ -9,6 +9,20 @@
 
 
 <item>
+<title>[COLOR white]Calibre (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CLBRE.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
+</regex>
+<genre>Suspense</genre>
+<info>Dois amigos de longa data viajam até uma isolada vila escocesa para um final de semana onde possam caçar juntos. Mas nada os preparariam pro que iria acontecer.</info>
+<fanart>https://occ-0-987-990.1.nflxso.net/art/58e0b/dd5147067261b54f9a7a17db71b6dedaebf58e0b.jpg</fanart>
+<thumbnail>https://media.fstatic.com/tsUZkeB2mmlgZnbBNwp8iHu4MG8=/fit-in/210x312/smart/media/movies/covers/2018/06/MV5BMWJmNmRjYzgtNDk0ZC00ZDk5LTkyNGItMDY5OWU4MjU4ZTExXkEyXkFqcGdeQX_ImWu0vM.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Por Trás dos Seus Olhos (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PRTRSDSUSOLHS.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>
