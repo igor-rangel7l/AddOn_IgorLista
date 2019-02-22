@@ -5,6 +5,34 @@
 
 
 <item>
+<title>[COLOR white]A Lenda da Passagem Secret (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ALNDADPASSGMSCRTA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Animação</genre>
+<info>A lenda do passe secreto é um encantador filme de animação CGI inspirado na mitologia do índio americano.</info>
+<fanart>https://baixarofilme.com/imagens/screens/a-lenda-da-passagem-secreta-2019-screen-1.jpg</fanart>
+<thumbnail>https://media.fstatic.com/50ga4ff4LHykLzRgOtRZfmpd38Q=/fit-in/210x312/smart/media/movies/covers/2019/01/MV5BMTU4OTk2NzI0N15BMl5BanBnXkFtZTcwOTA1MTc0MQ._V1_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Reino do Superman (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RNODSPRMN.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Ação e Animação</genre>
+<info>A Morte do Superman, segunda de duas partes. Adaptando a história lendária da batalha fatal do Superman com o Apocalypse, esse será o segundo filme original do DC Universe à adaptar o material. O primeiro - de 2007 - Superman: Doomsday, foi muito condensado e trouxe o evento dos quadrinhos para dentro de 75 minutos de duração. A próxima adaptação será mais fiel ao material de origem, muito menos condensada e incluirá muitos dos momentos de fãs da história que foram deixados de fora do Apocalypse.</info>
+<fanart>https://image.tmdb.org/t/p/w1280/8Btrv14JLHW1KhAxtF9NpHDs1yn.jpg</fanart>
+<thumbnail>https://media.fstatic.com/Cfc8kR7OgPhqgYoHElzVklsQJHI=/fit-in/210x312/smart/media/movies/covers/2018/10/ReignOfTheSuperman.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Next Gen (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]NXTGEN.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

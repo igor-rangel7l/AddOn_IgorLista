@@ -7,6 +7,34 @@
 
 
 <item>
+<title>[COLOR white]Nasce Uma Estrela (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]NSCUMAESTLA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Drama e Romance</genre>
+<info>O experiente músico Jackson Maine (Bradley Cooper) descobre a jovem artista desconhecida Ally (Lady Gaga), por quem acaba se apaixonando. Ela está prestes a desistir de seu sonho de se tornar uma cantora de sucesso, até que Jack a convence a mudar de ideia. Porém, apesar de a carreira de Ally decolar, o relacionamento pessoal entre os dois começa a desandar, à medida que Jack luta contra seus próprios demônios e problemas com álcool.</info>
+<fanart>https://cinepop.com.br/wp-content/uploads/2018/08/nasceumaetsrela1-1-750x380.jpg</fanart>
+<thumbnail>https://media.fstatic.com/DkoCg1IKySMFKPtw9bVmEhRokgg=/fit-in/210x312/smart/media/movies/covers/2018/10/NASCE_UMA_ESTRELA-768x1133.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Outra Mulher (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AOUTRMLHR.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Romance,Comédia e Drama</genre>
+<info>Daniel é muito apaixonado por sua esposa, mas ele tem muita imaginação e um melhor amigo complicado. Quando ele insiste em um jantar "entre casais" para apresentar sua novíssima, e muito linda, amiga, Daniel encontra-se preso entre sua esposa e seus sonhos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzruIDY1dfO8R1LlFSSKEpbJqNbYgc5A7U8LXJF8rW0kIHeXs7</fanart>
+<thumbnail>https://media.fstatic.com/QxYlPnDozdckGaiq0T0qGneUXpE=/fit-in/290x478/smart/media/movies/covers/2018/03/Amoureux_de_ma_femme.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Ana e Vitória (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ANEVTORA.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

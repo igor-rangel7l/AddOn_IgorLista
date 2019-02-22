@@ -12,6 +12,20 @@
 
 
 <item>
+<title>[COLOR white]Resgate no Oeste (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]RSGTNOSTE.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Faroeste</genre>
+<info>Em 1880 no Kansas, um simples fazendeiro embarca numa missão suicida para resgatar a sua filha.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpsoDoYJ3_MvWO2PtLLP_jVszHFTjyc-gJ6HjJNZmUaBbdJTPX</fanart>
+<thumbnail>https://media.fstatic.com/iYUnYf10GWCUreJSLzqw0SqxgWE=/fit-in/210x312/smart/media/movies/covers/2016/04/traded_t195329.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Pistoleiros: Vingança Sem Perdão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]PSTLRSVNGSMPRDAO.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

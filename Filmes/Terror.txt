@@ -7,6 +7,104 @@
 
 
 <item>
+<title>[COLOR white]Velvet Buzzsaw (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VLTBZSAW.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Após uma série de pinturas de um autor desconhecido serem encontradas, uma força sobrenatural começa a pôr em prática um plano de vingança naqueles que permitiram que a ganância viesse antes da arte.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIOp4RDcKgy-zhcEPWlVq69Q0_JIc-030I7mA9pcIVht0U8nyl</fanart>
+<thumbnail>https://media.fstatic.com/i4hdzXTAu5ZzPOE2t1vsTVjPJJ8=/fit-in/210x312/smart/media/movies/covers/2019/01/DxcaP9oXQAAazSc.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Wildling: Criaturas Noturnas / Selvagem (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]SLVGMWDLNG.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Terror e Drama</genre>
+<info>Anna (Bel Powley) passou toda a sua infância sob os cuidados de um homem conhecido apenas como Papai (Brad Dourif). Ele a deixa trancada em um sótão, alertando-a sobre o Wildling, um monstro que come crianças e que vive do lado de fora. Aos 16 anos, Anna é resgatada pela xerife Ellen Cooper (Liv Tyler), que a ajuda a começar uma nova vida como uma adolescente normal. Mas quando o corpo de Anna começa a florescer, seus pesadelos de infância voltam com um desejo de vingança e traz à tona um segredo sombrio.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs4xdKRUtXH5Inn4OKddak9vOK9GJ7h61p11qtWgebqTyr0UDj</fanart>
+<thumbnail>https://media.fstatic.com/CU5ynL8vP6MZiCH7cENng0igjjI=/fit-in/210x312/smart/media/movies/covers/2018/03/Wildling-film-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Halloween: A Lenda de Jack (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HALWNALNDJCK.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Na noite de Halloween, um serial killer retorna dos mundo dos mortos para se vingar daqueles que o mataram um ano antes.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwqOkz1D9-0Z8aSX1jxK5zJLoXeg1epFNnZeqhnz19kab1YxNp</fanart>
+<thumbnail>https://media.fstatic.com/xbduODdJx6elTvHjPPmZmQYltrI=/fit-in/210x312/smart/media/movies/covers/2018/09/The_Legend_of_Halloween_Jack.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Retorno do Duende (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ORTORNDUENDE.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>O filme se passa 25 anos após o original, onde um Duende maníaco fez de tudo para recuperar seu pote de ouro roubado. Agora, ele revive quando um grupo de garotas de uma irmandade acidentalmente o desperta.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV7kj9QKIR__538fPrU01yfVIyXkCzipMeIYYwhf93c3XcfruS</fanart>
+<thumbnail>https://media.fstatic.com/wWxsKpKRuqn8w4FCTOVfmgdMaYY=/fit-in/210x312/smart/media/movies/covers/2018/11/Leprechaun-Returns-poster.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Predador (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPRDR.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Ação, Aventura e Terror</genre>
+<info>Dos confins longínquos do espaço até as ruas de bairros residenciais, a caçada chega a todos os lugares na reinvenção explosiva assinada por Shane Black da série Predador. Agora os mais letais caçadores do universo estão mais fortes, mais inteligentes e mais mortais do que antes, tendo se aperfeiçoado com o DNA de outras espécies. Quando um jovem acidentalmente causa seu retorno à Terra, apenas uma equipe improvável de ex-soldados e um professor de ciências amargurado podem evitar o extermínio da raça humana.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbfEsHWs_ruZJNDS9j4GhWZ7pjRt1nNSgnKu6HLN-udD-M2Lqb</fanart>
+<thumbnail>https://media.fstatic.com/wm87aTF07537TOaLI77YsAdklkI=/fit-in/210x312/smart/media/movies/covers/2018/07/asdas.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Apartamento 212: A Infestação (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]APRTMNT212ANFSTCAO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Jennifer Conrad (Penelope Mitchell) é uma jovem que planeja fugir de um relacionamento abusivo e recomeçar sua vida na cidade grande. No seu novo apartamento, ela percebe uma intensa infecção em sua pele após as primeiras noites de sono. Mas, o que parecia ser apenas uma alergia, logo se revela como um grave caso de possessão corporal por alguma espécie desconhecida de força maligna.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSop8Lau4puO0fepIoEIa4klx1Jq_ljQNlfl5KqCgjgG_rzIRO7</fanart>
+<thumbnail>https://media.fstatic.com/HFpLl21HB0VrG1gSB8HEPkURch8=/fit-in/210x312/smart/media/movies/covers/2018/03/Apartment_212.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Freira (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AFRA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Terror</genre>
+<info>Quando uma jovem freira que vive enclausurada em um convento na Romênia comete suicídio, um padre com um passado assombrado e uma noviça prestes a fazer seus votos finais são enviados ao Vaticano para investigar o caso. Juntos, eles desvendam o segredo profano da ordem.</info>
+<fanart>http://br.web.img3.acsta.net/videothumbnails/18/06/13/15/08/5903319.jpg</fanart>
+<thumbnail>https://media.fstatic.com/2R8aNQ6uLLrKdyJcpWOESBsy0ks=/fit-in/210x312/smart/media/movies/covers/2018/07/IMG_20180718_142718.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Megatubarão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MEGTBRAO.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

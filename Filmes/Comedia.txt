@@ -4,6 +4,76 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!        QUE FEIO MEXENDO NAS COISAS DOS OUTROS        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <item>
+<title>[COLOR white]Dumplin (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]DMPLN.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Willowdean Dickson (Danielle Macdonald) é uma jovem gorda e bastante confiante com o próprio corpo, apesar de não ter o respeito de sua mãe, uma ex-miss (Jennifer Aniston). Quando se apaixona pelo atleta Bo (Luke Benward) e começa a ter inseguranças, Will decide entrar num concurso de beleza como forma de protesto.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNBHWPFMMSq6aGOT1Jo3WPOCB5esY_nO_m0OpWGN6EPEmxtqSL</fanart>
+<thumbnail>https://media.fstatic.com/OnaitXsDvUPirperWLr3n0rQHoo=/fit-in/210x312/smart/media/movies/covers/2018/11/Dumplin_Vertical-Main_PRE_US.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Velvet Buzzsaw (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VLTBZSAW.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Comédia e Terror</genre>
+<info>Após uma série de pinturas de um autor desconhecido serem encontradas, uma força sobrenatural começa a pôr em prática um plano de vingança naqueles que permitiram que a ganância viesse antes da arte.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIOp4RDcKgy-zhcEPWlVq69Q0_JIc-030I7mA9pcIVht0U8nyl</fanart>
+<thumbnail>https://media.fstatic.com/i4hdzXTAu5ZzPOE2t1vsTVjPJJ8=/fit-in/210x312/smart/media/movies/covers/2019/01/DxcaP9oXQAAazSc.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Transtorno de Clara (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OTRNSTNODCLRA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Situado ao longo de uma única noite na casa da família Reynolds no subúrbio de Connecticut, o longa conta a história de Clara Reynolds, que farta de suas constantes preocupações com a família do showbiz, encontra consolo e orientação na força sobrenatural que ela acredita que está a assombrando.</info>
+<fanart>https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=90&ImageId=%27179288%27&EntityType=%27Item%27&EntityId=%2711233%27&Width=1440&Height=810&device=%27web_browser%27&subscriptions=%27Anonymous%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27</fanart>
+<thumbnail>https://media.fstatic.com/MSEV8KJfcBPiVV7HdqKeRKMZXZ4=/fit-in/210x312/smart/media/movies/covers/2018/10/claras_ghost.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Juliet, Nua e Crua (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]JLTNUECRA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Drama e Comédia</genre>
+<info>Annie (Rose Byrne) está presa em um relacionamento de longa data com Duncan (Chris O'Dowd), fã obsessivo do obscuro rockeiro Tucker Crowe (Ethan Hawke). Duncan chega a ser mais dedicado ao seu ídolo do que com a sua própria esposa. Quando um demo acústico de Tucker, que foi hit há 25 anos, ressurge no meio musical, Annie tem um encontro com o ardiloso rockeiro.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7OauYkX5llkximYuoJsspLfRBJd8FCuSbEFWevkdzZb9kIGvl</fanart>
+<thumbnail>https://media.fstatic.com/rwlEv5sORCa0Y6p9KSdUS42SrVo=/fit-in/210x312/smart/media/movies/covers/2018/08/1080x1620_1534187524.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]A Outra Mulher (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AOUTRMLHR.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Romance,Comédia e Drama</genre>
+<info>Daniel é muito apaixonado por sua esposa, mas ele tem muita imaginação e um melhor amigo complicado. Quando ele insiste em um jantar "entre casais" para apresentar sua novíssima, e muito linda, amiga, Daniel encontra-se preso entre sua esposa e seus sonhos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzruIDY1dfO8R1LlFSSKEpbJqNbYgc5A7U8LXJF8rW0kIHeXs7</fanart>
+<thumbnail>https://media.fstatic.com/QxYlPnDozdckGaiq0T0qGneUXpE=/fit-in/290x478/smart/media/movies/covers/2018/03/Amoureux_de_ma_femme.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Ana e Vitória (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ANEVTORA.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

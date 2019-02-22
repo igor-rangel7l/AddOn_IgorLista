@@ -9,6 +9,20 @@
 
 
 <item>
+<title>[COLOR white]O Banquete (Nacional) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OBNQTE.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Suspense e Nacional</genre>
+<info>Na época do Impeachment de Fernando Collor de Mello, um grupo de intelectuais se encontra em um jantar: uma grande atriz, um jornalista famoso, um advogado e sua esposa, uma crítica de teatro, um colunista e uma jovem atriz e modelo. O jornalista Mauro escreveu um artigo contra Collor e corre o risco de ser preso naquela noite. No jantar regado a muito vinho, conforme a tensão aumenta com a iminência da prisão, vários segredos públicos e privados vêm a tona.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxmHpE0XKsJ0nInE6lb-RwdRX4NkKxswiQvcTf7gMgj9JNAznz</fanart>
+<thumbnail>https://media.fstatic.com/BqX1VKjXhiW-6vpXAhWBta8i-Xc=/fit-in/210x312/smart/media/movies/covers/2018/08/1346442.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Calibre (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]CLBRE.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

@@ -5,6 +5,48 @@
 
 
 <item>
+<title>[COLOR white]IO: O Último na Terra (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]IOULTMNTRA.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Ficção Cientifica</genre>
+<info>Enquanto uma jovem cientista busca uma forma de salvar a Terra em colapso, ela conhece um homem que tenta pegar a última nave decolando do planeta.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN7O_9V6HERImNpNO9Gt_mwR2zxViXiWqnFG_aUqcoqLlIZ0Ns</fanart>
+<thumbnail>https://media.fstatic.com/lyXi6XLtyf3k6KC8lCdH8yAmHKU=/fit-in/210x312/smart/media/movies/covers/2019/01/IO.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Bird Box: Caixa de Pássaros (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CXDPASRO.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Drama e Ficção Cientifica</genre>
+<info>Num cenário pós-apocalíptico onde o simples olhar pode te levar à morte, uma mãe e seus dois filhos atravessam um rio de olhos vendados em um barco, em busca de um lugar seguro.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQoORFO0crbaifYVQepCqRUcnALZJQ9VgF6G5GbgHHaTdDari8</fanart>
+<thumbnail>https://media.fstatic.com/Ms1YrqItbJ52WlZBtLD-qPy9TrU=/fit-in/210x312/smart/media/movies/covers/2018/10/BirdBox_Verical-Main_PRE_BPO.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Venom (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]VENOM.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Ação,Ficção Cientifica</genre>
+<info>Eddie Brock (Tom Hardy) é um jornalista que investiga o misterioso trabalho de um cientista, suspeito de utilizar cobaias humanas em experimentos mortais. Quando ele acaba entrando em contato com um simbionte alienígena, Eddie se torna Venom, uma máquina de matar incontrolável, que nem ele pode conter.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGwPlzrXPj07MoR6bQOMbMgcbfSQCqDpT8rAXn27GTUgAM2bkL</fanart>
+<thumbnail>https://media.fstatic.com/-s3Yi1hNOk7B2q1oxEsNVLPM94g=/fit-in/210x312/smart/media/movies/covers/2018/04/2_ohTdTlZ.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Megatubarão (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]MEGTBRAO.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

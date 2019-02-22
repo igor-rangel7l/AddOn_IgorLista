@@ -6,6 +6,20 @@
 
 
 <item>
+<title>[COLOR white]O Protetor 2 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPRTOR2.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Ação,Policial e Drama</genre>
+<info>Massachusetts, Estados Unidos. Robert McCall (Denzel Washington) trabalha como motorista e ajuda as pessoas com a ajuda de Susan Plummer (Melissa Leo). Um dia, um empresário coloca uma mulher em seu carro e ordena que a leve até sua casa. Percebendo que ela foi violentada, McCall resolve ir atrás do tal homem, com a desculpa do cartão de crédito dele não ter sido aceito. Pouco tempo depois, ele descobre que Susan, uma das poucas pessoas que sabe de seus atos como vigilante, foi assassinada.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3EvgvF4G_FpL5E8zJGyzcorYnv3RFRQYpK7-0BeLd2lTs3CHj</fanart>
+<thumbnail>https://media.fstatic.com/O3AAzD-_8Y8_kyewLvWblzhOiho=/fit-in/210x312/smart/media/movies/covers/2018/05/Sem_t%C3%ADtulo_toYRuxn.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Sicário: Dia do Soldado (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]SCRODIADSLDO.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

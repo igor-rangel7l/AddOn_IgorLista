@@ -12,6 +12,20 @@
 
 
 <item>
+<title>[COLOR white]Lobo Guerreiro 2 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]LOBGURO2.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Ação,Drama e Guerra</genre>
+<info>Com sua carreira em farrapos, o agente das forças especiais mais mortal da China se instalou em uma vida tranquila no mar. Mas quando ele atravessa caminhos com um bando sádica de mercenários aterrorizando civis inocentes, ele deve reafirmar seu dever como soldado e salvar o dia mais uma vez. Os punhos (e as balas, os tanques, os mísseis e muito mais) voarão neste passeio de força adrenalina de filmes de ação de bravura, todos culminando em uma batalha climática entre o guerreiro lobo eo líder mercenário (Grillo).</info>
+<fanart>https://i.ytimg.com/vi/2E4E9LHWim4/maxresdefault.jpg</fanart>
+<thumbnail>https://media.fstatic.com/AGXHjoErY3uSa28CxxhMtdfcqW4=/fit-in/210x312/smart/media/movies/covers/2016/07/wolf-warrior-2_t212411.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]Além das Águas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]ALMDSAGUA.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>

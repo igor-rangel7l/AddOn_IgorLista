@@ -7,6 +7,48 @@
 
 
 <item>
+<title>[COLOR white]Animais Fantásticos: Os Crimes de Grindelwald (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ANMSFNTSTCOSCRMSDGRLWRD.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Em um esforço para frustrar os planos do terrível bruxo das trevas Gellert Grindelwald (Johnny Depp), Alvo Dumbledore (Jude Law) recruta seu ex-aluno Newt Scamander (Eddie Redmayne), que concorda em ajudar, desconhecendo os perigos que estão por vir. As linhas são desenhadas à medida que o amor e a lealdade são testados, mesmo entre os mais verdadeiros amigos e familiares, em um mundo bruxo cada vez mais dividido entre seres de magos sangue puro e seres não-mágicos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0BD6M2AYV9MMBC4xtnXan2azFmiRudrVNUo_vHlKFUlVx6Uvd</fanart>
+<thumbnail>https://media.fstatic.com/mEtoPHN4POGykFTAzDk4IYD2Mpc=/fit-in/210x312/smart/media/movies/covers/2018/11/3423559.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]O Predador (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]OPRDR.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Ação, Aventura e Terror</genre>
+<info>Dos confins longínquos do espaço até as ruas de bairros residenciais, a caçada chega a todos os lugares na reinvenção explosiva assinada por Shane Black da série Predador. Agora os mais letais caçadores do universo estão mais fortes, mais inteligentes e mais mortais do que antes, tendo se aperfeiçoado com o DNA de outras espécies. Quando um jovem acidentalmente causa seu retorno à Terra, apenas uma equipe improvável de ex-soldados e um professor de ciências amargurado podem evitar o extermínio da raça humana.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbfEsHWs_ruZJNDS9j4GhWZ7pjRt1nNSgnKu6HLN-udD-M2Lqb</fanart>
+<thumbnail>https://media.fstatic.com/wm87aTF07537TOaLI77YsAdklkI=/fit-in/210x312/smart/media/movies/covers/2018/07/asdas.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]Missão Impossível: Efeito Fallout (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]MSAOIMPSVELEFTFLOUT.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf3.txt</page>
+</regex>
+<genre>Ação e Aventura</genre>
+<info>Quando uma importante missão não sai como o planejado, Ethan Hunt (Tom Cruise) e o time do IMF unem forças em ação numa corrida contra o tempo para acertar as contas com os erros do passados.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPWSUVTrMkoCdSyhIPoNn6UXxafrBE3u12eLWb2Q7q_xfAnpRw</fanart>
+<thumbnail>https://media.fstatic.com/oMzOoG1y_zXsMwXXteaVqGicMPk=/fit-in/290x478/smart/media/movies/covers/2018/05/Sem_t%C3%ADtulo_EDCiBC5.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white]127 Horas (Dublado) - 2011[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
 <link>$doregex[Igor_Rangel_Link]127HRS.mp4|Referer=http://www.miceret.com/contador.php</link>
 <regex>
