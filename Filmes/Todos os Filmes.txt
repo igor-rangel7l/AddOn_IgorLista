@@ -35,6 +35,77 @@ Todos Os Filmes
 
 
 
+<item>
+<title>[COLOR white]Capitã Marvel (Dublado) - 2019 (4K)[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CPTMRVL.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>Carol Danvers (Brie Larson) é uma ex-piloto da aeronáutica que se torna uma das heroínas mais poderosas da galáxia. Ao se juntar à Força Estelar, uma equipe militar Kree, ela retorna à Terra com novas dúvidas sobre seu passado e sua identidade quando o planeta se encontra no centro de um conflito entre dois mundos alienígenas.</info>
+<fanart>http://br.web.img2.acsta.net/r_640_360/newsv7/19/03/09/02/01/4598021.jpg</fanart>
+<thumbnail>https://media.fstatic.com/-fDtr4wMpZHfPDiRIASNkDzNvMU=/fit-in/210x312/smart/media/movies/covers/2018/12/0230901.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+</item>
+882
+<item>
+<title>[COLOR white]CRED 2 (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]CRED2.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Ação e Drama</genre>
+<info>Adonis Creed (Michael B. Jordan) saiu mais forte do que nunca de sua luta contra 'Pretty' Ricky Conlan (Tony Bellew), e segue sua trajetória rumo ao campeonato mundial de boxe, contra toda a desconfiança que acompanha a sombra de seu pai e com o apoio de Rocky (Sylvester Stallone). Sua próxima luta não será tão simples, ele precisa enfrentar um adversário que possui uma forte ligação com o passado de sua família, o que torna tudo ainda mais complexo.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8BAEkdAmTrIh91nxx7qW0VsCgm_gIRD6FK9JA4YMUhzjFkOOF</fanart>
+<thumbnail>https://media.fstatic.com/S3reKbbpUfalO162KrGHHtoDaIU=/fit-in/210x312/smart/media/movies/covers/2018/09/Dn8zPxpV4AAdFiz.jpg</thumbnail>
+</item>
+881
+<item>
+<title>[COLOR white]As Viúvas (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]ASVIUVS.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Drama</genre>
+<info>A história de quatro mulheres sem nada em comum, exceto uma dívida deixada pelas atividades criminosas de seus maridos mortos. Situada na contemporânea Chicago, em meio a um tumulto, as tensões aumentam quando Veronica (Viola Davis), Alice (Elizabeth Debicki), Linda (Michelle Rodriguez) e Belle (Cynthia Erivo) assumem o destino em suas próprias mãos e conspiram para forjar um futuro em seus próprios termos.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpnBumaPoMtZvUIgqSkTz5mMN8_1XpuRQrk8PQjeoSSJZjPk6F</fanart>
+<thumbnail>https://media.fstatic.com/BUBU3nuyt8n2X7O6OM3m9DbuA4k=/fit-in/210x312/smart/media/movies/covers/2018/12/1080x1620_1540388950.jpg</thumbnail>
+</item>
+880
+<item>
+<title>[COLOR white]Aquaman (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]AQAMn.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Ação,Aventura e Ficção Cientifica</genre>
+<info>O meio-humano, meio-Atlante Arthur Curry (Jason Momoa), é levado à jornada de sua vida — uma jornada que vai forçá-lo a não só encarar sua verdadeira identidade, mas também a descobrir se ele tem o que é necessário para ser… um rei.</info>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmbTSycIqKfD9-iyMnyWiTLtID8ooQ6lNVbkr21dC6UQWhlxnv</fanart>
+<thumbnail>https://media.fstatic.com/doiWLlU3qb460eSg3_enPiIfwSM=/fit-in/210x312/smart/media/movies/covers/2018/07/Sem_t%C3%ADtulo_zirpoBC.png</thumbnail>
+</item>
+879
+<item>
+<title>[COLOR white]Homem-Aranha No Aranhaverso (Legendado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
+<link>$doregex[Igor_Rangel_Link]HOMARNHNARNVRSOLEG.mp4|Referer=http://www.miceret.com/contador.php</link>
+<regex>
+<name>Igor_Rangel_Link</name>
+<expres> src="(.*?).mp4</expres>
+<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf2.txt</page>
+</regex>
+<genre>Animação,Ação e Ficção Cientifica</genre>
+<info>Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.</info>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-0swz1cUxH8-_NtuXngz_kwJTULFTuFUaBasNoGPQtpDkDlnkWSkic-mAqw</fanart>
+<thumbnail>https://media.fstatic.com/Mq3umBQNikxG84b5MbM_mnbdkog=/fit-in/210x312/smart/media/movies/covers/2018/07/1_fgpNVFl.jpg</thumbnail>
+</item>
+878
+
 
 
 
